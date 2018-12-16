@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Introduction to Open Data Science</title>
+  <meta name="description" content="This is official open data science training for the Ocean Health Index.">
+  <meta name="generator" content="bookdown 0.7 and GitBook 2.6.7">
+
+  <meta property="og:title" content="Introduction to Open Data Science" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="This is official open data science training for the Ocean Health Index." />
+  <meta name="github-repo" content="ohi-science/data-science-training" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Introduction to Open Data Science" />
+  
+  <meta name="twitter:description" content="This is official open data science training for the Ocean Health Index." />
+  
+
+<meta name="author" content="The Ocean Health Index Team">
+
+
+<meta name="date" content="2018-10-23">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  
+  
+<link rel="prev" href="tidyr.html">
+<link rel="next" href="collaborating.html">
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+
+
+
+
+
+
+
+<script src="libs/htmlwidgets-1.3/htmlwidgets.js"></script>
+<script src="libs/plotly-binding-4.8.0/plotly.js"></script>
+<script src="libs/typedarray-0.1/typedarray.min.js"></script>
+<link href="libs/crosstalk-1.0.0/css/crosstalk.css" rel="stylesheet" />
+<script src="libs/crosstalk-1.0.0/js/crosstalk.min.js"></script>
+<link href="libs/plotly-htmlwidgets-css-1.39.2/plotly-htmlwidgets.css" rel="stylesheet" />
+<script src="libs/plotly-main-1.39.2/plotly-latest.min.js"></script>
+
+
+<style type="text/css">
+div.sourceCode { overflow-x: auto; }
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code > span.dt { color: #902000; } /* DataType */
+code > span.dv { color: #40a070; } /* DecVal */
+code > span.bn { color: #40a070; } /* BaseN */
+code > span.fl { color: #40a070; } /* Float */
+code > span.ch { color: #4070a0; } /* Char */
+code > span.st { color: #4070a0; } /* String */
+code > span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code > span.ot { color: #007020; } /* Other */
+code > span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code > span.fu { color: #06287e; } /* Function */
+code > span.er { color: #ff0000; font-weight: bold; } /* Error */
+code > span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+code > span.cn { color: #880000; } /* Constant */
+code > span.sc { color: #4070a0; } /* SpecialChar */
+code > span.vs { color: #4070a0; } /* VerbatimString */
+code > span.ss { color: #bb6688; } /* SpecialString */
+code > span.im { } /* Import */
+code > span.va { color: #19177c; } /* Variable */
+code > span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code > span.op { color: #666666; } /* Operator */
+code > span.bu { } /* BuiltIn */
+code > span.ex { } /* Extension */
+code > span.pp { color: #bc7a00; } /* Preprocessor */
+code > span.at { color: #7d9029; } /* Attribute */
+code > span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code > span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code > span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+</style>
+
+<link rel="stylesheet" href="lib/css/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" href="lib/css/style.css" type="text/css" />
+<link rel="stylesheet" href="lib/css/lesson.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">OHI Data Science Training</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome</a></li>
+<li class="chapter" data-level="2" data-path="overview.html"><a href="overview.html"><i class="fa fa-check"></i><b>2</b> Overview</a><ul>
+<li class="chapter" data-level="2.1" data-path="overview.html"><a href="overview.html#what-to-expect"><i class="fa fa-check"></i><b>2.1</b> What to expect</a></li>
+<li class="chapter" data-level="2.2" data-path="overview.html"><a href="overview.html#what-youll-learn"><i class="fa fa-check"></i><b>2.2</b> What you’ll learn</a><ul>
+<li class="chapter" data-level="2.2.1" data-path="overview.html"><a href="overview.html#tidy-data-workflow"><i class="fa fa-check"></i><b>2.2.1</b> Tidy data workflow</a></li>
+</ul></li>
+<li class="chapter" data-level="2.3" data-path="overview.html"><a href="overview.html#learning-with-data-that-are-not-your-own"><i class="fa fa-check"></i><b>2.3</b> Learning with data that are not your own</a></li>
+<li class="chapter" data-level="2.4" data-path="overview.html"><a href="overview.html#emphasizing-collaboration"><i class="fa fa-check"></i><b>2.4</b> Emphasizing collaboration</a></li>
+<li class="chapter" data-level="2.5" data-path="overview.html"><a href="overview.html#by-the-end-of-the-course"><i class="fa fa-check"></i><b>2.5</b> By the end of the course…</a></li>
+<li class="chapter" data-level="2.6" data-path="overview.html"><a href="overview.html#prerequisites"><i class="fa fa-check"></i><b>2.6</b> Prerequisites</a></li>
+<li class="chapter" data-level="2.7" data-path="overview.html"><a href="overview.html#credit"><i class="fa fa-check"></i><b>2.7</b> Credit</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="rstudio.html"><a href="rstudio.html"><i class="fa fa-check"></i><b>3</b> R &amp; RStudio, RMarkdown</a><ul>
+<li class="chapter" data-level="3.1" data-path="rstudio.html"><a href="rstudio.html#objectives-resources"><i class="fa fa-check"></i><b>3.1</b> Objectives &amp; Resources</a><ul>
+<li class="chapter" data-level="3.1.1" data-path="rstudio.html"><a href="rstudio.html#objectives"><i class="fa fa-check"></i><b>3.1.1</b> Objectives</a></li>
+<li class="chapter" data-level="3.1.2" data-path="rstudio.html"><a href="rstudio.html#resources"><i class="fa fa-check"></i><b>3.1.2</b> Resources</a></li>
+<li class="chapter" data-level="3.1.3" data-path="rstudio.html"><a href="rstudio.html#data-and-packages"><i class="fa fa-check"></i><b>3.1.3</b> Data and packages</a></li>
+</ul></li>
+<li class="chapter" data-level="3.2" data-path="rstudio.html"><a href="rstudio.html#why-learn-r-with-rstudio"><i class="fa fa-check"></i><b>3.2</b> Why learn R with RStudio</a></li>
+<li class="chapter" data-level="3.3" data-path="rstudio.html"><a href="rstudio.html#r-at-the-console-rstudio-goodies"><i class="fa fa-check"></i><b>3.3</b> R at the console, RStudio goodies</a><ul>
+<li class="chapter" data-level="3.3.1" data-path="rstudio.html"><a href="rstudio.html#error-messages-are-your-friends"><i class="fa fa-check"></i><b>3.3.1</b> Error messages are your friends</a></li>
+<li class="chapter" data-level="3.3.2" data-path="rstudio.html"><a href="rstudio.html#logical-operators-and-expressions"><i class="fa fa-check"></i><b>3.3.2</b> Logical operators and expressions</a></li>
+</ul></li>
+<li class="chapter" data-level="3.4" data-path="rstudio.html"><a href="rstudio.html#r-functions-help-pages"><i class="fa fa-check"></i><b>3.4</b> R functions, help pages</a><ul>
+<li class="chapter" data-level="3.4.1" data-path="rstudio.html"><a href="rstudio.html#your-turn"><i class="fa fa-check"></i><b>3.4.1</b> Your turn</a></li>
+</ul></li>
+<li class="chapter" data-level="3.5" data-path="rstudio.html"><a href="rstudio.html#clearing-the-environment"><i class="fa fa-check"></i><b>3.5</b> Clearing the environment</a><ul>
+<li class="chapter" data-level="3.5.1" data-path="rstudio.html"><a href="rstudio.html#your-turn-1"><i class="fa fa-check"></i><b>3.5.1</b> Your turn</a></li>
+</ul></li>
+<li class="chapter" data-level="3.6" data-path="rstudio.html"><a href="rstudio.html#rmarkdown"><i class="fa fa-check"></i><b>3.6</b> RMarkdown</a><ul>
+<li class="chapter" data-level="3.6.1" data-path="rstudio.html"><a href="rstudio.html#your-turn-2"><i class="fa fa-check"></i><b>3.6.1</b> Your Turn</a></li>
+<li class="chapter" data-level="3.6.2" data-path="rstudio.html"><a href="rstudio.html#code-chunks"><i class="fa fa-check"></i><b>3.6.2</b> Code chunks</a></li>
+<li class="chapter" data-level="3.6.3" data-path="rstudio.html"><a href="rstudio.html#your-turn-3"><i class="fa fa-check"></i><b>3.6.3</b> Your turn</a></li>
+</ul></li>
+<li class="chapter" data-level="3.7" data-path="rstudio.html"><a href="rstudio.html#rmarkdown-video-1-minute"><i class="fa fa-check"></i><b>3.7</b> RMarkdown video (1-minute)</a></li>
+<li class="chapter" data-level="3.8" data-path="rstudio.html"><a href="rstudio.html#troubleshooting"><i class="fa fa-check"></i><b>3.8</b> Troubleshooting</a><ul>
+<li class="chapter" data-level="3.8.1" data-path="rstudio.html"><a href="rstudio.html#i-entered-a-command-and-nothings-happening"><i class="fa fa-check"></i><b>3.8.1</b> I entered a command and nothing’s happening</a></li>
+<li class="chapter" data-level="3.8.2" data-path="rstudio.html"><a href="rstudio.html#how-do-i-update-rstudio"><i class="fa fa-check"></i><b>3.8.2</b> How do I update RStudio?</a></li>
+</ul></li>
+<li class="chapter" data-level="3.9" data-path="rstudio.html"><a href="rstudio.html#tips"><i class="fa fa-check"></i><b>3.9</b> Tips</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="github.html"><a href="github.html"><i class="fa fa-check"></i><b>4</b> GitHub</a><ul>
+<li class="chapter" data-level="4.1" data-path="github.html"><a href="github.html#objectives-and-resources"><i class="fa fa-check"></i><b>4.1</b> Objectives and Resources</a><ul>
+<li class="chapter" data-level="4.1.1" data-path="github.html"><a href="github.html#objectives-1"><i class="fa fa-check"></i><b>4.1.1</b> Objectives</a></li>
+<li class="chapter" data-level="4.1.2" data-path="github.html"><a href="github.html#resources-1"><i class="fa fa-check"></i><b>4.1.2</b> Resources</a></li>
+</ul></li>
+<li class="chapter" data-level="4.2" data-path="github.html"><a href="github.html#why-should-scientists-use-github"><i class="fa fa-check"></i><b>4.2</b> Why should scientists use Github?</a><ul>
+<li class="chapter" data-level="4.2.1" data-path="github.html"><a href="github.html#what-are-git-and-github"><i class="fa fa-check"></i><b>4.2.1</b> What are Git and Github?</a></li>
+<li class="chapter" data-level="4.2.2" data-path="github.html"><a href="github.html#some-github-terminology"><i class="fa fa-check"></i><b>4.2.2</b> Some Github terminology</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="github.html"><a href="github.html#setup-git-github"><i class="fa fa-check"></i><b>4.3</b> Setup Git &amp; GitHub</a><ul>
+<li class="chapter" data-level="4.3.1" data-path="github.html"><a href="github.html#troubleshooting-1"><i class="fa fa-check"></i><b>4.3.1</b> Troubleshooting</a></li>
+</ul></li>
+<li class="chapter" data-level="4.4" data-path="github.html"><a href="github.html#create-a-repository-on-github.com"><i class="fa fa-check"></i><b>4.4</b> Create a repository on Github.com</a></li>
+<li class="chapter" data-level="4.5" data-path="github.html"><a href="github.html#clone-your-repository-using-rstudio"><i class="fa fa-check"></i><b>4.5</b> Clone your repository using RStudio</a></li>
+<li class="chapter" data-level="4.6" data-path="github.html"><a href="github.html#inspect-your-repository"><i class="fa fa-check"></i><b>4.6</b> Inspect your repository</a></li>
+<li class="chapter" data-level="4.7" data-path="github.html"><a href="github.html#add-files-to-our-local-repo"><i class="fa fa-check"></i><b>4.7</b> Add files to our local repo</a><ul>
+<li class="chapter" data-level="4.7.1" data-path="github.html"><a href="github.html#inspect-what-has-changed"><i class="fa fa-check"></i><b>4.7.1</b> Inspect what has changed</a></li>
+</ul></li>
+<li class="chapter" data-level="4.8" data-path="github.html"><a href="github.html#sync-from-rstudio-to-github"><i class="fa fa-check"></i><b>4.8</b> Sync from RStudio to GitHub</a><ul>
+<li class="chapter" data-level="4.8.1" data-path="github.html"><a href="github.html#pull"><i class="fa fa-check"></i><b>4.8.1</b> Pull</a></li>
+<li class="chapter" data-level="4.8.2" data-path="github.html"><a href="github.html#stage"><i class="fa fa-check"></i><b>4.8.2</b> Stage</a></li>
+<li class="chapter" data-level="4.8.3" data-path="github.html"><a href="github.html#commit"><i class="fa fa-check"></i><b>4.8.3</b> Commit</a></li>
+<li class="chapter" data-level="4.8.4" data-path="github.html"><a href="github.html#push"><i class="fa fa-check"></i><b>4.8.4</b> Push</a></li>
+</ul></li>
+<li class="chapter" data-level="4.9" data-path="github.html"><a href="github.html#explore-remote-github"><i class="fa fa-check"></i><b>4.9</b> Explore remote Github</a><ul>
+<li class="chapter" data-level="4.9.1" data-path="github.html"><a href="github.html#your-turn-4"><i class="fa fa-check"></i><b>4.9.1</b> Your turn!</a></li>
+</ul></li>
+<li class="chapter" data-level="4.10" data-path="github.html"><a href="github.html#create-a-new-r-markdown-file"><i class="fa fa-check"></i><b>4.10</b> Create a new R Markdown file</a></li>
+<li class="chapter" data-level="4.11" data-path="github.html"><a href="github.html#committing---how-often-tracking-changes-in-your-files"><i class="fa fa-check"></i><b>4.11</b> Committing - how often? Tracking changes in your files</a></li>
+<li class="chapter" data-level="4.12" data-path="github.html"><a href="github.html#happy-git-with-r"><i class="fa fa-check"></i><b>4.12</b> Happy Git with R</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="ggplot2.html"><a href="ggplot2.html"><i class="fa fa-check"></i><b>5</b> Visualizing: <code>ggplot2</code></a><ul>
+<li class="chapter" data-level="5.1" data-path="ggplot2.html"><a href="ggplot2.html#objectives-resources-1"><i class="fa fa-check"></i><b>5.1</b> Objectives &amp; Resources</a><ul>
+<li class="chapter" data-level="5.1.1" data-path="ggplot2.html"><a href="ggplot2.html#objectives-2"><i class="fa fa-check"></i><b>5.1.1</b> Objectives</a></li>
+<li class="chapter" data-level="5.1.2" data-path="ggplot2.html"><a href="ggplot2.html#resources-2"><i class="fa fa-check"></i><b>5.1.2</b> Resources</a></li>
+</ul></li>
+<li class="chapter" data-level="5.2" data-path="ggplot2.html"><a href="ggplot2.html#install-our-first-package-tidyverse"><i class="fa fa-check"></i><b>5.2</b> Install our first package: <code>tidyverse</code></a></li>
+<li class="chapter" data-level="5.3" data-path="ggplot2.html"><a href="ggplot2.html#load-data"><i class="fa fa-check"></i><b>5.3</b> Load data</a></li>
+<li class="chapter" data-level="5.4" data-path="ggplot2.html"><a href="ggplot2.html#plotting-with-ggplot2"><i class="fa fa-check"></i><b>5.4</b> Plotting with <strong><code>ggplot2</code></strong></a></li>
+<li class="chapter" data-level="5.5" data-path="ggplot2.html"><a href="ggplot2.html#data"><i class="fa fa-check"></i><b>5.5</b> Data</a></li>
+<li class="chapter" data-level="5.6" data-path="ggplot2.html"><a href="ggplot2.html#building-your-plots-iteratively"><i class="fa fa-check"></i><b>5.6</b> Building your plots iteratively</a></li>
+<li class="chapter" data-level="5.7" data-path="ggplot2.html"><a href="ggplot2.html#customizing-plots"><i class="fa fa-check"></i><b>5.7</b> Customizing plots</a></li>
+<li class="chapter" data-level="5.8" data-path="ggplot2.html"><a href="ggplot2.html#ggplot2-themes"><i class="fa fa-check"></i><b>5.8</b> <strong><code>ggplot2</code></strong> themes</a></li>
+<li class="chapter" data-level="5.9" data-path="ggplot2.html"><a href="ggplot2.html#faceting"><i class="fa fa-check"></i><b>5.9</b> Faceting</a></li>
+<li class="chapter" data-level="5.10" data-path="ggplot2.html"><a href="ggplot2.html#geometric-objects-geoms"><i class="fa fa-check"></i><b>5.10</b> Geometric objects (geoms)</a></li>
+<li class="chapter" data-level="5.11" data-path="ggplot2.html"><a href="ggplot2.html#bar-charts"><i class="fa fa-check"></i><b>5.11</b> Bar charts</a><ul>
+<li class="chapter" data-level="5.11.1" data-path="ggplot2.html"><a href="ggplot2.html#position-adjustments"><i class="fa fa-check"></i><b>5.11.1</b> Position adjustments</a></li>
+<li class="chapter" data-level="5.11.2" data-path="ggplot2.html"><a href="ggplot2.html#challenge-1"><i class="fa fa-check"></i><b>5.11.2</b> Challenge</a></li>
+</ul></li>
+<li class="chapter" data-level="5.12" data-path="ggplot2.html"><a href="ggplot2.html#arranging-and-exporting-plots"><i class="fa fa-check"></i><b>5.12</b> Arranging and exporting plots</a></li>
+<li class="chapter" data-level="5.13" data-path="ggplot2.html"><a href="ggplot2.html#bonus"><i class="fa fa-check"></i><b>5.13</b> Bonus</a></li>
+<li class="chapter" data-level="5.14" data-path="ggplot2.html"><a href="ggplot2.html#save-and-push-to-github"><i class="fa fa-check"></i><b>5.14</b> Save and push to GitHub</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="dplyr.html"><a href="dplyr.html"><i class="fa fa-check"></i><b>6</b> Data Wrangling: <code>dplyr</code></a><ul>
+<li class="chapter" data-level="6.1" data-path="dplyr.html"><a href="dplyr.html#objectives-resources-2"><i class="fa fa-check"></i><b>6.1</b> Objectives &amp; Resources</a><ul>
+<li class="chapter" data-level="6.1.1" data-path="dplyr.html"><a href="dplyr.html#objectives-3"><i class="fa fa-check"></i><b>6.1.1</b> Objectives</a></li>
+<li class="chapter" data-level="6.1.2" data-path="dplyr.html"><a href="dplyr.html#resources-3"><i class="fa fa-check"></i><b>6.1.2</b> Resources</a></li>
+<li class="chapter" data-level="6.1.3" data-path="dplyr.html"><a href="dplyr.html#data-and-packages-1"><i class="fa fa-check"></i><b>6.1.3</b> Data and packages</a></li>
+</ul></li>
+<li class="chapter" data-level="6.2" data-path="dplyr.html"><a href="dplyr.html#tidy-data"><i class="fa fa-check"></i><b>6.2</b> Tidy Data</a><ul>
+<li class="chapter" data-level="6.2.1" data-path="dplyr.html"><a href="dplyr.html#setup"><i class="fa fa-check"></i><b>6.2.1</b> Setup</a></li>
+<li class="chapter" data-level="6.2.2" data-path="dplyr.html"><a href="dplyr.html#load-tidyverse-which-has-dplyr-inside"><i class="fa fa-check"></i><b>6.2.2</b> load <code>tidyverse</code> (which has <code>dplyr</code> inside)</a></li>
+</ul></li>
+<li class="chapter" data-level="6.3" data-path="dplyr.html"><a href="dplyr.html#explore-the-gapminder-data.frame"><i class="fa fa-check"></i><b>6.3</b> Explore the gapminder data.frame</a><ul>
+<li class="chapter" data-level="6.3.1" data-path="dplyr.html"><a href="dplyr.html#read-data-with-readrread_csv"><i class="fa fa-check"></i><b>6.3.1</b> read data with <code>readr::read_csv()</code></a></li>
+<li class="chapter" data-level="6.3.2" data-path="dplyr.html"><a href="dplyr.html#look-at-the-variables-inside-a-data.frame"><i class="fa fa-check"></i><b>6.3.2</b> Look at the variables inside a data.frame</a></li>
+</ul></li>
+<li class="chapter" data-level="6.4" data-path="dplyr.html"><a href="dplyr.html#dplyr-basics"><i class="fa fa-check"></i><b>6.4</b> <code>dplyr</code> basics</a></li>
+<li class="chapter" data-level="6.5" data-path="dplyr.html"><a href="dplyr.html#filter-subsets-data-row-wise-observations."><i class="fa fa-check"></i><b>6.5</b> <code>filter()</code> subsets data row-wise (observations).</a></li>
+<li class="chapter" data-level="6.6" data-path="dplyr.html"><a href="dplyr.html#your-turn-5"><i class="fa fa-check"></i><b>6.6</b> Your turn</a><ul>
+<li class="chapter" data-level="6.6.1" data-path="dplyr.html"><a href="dplyr.html#answer"><i class="fa fa-check"></i><b>6.6.1</b> Answer</a></li>
+</ul></li>
+<li class="chapter" data-level="6.7" data-path="dplyr.html"><a href="dplyr.html#select-subsets-data-column-wise-variables"><i class="fa fa-check"></i><b>6.7</b> <code>select()</code> subsets data column-wise (variables)</a></li>
+<li class="chapter" data-level="6.8" data-path="dplyr.html"><a href="dplyr.html#use-select-and-filter-together"><i class="fa fa-check"></i><b>6.8</b> Use <code>select()</code> and <code>filter()</code> together</a></li>
+<li class="chapter" data-level="6.9" data-path="dplyr.html"><a href="dplyr.html#meet-the-new-pipe-operator"><i class="fa fa-check"></i><b>6.9</b> Meet the new pipe <code>%&gt;%</code> operator</a><ul>
+<li class="chapter" data-level="6.9.1" data-path="dplyr.html"><a href="dplyr.html#revel-in-the-convenience"><i class="fa fa-check"></i><b>6.9.1</b> Revel in the convenience</a></li>
+</ul></li>
+<li class="chapter" data-level="6.10" data-path="dplyr.html"><a href="dplyr.html#mutate-adds-new-variables"><i class="fa fa-check"></i><b>6.10</b> <code>mutate()</code> adds new variables</a><ul>
+<li class="chapter" data-level="6.10.1" data-path="dplyr.html"><a href="dplyr.html#your-turn-6"><i class="fa fa-check"></i><b>6.10.1</b> Your turn</a></li>
+</ul></li>
+<li class="chapter" data-level="6.11" data-path="dplyr.html"><a href="dplyr.html#group_by-operates-on-groups"><i class="fa fa-check"></i><b>6.11</b> <code>group_by()</code> operates on groups</a><ul>
+<li class="chapter" data-level="6.11.1" data-path="dplyr.html"><a href="dplyr.html#summarize-with-group_by"><i class="fa fa-check"></i><b>6.11.1</b> <code>summarize()</code> with <code>group_by()</code></a></li>
+</ul></li>
+<li class="chapter" data-level="6.12" data-path="dplyr.html"><a href="dplyr.html#arrange-orders-columns"><i class="fa fa-check"></i><b>6.12</b> <code>arrange()</code> orders columns</a><ul>
+<li class="chapter" data-level="6.12.1" data-path="dplyr.html"><a href="dplyr.html#your-turn-7"><i class="fa fa-check"></i><b>6.12.1</b> Your turn</a></li>
+</ul></li>
+<li class="chapter" data-level="6.13" data-path="dplyr.html"><a href="dplyr.html#all-together-now"><i class="fa fa-check"></i><b>6.13</b> All together now</a><ul>
+<li class="chapter" data-level="6.13.1" data-path="dplyr.html"><a href="dplyr.html#compare-to-base-r"><i class="fa fa-check"></i><b>6.13.1</b> Compare to base R</a></li>
+<li class="chapter" data-level="6.13.2" data-path="dplyr.html"><a href="dplyr.html#your-turn-8"><i class="fa fa-check"></i><b>6.13.2</b> Your Turn</a></li>
+</ul></li>
+<li class="chapter" data-level="6.14" data-path="dplyr.html"><a href="dplyr.html#joining-datasets"><i class="fa fa-check"></i><b>6.14</b> Joining datasets</a></li>
+<li class="chapter" data-level="6.15" data-path="dplyr.html"><a href="dplyr.html#key-points"><i class="fa fa-check"></i><b>6.15</b> Key Points</a></li>
+<li class="chapter" data-level="6.16" data-path="dplyr.html"><a href="dplyr.html#troubleshooting."><i class="fa fa-check"></i><b>6.16</b> Troubleshooting.</a><ul>
+<li class="chapter" data-level="6.16.1" data-path="dplyr.html"><a href="dplyr.html#error-unexpected-special-in"><i class="fa fa-check"></i><b>6.16.1</b> Error: unexpected SPECIAL in &quot; %&gt;%&quot;</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="tidyr.html"><a href="tidyr.html"><i class="fa fa-check"></i><b>7</b> Data Wrangling: <code>tidyr</code></a><ul>
+<li class="chapter" data-level="7.1" data-path="tidyr.html"><a href="tidyr.html#objectives-resources-3"><i class="fa fa-check"></i><b>7.1</b> Objectives &amp; Resources</a><ul>
+<li class="chapter" data-level="7.1.1" data-path="tidyr.html"><a href="tidyr.html#objectives-4"><i class="fa fa-check"></i><b>7.1.1</b> Objectives</a></li>
+<li class="chapter" data-level="7.1.2" data-path="tidyr.html"><a href="tidyr.html#resources-4"><i class="fa fa-check"></i><b>7.1.2</b> Resources</a></li>
+<li class="chapter" data-level="7.1.3" data-path="tidyr.html"><a href="tidyr.html#data-and-packages-2"><i class="fa fa-check"></i><b>7.1.3</b> Data and packages</a></li>
+</ul></li>
+<li class="chapter" data-level="7.2" data-path="tidyr.html"><a href="tidyr.html#tidyr-basics"><i class="fa fa-check"></i><b>7.2</b> <code>tidyr</code> basics</a></li>
+<li class="chapter" data-level="7.3" data-path="tidyr.html"><a href="tidyr.html#explore-gapminder-dataset."><i class="fa fa-check"></i><b>7.3</b> Explore gapminder dataset.</a><ul>
+<li class="chapter" data-level="7.3.1" data-path="tidyr.html"><a href="tidyr.html#setup-1"><i class="fa fa-check"></i><b>7.3.1</b> Setup</a></li>
+<li class="chapter" data-level="7.3.2" data-path="tidyr.html"><a href="tidyr.html#load-tidyverse-which-has-tidyr-inside"><i class="fa fa-check"></i><b>7.3.2</b> load <code>tidyverse</code> (which has <code>tidyr</code> inside)</a></li>
+</ul></li>
+<li class="chapter" data-level="7.4" data-path="tidyr.html"><a href="tidyr.html#gather-data-from-wide-to-long-format"><i class="fa fa-check"></i><b>7.4</b> <code>gather()</code> data from wide to long format</a></li>
+<li class="chapter" data-level="7.5" data-path="tidyr.html"><a href="tidyr.html#plot-long-format-data"><i class="fa fa-check"></i><b>7.5</b> Plot long format data</a></li>
+<li class="chapter" data-level="7.6" data-path="tidyr.html"><a href="tidyr.html#spread"><i class="fa fa-check"></i><b>7.6</b> <code>spread()</code></a><ul>
+<li class="chapter" data-level="7.6.1" data-path="tidyr.html"><a href="tidyr.html#answer-no-peeking-1"><i class="fa fa-check"></i><b>7.6.1</b> Answer (no peeking)</a></li>
+</ul></li>
+<li class="chapter" data-level="7.7" data-path="tidyr.html"><a href="tidyr.html#clean-up-and-save-your-.rmd"><i class="fa fa-check"></i><b>7.7</b> clean up and save your .Rmd</a><ul>
+<li class="chapter" data-level="7.7.1" data-path="tidyr.html"><a href="tidyr.html#complete"><i class="fa fa-check"></i><b>7.7.1</b> <code>complete()</code></a></li>
+</ul></li>
+<li class="chapter" data-level="7.8" data-path="tidyr.html"><a href="tidyr.html#other-links"><i class="fa fa-check"></i><b>7.8</b> Other links</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="programming.html"><a href="programming.html"><i class="fa fa-check"></i><b>8</b> Programming in R</a><ul>
+<li class="chapter" data-level="8.1" data-path="programming.html"><a href="programming.html#objectives-resources-4"><i class="fa fa-check"></i><b>8.1</b> Objectives &amp; Resources</a><ul>
+<li class="chapter" data-level="8.1.1" data-path="programming.html"><a href="programming.html#objectives-5"><i class="fa fa-check"></i><b>8.1.1</b> Objectives</a></li>
+</ul></li>
+<li class="chapter" data-level="8.2" data-path="programming.html"><a href="programming.html#analysis-plan"><i class="fa fa-check"></i><b>8.2</b> Analysis plan</a></li>
+<li class="chapter" data-level="8.3" data-path="programming.html"><a href="programming.html#create-an-r-script"><i class="fa fa-check"></i><b>8.3</b> Create an R script</a></li>
+<li class="chapter" data-level="8.4" data-path="programming.html"><a href="programming.html#automation-with-for-loops"><i class="fa fa-check"></i><b>8.4</b> Automation with for loops</a><ul>
+<li class="chapter" data-level="8.4.1" data-path="programming.html"><a href="programming.html#thinking-ahead-cleaning-up-our-code"><i class="fa fa-check"></i><b>8.4.1</b> Thinking ahead: cleaning up our code</a></li>
+<li class="chapter" data-level="8.4.2" data-path="programming.html"><a href="programming.html#for-loop-basic-structure"><i class="fa fa-check"></i><b>8.4.2</b> For loop basic structure</a></li>
+<li class="chapter" data-level="8.4.3" data-path="programming.html"><a href="programming.html#executable-for-loop"><i class="fa fa-check"></i><b>8.4.3</b> Executable for loop!</a></li>
+<li class="chapter" data-level="8.4.4" data-path="programming.html"><a href="programming.html#clean-up-our-repo"><i class="fa fa-check"></i><b>8.4.4</b> Clean up our repo</a></li>
+<li class="chapter" data-level="8.4.5" data-path="programming.html"><a href="programming.html#your-turn-9"><i class="fa fa-check"></i><b>8.4.5</b> Your turn</a></li>
+</ul></li>
+<li class="chapter" data-level="8.5" data-path="programming.html"><a href="programming.html#conditional-statements-with-if-and-else"><i class="fa fa-check"></i><b>8.5</b> Conditional statements with <code>if</code> and <code>else</code></a><ul>
+<li class="chapter" data-level="8.5.1" data-path="programming.html"><a href="programming.html#if-statement-basic-structure"><i class="fa fa-check"></i><b>8.5.1</b> if statement basic structure</a></li>
+<li class="chapter" data-level="8.5.2" data-path="programming.html"><a href="programming.html#executable-if-statement"><i class="fa fa-check"></i><b>8.5.2</b> Executable if statement</a></li>
+<li class="chapter" data-level="8.5.3" data-path="programming.html"><a href="programming.html#executable-ifelse-statement"><i class="fa fa-check"></i><b>8.5.3</b> Executable if/else statement</a></li>
+</ul></li>
+<li class="chapter" data-level="8.6" data-path="programming.html"><a href="programming.html#more-r"><i class="fa fa-check"></i><b>8.6</b> More R!</a><ul>
+<li class="chapter" data-level="8.6.1" data-path="programming.html"><a href="programming.html#importing-and-installing"><i class="fa fa-check"></i><b>8.6.1</b> Importing and Installing</a></li>
+<li class="chapter" data-level="8.6.2" data-path="programming.html"><a href="programming.html#organization-and-workflows"><i class="fa fa-check"></i><b>8.6.2</b> Organization and workflows</a></li>
+<li class="chapter" data-level="8.6.3" data-path="programming.html"><a href="programming.html#getting-help"><i class="fa fa-check"></i><b>8.6.3</b> Getting help</a></li>
+</ul></li>
+<li class="chapter" data-level="8.7" data-path="programming.html"><a href="programming.html#ideas-for-extended-analysis-2"><i class="fa fa-check"></i><b>8.7</b> Ideas for Extended Analysis 2</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="collaborating.html"><a href="collaborating.html"><i class="fa fa-check"></i><b>9</b> Collaborating with GitHub</a><ul>
+<li class="chapter" data-level="9.1" data-path="collaborating.html"><a href="collaborating.html#objectives-resources-5"><i class="fa fa-check"></i><b>9.1</b> Objectives &amp; Resources</a><ul>
+<li class="chapter" data-level="9.1.1" data-path="collaborating.html"><a href="collaborating.html#objectives-6"><i class="fa fa-check"></i><b>9.1.1</b> Objectives</a></li>
+</ul></li>
+<li class="chapter" data-level="9.2" data-path="collaborating.html"><a href="collaborating.html#create-repo-partner-1"><i class="fa fa-check"></i><b>9.2</b> Create repo (Partner 1)</a></li>
+<li class="chapter" data-level="9.3" data-path="collaborating.html"><a href="collaborating.html#create-a-gh-pages-branch-partner-1"><i class="fa fa-check"></i><b>9.3</b> Create a gh-pages branch (Partner 1)</a></li>
+<li class="chapter" data-level="9.4" data-path="collaborating.html"><a href="collaborating.html#give-your-collaborator-administration-privileges-partner-1-and-2"><i class="fa fa-check"></i><b>9.4</b> Give your collaborator administration privileges (Partner 1 and 2)</a></li>
+<li class="chapter" data-level="9.5" data-path="collaborating.html"><a href="collaborating.html#clone-to-a-new-rproject-partner-1"><i class="fa fa-check"></i><b>9.5</b> Clone to a new Rproject (Partner 1)</a></li>
+<li class="chapter" data-level="9.6" data-path="collaborating.html"><a href="collaborating.html#clone-to-a-new-rproject-partner-2"><i class="fa fa-check"></i><b>9.6</b> Clone to a new Rproject (Partner 2)</a></li>
+<li class="chapter" data-level="9.7" data-path="collaborating.html"><a href="collaborating.html#edit-a-file-and-sync-partner-2"><i class="fa fa-check"></i><b>9.7</b> Edit a file and sync (Partner 2)</a></li>
+<li class="chapter" data-level="9.8" data-path="collaborating.html"><a href="collaborating.html#state-of-the-repository"><i class="fa fa-check"></i><b>9.8</b> State of the Repository</a></li>
+<li class="chapter" data-level="9.9" data-path="collaborating.html"><a href="collaborating.html#merge-conflicts"><i class="fa fa-check"></i><b>9.9</b> Merge conflicts</a><ul>
+<li class="chapter" data-level="9.9.1" data-path="collaborating.html"><a href="collaborating.html#your-turn-10"><i class="fa fa-check"></i><b>9.9.1</b> Your turn</a></li>
+</ul></li>
+<li class="chapter" data-level="9.10" data-path="collaborating.html"><a href="collaborating.html#how-do-you-avoid-merge-conflicts"><i class="fa fa-check"></i><b>9.10</b> How do you avoid merge conflicts?</a></li>
+<li class="chapter" data-level="9.11" data-path="collaborating.html"><a href="collaborating.html#create-your-collaborative-website"><i class="fa fa-check"></i><b>9.11</b> Create your collaborative website</a></li>
+<li class="chapter" data-level="9.12" data-path="collaborating.html"><a href="collaborating.html#your-turn-11"><i class="fa fa-check"></i><b>9.12</b> Your turn</a></li>
+<li class="chapter" data-level="9.13" data-path="collaborating.html"><a href="collaborating.html#explore-on-github.com"><i class="fa fa-check"></i><b>9.13</b> Explore on GitHub.com</a><ul>
+<li class="chapter" data-level="9.13.1" data-path="collaborating.html"><a href="collaborating.html#commit-history"><i class="fa fa-check"></i><b>9.13.1</b> Commit History</a></li>
+<li class="chapter" data-level="9.13.2" data-path="collaborating.html"><a href="collaborating.html#blame"><i class="fa fa-check"></i><b>9.13.2</b> Blame</a></li>
+<li class="chapter" data-level="9.13.3" data-path="collaborating.html"><a href="collaborating.html#issues"><i class="fa fa-check"></i><b>9.13.3</b> Issues</a></li>
+</ul></li>
+<li class="chapter" data-level="9.14" data-path="collaborating.html"><a href="collaborating.html#nyc-flights-exploration"><i class="fa fa-check"></i><b>9.14</b> NYC flights exploration</a><ul>
+<li class="chapter" data-level="9.14.1" data-path="collaborating.html"><a href="collaborating.html#logical-operators"><i class="fa fa-check"></i><b>9.14.1</b> Logical operators</a></li>
+</ul></li>
+<li class="chapter" data-level="9.15" data-path="collaborating.html"><a href="collaborating.html#your-turn-12"><i class="fa fa-check"></i><b>9.15</b> Your turn</a><ul>
+<li class="chapter" data-level="9.15.1" data-path="collaborating.html"><a href="collaborating.html#use-logicals"><i class="fa fa-check"></i><b>9.15.1</b> Use logicals</a></li>
+<li class="chapter" data-level="9.15.2" data-path="collaborating.html"><a href="collaborating.html#missing-values"><i class="fa fa-check"></i><b>9.15.2</b> Missing values</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="champion.html"><a href="champion.html"><i class="fa fa-check"></i><b>10</b> Be a champion for open science</a><ul>
+<li class="chapter" data-level="10.1" data-path="champion.html"><a href="champion.html#objectives-and-resources-1"><i class="fa fa-check"></i><b>10.1</b> Objectives and Resources</a></li>
+<li class="chapter" data-level="10.2" data-path="champion.html"><a href="champion.html#three-messages"><i class="fa fa-check"></i><b>10.2</b> Three messages</a></li>
+<li class="chapter" data-level="10.3" data-path="champion.html"><a href="champion.html#build-community"><i class="fa fa-check"></i><b>10.3</b> Build community</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Introduction to Open Data Science</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="programming" class="section level1">
+<h1><span class="header-section-number">Chapter 8</span> Programming in R</h1>
+<div id="objectives-resources-4" class="section level2">
+<h2><span class="header-section-number">8.1</span> Objectives &amp; Resources</h2>
+<p>Now we are going to build a little analysis. We will learn to automate our analyses with a for loop. We will make figures, and save them each with automated labeling. Then, we will join data from different files and conditionally label them with if/else statements.</p>
+<div id="objectives-5" class="section level3">
+<h3><span class="header-section-number">8.1.1</span> Objectives</h3>
+<ul>
+<li>create an R script</li>
+<li>for loops</li>
+<li>joining data</li>
+<li>if statements</li>
+</ul>
+<!---
+- make sure your loop worked like you wanted
+- if statements (conditionals) 
+- write message() to yourself
+- list.files()
+- importing and writing data
+- write a local copy of gapminder data to data/ folder
+- installing packages from github
+
+**Resources**
+--->
+<!--- Would love to include:
+
+When trying to see if a number or text is equal to some *single* value, use `==`. To check it against *multiple* values, use `%in%`. mine’s "%!in%" <- Negate("%in%")
+
+list.files
+file.path()
+message() (with an if statement maybe)
+get file extensions https://stat.ethz.ch/R-manual/R-devel/library/tools/html/fileutils.html
+--->
+</div>
+</div>
+<div id="analysis-plan" class="section level2">
+<h2><span class="header-section-number">8.2</span> Analysis plan</h2>
+<p>OK, here is the plan for our analysis. We want to plot the gdpPercap for each country in the gapminder data frame. So that’s 142 separate plots! We will automate this, labeling each one with its name and saving it in a folder called figures. We will learn a bunch of things as we go.</p>
+</div>
+<div id="create-an-r-script" class="section level2">
+<h2><span class="header-section-number">8.3</span> Create an R script</h2>
+<p>OK, now, we are going to create an R script. What is an R script? It’s a text file with a .R extension. We’ve been writing R code in R Markdown files so far; R scripts are just R code without the Markdown along with it.</p>
+<p>Go to File &gt; New File &gt; R Script (or click the green plus in the top left corner).</p>
+<p>Let’s start off with a few comments so that we know what it is for, and save it:</p>
+<pre><code>## gapminder-analysis.R
+## analysis with gapminder data
+## J Lowndes lowndes@nceas.ucsb.edu</code></pre>
+<p>We’ll be working with the gapminder data again so let’s read it in here:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">## load libraries
+<span class="kw">library</span>(tidyverse)
+
+## read in gapminder data
+gapminder &lt;-<span class="st"> </span>readr<span class="op">::</span><span class="kw">read_csv</span>(<span class="st">&#39;https://raw.githubusercontent.com/OHI-Science/data-science-training/master/data/gapminder.csv&#39;</span>)</code></pre></div>
+<p>Remember, like in R Markdown, hitting return does not execute this command. To execute it, we need to get what we typed in the script down into the console. Here is how we can do that:</p>
+<ol style="list-style-type: decimal">
+<li>copy-paste this line into the console.</li>
+<li>select the line (or simply put the cursor there), and click ‘Run’. This is available from</li>
+</ol>
+<ol style="list-style-type: lower-alpha">
+<li>the bar above the script (green arrow)</li>
+<li>the menu bar: Code &gt; Run Selected Line(s)</li>
+<li>keyboard shortcut: command-return</li>
+</ol>
+<ol start="3" style="list-style-type: decimal">
+<li>source the script, which means running the whole thing. This is also great for to see if there are any typos in your code that you’ve missed. You can do this by:</li>
+</ol>
+<ol style="list-style-type: lower-alpha">
+<li>clicking Source (blue arrow in the bar above the script).</li>
+<li>typing <code>source('gapminder-analysis.R')</code> in the console (or from another R file!!!).</li>
+</ol>
+</div>
+<div id="automation-with-for-loops" class="section level2">
+<h2><span class="header-section-number">8.4</span> Automation with for loops</h2>
+<p>Our plan is to plot gdpPercap for each country. This means that we want to do the same operation (plotting gdpPercap) on a bunch of different things (countries). Yesterday we learned the dplyr’s <code>group_by()</code> function, and this is super powerful to automate through groups. But there are things that you may not want to do with <code>group_by()</code>, like plotting. So we will use a for loop.</p>
+<p>Let’s start off with what this would look like for just one country. I’m going to demonstrate with Afghanistan:</p>
+<!---TODO
+For the figures, we want it to label the currency, which we have in another data file (=join). And, we'll want to add Westeros to the dataframe (=rbind) and create that figure too. 
+--->
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">## filter the country to plot
+gap_to_plot &lt;-<span class="st"> </span>gapminder <span class="op">%&gt;%</span>
+<span class="st">  </span><span class="kw">filter</span>(country <span class="op">==</span><span class="st"> &quot;Afghanistan&quot;</span>)
+
+## plot
+my_plot &lt;-<span class="st"> </span><span class="kw">ggplot</span>(<span class="dt">data =</span> gap_to_plot, <span class="kw">aes</span>(<span class="dt">x =</span> year, <span class="dt">y =</span> gdpPercap)) <span class="op">+</span><span class="st"> </span>
+<span class="st">  </span><span class="kw">geom_point</span>() <span class="op">+</span>
+<span class="st">  </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="st">&quot;Afghanistan&quot;</span>)</code></pre></div>
+<p>Let’s actually give this a better title than just the country name. Let’s use the <code>base::paste()</code> function from to paste two strings together so that the title is more descriptive. Use <code>?paste</code> to see what the “sep” variable does.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">## filter the country to plot
+gap_to_plot &lt;-<span class="st"> </span>gapminder <span class="op">%&gt;%</span>
+<span class="st">  </span><span class="kw">filter</span>(country <span class="op">==</span><span class="st"> &quot;Afghanistan&quot;</span>)
+
+## plot
+my_plot &lt;-<span class="st"> </span><span class="kw">ggplot</span>(<span class="dt">data =</span> gap_to_plot, <span class="kw">aes</span>(<span class="dt">x =</span> year, <span class="dt">y =</span> gdpPercap)) <span class="op">+</span><span class="st"> </span>
+<span class="st">  </span><span class="kw">geom_point</span>() <span class="op">+</span>
+<span class="st">  </span>## add title and save
+<span class="st">  </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="kw">paste</span>(<span class="st">&quot;Afghanistan&quot;</span>, <span class="st">&quot;GDP per capita&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot; &quot;</span>))</code></pre></div>
+<p>And as a last step, let’s save this figure.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">## filter the country to plot
+gap_to_plot &lt;-<span class="st"> </span>gapminder <span class="op">%&gt;%</span>
+<span class="st">  </span><span class="kw">filter</span>(country <span class="op">==</span><span class="st"> &quot;Afghanistan&quot;</span>)
+
+## plot
+my_plot &lt;-<span class="st"> </span><span class="kw">ggplot</span>(<span class="dt">data =</span> gap_to_plot, <span class="kw">aes</span>(<span class="dt">x =</span> year, <span class="dt">y =</span> gdpPercap)) <span class="op">+</span><span class="st"> </span>
+<span class="st">  </span><span class="kw">geom_point</span>() <span class="op">+</span>
+<span class="st">  </span>## add title and save
+<span class="st">  </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="kw">paste</span>(<span class="st">&quot;Afghanistan&quot;</span>, <span class="st">&quot;GDP per capita&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot; &quot;</span>))
+
+<span class="kw">ggsave</span>(<span class="dt">filename =</span> <span class="st">&quot;Afghanistan_gdpPercap.png&quot;</span>, <span class="dt">plot =</span> my_plot)</code></pre></div>
+<p>OK. So we can check our repo in the file pane (bottom right of RStudio) and see the generated figure:</p>
+<div class="figure">
+<img src="img/Afghanistan_gdpPercap.png" />
+
+</div>
+<div id="thinking-ahead-cleaning-up-our-code" class="section level3">
+<h3><span class="header-section-number">8.4.1</span> Thinking ahead: cleaning up our code</h3>
+<p>Now, in our code above, we’ve had to write out “Afghanistan” several times. This makes it not only typo-prone as we type it each time, but if we wanted to plot another country, we’d have to write that in 3 places too. It is not setting us up for an easy time in our future, and thinking ahead in programming is something to keep in mind.</p>
+<p>Instead of having “Afghanistan” written 3 times, let’s instead create an object that we will assign to “Afghanistan”. We won’t name our object “country” because that’s a column header with gapminder, and will just confuse us. Let’s make it distinctive: let’s write cntry (country without vowels):</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">## create country variable
+cntry &lt;-<span class="st"> &quot;Afghanistan&quot;</span></code></pre></div>
+<p>Now, we can replace each <code>&quot;Afghanistan&quot;</code> with our variable <code>cntry</code>. We will have to introduce a <code>paste</code> statement here too, and we want to separate by nothing (<code>&quot;&quot;</code>). Note: there are many ways to create the filename, and we are doing it this way for a specific reason right now.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">## create country variable
+cntry &lt;-<span class="st"> &quot;Afghanistan&quot;</span>
+
+## filter the country to plot
+gap_to_plot &lt;-<span class="st"> </span>gapminder <span class="op">%&gt;%</span>
+<span class="st">  </span><span class="kw">filter</span>(country <span class="op">==</span><span class="st"> </span>cntry)
+
+## plot
+my_plot &lt;-<span class="st"> </span><span class="kw">ggplot</span>(<span class="dt">data =</span> gap_to_plot, <span class="kw">aes</span>(<span class="dt">x =</span> year, <span class="dt">y =</span> gdpPercap)) <span class="op">+</span><span class="st"> </span>
+<span class="st">  </span><span class="kw">geom_point</span>() <span class="op">+</span>
+<span class="st">  </span>## add title and save
+<span class="st">  </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="kw">paste</span>(cntry, <span class="st">&quot;GDP per capita&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot; &quot;</span>))
+
+## note: there are many ways to create filenames with paste() or file.path(); we are doing this way for a reason.
+<span class="kw">ggsave</span>(<span class="dt">filename =</span> <span class="kw">paste</span>(cntry, <span class="st">&quot;_gdpPercap.png&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot;&quot;</span>), <span class="dt">plot =</span> my_plot)</code></pre></div>
+<p>Let’s run this. Great! it saved our figure (I can tell this because the timestamp in the Files pane has updated!)</p>
+</div>
+<div id="for-loop-basic-structure" class="section level3">
+<h3><span class="header-section-number">8.4.2</span> For loop basic structure</h3>
+<p>Now, how about if we want to plot not only Afghanistan, but other countries as well? There wasn’t actually that much code needed to get us here, but we definitely do not want to copy this for every country. Even if we copy-pasted and switched out the country assigned to the <code>cntry</code> variable, it would be very typo-prone. Plus, what if you wanted to instead plot lifeExp? You’d have to remember to change it each time…it gets messy quick.</p>
+<p>Better with a for loop. This will let us cycle through and do what we want to each thing in turn. If you want to iterate over a set of values, and perform the same operation on each, a <code>for</code> loop will do the job.</p>
+<p><strong>Sit back and watch me for a few minutes while we develop the for loop.</strong> Then we’ll give you time to do this on your computers as well.</p>
+<p>The basic structure of a <code>for</code> loop is:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="cf">for</span>( each item <span class="cf">in</span> set of items ){
+  do a thing
+}</code></pre></div>
+<p>Note the <code>( )</code> and the <code>{ }</code>. We talk about iterating through each item in the for loop, which makes each item an iterator.</p>
+<p>So looking back at our Afghanistan code: all of this is pretty much the “do a thing” part. And we can see that there are only a few places that are specific to Afghanistan. If we could make those places not specific to Afghanistan, we would be set.</p>
+<div class="figure">
+<img src="img/for_loop_logic.png" />
+
+</div>
+<p>Let’s paste from what we had before, and modify it. I’m also going to use RStudio’s indentation help to indent the lines within the for loop by highlighting the code in this chunk and going to Code &gt; Reindent Lines (shortcut: command I)</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">## create country variable
+cntry &lt;-<span class="st"> &quot;Afghanistan&quot;</span>
+
+<span class="cf">for</span> (each cntry <span class="cf">in</span> a list of countries ) {
+  
+  ## filter the country to plot
+  gap_to_plot &lt;-<span class="st"> </span>gapminder <span class="op">%&gt;%</span>
+<span class="st">    </span><span class="kw">filter</span>(country <span class="op">==</span><span class="st"> </span>cntry)
+  
+  ## plot
+  my_plot &lt;-<span class="st"> </span><span class="kw">ggplot</span>(<span class="dt">data =</span> gap_to_plot, <span class="kw">aes</span>(<span class="dt">x =</span> year, <span class="dt">y =</span> gdpPercap)) <span class="op">+</span><span class="st"> </span>
+<span class="st">    </span><span class="kw">geom_point</span>() <span class="op">+</span>
+<span class="st">    </span>## add title and save
+<span class="st">    </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="kw">paste</span>(cntry, <span class="st">&quot;GDP per capita&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot; &quot;</span>))
+  
+  <span class="kw">ggsave</span>(<span class="dt">filename =</span> <span class="kw">paste</span>(cntry, <span class="st">&quot;_gdpPercap.png&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot;&quot;</span>), <span class="dt">plot =</span> my_plot)
+  
+}</code></pre></div>
+</div>
+<div id="executable-for-loop" class="section level3">
+<h3><span class="header-section-number">8.4.3</span> Executable for loop!</h3>
+<p>OK. So let’s start with the beginning of the for loop. We want a list of countries that we will iterate through. We can do that by adding this code before the for loop.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">## create a list of countries
+country_list &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;Albania&quot;</span>, <span class="st">&quot;Fiji&quot;</span>, <span class="st">&quot;Spain&quot;</span>)
+
+<span class="cf">for</span> ( cntry <span class="cf">in</span> country_list ) {
+  
+  ## filter the country to plot
+  gap_to_plot &lt;-<span class="st"> </span>gapminder <span class="op">%&gt;%</span>
+<span class="st">    </span><span class="kw">filter</span>(country <span class="op">==</span><span class="st"> </span>cntry)
+  
+  ## plot
+  my_plot &lt;-<span class="st"> </span><span class="kw">ggplot</span>(<span class="dt">data =</span> gap_to_plot, <span class="kw">aes</span>(<span class="dt">x =</span> year, <span class="dt">y =</span> gdpPercap)) <span class="op">+</span><span class="st"> </span>
+<span class="st">    </span><span class="kw">geom_point</span>() <span class="op">+</span>
+<span class="st">    </span>## add title and save
+<span class="st">    </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="kw">paste</span>(cntry, <span class="st">&quot;GDP per capita&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot; &quot;</span>))
+  
+  <span class="kw">ggsave</span>(<span class="dt">filename =</span> <span class="kw">paste</span>(cntry, <span class="st">&quot;_gdpPercap.png&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot;&quot;</span>), <span class="dt">plot =</span> my_plot)
+
+}</code></pre></div>
+<p>At this point, we do have a functioning for loop. For each item in the <code>country_list</code>, the for loop will iterate over the code within the <code>{ }</code>, changing <code>cntry</code> each time as it goes through the list. And we can see it works because we can see them appear in the files pane at the bottom right of RStudio!</p>
+<p>Great! And it doesn’t matter if we just use these three countries or all the countries–let’s try it.</p>
+<p>But first let’s create a figure directory and make sure it saves there since it’s going to get out of hand quickly. We could do this from the Finder/Windows Explorer, or from the “Files” pane in RStudio by clicking “New Folder” (green plus button). But we are going to do it in R. A folder is called a directory:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">dir.create</span>(<span class="st">&quot;figures&quot;</span>) 
+
+## create a list of countries
+country_list &lt;-<span class="st"> </span><span class="kw">unique</span>(gapminder<span class="op">$</span>country) <span class="co"># ?unique() returns the unique values</span>
+
+<span class="cf">for</span>( cntry <span class="cf">in</span> country_list ){
+  
+  ## filter the country to plot
+  gap_to_plot &lt;-<span class="st"> </span>gapminder <span class="op">%&gt;%</span>
+<span class="st">    </span><span class="kw">filter</span>(country <span class="op">==</span><span class="st"> </span>cntry)
+  
+  ## plot
+  my_plot &lt;-<span class="st"> </span><span class="kw">ggplot</span>(<span class="dt">data =</span> gap_to_plot, <span class="kw">aes</span>(<span class="dt">x =</span> year, <span class="dt">y =</span> gdpPercap)) <span class="op">+</span><span class="st"> </span>
+<span class="st">    </span><span class="kw">geom_point</span>() <span class="op">+</span>
+<span class="st">    </span>## add title and save
+<span class="st">    </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="kw">paste</span>(cntry, <span class="st">&quot;GDP per capita&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot; &quot;</span>))
+  
+  ## add the figures/ folder
+  <span class="kw">ggsave</span>(<span class="dt">filename =</span> <span class="kw">paste</span>(<span class="st">&quot;figures/&quot;</span>, cntry, <span class="st">&quot;_gdpPercap.png&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot;&quot;</span>)), plot =<span class="st"> </span>my_plot<span class="er">)</span>
+} </code></pre></div>
+<p>So that took a little longer than just the 3, but still super fast. For loops are sometimes just the thing you need to iterate over many things in your analyses.</p>
+</div>
+<div id="clean-up-our-repo" class="section level3">
+<h3><span class="header-section-number">8.4.4</span> Clean up our repo</h3>
+<p>OK we now have 142 figures that we just created. They exist locally on our computer, and we have the code to recreate them anytime. But, we don’t really need to push them to GitHub. Let’s delete the figures/ folder and see it disappear from the Git tab.</p>
+</div>
+<div id="your-turn-9" class="section level3">
+<h3><span class="header-section-number">8.4.5</span> Your turn</h3>
+<ol style="list-style-type: decimal">
+<li>Modify our for loop so that it:</li>
+</ol>
+<ul>
+<li>loops through countries in Europe only</li>
+<li>plots the cumulative mean gdpPercap (Hint: Use the <a href="https://www.rstudio.com/resources/cheatsheets/">Data Wrangling Cheatsheet</a>!)</li>
+<li>saves them to a new subfolder inside the (recreated) figures folder called “Europe”.</li>
+</ul>
+<ol style="list-style-type: decimal">
+<li>Sync to GitHub</li>
+</ol>
+<div id="answer-2" class="section level4">
+<h4><span class="header-section-number">8.4.5.1</span> Answer</h4>
+<p>No peeking!</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">dir.create</span>(<span class="st">&quot;figures&quot;</span>) 
+<span class="kw">dir.create</span>(<span class="st">&quot;figures/Europe&quot;</span>) 
+
+## create a list of countries. Calculations go here, not in the for loop
+gap_europe &lt;-<span class="st"> </span>gapminder <span class="op">%&gt;%</span>
+<span class="st">  </span><span class="kw">filter</span>(continent <span class="op">==</span><span class="st"> &quot;Europe&quot;</span>) <span class="op">%&gt;%</span>
+<span class="st">  </span><span class="kw">mutate</span>(<span class="dt">gdpPercap_cummean =</span> dplyr<span class="op">::</span><span class="kw">cummean</span>(gdpPercap))
+
+country_list &lt;-<span class="st"> </span><span class="kw">unique</span>(gap_europe<span class="op">$</span>country) <span class="co"># ?unique() returns the unique values</span>
+
+<span class="cf">for</span>( cntry <span class="cf">in</span> country_list ){ <span class="co"># (cntry = country_list[1])</span>
+  
+  ## filter the country to plot
+  gap_to_plot &lt;-<span class="st"> </span>gap_europe <span class="op">%&gt;%</span>
+<span class="st">    </span><span class="kw">filter</span>(country <span class="op">==</span><span class="st"> </span>cntry)
+  
+  ## add a print message to see what&#39;s plotting
+  <span class="kw">print</span>(<span class="kw">paste</span>(<span class="st">&quot;Plotting&quot;</span>, cntry))
+  
+  ## plot
+  my_plot &lt;-<span class="st"> </span><span class="kw">ggplot</span>(<span class="dt">data =</span> gap_to_plot, <span class="kw">aes</span>(<span class="dt">x =</span> year, <span class="dt">y =</span> gdpPercap_cummean)) <span class="op">+</span><span class="st"> </span>
+<span class="st">    </span><span class="kw">geom_point</span>() <span class="op">+</span>
+<span class="st">    </span>## add title and save
+<span class="st">    </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="kw">paste</span>(cntry, <span class="st">&quot;GDP per capita&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot; &quot;</span>))
+  
+  <span class="kw">ggsave</span>(<span class="dt">filename =</span> <span class="kw">paste</span>(<span class="st">&quot;figures/Europe/&quot;</span>, cntry, <span class="st">&quot;_gdpPercap_cummean.png&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot;&quot;</span>)), 
+  plot =<span class="st"> </span>my_plot<span class="er">)</span>
+} </code></pre></div>
+<p>Notice how we put the calculation for <code>cummean()</code> outside the for loop. It could have gone inside, but it’s an operation that could be done just one time before hand (outside the loop) rather than multiple times as you go (inside the for loop).</p>
+</div>
+</div>
+</div>
+<div id="conditional-statements-with-if-and-else" class="section level2">
+<h2><span class="header-section-number">8.5</span> Conditional statements with <code>if</code> and <code>else</code></h2>
+<p>Often when we’re coding we want to control the flow of our actions. This can be done by setting actions to occur only if a condition or a set of conditions are met.</p>
+<p>In R and other languages, these are called “if statements”.</p>
+<div id="if-statement-basic-structure" class="section level3">
+<h3><span class="header-section-number">8.5.1</span> if statement basic structure</h3>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># if</span>
+<span class="cf">if</span> (condition is true) {
+  do something
+}
+
+<span class="co"># if ... else</span>
+<span class="cf">if</span> (condition is true) {
+  do something
+} <span class="cf">else</span> {  <span class="co"># that is, if the condition is false,</span>
+  do something different
+}</code></pre></div>
+<p>Let’s bring this concept into our for loop for Europe that we’ve just done. What if we want to add the label “Estimated” to countries that were estimated? Here’s what we’d do.</p>
+<p>First, import csv file with information on whether data was estimated or reported, and join to gapminder dataset:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">est &lt;-<span class="st"> </span>readr<span class="op">::</span><span class="kw">read_csv</span>(<span class="st">&#39;https://raw.githubusercontent.com/OHI-Science/data-science-training/master/data/countries_estimated.csv&#39;</span>)
+gapminder_est &lt;-<span class="st"> </span><span class="kw">left_join</span>(gapminder, est)</code></pre></div>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">dir.create</span>(<span class="st">&quot;figures&quot;</span>) 
+<span class="kw">dir.create</span>(<span class="st">&quot;figures/Europe&quot;</span>) 
+
+## create a list of countries
+gap_europe &lt;-<span class="st"> </span>gapminder_est <span class="op">%&gt;%</span><span class="st"> </span>## use instead of gapminder
+<span class="st">  </span><span class="kw">filter</span>(continent <span class="op">==</span><span class="st"> &quot;Europe&quot;</span>) <span class="op">%&gt;%</span>
+<span class="st">  </span><span class="kw">mutate</span>(<span class="dt">gdpPercap_cummean =</span> dplyr<span class="op">::</span><span class="kw">cummean</span>(gdpPercap))
+
+country_list &lt;-<span class="st"> </span><span class="kw">unique</span>(gap_europe<span class="op">$</span>country) 
+
+<span class="cf">for</span>( cntry <span class="cf">in</span> country_list ){ <span class="co"># (cntry = country_list[1])</span>
+  
+  ## filter the country to plot
+  gap_to_plot &lt;-<span class="st"> </span>gap_europe <span class="op">%&gt;%</span>
+<span class="st">    </span><span class="kw">filter</span>(country <span class="op">==</span><span class="st"> </span>cntry)
+  
+  ## add a print message 
+  <span class="kw">print</span>(<span class="kw">paste</span>(<span class="st">&quot;Plotting&quot;</span>, cntry))
+  
+  ## plot
+  my_plot &lt;-<span class="st"> </span><span class="kw">ggplot</span>(<span class="dt">data =</span> gap_to_plot, <span class="kw">aes</span>(<span class="dt">x =</span> year, <span class="dt">y =</span> gdpPercap_cummean)) <span class="op">+</span><span class="st"> </span>
+<span class="st">    </span><span class="kw">geom_point</span>() <span class="op">+</span>
+<span class="st">    </span>## add title and save
+<span class="st">    </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="kw">paste</span>(cntry, <span class="st">&quot;GDP per capita&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot; &quot;</span>))
+  
+  ## if estimated, add that as a subtitle. 
+  <span class="cf">if</span> (gap_to_plot<span class="op">$</span>estimated <span class="op">==</span><span class="st"> &quot;yes&quot;</span>) {
+    
+    ## add a print statement just to check
+    <span class="kw">print</span>(<span class="kw">paste</span>(cntry, <span class="st">&quot;data are estimated&quot;</span>))
+    
+    my_plot &lt;-<span class="st"> </span>my_plot <span class="op">+</span>
+<span class="st">      </span><span class="kw">labs</span>(<span class="kw">sutbtitle</span>(<span class="st">&quot;Estimated data&quot;</span>))
+  }
+  <span class="co">#   Warning message:</span>
+  <span class="co"># In if (gap_to_plot$estimated == &quot;yes&quot;) { :</span>
+  <span class="co">#   the condition has length &gt; 1 and only the first element will be used</span>
+  
+  <span class="kw">ggsave</span>(<span class="dt">filename =</span> <span class="kw">paste</span>(<span class="st">&quot;figures/Europe/&quot;</span>, cntry, <span class="st">&quot;_gdpPercap_cummean.png&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot;&quot;</span>), 
+         <span class="dt">plot =</span> my_plot)
+  
+} </code></pre></div>
+<p>This worked, but we got a warning message with the if statement. This is because if we look at <code>gap_to_plot$estimated</code>, it is many “yes”s or “no”s, and the if statement works just on the first one. We know that if any are yes, all are yes, but you can imagine that this could lead to problems down the line if you <em>didn’t</em> know that. So let’s be explicit:</p>
+</div>
+<div id="executable-if-statement" class="section level3">
+<h3><span class="header-section-number">8.5.2</span> Executable if statement</h3>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">dir.create</span>(<span class="st">&quot;figures&quot;</span>) 
+<span class="kw">dir.create</span>(<span class="st">&quot;figures/Europe&quot;</span>) 
+
+
+## create a list of countries
+gap_europe &lt;-<span class="st"> </span>gapminder_est <span class="op">%&gt;%</span><span class="st"> </span>## use instead of gapminder
+<span class="st">  </span><span class="kw">filter</span>(continent <span class="op">==</span><span class="st"> &quot;Europe&quot;</span>) <span class="op">%&gt;%</span>
+<span class="st">  </span><span class="kw">mutate</span>(<span class="dt">gdpPercap_cummean =</span> dplyr<span class="op">::</span><span class="kw">cummean</span>(gdpPercap))
+
+country_list &lt;-<span class="st"> </span><span class="kw">unique</span>(gap_europe<span class="op">$</span>country) 
+
+<span class="cf">for</span>( cntry <span class="cf">in</span> country_list ){ <span class="co"># (cntry = country_list[1])</span>
+  
+  ## filter the country to plot
+  gap_to_plot &lt;-<span class="st"> </span>gap_europe <span class="op">%&gt;%</span>
+<span class="st">    </span><span class="kw">filter</span>(country <span class="op">==</span><span class="st"> </span>cntry)
+  
+  ## add a print message 
+  <span class="kw">print</span>(<span class="kw">paste</span>(<span class="st">&quot;Plotting&quot;</span>, cntry))
+  
+  ## plot
+  my_plot &lt;-<span class="st"> </span><span class="kw">ggplot</span>(<span class="dt">data =</span> gap_to_plot, <span class="kw">aes</span>(<span class="dt">x =</span> year, <span class="dt">y =</span> gdpPercap_cummean)) <span class="op">+</span><span class="st"> </span>
+<span class="st">    </span><span class="kw">geom_point</span>() <span class="op">+</span>
+<span class="st">    </span>## add title and save
+<span class="st">    </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="kw">paste</span>(cntry, <span class="st">&quot;GDP per capita&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot; &quot;</span>))
+  
+  ## if estimated, add that as a subtitle. 
+  <span class="cf">if</span> (<span class="kw">any</span>(gap_to_plot<span class="op">$</span>estimated <span class="op">==</span><span class="st"> &quot;yes&quot;</span>)) { <span class="co"># any() will return a single TRUE or FALSE</span>
+    
+    <span class="kw">print</span>(<span class="kw">paste</span>(cntry, <span class="st">&quot;data are estimated&quot;</span>))
+    
+    my_plot &lt;-<span class="st"> </span>my_plot <span class="op">+</span>
+<span class="st">      </span><span class="kw">labs</span>(<span class="dt">subtitle =</span> <span class="st">&quot;Estimated data&quot;</span>)
+  }
+  <span class="kw">ggsave</span>(<span class="dt">filename =</span> <span class="kw">paste</span>(<span class="st">&quot;figures/Europe/&quot;</span>, cntry, <span class="st">&quot;_gdpPercap_cummean.png&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot;&quot;</span>), 
+         <span class="dt">plot =</span> my_plot)
+  
+} </code></pre></div>
+<p>OK so this is working as we expect! Note that we do not need an <code>else</code> statement above, because we only want to do something (add a subtitle) if one condition is met. But what if we want to add a different subtitle based on another condition, say where the data are reported, to be extra explicit about it?</p>
+</div>
+<div id="executable-ifelse-statement" class="section level3">
+<h3><span class="header-section-number">8.5.3</span> Executable if/else statement</h3>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">dir.create</span>(<span class="st">&quot;figures&quot;</span>) 
+<span class="kw">dir.create</span>(<span class="st">&quot;figures/Europe&quot;</span>) 
+
+## create a list of countries
+gap_europe &lt;-<span class="st"> </span>gapminder_est <span class="op">%&gt;%</span><span class="st"> </span>## use instead of gapminder
+<span class="st">  </span><span class="kw">filter</span>(continent <span class="op">==</span><span class="st"> &quot;Europe&quot;</span>) <span class="op">%&gt;%</span>
+<span class="st">  </span><span class="kw">mutate</span>(<span class="dt">gdpPercap_cummean =</span> dplyr<span class="op">::</span><span class="kw">cummean</span>(gdpPercap))
+
+country_list &lt;-<span class="st"> </span><span class="kw">unique</span>(gap_europe<span class="op">$</span>country) 
+
+<span class="cf">for</span>( cntry <span class="cf">in</span> country_list ){ <span class="co"># (cntry = country_list[1])</span>
+  
+  ## filter the country to plot
+  gap_to_plot &lt;-<span class="st"> </span>gap_europe <span class="op">%&gt;%</span>
+<span class="st">    </span><span class="kw">filter</span>(country <span class="op">==</span><span class="st"> </span>cntry)
+  
+  ## add a print message 
+  <span class="kw">print</span>(<span class="kw">paste</span>(<span class="st">&quot;Plotting&quot;</span>, cntry))
+  
+  ## plot
+  my_plot &lt;-<span class="st"> </span><span class="kw">ggplot</span>(<span class="dt">data =</span> gap_to_plot, <span class="kw">aes</span>(<span class="dt">x =</span> year, <span class="dt">y =</span> gdpPercap_cummean)) <span class="op">+</span><span class="st"> </span>
+<span class="st">    </span><span class="kw">geom_point</span>() <span class="op">+</span>
+<span class="st">    </span>## add title and save
+<span class="st">    </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="kw">paste</span>(cntry, <span class="st">&quot;GDP per capita&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot; &quot;</span>))
+  
+  ## if estimated, add that as a subtitle. 
+  <span class="cf">if</span> (<span class="kw">any</span>(gap_to_plot<span class="op">$</span>estimated <span class="op">==</span><span class="st"> &quot;yes&quot;</span>)) { <span class="co"># any() will return a single TRUE or FALSE</span>
+    
+    <span class="kw">print</span>(<span class="kw">paste</span>(cntry, <span class="st">&quot;data are estimated&quot;</span>))
+    
+    my_plot &lt;-<span class="st"> </span>my_plot <span class="op">+</span>
+<span class="st">      </span><span class="kw">labs</span>(<span class="dt">subtitle =</span> <span class="st">&quot;Estimated data&quot;</span>)
+  } <span class="cf">else</span> {
+    
+    my_plot &lt;-<span class="st"> </span>my_plot <span class="op">+</span>
+<span class="st">      </span><span class="kw">labs</span>(<span class="dt">subtitle =</span> <span class="st">&quot;Reported data&quot;</span>)
+    
+    <span class="kw">print</span>(<span class="kw">paste</span>(cntry, <span class="st">&quot;data are reported&quot;</span>))
+    
+  }
+  <span class="kw">ggsave</span>(<span class="dt">filename =</span> <span class="kw">paste</span>(<span class="st">&quot;figures/Europe/&quot;</span>, cntry, <span class="st">&quot;_gdpPercap_cummean.png&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot;&quot;</span>), 
+         <span class="dt">plot =</span> my_plot)
+  
+} </code></pre></div>
+<p>Note that this works because we know there are only two conditions, <code>Estimated == yes</code> and <code>Estimated == no</code>. In the first <code>if</code> statement we asked for estimated data, and the <code>else</code> condition gives us everything else (which we know is reported). We can be explicit about setting these conditions in the <code>else</code> clause by instead using an <code>else if</code> statement. Below is how you would construct this in your for loop, similar to above:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">  <span class="cf">if</span> (<span class="kw">any</span>(gap_to_plot<span class="op">$</span>estimated <span class="op">==</span><span class="st"> &quot;yes&quot;</span>)) { <span class="co"># any() will return a single TRUE or FALSE</span>
+    
+    <span class="kw">print</span>(<span class="kw">paste</span>(cntry, <span class="st">&quot;data are estimated&quot;</span>))
+    
+    my_plot &lt;-<span class="st"> </span>my_plot <span class="op">+</span>
+<span class="st">      </span><span class="kw">labs</span>(<span class="dt">subtitle =</span> <span class="st">&quot;Estimated data&quot;</span>)
+  } <span class="cf">else</span> <span class="cf">if</span> (<span class="kw">any</span>(gap_to_plot<span class="op">$</span>estimated <span class="op">==</span><span class="st"> &quot;no&quot;</span>)){
+    
+    my_plot &lt;-<span class="st"> </span>my_plot <span class="op">+</span>
+<span class="st">      </span><span class="kw">labs</span>(<span class="dt">subtitle =</span> <span class="st">&quot;Reported data&quot;</span>)
+    
+    <span class="kw">print</span>(<span class="kw">paste</span>(cntry, <span class="st">&quot;data are reported&quot;</span>))
+    
+  }</code></pre></div>
+<p>This construction is necessary if you have more than two conditions to test for.</p>
+</div>
+</div>
+<div id="more-r" class="section level2">
+<h2><span class="header-section-number">8.6</span> More R!</h2>
+<p>With just a little bit of time left, here are some things that you can look into more on your own.</p>
+<div id="importing-and-installing" class="section level3">
+<h3><span class="header-section-number">8.6.1</span> Importing and Installing</h3>
+<p>Here are some really helpful packages for you to work with:</p>
+<p>Remember you’ll use <code>install.packages(&quot;package-name-in-quotes&quot;)</code> to install from CRAN.</p>
+<ul>
+<li><code>readr</code> to read in .csv files</li>
+<li><code>readxl</code> to read in Excel files</li>
+<li><code>stringr</code> to work with strings</li>
+<li><code>lubridate</code> to work with dates</li>
+</ul>
+<p>You are also able to install packages directly with Github, using the <code>devtools</code> package. Then, instead of <code>install.packages()</code>, you’ll use <code>devtools::install_github()</code>. And you can create <em>your own</em> packages when you’re ready. Read <a href="http://r-pkgs.had.co.nz/" class="uri">http://r-pkgs.had.co.nz/</a> to learn how!</p>
+</div>
+<div id="organization-and-workflows" class="section level3">
+<h3><span class="header-section-number">8.6.2</span> Organization and workflows</h3>
+<ul>
+<li>set up a folder for figs, intermediate analyses, final outputs, figures</li>
+</ul>
+</div>
+<div id="getting-help" class="section level3">
+<h3><span class="header-section-number">8.6.3</span> Getting help</h3>
+<p>You’ll soon have questions that are outside the scope of this workshop, how do you find answers?</p>
+<ul>
+<li>end with a ton of resources: <a href="https://peerj.com/collections/50-practicaldatascistats/" class="uri">https://peerj.com/collections/50-practicaldatascistats/</a></li>
+</ul>
+</div>
+</div>
+<div id="ideas-for-extended-analysis-2" class="section level2">
+<h2><span class="header-section-number">8.7</span> Ideas for Extended Analysis 2</h2>
+<ul>
+<li>stringr() <a href="http://r4ds.had.co.nz/strings.html" class="uri">http://r4ds.had.co.nz/strings.html</a></li>
+</ul>
+
+</div>
+</div>
+<script src="lib/js/jquery.min.js"></script>
+<script src="lib/js/bootstrap.min.js"></script>
+<script src="lib/js/lesson.js"></script>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="tidyr.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="collaborating.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"google": false,
+"linkedin": false,
+"weibo": false,
+"instapper": false,
+"vk": false,
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/OHI-Science/data-science-training/edit/master/programming.Rmd",
+"text": "Edit"
+},
+"download": ["data-science-training.pdf"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
