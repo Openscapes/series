@@ -1,6 +1,6 @@
 --- 
-title: "Introduction to Open Data Science"
-author: "The Ocean Health Index Team"
+title: "Openscapes Champions Lesson Series"
+author: "Openscapes"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 # output: bookdown::gitbook
@@ -11,6 +11,8 @@ link-citations: yes
 github-repo: ohi-science/data-science-training
 description: "This is official open data science training for the Ocean Health Index."
 ---
+
+IN DEVELOPMENT! THIS IS A PLACEHOLDER!
 
 # Welcome {#welcome}
 
