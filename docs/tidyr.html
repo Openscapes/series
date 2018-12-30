@@ -5,27 +5,27 @@
 
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Chapter 7 Data Wrangling: tidyr | Openscapes Champions Lesson Series</title>
-  <meta name="description" content="This is official open data science training for the Ocean Health Index.">
+  <title>Chapter 7 Data Wrangling: tidyr | Openscapes Champions Series</title>
+  <meta name="description" content="This is the official lesson series for the Openscapes Champions program.">
   <meta name="generator" content="bookdown  and GitBook 2.6.7">
 
-  <meta property="og:title" content="Chapter 7 Data Wrangling: tidyr | Openscapes Champions Lesson Series />
+  <meta property="og:title" content="Chapter 7 Data Wrangling: tidyr | Openscapes Champions Series />
   <meta property="og:type" content="book" />
   
   
-  <meta property="og:description" content="This is official open data science training for the Ocean Health Index." />
-  <meta name="github-repo" content="ohi-science/data-science-training" />
+  <meta property="og:description" content="This is the official lesson series for the Openscapes Champions program." />
+  <meta name="github-repo" content="openscapes/lesson-series" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 7 Data Wrangling: tidyr | Openscapes Champions Lesson Series />
+  <meta name="twitter:title" content="Chapter 7 Data Wrangling: tidyr | Openscapes Champions Series />
   
-  <meta name="twitter:description" content="This is official open data science training for the Ocean Health Index." />
+  <meta name="twitter:description" content="This is the official lesson series for the Openscapes Champions program." />
   
 
 <meta name="author" content="Openscapes">
 
 
-<meta name="date" content="2018-12-17">
+<meta name="date" content="2018-12-30">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -114,16 +114,15 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 
 <li class="divider"></li>
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome</a></li>
-<li class="chapter" data-level="2" data-path="overview.html"><a href="overview.html"><i class="fa fa-check"></i><b>2</b> Overview</a><ul>
-<li class="chapter" data-level="2.1" data-path="overview.html"><a href="overview.html#what-to-expect"><i class="fa fa-check"></i><b>2.1</b> What to expect</a></li>
-<li class="chapter" data-level="2.2" data-path="overview.html"><a href="overview.html#what-youll-learn"><i class="fa fa-check"></i><b>2.2</b> What you’ll learn</a><ul>
-<li class="chapter" data-level="2.2.1" data-path="overview.html"><a href="overview.html#tidy-data-workflow"><i class="fa fa-check"></i><b>2.2.1</b> Tidy data workflow</a></li>
-</ul></li>
-<li class="chapter" data-level="2.3" data-path="overview.html"><a href="overview.html#learning-with-data-that-are-not-your-own"><i class="fa fa-check"></i><b>2.3</b> Learning with data that are not your own</a></li>
-<li class="chapter" data-level="2.4" data-path="overview.html"><a href="overview.html#emphasizing-collaboration"><i class="fa fa-check"></i><b>2.4</b> Emphasizing collaboration</a></li>
-<li class="chapter" data-level="2.5" data-path="overview.html"><a href="overview.html#by-the-end-of-the-course"><i class="fa fa-check"></i><b>2.5</b> By the end of the course…</a></li>
-<li class="chapter" data-level="2.6" data-path="overview.html"><a href="overview.html#prerequisites"><i class="fa fa-check"></i><b>2.6</b> Prerequisites</a></li>
-<li class="chapter" data-level="2.7" data-path="overview.html"><a href="overview.html#credit"><i class="fa fa-check"></i><b>2.7</b> Credit</a></li>
+<li class="chapter" data-level="2" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>2</b> Introduction</a><ul>
+<li class="chapter" data-level="2.1" data-path="introduction.html"><a href="introduction.html#what-to-expect"><i class="fa fa-check"></i><b>2.1</b> What to expect</a></li>
+<li class="chapter" data-level="2.2" data-path="introduction.html"><a href="introduction.html#what-youll-learn"><i class="fa fa-check"></i><b>2.2</b> What you’ll learn</a></li>
+<li class="chapter" data-level="2.3" data-path="introduction.html"><a href="introduction.html#data-science-as-a-mindset"><i class="fa fa-check"></i><b>2.3</b> Data science as a mindset</a></li>
+<li class="chapter" data-level="2.4" data-path="introduction.html"><a href="introduction.html#lab-members-as-a-team"><i class="fa fa-check"></i><b>2.4</b> Lab members as a team</a></li>
+<li class="chapter" data-level="2.5" data-path="introduction.html"><a href="introduction.html#communities-for-learning-teaching-and-mentorship"><i class="fa fa-check"></i><b>2.5</b> Communities for learning, teaching, and mentorship</a></li>
+<li class="chapter" data-level="2.6" data-path="introduction.html"><a href="introduction.html#the-internet-as-an-unleveraged-tool-for-science-or-intro-to-julie"><i class="fa fa-check"></i><b>2.6</b> The Internet as an unleveraged tool for science (or intro to Julie?)</a></li>
+<li class="chapter" data-level="2.7" data-path="introduction.html"><a href="introduction.html#emphasizing-collaboration"><i class="fa fa-check"></i><b>2.7</b> Emphasizing collaboration</a></li>
+<li class="chapter" data-level="2.8" data-path="introduction.html"><a href="introduction.html#by-the-end-of-the-course"><i class="fa fa-check"></i><b>2.8</b> By the end of the course…</a></li>
 </ul></li>
 <li class="chapter" data-level="3" data-path="rstudio.html"><a href="rstudio.html"><i class="fa fa-check"></i><b>3</b> R &amp; RStudio, RMarkdown</a><ul>
 <li class="chapter" data-level="3.1" data-path="rstudio.html"><a href="rstudio.html#objectives-resources"><i class="fa fa-check"></i><b>3.1</b> Objectives &amp; Resources</a><ul>
@@ -343,7 +342,7 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
       <div class="body-inner">
         <div class="book-header" role="navigation">
           <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Openscapes Champions Lesson Series</a>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Openscapes Champions Series</a>
           </h1>
         </div>
 
