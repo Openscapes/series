@@ -1,0 +1,6 @@
+# Study groups {#study-groups} 
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(htmltools)
+```

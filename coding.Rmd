@@ -1,0 +1,17 @@
+# Coding practices {#coding} 
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(htmltools)
+```
+
+
+R community practices, packages efficiency tour
+
+Coding not just for statistics. For data wrangling, streamlining, organizing
+Open source languages
+RStudio
+Embrace existing practices & tools
+Shared culture for “code review”
+rOpenSci packages & community
+

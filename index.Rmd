@@ -31,9 +31,9 @@ Before you begin, be sure you are all set up: see the prerequisites in Chapter \
 
 Suggested breakdown for a 2-day workshop: 
 
-|time       |      Day 1|      Day 2|
+|Week       |      Cohort Call Topic|      Assignment|
 |:----------|----------:|----------:|
-|9-10:30    |  [Motivation](#overview), [R & RStudio, Rmarkdown](#rstudio) |  [Data Wrangling: `tidyr`](#tidyr) |
+|1. Table 1    |  [Openscapes overview](#overview), [Openscapes mindset](#mindset) |  [Data Wrangling: `tidyr`](#tidyr) |
 |break      |  | |
 |11-12:30   | [GitHub](#github) | [Programming](#programming) |
 |lunch      |  ||
@@ -41,4 +41,44 @@ Suggested breakdown for a 2-day workshop:
 |break      |  |  |
 |15:30-17:00 |  [Data Wrangling: `dplyr`](#dplyr) | Practice, [Be a champion for open data science](#champion) |
 
+
+
+
+Mentee topic
+Cohort Call topic
+Assignment
+Table 1
+1. Openscapes mindset
+read Lowndes et al 2017
+2. Better science in less time
+Seaside chat, Table 1
+Lab culture
+3. Lab culture
+Code of conduct
+4. Github for your lab
+Code of conduct on Github
+Coding practices
+5. R community practices, packages efficiency tour
+
+
+6. Mid-series check in
+
+
+Community
+7. Study Groups
+Start a study group
+
+
+8. 
+
+
+
+
+9. Amplify
+
+
+
+
+10. Share
 --->
+

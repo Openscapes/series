@@ -1,0 +1,12 @@
+# Github as a lab {#github} 
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(htmltools)
+```
+
+
+Discrete units: repos
+Private issues for discussions
+I interact with GH 98% through RStudio. I use Terminal for the other 2%.
+Burn it all down method

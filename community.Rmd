@@ -1,0 +1,7 @@
+# Community culture {#community} 
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(htmltools)
+```
+

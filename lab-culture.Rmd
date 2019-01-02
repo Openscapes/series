@@ -1,0 +1,7 @@
+# Lab culture {#lab-culture} 
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(htmltools)
+```
+
