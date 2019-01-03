@@ -10,3 +10,10 @@ Discrete units: repos
 Private issues for discussions
 I interact with GH 98% through RStudio. I use Terminal for the other 2%.
 Burn it all down method
+
+Also, let's talk about Google Docs. Embrace technology. Sharing permissions.
+
+Assignment idea: 
+Fill out an issue for your lab [like this one](https://github.com/MozillaFestival/open-leaders-6/issues/20)
+Setup [like this](https://github.com/MozillaFestival/open-leaders-6/blob/master/.github/ISSUE_TEMPLATE/cohort_e.md)
+And check out the [README](https://github.com/MozillaFestival/open-leaders-6#mozilla-open-leaders-6).

@@ -5,3 +5,5 @@ knitr::opts_chunk$set(echo = TRUE)
 library(htmltools)
 ```
 
+on/offboarding
+write a code of conduct — practice for how you'll write your other lab protocols.

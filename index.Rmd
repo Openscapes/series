@@ -14,13 +14,13 @@ description: "This is the official lesson series for the Openscapes Champions pr
 
 # Welcome {#welcome}
 
-This book is a lesson series that will introduce you to open practices and data science. *It is under heavy development*.
+This book is a lesson series for the Openscapes Champions program. *It is under heavy development*.
 
-It is modeled after [Mozilla's Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series).
+The Openscapes Champions program is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient and open. The program is modeled after [Mozilla's Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series).
 
 ----
 
-Openscapes is run by Julia Stewart Lowndes, a Mozilla Fellow and marine scientist at the National Center for Ecological Analysis & Synthesis (NCEAS). Learn more at [openscapes.org](https://openscapes.org).
+[Openscapes](https://openscapes.org) is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and is being incubated by a [Mozilla](https://foundation.mozilla.org/en/) Fellowship awarded to [Julia Stewart Lowndes](http://jules32.github.io).
 
 <!---
 to open data science so you can work with data in an open, reproducible, and collaborative way. Open data science means that methods, data, and code are available so that others can access, reuse, and build from it without much fuss. Here you will learn a workflow with R, RStudio, Git, and GitHub, as we describe in [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160).
