@@ -1,6 +1,6 @@
 --- 
 title: "Openscapes Champions Series"
-author: "Openscapes"
+author: "Openscapes Team"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 # output: bookdown::gitbook
@@ -8,7 +8,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: openscapes/lesson-series
+github-repo: openscapes/series
 description: "This is the official lesson series for the Openscapes Champions program."
 ---
 
@@ -16,7 +16,15 @@ description: "This is the official lesson series for the Openscapes Champions pr
 
 This book is a lesson series for the Openscapes Champions program. *It is under heavy development*.
 
-The Openscapes Champions program is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient and open. The program is modeled after [Mozilla's Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series).
+The Openscapes Champions program is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient and open. The lessons were developed from [Our path to better science in less time](), using the topics discussed in that paper as a guide.
+
+
+
+
+
+The program is modeled after [Mozilla's Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series).
+
+
 
 ----
 

@@ -2,6 +2,9 @@
 
 Welcome. 
 
+The first half of the series focuses on the lab, and then opening up beyond the lab. 
+
+
 *In this training you will learn R, RStudio, Git, and GitHub. It's going to be fun and empowering! You will learn a reproducible workflow that can be used in research and analyses of all kinds, including Ocean Health Index assessments. This is really powerful, cool stuff, and not just for data: I made and published this book using those four tools and workflow.*
 
 ## Why we're here
@@ -29,7 +32,11 @@ There are no skills required to participate, and we will not be teaching how to 
 - analysis_final_v2.xlsx
 - Re:FWD:Fwd:Data question
 
-*The plan is to expose you to a lot of great tools that you can have confidence using in your research. You'll be working hands-on and doing the same things on your own computer as we do live on up on the screen. We're going to go through a lot in these two days and it's less important that you remember it all. More importantly, you'll have experience with it and confidence that you can do it. The main thing to take away is that there are good ways to approach your analyses; we will teach you to expect that so you can find what you need and use it! A theme throughout is that tools exist and are being developed by real, and extraordinarily nice, people to meet you where you are and help you do what you need to do. If you expect and appreciate that, you will be more efficient in doing your awesome science.*
+We'll talk about tools and practices broadly, but also with specific examples using R and GitHub. Yes, software will change, but seeing what is possible and becoming versed in embracing existing architecture and practices can save a lot of time — and will be transferrable skills as the actual software changes. Analogy: if you learn one musical instrument, you will be able to learn another one more fluidly than if you have never learned one to begin with.
+
+The plan is to expose you to a lot of great tools and practices that you can have confidence using in your research. The point is to expose you to what is possible and help you start planning and also actually incrementally weaving them into your existing workflows. The point is not to overwhelm you or make you feel like it's too late for you or that you would need to throw out and redo everything you've ever done in order to take the first step. No. By seeing what's possible and how shared practices can make your own life easier, and life easier and more streamlined and fun with your lab and beyond, you'll start experimenting with these practices and in a few years you will be working in a completely different way. 
+
+*You'll be working hands-on and doing the same things on your own computer as we do live on up on the screen. We're going to go through a lot in these two days and it's less important that you remember it all. More importantly, you'll have experience with it and confidence that you can do it. The main thing to take away is that there are good ways to approach your analyses; we will teach you to expect that so you can find what you need and use it! A theme throughout is that tools exist and are being developed by real, and extraordinarily nice, people to meet you where you are and help you do what you need to do. If you expect and appreciate that, you will be more efficient in doing your awesome science.*
 
 You are all welcome here, please be respectful of one another. You are encouraged to help each other. 
 
@@ -42,6 +49,11 @@ Everyone in this workshop is coming from a different place with different experi
 - bookdown
 - websites
 - shiny
+- github for project management
+  - organize by *project*, i.e., keep that code and those methods in same parent folder, rather than all the R code you've ever written being in a giant folder, spanning projects
+  - public & private issues, tagging people on commits, kaban board
+
+Live: fix a tpyo and republish the book/page
 
 Personal:
 - I don't have all the answers, but I expect them and know how to look
@@ -60,6 +72,12 @@ Seaside chats
 Study groups
 Become Champions – for your labs, departments, communities.
 
+### Assignments
+
+There will be assignments between each call that should take about two hours over two weeks. Assignments are designed to be done during lab "data chats", weekly meetings to discuss data workflows and establish shared practices. 
 
 
+## Additional reading
+
+Practical Computing for Biologists. Introduction to the Terminal/command line, introduction to regular expressions. Chapter 2 alone. 
 
