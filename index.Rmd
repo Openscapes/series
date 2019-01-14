@@ -1,6 +1,6 @@
 --- 
 title: "Openscapes Champions Series"
-author: "Openscapes Team"
+author: "Julie Lowndes"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 # output: bookdown::gitbook
@@ -16,24 +16,20 @@ description: "This is the official lesson series for the Openscapes Champions pr
 
 This book is a lesson series for the Openscapes Champions program. *It is under heavy development*.
 
-The Openscapes Champions program is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient and open. The lessons were developed from [Our path to better science in less time](), using the topics discussed in that paper as a guide.
+The Openscapes Champions program is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient and open. We've been building Openscapes from an open data science angle, but along with that comes the mindset of openness, collaboration, good intentions, and creating the culture we want in science. 
+
+The Series is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). That paper is a retrospective of how a team's data workflow changed over four years; the Openscapes Series aims to help guide other labs to incrementally make progress themselves, no matter where they are starting from. The first half of the Series focuses on efficiency and open culture within the lab, and the second half is about sustained learning and bring these practices to the broader campus community.
 
 
 
-
-
-The program is modeled after [Mozilla's Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series).
-
-
+This Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning.
 
 ----
 
 [Openscapes](https://openscapes.org) is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and is being incubated by a [Mozilla](https://foundation.mozilla.org/en/) Fellowship awarded to [Julia Stewart Lowndes](http://jules32.github.io).
 
 <!---
-to open data science so you can work with data in an open, reproducible, and collaborative way. Open data science means that methods, data, and code are available so that others can access, reuse, and build from it without much fuss. Here you will learn a workflow with R, RStudio, Git, and GitHub, as we describe in [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160).
 
-This is going to be fun, because learning these open data science tools and practices is empowering! This training book is written (and always improving) so you can use it as self-paced learning, or it can be used to teach an in-person workshop where the instructor live-codes. Either way, you should do everything hands-on on your own computer as you learn. 
 
 Before you begin, be sure you are all set up: see the prerequisites in Chapter \@ref(overview). 
 

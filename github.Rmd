@@ -6,12 +6,18 @@ library(htmltools)
 ```
 
 
+Also about project organization. repos+Rproj
+
 Discrete units: repos
 Private issues for discussions
 I interact with GH 98% through RStudio. I use Terminal for the other 2%.
 Burn it all down method
 
 Also, let's talk about Google Docs. Embrace technology. Sharing permissions.
+
+How easy is it to navigate through and find stuff? (not sifting through a zoo of files)
+How many people use it (your collaborators and beyond)
+Sharing permissions
 
 Assignment idea: 
 Fill out an issue for your lab [like this one](https://github.com/MozillaFestival/open-leaders-6/issues/20)

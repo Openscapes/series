@@ -15,3 +15,6 @@ Embrace existing practices & tools
 Shared culture for “code review”
 rOpenSci packages & community
 
+## Additional Reading
+
+[Lai et al 2019. Evaluating the popularity of R in ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2567)

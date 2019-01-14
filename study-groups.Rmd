@@ -4,3 +4,9 @@
 knitr::opts_chunk$set(echo = TRUE)
 library(htmltools)
 ```
+
+AKA Coding club!
+Or hacky hours
+Or RLadies!
+
+https://twitter.com/satRdays_org
