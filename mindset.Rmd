@@ -24,6 +24,9 @@ We are going to talk about how to make the data experience better, for you, your
 ## Data science as a discipline
 This could also be titled "Data science is a thing". 
 
+No matter what your study system or your question, to Do Your Science you will need to get your data
+into analytical software, wrangle it (tidy and transform), and make sense of it visually and with models. Very important here: tidy your data first, don't build your whole analysis around whatever weird format your data may have come in. We'll talk about tidy data in more detail another day. 
+
 ![](img/r4ds_data-science.png)
 [R for Data Science]()
 

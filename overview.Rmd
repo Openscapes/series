@@ -58,9 +58,14 @@ Shame is not allowed here. No "I'm 34 and haven't learned GitHub, it's too late 
 
 Vulnerability, however, will be involved in this Series. Vulnerability is a big part of learning and trying new things — this is a safe place for everyone to learn. Vulnerability is taking stock of where you are now and help you map out where you want to be. Being vulnerable is scary. But it shouldn't be lonely: we all have data confessions that would love to talk about and get help with, if only our scientific culture said that was OK; if only we knew how to articulate our questions and have someone to ask. This is a place to share our vulnerabilities to ignite real change. Ask questions. Whether it's a keyboard shortcut or philosophy of data workflows, ask and let's talk about it.
 
+
+<!---
+
 Here is some of my vulnerability: 
 
-> Two years into my PhD program, after trying to understand how to be a scientist, read All The Things that could help me formulate my thesis questions, doing shipboard fieldwork, I finally, in 2008, got my first data back: data archived on an electronic tag that had been attached to a live Humboldt squid swimming freely off the Californian coast. So cool. What was not cool was that that data file was too big to be opened in Excel — the only data analysis tool I knew. Talk about panic and demoralizing despair. Since I had the mindset that I Could Never Learn To Code, I had 2 options. My #1 option was to open this file in a text editor and *cut and paste into separate Excel tabs and do all my timeseries analysis by hand on this raw data in separate Excel tabs*. Would I be expecting to have more squid tags meaning more files of data? Yup, I would do my analyses by hand to all of those too. Open #2 was to quit my PhD program. Thankfully, I ***talked to other people about my data struggles***, and found willing, kind, mentors to help me learn how to code. 
+> Two years into my PhD program, after trying to understand how to be a scientist, read All The Things that could help me formulate my thesis questions, doing shipboard fieldwork, I finally, in 2008, got my first data back: data archived on an electronic tag that had been attached to a live Humboldt squid swimming freely off the Californian coast. So cool. What was not cool was that that data file was too big to be opened in Excel — the only data analysis tool I knew. Talk about panic and demoralizing despair. Since I had the mindset that I Could Never Learn To Code, I had 2 options. My #1 option was to open this file in a text editor and *cut and paste into separate Excel tabs and do all my timeseries analysis by hand on this raw data in separate Excel tabs*. Would I be expecting to have more squid tags meaning more files of data? Yup, I would do my analyses by hand to all of those too. Option #2 was to quit my PhD program. Thankfully, I ***talked to other people about my data struggles***, and found Option #3: willing, kind, mentors to help me learn how to code. 
+
+--->
 
 ### Everyone is welcome here 
 
@@ -122,7 +127,7 @@ aka Outcomes.
   - stated **code of conduct** or lab philosophy
   - beginnings of a lab **roadmap** of shared data workflows
 - A growing community of practice on campus 
-  - study groups / **coding clubs** (ex: Eco-Data-Science)
+  - study groups / **coding clubs** (ex: [Eco-Data-Science](http://eco-data-science.github.io/))
   - hacky hours
 
 

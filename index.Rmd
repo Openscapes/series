@@ -14,7 +14,7 @@ description: "This is the official lesson series for the Openscapes Champions pr
 
 # Welcome {#welcome}
 
-This book is a lesson series for the Openscapes Champions program. *It is under heavy development*.
+This book is a lesson series for the Openscapes Champions program. ***It is under heavy development***.
 
 Openscapes Champions is a mentorship program that empowers environmental scientists with open data science tools and grows the community of practice. We mentor early career environmental researchers in leadership roles – faculty, lecturers, program managers, and others who want to establish open data science practices in their labs and on their campuses. It is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient and open. We've been building Openscapes from an open data science angle, but along with that comes the mindset of openness, collaboration, good intentions, and creating the culture we want in science. 
 
@@ -22,13 +22,14 @@ The Series is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: 
 
 This Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it's created with the same tools and practices we will be talking about: R and RStudio — specifially [bookdown](https://bookdown.org/yihui/bookdown/) — and GitHub. 
 
+
 ----
 
 [Openscapes](https://openscapes.org) is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and is being incubated by a [Mozilla](https://foundation.mozilla.org/en/) Fellowship awarded to [Julia Stewart Lowndes](http://jules32.github.io).
 
 <!---
-
-
+resize:
+![](img/openscapes_hex_design_final_correct_dimensions.png)
 Before you begin, be sure you are all set up: see the prerequisites in Chapter \@ref(overview). 
 
 Suggested breakdown for a 2-day workshop: 
