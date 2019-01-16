@@ -16,11 +16,11 @@ description: "This is the official lesson series for the Openscapes Champions pr
 
 This book is a lesson series for the Openscapes Champions program. *It is under heavy development*.
 
-The Openscapes Champions program is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient and open. We've been building Openscapes from an open data science angle, but along with that comes the mindset of openness, collaboration, good intentions, and creating the culture we want in science. 
+Openscapes Champions is a mentorship program that empowers environmental scientists with open data science tools and grows the community of practice. We mentor early career environmental researchers in leadership roles – faculty, lecturers, program managers, and others who want to establish open data science practices in their labs and on their campuses. It is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient and open. We've been building Openscapes from an open data science angle, but along with that comes the mindset of openness, collaboration, good intentions, and creating the culture we want in science. 
 
-The Series is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). That paper is a retrospective of how a team's data workflow changed over four years; the Openscapes Series aims to help guide other labs to incrementally make progress themselves, no matter where they are starting from. The first half of the Series focuses on efficiency and open culture within the lab, and the second half is about sustained learning and bring these practices to the broader campus community.
+The Series is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). That paper is a retrospective of how a team's data workflow changed over four years; the Openscapes Series aims to help guide other labs to incrementally make similar progress themselves, no matter where they are starting from. The first half of the Series focuses on efficiency and open culture within the lab, and the second half is about sustained learning and bring these practices to the broader campus community. *Note: "lab" is broadly defined*.
 
-This Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning.
+This Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it's created with the same tools and practices we will be talking about: R and RStudio — specifially [bookdown](https://bookdown.org/yihui/bookdown/) — and GitHub. 
 
 ----
 

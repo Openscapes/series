@@ -16,7 +16,7 @@ Data analysis can be inefficient and demoralizing when you’re without the righ
 
 But! Open tools, practices, and communities exist that are powerful and empowering, and game-changing for science. And we can learn and use open practices for science.
 
-They are like the Force from Star Wars (IMHO): 
+They are like the Force from Star Wars: 
 
 - More powerful than you ever imagined
 - Helps you solve your current question powerfully – but also broadens the scope of the questions you can ask
