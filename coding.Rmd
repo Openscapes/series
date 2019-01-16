@@ -6,7 +6,7 @@ library(htmltools)
 ```
 
 
-R community practices, packages efficiency tour
+## R community practices, packages efficiency tour
 
 Coding not just for statistics. For data wrangling, streamlining, organizing
 Open source languages

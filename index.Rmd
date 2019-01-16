@@ -20,8 +20,6 @@ The Openscapes Champions program is designed to meet scientists where they are a
 
 The Series is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). That paper is a retrospective of how a team's data workflow changed over four years; the Openscapes Series aims to help guide other labs to incrementally make progress themselves, no matter where they are starting from. The first half of the Series focuses on efficiency and open culture within the lab, and the second half is about sustained learning and bring these practices to the broader campus community.
 
-
-
 This Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning.
 
 ----

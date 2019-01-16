@@ -6,6 +6,20 @@ library(htmltools)
 ```
 
 
+## Collaborative tools and shared practices
+
+Maybe that should be the title of this chapter. 
+
+Things to tour/cover:
+
+- Github as a lab
+- Google drive as a lab
+- Naming things
+- WTF, Happy Git With R
+- ...
+
+## Github in a Nutshell
+
 Also about project organization. repos+Rproj
 
 Discrete units: repos
@@ -19,7 +33,35 @@ How easy is it to navigate through and find stuff? (not sifting through a zoo of
 How many people use it (your collaborators and beyond)
 Sharing permissions
 
+
+## Naming things
+
+Jenny Bryan wizardry
+
+https://speakerdeck.com/jennybc/how-to-name-files?slide=8
+
+And about the naming. I think the dates in the files represent the dates of the samples or the dates of the processing; they are not dates for versioning. So they are statics dates that are actual data that can be parsed, not bookkeeping that git will take care of for you. You may not need to have dates of any kind in the name, depending on what the files are and the information important to that data that you want to include in the name. 
+
+
+## Happy Git with R
+
+More Jenny Bryan wizardry
+
+https://happygitwithr.com/
+
+## What They Forgot
+
+Even more Jenny Bryan wizardry
+
+whattheyforgot.org
+
+
+
+<!---
 Assignment idea: 
-Fill out an issue for your lab [like this one](https://github.com/MozillaFestival/open-leaders-6/issues/20)
+
+- Fill out an issue for your lab [like this one](https://github.com/MozillaFestival/open-leaders-6/issues/20)
 Setup [like this](https://github.com/MozillaFestival/open-leaders-6/blob/master/.github/ISSUE_TEMPLATE/cohort_e.md)
 And check out the [README](https://github.com/MozillaFestival/open-leaders-6#mozilla-open-leaders-6).
+
+--->
