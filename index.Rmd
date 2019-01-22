@@ -25,6 +25,17 @@ This Series is written (and always improving) to be used as a reference, to teac
 
 ----
 
+This series is taught over a five-month period, with two Cohort Calls each month with Champions and their lab members. 
+
+Agendas and slides are all available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), and identified individually here:
+
+|Topics     | Chapters|      Slides|
+|:----------|:----------|:----------|
+|1. Openscapes overview & mindset. [Agenda](https://drive.google.com/open?id=1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU)  | [overview](#overview), [mindset](#mindset) |  [overview](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing), [mindset](https://docs.google.com/presentation/d/1ePdaUE77BxVpnUUAOolG5WdeINhSZXnfIegmnYw8QVU/edit?usp=sharing) |
+|1. Better science in less time.||  |
+
+----
+
 [Openscapes](https://openscapes.org) is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and is being incubated by a [Mozilla](https://foundation.mozilla.org/en/) Fellowship awarded to [Julia Stewart Lowndes](http://jules32.github.io).
 
 <!---
@@ -32,17 +43,6 @@ resize:
 ![](img/openscapes_hex_design_final_correct_dimensions.png)
 Before you begin, be sure you are all set up: see the prerequisites in Chapter \@ref(overview). 
 
-Suggested breakdown for a 2-day workshop: 
-
-|Week       |      Cohort Call Topic|      Assignment|
-|:----------|----------:|----------:|
-|1. Table 1    |  [Openscapes overview](#overview), [Openscapes mindset](#mindset) |  [Data Wrangling: `tidyr`](#tidyr) |
-|break      |  | |
-|11-12:30   | [GitHub](#github) | [Programming](#programming) |
-|lunch      |  ||
-|13:30-15:00 |  [Visualization: `ggplot2`](#ggplot2) | [Collaborating with GitHub](#collaborating) |
-|break      |  |  |
-|15:30-17:00 |  [Data Wrangling: `dplyr`](#dplyr) | Practice, [Be a champion for open data science](#champion) |
 
 
 
