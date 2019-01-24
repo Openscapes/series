@@ -6,6 +6,13 @@ We will highlight some concepts brought up in
 
 [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). 
 
+
+
+## A few high level things
+
+
+<!---
+
 Also, see interviews (i.e. shorter summaries) about it: 
 
 - lab’s workflows & shared practices for data analysis
@@ -51,66 +58,17 @@ SHOW don't tell
 
 (Table 1)
 
-### Code now, in R. 
+--->
 
 ### Seaside chats
 
-### Study groups
+### Pathway
 
 
 
 
 
-## Influencers
-
-Examples of what influenced our change — some explicit from the paper and some others
-
-### Twitter 
-I gave a few examples last week, here are a few more:
-(1 more example)
-
-How Twitter improved my ecological model. R-bloggers https://www.r-bloggers.com/how-twitter-improved-my-ecological-model/ (26 February 2015).
-
-### NSSD podcast 
-
-Not So Standard Deviations
-
-- example with Jenny Bryan
-
-### Articles 
-
-Barone, L., Williams, J. & Micklos, D. Unmet needs for analyzing biological big data: A survey of 704 NSF principal investigators. Preprint at bioRxiv https://doi.org/10.1101/108555 (2017).
-
-Wolkovich, E. M., Regetz, J. & O’Connor, M. I. Advances in global change research require open science by individual researchers. Global Change Biol. 18, 2102–2110 (2012).
-
-Goodman, A. et al. Ten simple rules for the care and feeding of scientific data. PLoS Comput. Biol. 10, e1003542 (2014).
-
-White, E. P. et al. Nine simple ways to make it easier to (re)use your data. Ideas Ecol. Evol. http://doi.org/10.4033/iee.2013.6b.6.f (2013).
-
-Kervin, K., Michener, W. & Cook, R. Common errors in ecological data sharing. J. eScience Librarianship http://dx.doi.org/10.7191/jeslib.2013.1024 (2013).
-
-Tuyl, S. V. & Whitmire, A. L. Water, water, everywhere: defining and assessing data sharing in academia. PLoS ONE 11, e0147942 (2016).
-
-Mills, B. Introducing mozilla science study groups. Mozilla https://science.mozilla.org/blog/introducing-mozilla-science-study-groups (22 April 2015).
-
-Haddock, S. H. & Dunn, C. W. Practical Computing for Biologists (Sinauer Associates, 2011).
-
-Wickham, H. Tidy data. J. Stat. Softw. 59, 1–23 (2014).
-
-Ram, K. Git can facilitate greater reproducibility and increased transparency in science. Source Code Biol. Med. 8, 7 (2013).
-
-Blischak, J. D., Davenport, E. R. & Wilson, G. A quick introduction to version control with git and GitHub. PLoS Comput. Biol. 12, e1004668 (2016).
-
-Duhigg, C. What Google learned from its quest to build the perfect team. The New York Times (25 February 2016).
-
-### Media
-
-
-
-### Interviews 
-- Jenny Bryan
-
-### Blogs & Tutorials
+<!---
 
 Broman, K. Initial steps toward reproducible research. http://kbroman.org/steps2rr/ (2016).
 
@@ -118,13 +76,7 @@ Carly Strasser
 
 Fischetti, T. How dplyr replaced my most common r idioms. StatsBlogs http://www.onthelambda.com/2014/02/10/how-dplyr-replaced-my-most-common-r-idioms/ (10 February 2014).
 
-## Interviews about this
-
-
-
-## Additional Reading
-
-- Good Enough Practices. 
+--->
 
 <!---
 ## Slides
