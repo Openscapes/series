@@ -10,6 +10,11 @@ We will highlight some concepts brought up in
 
 ## A few high level things
 
+### Figure 1
+
+### Shared workflows not only useful for shared projects
+
+
 
 <!---
 
