@@ -35,7 +35,7 @@ Call agendas and slides are all available in a [Google Folder](https://drive.goo
 
 Topics           | Chapters|      Slides
 ------------------|----------------------|---------------------------
-1. Openscapes overview & mindset. <br>  [Agenda](https://drive.google.com/open?id=1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU) | [overview](#overview), [mindset](#mindset) |  [overview](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing), [mindset](https://docs.google.com/presentation/d/1ePdaUE77BxVpnUUAOolG5WdeINhSZXnfIegmnYw8QVU/edit?usp=sharing) 
+1. Openscapes overview & mindset. <br>  [Agenda](https://drive.google.com/open?id=1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU) | [overview](#overview), [mindset](#mindset) |  [overview](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing), [mindset](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing) 
 2. Better science in less time. <br> [Agenda](https://docs.google.com/document/d/1F4fatp_PLMEm6XbinxZDQjOQ8w1HYSAegmftM4Cm4E8/edit?usp=sharing) | [better science in less time](#bsilt) | [better science in less time](https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing), [data interlude](https://docs.google.com/presentation/d/1YnHR1OqtpH4LkVaNBF8LhLGPUUx7mDysw4YAR7mKKfE/edit?usp=sharing) 
 
 <br>
