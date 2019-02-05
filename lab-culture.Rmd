@@ -11,6 +11,12 @@ Positive, inclusive lab environment.
 
 Safety and accessibility as parts of inclusion and empowerment.
 
+Add reslience to your lab. If someone needs to leave for a family emergency, materinty/paternity leave, vacation, set yourselves up so your lab continue smoothly/ — Angela Bassa RStudio talk
+
+Opportunity cost of not doing this. Burnout, people leaving science. 
+
+Panel: hp: in academia there is only one thing, and it's being smart
+
 ## Code of Conduct
 
 aka lab philosophy, community participation guidelines, working agreement...
@@ -26,6 +32,10 @@ Examples:
 seaside chats a great thing to help onboard.  
 
 
+Onboarding:::: they won't know what questions to ask. Provide structure. And be deliberate about the culture. Have you tried to instill culture, or hoping it will be organic? Have to build trust and be intentional - Angela Bassa 
+
+- Chaos monkeys -- resilience in teams like Netflix. Still give a product. Like teams: maternity leave, confs--- enable them but don't have your system fail without them
+
 Also, offboarding.
 
 Examples: 
@@ -33,4 +43,36 @@ Examples:
 - our lab codes, in these preferred languages. 
 - we have shared practices for where we store data, etc, and we help each other learn 
 
+## Hackathons
 
+"hackathon" "documentation party". We are smart people, we have good logic. Document so that you remember, and others as well.
+
+## Seaside chats
+
+First off, I love "Fishbowl" chats! That is awesome.
+
+You can see what feels right to you but I would suggest keeping the separate. It might make sense to have the coding club less frequently; we started off as 1x/month but our Seaside Chats are each week. Here are some reasons I think it's good to have them separate – and I'll think more about this too and we can discuss more as a group (I was planning to introduce this in Cohort Calls in a few weeks but I can bump it forward too).
+
+Fishbowl is a place to discuss things that are more lab-specific
+Purpose: create deliberate lab culture and have shared organization and approaches to more fluidly as a lab (despite studying different things) and make onboarding easier for everyone
+Process: discussion built off of a specific topic that someone may have spent time preparing
+Examples:
+
+        where we keep data
+        how we share code with Malin and each other
+        how we onboard new team members
+        skill-share lab-specific techniques (genomics packages, etc)
+        I have some code on X technique/stats/model I'd love to walk through
+        I'm making a figure and would love feedback
+
+
+Coding club is a place to skill-share to learn new coding/data science skills hands-on through tutorials. Not lab-specific; it can start with you but great if you can draw interest from others on campus and grow (which you will!). Great to include others outside your lab because 1) people outside your lab will have different skills to share so you'll have bigger pool from which to learn 2) the more people on campus with these skills the more people you have to ask for help 3) distributes time involved leading outside of your lab if others are able to teach sessions
+Purpose: learn new skills not unique to your lab. Note: you don't need to create tutorials on your own; re-use other people's from online. I can help you find what you need.
+Examples:
+
+        learn R/Python/etc
+        learn package X, Y, Z (there are always awesome packages coming out: text analysis, reading data directly from google sheets, scraping data from urls or PDFs, spatial analysis, tidying model output so you can plot it easily, etc)
+        learn GitHub
+        set up GitHub with R, practice collaborating
+
+I hope this helps! Let me know if you want me to talk more about this. Our coding club called Eco-Data-Science actually is teaching text analysis in R on Feb 5 and you can Zoom in to see what it's like, or to code along if you'd like!

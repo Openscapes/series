@@ -6,6 +6,10 @@ library(htmltools)
 ```
 
 
+Opinionated analysis development. RStudio is already doing this. Reserve your mental energy for the fun part of the analysis
+
+PCFB
+
 ## R community practices, packages efficiency tour
 
 Coding not just for statistics. For data wrangling, streamlining, organizing
@@ -14,6 +18,12 @@ RStudio
 Embrace existing practices & tools
 Shared culture for “code review”
 rOpenSci packages & community
+
+Hypertidy sumner, `cartilage` miles McBain (discuss with Nick)
+
+Use spelling from ropensci, and see Arnold's slides. Also check for broken links
+
+Separate_rows amazing
 
 ## Additional Reading
 

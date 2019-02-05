@@ -10,5 +10,6 @@ library(htmltools)
 AKA Coding club!
 Or hacky hours
 Or RLadies!
+Coding club::Tidy Tuesday
 
 https://twitter.com/satRdays_org
