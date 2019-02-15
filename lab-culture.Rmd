@@ -5,74 +5,98 @@ knitr::opts_chunk$set(echo = TRUE)
 library(htmltools)
 ```
 
-## Setting the tone 
+## Why talk about lab culture?
 
-Positive, inclusive lab environment.
+### Science benefits from diversity
 
-Safety and accessibility as parts of inclusion and empowerment.
+And we need to be deliberate about welcoming and including people from diverse backgrounds.  
 
-Add reslience to your lab. If someone needs to leave for a family emergency, materinty/paternity leave, vacation, set yourselves up so your lab continue smoothly/ — Angela Bassa RStudio talk
+A few recent articles from Nature with many more links within: 
+
+- [Science benefits from diversity](https://www.nature.com/articles/d41586-018-05326-3)
+- [What does it take to make an institution more diverse?](https://www.nature.com/articles/d41586-018-05317-4)
+
+### Sexual harassment is rife in the sciences 
+
+[Sexual harassment is rife in the sciences, finds landmark US study](https://www.nature.com/articles/d41586-018-05404-6). *Existing policies to address the issue are ineffective, concludes a long-awaited report from the National Academies of Sciences, Engineering, and Medicine.*
+
+Most common form is gender harassment: it's the “put-downs as opposed to come-ons”.
+
+### Put your values forward
+
+Model the behavior you want to see in your lab & in academia. (lab, dept, campus, online)
+
+### Building trust 
+
+Have to build trust and be intentional, don’t hope for organic
+
+### Sustain the culture
+
+Overtly showing kindness & a Code of Conduct can filter out people who don’t want to be subject to its enforcement – [rOpenSci](https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/)
+
+Labs have people coming and going all the time; how do you set the tone and have it be sustainable?
+
+
+## Deliberately setting the tone 
+
+Opening remarks at RStudio::conf 2019, in front of an audience of 1700 at a global software conference, Chief Scientist Hadley Wickham announces the Code of Conduct, how to identify RStudio staff if you need help, and how to mingle with welcoming body posture to invite others to join. This set the tone of the whole conference to be the most positive I have ever attended.
+
+## Collegiality
+
+Deliberately setting the tone for collegiality.
+
+### Positive, inclusive lab environment.
+
+### Safety and accessibility as parts of inclusion and empowerment.
+
+### Reslience
+
+Add resilience to your lab. If someone needs to leave for a family emergency, maternity/paternity leave, vacation, set yourselves up so your lab continue smoothly/ — Angela Bassa RStudio talk
 
 Opportunity cost of not doing this. Burnout, people leaving science. 
 
-Panel: hp: in academia there is only one thing, and it's being smart
+<!--- Panel: hp: in academia there is only one thing, and it's being smart --->
 
-## Code of Conduct
+## Lab efficiency 
 
-aka lab philosophy, community participation guidelines, working agreement...
+Deliberately setting the tone for lab efficiency 
 
-We'll look at existing example and start discussing how you would tailor this for your lab. 
+### Team mindset: focus on similarities rather the differences. 
 
-Examples: 
-- https://ropensci.org/blog/2019/01/14/conduct/
+### Sharing & collaboration: default to assuming good intentions.
 
+### Advantage to having lab conventions 
 
-## onboarding
+But need room for different skills people come in with. 
 
-seaside chats a great thing to help onboard.  
+Reduce friction and reinventing the wheel.
 
+If they’re more efficient in python, don’t want to force R.
 
-Onboarding:::: they won't know what questions to ask. Provide structure. And be deliberate about the culture. Have you tried to instill culture, or hoping it will be organic? Have to build trust and be intentional - Angela Bassa 
+### Open software can facilitate open/shared culture 
 
-- Chaos monkeys -- resilience in teams like Netflix. Still give a product. Like teams: maternity leave, confs--- enable them but don't have your system fail without them
+This is (next week’s topic)!
 
-Also, offboarding.
+## Enabling & participating
 
-Examples: 
+### Seaside chats – discuss share data workflows
 
-- our lab codes, in these preferred languages. 
-- we have shared practices for where we store data, etc, and we help each other learn 
+From Michelle Stuart's [blog about the Pinsky Lab's first Fishbowl chat](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/): 
 
-## Hackathons
+> This open communication has leaked into the general discussion going on  in our open work space. Lab members seem more comfortable with asking  teammates for help, and it is exciting to see all of us getting on the same page with our data science."�
 
-"hackathon" "documentation party". We are smart people, we have good logic. Document so that you remember, and others as well.
+### Hackathons or documentation parties – co-create
 
-## Seaside chats
+### Social events 
 
-First off, I love "Fishbowl" chats! That is awesome.
+Get to know each other outside of work. Do some during work hours can include more people who can't participate after work
 
-You can see what feels right to you but I would suggest keeping the separate. It might make sense to have the coding club less frequently; we started off as 1x/month but our Seaside Chats are each week. Here are some reasons I think it's good to have them separate – and I'll think more about this too and we can discuss more as a group (I was planning to introduce this in Cohort Calls in a few weeks but I can bump it forward too).
+### Onboarding – how to welcome new people to your lab
 
-Fishbowl is a place to discuss things that are more lab-specific
-Purpose: create deliberate lab culture and have shared organization and approaches to more fluidly as a lab (despite studying different things) and make onboarding easier for everyone
-Process: discussion built off of a specific topic that someone may have spent time preparing
-Examples:
+### Asking for help
 
-        where we keep data
-        how we share code with Malin and each other
-        how we onboard new team members
-        skill-share lab-specific techniques (genomics packages, etc)
-        I have some code on X technique/stats/model I'd love to walk through
-        I'm making a figure and would love feedback
+Create a welcoming environment where they know where to ask for help – They won't know what questions to ask. Provide structure. 
+
+### Code of Conduct (next slide deck)  
 
 
-Coding club is a place to skill-share to learn new coding/data science skills hands-on through tutorials. Not lab-specific; it can start with you but great if you can draw interest from others on campus and grow (which you will!). Great to include others outside your lab because 1) people outside your lab will have different skills to share so you'll have bigger pool from which to learn 2) the more people on campus with these skills the more people you have to ask for help 3) distributes time involved leading outside of your lab if others are able to teach sessions
-Purpose: learn new skills not unique to your lab. Note: you don't need to create tutorials on your own; re-use other people's from online. I can help you find what you need.
-Examples:
-
-        learn R/Python/etc
-        learn package X, Y, Z (there are always awesome packages coming out: text analysis, reading data directly from google sheets, scraping data from urls or PDFs, spatial analysis, tidying model output so you can plot it easily, etc)
-        learn GitHub
-        set up GitHub with R, practice collaborating
-
-I hope this helps! Let me know if you want me to talk more about this. Our coding club called Eco-Data-Science actually is teaching text analysis in R on Feb 5 and you can Zoom in to see what it's like, or to code along if you'd like!

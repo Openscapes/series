@@ -7,13 +7,82 @@ We will highlight some concepts brought up in
 [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). 
 
 
+## OHI pathway 
+Motivated by necessity  
+Improved by possibility & community   
 
-## A few high level things
-
-### Figure 1
+Gives us more time to do other things (like focus on science)
 
 ### Shared workflows not only useful for shared projects
 
+OHI team: we work on many different projects, still use same workflows and share feedback 
+
+Shared conventions reduce friction
+
+Common ground, easier to talk about, easier to ask for help
+
+Identify collaborative opportunities
+- Reduce cognitive load
+- You don’t need to design everything from scratch
+
+Easier to find things 
+
+
+## Resources to highlight
+
+### Not so standard deviation podcast 
+
+Parker & Peng  
+<http://nssdeviations.com>  
+Great discussions about data concepts and “in the wild”  
+[Episode 9: Spreadsheet drama](http://nssdeviations.com/episode-9-spreadsheet-drama)
+
+### Practical computing for biologists 
+
+Haddock & Dunn  
+<http://practicalcomputing.org/>  
+Software & computing concepts already on your computer  
+Chapter 2: Regular expressions  
+
+## R for science communication
+
+OHI Team
+<http://ohi-science.org/betterscienceinlesstime/>
+
+Website built with R/RMarkdown & Github  
+List of media & lectures, resources  
+Interviews in Nature, rOpenSci  
+Example of what you can do ([1-hour tutorial](https://jules32.github.io/rmarkdown-website-tutorial/)) 
+
+## Seaside chats
+
+Ocean Health Index:
+
+- Standing meeting, 1hr 1x/week
+- Ours are lab members only (not the lab lead)
+- Topic planned ahead
+- Usually low effort, but not always
+  - I need to learn Zotero, I’ll share what I know by next week
+  - Hey, could you show us how you use GitHub?
+- We keep a list of topics
+  - helps with onboarding new members
+  
+## Table 1
+
+Took us a long time to make this, really difficult to parse out what we were doing so that we could improve.
+
+## Pathway
+
+Let's use the BSILT Table 1 as a way to help you think of how you work now and identify your paths forward. 
+
+Deliberately identify: 
+
+1. data workflow practices in your lab 
+22 next steps to facilitate efficiency and open culture. 
+
+Will help create protocols for shared lab practices – important for onboarding. 
+
+[example and blank doc to work from](https://docs.google.com/presentation/d/1sPoCE6J2avMDRkZl6I-x0uPW0lRkBjcpFelVmJ5_hVg/edit)
 
 
 <!---
@@ -26,48 +95,44 @@ Also, see interviews (i.e. shorter summaries) about it:
 - seaside chats
 - come for the efficiency, stay for the learning & support community
 
-## From then to now: improving reproducibility and collaboration
+ From then to now: improving reproducibility and collaboration
 
 We thought we were doing reproducible science. Compared with 5 years later: actually doing reproducible science
 
 Fig 1, Table 1. 
 
-## Reproducibility
+ Reproducibility
 
-### Data preparation: coding and documenting.
+ Data preparation: coding and documenting.
 
-### Modelling: R functions and packages.
+ Modelling: R functions and packages.
 
-### Version control.
+Version control.
 
-### Organization
+ Organization
 
-## Collaboration within our team
+ Collaboration within our team
 
-### Coding collaboratively.
+ Coding collaboratively.
 
-### Our (simplified) GitHub workflow.
+ Our (simplified) GitHub workflow.
 
-### Internal communication. 
+ Internal communication. 
 
-## Communication outside the project
+ Communication outside the project
 
-### Sharing data and code.
+Sharing data and code.
 
-### Sharing methods and instruction.
+ Sharing methods and instruction.
 
 SHOW don't tell
 
-## Box 1, Box 2
+ Box 1, Box 2
 
 
 (Table 1)
 
 --->
-
-### Seaside chats
-
-### Pathway
 
 
 
