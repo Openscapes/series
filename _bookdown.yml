@@ -9,10 +9,12 @@ rmd_files: [
   "bsilt.Rmd",
   "lab-culture.Rmd",
   "code-of-conduct.Rmd",
-  "github.Rmd",
+  "github-pub.Rmd",
+  "github-issues.Rmd",
   "coding.Rmd",
   "community.Rmd",
-  "study-groups.Rmd"]
+  "study-groups.Rmd",
+  "r-for-scicomm.Rmd"]
  # "champion.Rmd"] # from open data science training book
 delete_merged_file: true
 output_dir: "docs"

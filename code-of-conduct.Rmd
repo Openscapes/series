@@ -67,7 +67,8 @@ Examples:
 - our lab codes, in these preferred languages. 
 - we have shared practices for where we store data, etc, and we help each other learn 
 
-
+ADC coc:
+https://docs.google.com/document/d/1g5VKoKkxAcP-hm_25KJnpG3pZSkqfdOU1iFPyTjCT2s/edit
 
 "hackathon" "documentation party". We are smart people, we have good logic. Document so that you remember, and others as well.
 

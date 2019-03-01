@@ -32,10 +32,10 @@ Call agendas and slides are all available in a [Google Folder](https://drive.goo
 
 Agendas          | Chapters |      Slides
 ------------------|----------------------|---------------------------
-[1.Openscapes overview & mindset](https://drive.google.com/open?id=1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU) | [overview](#overview), [mindset](#mindset) |  [overview](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing), [mindset](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing) 
+[1. Openscapes overview & mindset](https://drive.google.com/open?id=1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU) | [overview](#overview), [mindset](#mindset) |  [overview](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing), [mindset](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing) 
 [2. Better science in less time](https://docs.google.com/document/d/1F4fatp_PLMEm6XbinxZDQjOQ8w1HYSAegmftM4Cm4E8/edit?usp=sharing) | [better science in less time](#bsilt) | [better science in less time](https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing), [data interlude](https://docs.google.com/presentation/d/1YnHR1OqtpH4LkVaNBF8LhLGPUUx7mDysw4YAR7mKKfE/edit?usp=sharing) 
 [3. Lab culture](https://docs.google.com/document/d/1zY-hzebfb7KdwxQ8e4DO_SaaufocmjKEe7HjFw8ThZY/edit?usp=sharing) | [lab culture](#lab-culture), [code of conduct](code-of-conduct) | [lab culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing), [code of conduct](https://docs.google.com/presentation/d/1eydm6NcrR_T2NwoMWYBWM682OW-qr755iYemVWL8cJg/edit?usp=sharing)
-4. Github for your lab | | 
+[4. GitHub for the lab](https://docs.google.com/document/d/1Y8_5EFbsaaH26LvqXc5NZZ66Np4JQWuSemQbCrNIjSY/edit?usp=sharing) |  [GitHub for publishing](#github-pub),  [GitHub for project management](#github-issues) | [GitHub for publishing](https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing), [GitHub for project management](https://docs.google.com/presentation/d/1JGFnZqz01Ex8h2qO3OBUHc1OiTFkAqV2ED2XFiMdN4I/edit?usp=sharing)
 5. Community coding practices | | 
 6. Mid-series check in | | 
 7. Study Groups | | 

@@ -1,0 +1,125 @@
+# Github for Publishing {#github-pub} 
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(htmltools)
+```
+
+<!---
+
+Collaborative tools and shared practices
+
+Maybe that should be the title of this chapter. 
+
+Things to tour/cover:
+
+- Github as a lab
+- Google drive as a lab
+- Naming things
+- WTF, Happy Git With R
+- ...
+
+--->
+
+
+## Preamble
+
+*Note: the [slides](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g) for this chapter have additional screenshots not included here yet*. 
+
+We are going to talk about GitHub, and learn about using it for publication and project management. We will focus on collaboration and communication with hands-on practice.
+
+We are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good for new lab members or students to contribute to your lab as soon as possible. 
+
+GitHub can reduce friction for open science: lets us publish and communicate without a lot of heavy lifting!
+
+## What is GitHub? — Traditional answer
+
+GitHub means GitHub.com; it’s a company. 
+
+It centers around git, which is powerful version control software for your local computer. This has been around for years, taking care of bookkeeping for you locally on your computer. 
+
+GitHub makes git collaborative through a powerful online platform. It will weave together all the bookkeeping from your local computer with other collaborators you work with. 
+
+It is used for code and files: organize,  archive, bookkeeping, searchable,  changes visualized, etc. 
+
+We aren’t going to teach traditional git/GitHub today, but here are 2 recommended tutorials from [OHI-Science’s data-science-training](http://ohi-science.org/data-science-training/). This teaches you how to set up GitHub to sync directly through RStudio, so that you don't have to have any other software (including the command line) open to do so: 
+
+- [GitHub](http://ohi-science.org/data-science-training/github.html)
+- [Collaborating with GitHub](http://ohi-science.org/data-science-training/collaborating.html)
+
+Note: locally, I interact with GitHub through RStudio 99.9% of the time (use command line .1% of time). There is also a chapter on [R, RStudio, and RMarkdown](http://ohi-science.org/data-science-training/rstudio.html).
+
+## What is GitHub? — Non-traditional answer
+
+### Publishing platform 
+
+It's for books, websites, interactive dashboards
+
+### Project management system 
+
+It's a project management system for short and long-term tasks. Really powerful to have collaborative todo’s in the same software (and user accounts) as all the analysis and all the people that you're already working with. 
+
+We will talk about “Issues” & “Projects” in the next chapter
+
+
+## Github framework in a nutshell
+
+### Users vs. organizations
+
+Example: jules32 vs. openscapes. You can think of them like other social media accounts: I can be an individual or part of a group, and there are permissions associated with both.
+
+### Repositories (“repos”)
+
+Repos are GitHub’s main unit. They are essentially a folder, and you'll put files and folders in them. They are contained, with permissions specific to each one. 
+
+It makes it easier to navigate through and find stuff — so you are "not sifting through a zoo of files". 
+
+### “Commits” & “commit messages”
+
+Unlike Dropbox or Google Drive that constantly sync to the cloud, you have to deliberately say when you have an amount of work that you want to be versioned and synced. You have to commit to it. GitHub takes care of the backend bookkeeping involved, but you have to write a human-readable message to your future self and others. That is the commit message. Leave breadcrumbs for yourself.
+
+### Public vs private
+
+### Search feature is awesome
+
+This helps so much for navigating through the zoo of files.
+
+## GitHub Orientation
+
+This is a demo
+
+## Editing files from GitHub. 
+
+This is also a demo, but we covered: 
+
+First a Disclaimer: you don’t want to edit from the browser for most things – you would want to “clone” the repo to your local computer and leverage more goodies & power. However, you will sometimes edit in the browser, and it’s a good entry point for us today, and maybe for onboarding folks in your lab in the future.
+
+In the demo, the example .md was a deliberate example of sharing slides from a talk :)
+
+What to do: (you all have permissions)
+
+- Go to <https://github.com/openscapes/demo>yourname.md
+- Click on the pencil to edit your file
+- Make many edits & commits with commit messages
+  - Github.com has a default message, but get into the habit of writing an actual message to yourself/others (breadcrumbs)
+- This is different from saving (cancel if you save!)
+
+
+
+<!---
+Also, let's talk about Google Docs. Embrace technology. Sharing permissions.
+How many people use it (your collaborators and beyond)
+Sharing permissions
+
+--->
+
+
+
+<!---
+Assignment idea: 
+
+- Fill out an issue for your lab [like this one](https://github.com/MozillaFestival/open-leaders-6/issues/20)
+Setup [like this](https://github.com/MozillaFestival/open-leaders-6/blob/master/.github/ISSUE_TEMPLATE/cohort_e.md)
+And check out the [README](https://github.com/MozillaFestival/open-leaders-6#mozilla-open-leaders-6).
+
+--->

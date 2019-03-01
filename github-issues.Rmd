@@ -1,0 +1,82 @@
+# Github for Project Management {#github-issues} 
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(htmltools)
+```
+
+## Preamble
+
+*Note: the [slides](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g) for this chapter have additional screenshots not included here yet*. 
+
+Using project management software is a strategy used by every software developer/person working on projects with many moving parts.
+
+Streamlines technical discussions with people who are coming/joining a group.
+
+Organizes and tracks projects that single or multiple & overlapping users can be a part of. 
+
+
+## What are Issues?
+
+Every repo has issues. 
+
+Issues “track ideas, enhancements, tasks, or bugs for work on GitHub.” - [GitHub help article](https://help.github.com/en/articles/about-issues)
+
+Create an issue for a topic, track progress, others ask questions, provide links and updates, close issue when completed
+
+Public repo – anyone with a username can create and comment on issues. 
+
+Private repo – only users with permission can create and comment on issues, or see them at all
+
+GitHub search is awesome – will search code and issues!
+
+## Issues in the Wild
+
+Examples of "traditional" and "non-traditional" use of issues: 
+
+[ggplot2](https://github.com/tidyverse/ggplot2/issues): Bug reports, code, feature, & help requests
+
+[MozillaFestival](https://github.com/MozillaFestival/mozfest-program-2018/issues): Project submissions and progress tracking
+
+OHI-Science: Private conversations and archiving (no link because this is a private repo: we use issues in place of email to have private, archived, searchable conversations about scientific methods. Instead of important science conversations lost in forwarded emails, texts, or slack, onboarding and offboarding is much smoother). 
+
+## How to use Issues
+
+(demo)
+
+Creating a new issue
+
+Writing
+
+Markdown help
+
+Commenting
+
+Tagging people
+
+Labels, Milestones, Projects, & even more
+
+## Strategies for Issues
+
+Every repo has issues, but do you want to use issues in every repo? Consider the purpose:
+- “Traditional” bug/features for code: keep it public within that repo
+- “Non-traditional” lab & science conversations: make private, think ahead: will the code/contents of that repo be made public in the future?
+
+OHI thought process & strategy:
+- Although we have many repos, sanity-wise didn’t want to have to search across repos to find a conversation (although now GH can search across organization!)
+- We also wanted our repos to be public, but to have private conversations
+- So we created a single private repo called “issues” that we only use for issues. 
+
+## Practice creating & commenting on issues
+
+- Go to github.com/openscapes/demo/issues
+- Create an issue, tag people in your breakout group (ask their username)
+- Browse issues, comment in other issues
+- Try: 
+  - Linking to your .md document 
+  - Creating a label and applying it, assigning people
+  - Adding issues to a Project (create one if need be) 
+  - Closing an issue
+- Have fun! Talk to your breakout group, share what you learn 
+
+

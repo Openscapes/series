@@ -25,6 +25,24 @@ Use spelling from ropensci, and see Arnold's slides. Also check for broken links
 
 Separate_rows amazing
 
+## Jenny Bryan Wizardry
+
+Naming things
+
+https://speakerdeck.com/jennybc/how-to-name-files?slide=8
+
+And about the naming. I think the dates in the files represent the dates of the samples or the dates of the processing; they are not dates for versioning. So they are statics dates that are actual data that can be parsed, not bookkeeping that git will take care of for you. You may not need to have dates of any kind in the name, depending on what the files are and the information important to that data that you want to include in the name. 
+
+
+### Happy Git with R
+
+https://happygitwithr.com/
+
+### What They Forgot
+
+whattheyforgot.org
+
+
 ## Additional Reading
 
 [Lai et al 2019. Evaluating the popularity of R in ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2567)
