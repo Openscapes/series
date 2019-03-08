@@ -1,5 +1,8 @@
 # Code of Conduct {#code-of-conduct} 
 
+*Please see accompanying [slides](https://docs.google.com/presentation/d/1eydm6NcrR_T2NwoMWYBWM682OW-qr755iYemVWL8cJg/edit?usp=sharing) until this chapter is built out more.*
+
+Important for: 
 
 - Conferences & workshops  
 - Online communities  

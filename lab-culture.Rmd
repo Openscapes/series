@@ -7,6 +7,8 @@ library(htmltools)
 
 ## Why talk about lab culture?
 
+*Please see accompanying [slides](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing) until this chapter is built out more.*
+
 ### Science benefits from diversity
 
 And we need to be deliberate about welcoming and including people from diverse backgrounds.  
