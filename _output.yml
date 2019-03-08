@@ -12,7 +12,7 @@ bookdown::gitbook:
         <li><a href="https://openscapes.org">← Back to openscapes.org</a></li>
       after: |
         <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/OHI-Science/data-science-training/edit/master/%s
+    edit: https://github.com/openscapes/series/edit/master/%s
     download: ["pdf"]
 #bookdown::pdf_book:
 #  includes:

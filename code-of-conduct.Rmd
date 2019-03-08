@@ -1,13 +1,9 @@
 # Code of Conduct {#code-of-conduct} 
 
-```{r, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(htmltools)
-```
 
-Conferences & workshops  
-Online communities  
-Labs & departments  
+- Conferences & workshops  
+- Online communities  
+- Labs & departments  
 
 ## Code of Conduct also known as
 
