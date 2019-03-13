@@ -142,7 +142,7 @@ Example topics from the Ocean Health Index:
 - Filepath woes 2: use the new `here` package!
 - Let’s plan a lab “hackathon” to move these .xls to .csv files we store on Github
 
-### What would you do in a Seaside Chat?
+### What would you do in a Study Group?
 
 Example lessons from [Eco-Data-Science](http://eco-data-science.github.io/) (<- all lessons linked “previous sessions”)
 
