@@ -11,7 +11,7 @@ rmd_files: [
   "code-of-conduct.Rmd",
   "github-pub.Rmd",
   "github-issues.Rmd",
-  "coding.Rmd",
+  "streamlined-code.Rmd",
   "community.Rmd",
   "study-groups.Rmd",
   "r-for-scicomm.Rmd"]

@@ -5,11 +5,11 @@
 
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Chapter 7 Github for Publishing | Openscapes Champions Series</title>
+  <title>Chapter 9 Streamlined workflows with code | Openscapes Champions Series</title>
   <meta name="description" content="This is the official lesson series for the Openscapes Champions program.">
   <meta name="generator" content="bookdown  and GitBook 2.6.7">
 
-  <meta property="og:title" content="Chapter 7 Github for Publishing | Openscapes Champions Series" />
+  <meta property="og:title" content="Chapter 9 Streamlined workflows with code | Openscapes Champions Series" />
   <meta property="og:type" content="book" />
   
   
@@ -17,7 +17,7 @@
   <meta name="github-repo" content="openscapes/series" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 7 Github for Publishing | Openscapes Champions Series" />
+  <meta name="twitter:title" content="Chapter 9 Streamlined workflows with code | Openscapes Champions Series" />
   
   <meta name="twitter:description" content="This is the official lesson series for the Openscapes Champions program." />
   
@@ -32,8 +32,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
   
-<link rel="prev" href="code-of-conduct.html">
-<link rel="next" href="github-issues.html">
+<link rel="prev" href="github-issues.html">
+<link rel="next" href="community.html">
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -255,110 +255,184 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="github-pub" class="section level1">
-<h1><span class="header-section-number">Chapter 7</span> Github for Publishing</h1>
-<!---
-
-Collaborative tools and shared practices
-
-Maybe that should be the title of this chapter. 
-
-Things to tour/cover:
-
-- Github as a lab
-- Google drive as a lab
-- Naming things
-- WTF, Happy Git With R
-- ...
-
---->
-<div id="preamble" class="section level2">
-<h2><span class="header-section-number">7.1</span> Preamble</h2>
-<p><em>Note: the <a href="https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g">slides</a> for this chapter have additional screenshots not included here yet</em>.</p>
-<p>We are going to talk about GitHub, and learn about using it for publication and project management. We will focus on collaboration and communication with hands-on practice.</p>
-<p>We are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good for new lab members or students to contribute to your lab as soon as possible.</p>
-<p>GitHub can reduce friction for open science: lets us publish and communicate without a lot of heavy lifting!</p>
-</div>
-<div id="what-is-github-traditional-answer" class="section level2">
-<h2><span class="header-section-number">7.2</span> What is GitHub? — Traditional answer</h2>
-<p>GitHub means GitHub.com; it’s a company.</p>
-<p>It centers around git, which is powerful version control software for your local computer. This has been around for years, taking care of bookkeeping for you locally on your computer.</p>
-<p>GitHub makes git collaborative through a powerful online platform. It will weave together all the bookkeeping from your local computer with other collaborators you work with.</p>
-<p>It is used for code and files: organize, archive, bookkeeping, searchable, changes visualized, etc.</p>
-<p>We aren’t going to teach traditional git/GitHub today, but here are 2 recommended tutorials from <a href="http://ohi-science.org/data-science-training/">OHI-Science’s data-science-training</a>. This teaches you how to set up GitHub to sync directly through RStudio, so that you don’t have to have any other software (including the command line) open to do so:</p>
+<div id="streamlined-code" class="section level1">
+<h1><span class="header-section-number">Chapter 9</span> Streamlined workflows with code</h1>
+<p>We will discuss good coding practices for beginning and seasoned coders alike that make it easier to work with other people, times, and computers.</p>
+<p>Most of this comes directly from Jenny Bryan &amp; Jim Hester’s awesome course <a href="https://whattheyforgot.org">What they Forgot to Teach You About R</a>. I highly recommend reading Chapters 1-4 that go into much better detail than the notes here.</p>
+<p>Note: these are all general coding practices, not R-specific</p>
+<div id="source-files" class="section level2">
+<h2><span class="header-section-number">9.1</span> Source files</h2>
+<p>What are they and why?</p>
+<p>Code that creates objects is “source code”. Source code is essentially text files you edit in a text editor that is then executed in the console.</p>
+<p>Examples:</p>
 <ul>
-<li><a href="http://ohi-science.org/data-science-training/github.html">GitHub</a></li>
-<li><a href="http://ohi-science.org/data-science-training/collaborating.html">Collaborating with GitHub</a></li>
+<li>.R, .Rmd</li>
+<li>.py</li>
+<li>.m</li>
 </ul>
-<p>Note: locally, I interact with GitHub through RStudio 99.9% of the time (use command line .1% of time). There is also a chapter on <a href="http://ohi-science.org/data-science-training/rstudio.html">R, RStudio, and RMarkdown</a>.</p>
+<div id="save-the-source-not-the-workspace" class="section level3">
+<h3><span class="header-section-number">9.1.1</span> Save the source, not the workspace</h3>
+<p>Save the source code; do not save the R object itself.</p>
+<p>Save your commands as a .R or .py (“script”), or .Rmd or .ipynb (“R Markdown” or “notebook”) file. It doesn’t have to be polished. Just save it!</p>
+<p>Everything that really matters should be achieved through code that you save – including objects and figures The contrast is storing them implicitly or explicitly, as part of an entire workspace, or clicking via the mouse.</p>
 </div>
-<div id="what-is-github-non-traditional-answer" class="section level2">
-<h2><span class="header-section-number">7.3</span> What is GitHub? — Non-traditional answer</h2>
-<div id="publishing-platform" class="section level3">
-<h3><span class="header-section-number">7.3.1</span> Publishing platform</h3>
-<p>It’s for books, websites, interactive dashboards</p>
+<div id="always-start-r-with-a-blank-slate" class="section level3">
+<h3><span class="header-section-number">9.1.2</span> Always start R with a blank slate</h3>
+<p>Saving code is an absolute requirement for reproducibility.</p>
+<p>When you quit, do not save the workspace to an .Rdata file. When you launch, do not reload the workspace from an .Rdata file.</p>
+<p>In RStudio, set this via <em>Tools &gt; Global Options.</em></p>
 </div>
-<div id="project-management-system" class="section level3">
-<h3><span class="header-section-number">7.3.2</span> Project management system</h3>
-<p>It’s a project management system for short and long-term tasks. Really powerful to have collaborative todo’s in the same software (and user accounts) as all the analysis and all the people that you’re already working with.</p>
-<p>We will talk about “Issues” &amp; “Projects” in the next chapter</p>
+<div id="restart-r-often-during-development" class="section level3">
+<h3><span class="header-section-number">9.1.3</span> Restart R often during development</h3>
+<blockquote>
+<p>“Have you tried turning it off and then on again?” – timeless troubleshooting wisdom, applies to everything</p>
+</blockquote>
+<p>If you use RStudio, use the menu item Session &gt; Restart R</p>
+<p>Additional ways to restart development where you left off, i.e. “re-run all the code up to HERE”</p>
 </div>
-</div>
-<div id="github-framework-in-a-nutshell" class="section level2">
-<h2><span class="header-section-number">7.4</span> Github framework in a nutshell</h2>
-<div id="users-vs.organizations" class="section level3">
-<h3><span class="header-section-number">7.4.1</span> Users vs. organizations</h3>
-<p>Example: jules32 vs. openscapes. You can think of them like other social media accounts: I can be an individual or part of a group, and there are permissions associated with both.</p>
-</div>
-<div id="repositories-repos" class="section level3">
-<h3><span class="header-section-number">7.4.2</span> Repositories (“repos”)</h3>
-<p>Repos are GitHub’s main unit. They are essentially a folder, and you’ll put files and folders in them. They are contained, with permissions specific to each one.</p>
-<p>It makes it easier to navigate through and find stuff — so you are “not sifting through a zoo of files”.</p>
-</div>
-<div id="commits-commit-messages" class="section level3">
-<h3><span class="header-section-number">7.4.3</span> “Commits” &amp; “commit messages”</h3>
-<p>Unlike Dropbox or Google Drive that constantly sync to the cloud, you have to deliberately say when you have an amount of work that you want to be versioned and synced. You have to commit to it. GitHub takes care of the backend bookkeeping involved, but you have to write a human-readable message to your future self and others. That is the commit message. Leave breadcrumbs for yourself.</p>
-</div>
-<div id="public-vs-private" class="section level3">
-<h3><span class="header-section-number">7.4.4</span> Public vs private</h3>
-</div>
-<div id="search-feature-is-awesome" class="section level3">
-<h3><span class="header-section-number">7.4.5</span> Search feature is awesome</h3>
-<p>This helps so much for navigating through the zoo of files.</p>
+<div id="avoid-rmlist-ls" class="section level3">
+<h3><span class="header-section-number">9.1.4</span> Avoid <code>rm(list = ls())</code></h3>
+<p>It’s common to see scripts begin with this object-nuking command: <code>rm(list = ls())</code></p>
+<p>This is highly suggestive of a non-reproducible workflow.</p>
+<p><strong>The problem with <code>rm(list = ls())</code> is that, given the intent, it does not go far enough.</strong></p>
+<p>It only deletes user-created objects from the global workspace.</p>
+<p>Instead, Restart R!!</p>
 </div>
 </div>
-<div id="github-orientation" class="section level2">
-<h2><span class="header-section-number">7.5</span> GitHub Orientation</h2>
-<p>This is a demo</p>
-</div>
-<div id="editing-files-from-github." class="section level2">
-<h2><span class="header-section-number">7.6</span> Editing files from GitHub.</h2>
-<p>This is also a demo, but we covered:</p>
-<p>First a Disclaimer: you don’t want to edit from the browser for most things – you would want to “clone” the repo to your local computer and leverage more goodies &amp; power. However, you will sometimes edit in the browser, and it’s a good entry point for us today, and maybe for onboarding folks in your lab in the future.</p>
-<p>In the demo, the example .md was a deliberate example of sharing slides from a talk :)</p>
-<p>What to do: (you all have permissions)</p>
+<div id="filepaths" class="section level2">
+<h2><span class="header-section-number">9.2</span> Filepaths</h2>
+<p>Every saved thing gets a unique path.</p>
+<p>Your code needs to run from somewhere specific. And when it interacts with other things (data or other code), you need to tell your code where things are.</p>
+<p>The more deliberate you are about where things live,</p>
 <ul>
-<li>Go to <a href="https://github.com/openscapes/demo" class="uri">https://github.com/openscapes/demo</a>yourname.md</li>
-<li>Click on the pencil to edit your file</li>
-<li>Make many edits &amp; commits with commit messages</li>
-<li>Github.com has a default message, but get into the habit of writing an actual message to yourself/others (breadcrumbs)</li>
-<li>This is different from saving (cancel if you save!)</li>
+<li>The easier it will be for you and future you</li>
+<li>The easier it will be for other people</li>
+<li>The easier it will be on another computer</li>
 </ul>
+<div id="setwdpaththatonlyworksonmymachine" class="section level3">
+<h3><span class="header-section-number">9.2.1</span> setwd(“path/that/only/works/on/my/machine”)</h3>
+<p>The chance of <code>setwd()</code> having the desired effect – making the file paths work – for anyone besides its author is 0%.</p>
+<p>It’s also unlikely to work for the author one or two years or computers from now.</p>
+<p>Hard-wired, absolute paths, especially when sprinkled throughout the code, make a project brittle. Such code does not travel well across time or space.</p>
+</div>
+<div id="setwd" class="section level3">
+<h3><span class="header-section-number">9.2.2</span> setwd()</h3>
+<p>BUT, if you still decide to use <code>setwd()</code> in your scripts, you should at least be very disciplined about it:</p>
+<p>Only use <code>setwd()</code> at the very start of a file, i.e. in an obvious and predictable place.</p>
+<p>Always set working directory to the same thing, namely to the top-level of the project. Always build subsequent paths relative to that.</p>
+</div>
+<div id="r-users-use-the-here-package" class="section level3">
+<h3><span class="header-section-number">9.2.3</span> R users: use the <code>here</code> package</h3>
+<p><code>here()</code> identifies your project’s files, based on the current working directory at the time when the package is loaded.</p>
+<pre><code>library(here)
+here()</code></pre>
+</div>
+</div>
+<div id="project-oriented-workflows" class="section level2">
+<h2><span class="header-section-number">9.3</span> Project oriented workflows</h2>
+<div id="dilemma-and-solution" class="section level3">
+<h3><span class="header-section-number">9.3.1</span> Dilemma and Solution</h3>
+<p><strong>Problem statement:</strong></p>
+<p>We want to work on project A with the working directory set to path/to/projectA (my data analysis) and on project B with the working directory set to path/to/projectB (my teaching material).</p>
+<p>But we also want to keep code like setwd(“path/to/projectA”) out of our scripts.</p>
+<p><strong>Solution:</strong></p>
+<p>Solution: use an IDE that supports a project-based workflow.</p>
+<p>An <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">integrated development environment</a> (IDE) offers:</p>
+<ul>
+<li>a powerful, R-aware code editor</li>
+<li>many ways to send your code to a running R process</li>
+<li>other modern conveniences</li>
+</ul>
+<p>And it eliminates:</p>
+<ul>
+<li>temptation to develop code directly in the Console. (instead:.R!)</li>
+<li>tension between development convenience and portability of the code.</li>
+</ul>
+</div>
+<div id="organize-your-work-into-projects" class="section level3">
+<h3><span class="header-section-number">9.3.2</span> Organize your work into projects</h3>
+<p>Here’s what I mean by “work in a project”:</p>
+<ul>
+<li>File system discipline: put all files related to a project in a designated folder.</li>
+<li>This applies to data, code, figures, notes, etc.</li>
+<li>Depending on project complexity, you might enforce further organization into subfolders.</li>
+<li>Working directory intentionality: when working on project A, make sure working directory is set to project A’s folder.</li>
+<li>Ideally, this is achieved via the development workflow and tooling, not by baking absolute paths into the code.</li>
+<li>File path discipline: all paths are relative — relative to the project’s folder.</li>
+</ul>
+<p>Synergistic habits: you’ll get the biggest payoff if you practice all of them together.</p>
+<p>Portability: the project can be moved around on your computer or onto other computers and will still “just work”. is the only practical convention that creates reliable, polite behavior across different computers/users/time. This convention is neither new, nor unique to R.</p>
+<p>It’s like agreeing that we will all drive on the left or the right. A hallmark of civilization is following conventions that constrain your behavior a little, in the name of public safety.</p>
+</div>
+<div id="rstudio-projects" class="section level3">
+<h3><span class="header-section-number">9.3.3</span> RStudio Projects</h3>
+<p>The RStudio IDE has a notion of a (capital “P”) Project, which is a very effective implementation of (small “p”) projects.</p>
+<p>Project have an.Rproj file in the folder, which is used to store settings specific to that project. Use File &gt; New Project … to get started.</p>
+<p>Allows for multiple projects</p>
+<p>no danger of crosstalk: each has own R process, global workspace &amp; working directory</p>
+<p>Same “unit” as a GitHub repo!</p>
+</div>
+<div id="tips-for-rstudio-projects" class="section level3">
+<h3><span class="header-section-number">9.3.4</span> Tips for RStudio Projects</h3>
+<p>One suggestion for organizing:</p>
+<p>Have a dedicated folder for your Projects. - If you have One Main Place for Projects, then go there in Finder/File Explorer to launch any specific project with .Rproj. - Mine is called “~/github/”.</p>
+<p>Switching Projects: RStudio knows about recent Projects.</p>
+</div>
+<div id="name-files-deliberately" class="section level3">
+<h3><span class="header-section-number">9.3.5</span> Name files deliberately</h3>
+<p>Jenny Bryan’s 3 rules for Naming Things:</p>
+<ul>
+<li>machine readable</li>
+<li>human readable</li>
+<li>plays well with default ordering</li>
+</ul>
+<p>Available from <a href="https://speakerdeck.com/jennybc/how-to-name-files">Speakerdeck</a> or <a href="http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf">download pdf</a></p>
 <!---
-Also, let's talk about Google Docs. Embrace technology. Sharing permissions.
-How many people use it (your collaborators and beyond)
-Sharing permissions
+
+Opinionated analysis development. RStudio is already doing this. Reserve your mental energy for the fun part of the analysis
+
+PCFB
+
+--R community practices, packages efficiency tour
+
+Coding not just for statistics. For data wrangling, streamlining, organizing
+Open source languages
+RStudio
+Embrace existing practices & tools
+Shared culture for “code review”
+rOpenSci packages & community
+
+Hypertidy sumner, `cartilage` miles McBain (discuss with Nick)
+
+Use spelling from ropensci, and see Arnold's slides. Also check for broken links
+
+Separate_rows amazing
+
+-- Jenny Bryan Wizardry
+
+Naming things
+
+https://speakerdeck.com/jennybc/how-to-name-files?slide=8
+
+And about the naming. I think the dates in the files represent the dates of the samples or the dates of the processing; they are not dates for versioning. So they are statics dates that are actual data that can be parsed, not bookkeeping that git will take care of for you. You may not need to have dates of any kind in the name, depending on what the files are and the information important to that data that you want to include in the name. 
+
+
+-- Happy Git with R
+
+https://happygitwithr.com/
+
+-- What They Forgot
+
+whattheyforgot.org
+
+
+Additional Reading
+
+[Lai et al 2019. Evaluating the popularity of R in ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2567)
 
 --->
-<!---
-Assignment idea: 
 
-- Fill out an issue for your lab [like this one](https://github.com/MozillaFestival/open-leaders-6/issues/20)
-Setup [like this](https://github.com/MozillaFestival/open-leaders-6/blob/master/.github/ISSUE_TEMPLATE/cohort_e.md)
-And check out the [README](https://github.com/MozillaFestival/open-leaders-6#mozilla-open-leaders-6).
-
---->
-
+</div>
 </div>
 </div>
 <script src="lib/js/jquery.min.js"></script>
@@ -369,8 +443,8 @@ And check out the [README](https://github.com/MozillaFestival/open-leaders-6#moz
           </div>
         </div>
       </div>
-<a href="code-of-conduct.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="github-issues.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="github-issues.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="community.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -400,7 +474,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/openscapes/series/edit/master/github-pub.Rmd",
+"link": "https://github.com/openscapes/series/edit/master/streamlined-code.Rmd",
 "text": "Edit"
 },
 "history": {

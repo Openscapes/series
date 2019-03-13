@@ -1,4 +1,4 @@
-# Collaborating with code {#coding} 
+# Streamlined workflows with code {#streamlined-code} 
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
