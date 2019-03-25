@@ -13,6 +13,7 @@ rmd_files: [
   "github-issues.Rmd",
   "streamlined-code.Rmd",
   "community.Rmd",
+  #"code-tour.Rmd", 
   "study-groups.Rmd",
   "r-for-scicomm.Rmd"]
  # "champion.Rmd"] # from open data science training book

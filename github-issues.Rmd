@@ -5,6 +5,10 @@ knitr::opts_chunk$set(echo = TRUE)
 library(htmltools)
 ```
 
+<!---
+GH is there to make your life easier. And facilitate collaboration. But doesn't take away necessary to communicate
+--->
+
 ## Preamble
 
 *Note: the [slides](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g) for this chapter have additional screenshots not included here yet*. 

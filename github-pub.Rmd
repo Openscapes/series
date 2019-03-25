@@ -19,6 +19,8 @@ Things to tour/cover:
 - WTF, Happy Git With R
 - ...
 
+https://bootswatch.com/
+
 --->
 
 
@@ -93,6 +95,9 @@ This is a demo
 This is also a demo, but we covered: 
 
 First a Disclaimer: you don’t want to edit from the browser for most things – you would want to “clone” the repo to your local computer and leverage more goodies & power. However, you will sometimes edit in the browser, and it’s a good entry point for us today, and maybe for onboarding folks in your lab in the future.
+
+Why not edit in the browser? You don’t want to overwrite each other or forget yourself. Good for quick md editing, not script editing.
+
 
 In the demo, the example .md was a deliberate example of sharing slides from a talk :)
 
