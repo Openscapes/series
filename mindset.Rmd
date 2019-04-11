@@ -125,8 +125,12 @@ Cannot emphasize this enough. Work now so that you can succeed later (whether th
 ### Twitter for learning 
 Follow selectively, listen & learn (e.g. #rstats)
 
+
+
 <!---
 ## Slides
+
+## Open software begets open culture
 
 Slides for this chapter are available [here]()
 --->

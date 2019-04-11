@@ -5,6 +5,13 @@ knitr::opts_chunk$set(echo = TRUE)
 library(htmltools)
 ```
 
+<!--- 
+TO Add
+
+J. Gill: how to be a good advisor https://mobile.twitter.com/MattHHolden/status/1100033766053924864?s=19
+--->
+
+
 ## Why talk about lab culture?
 
 *Please see accompanying [slides](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing) until this chapter is built out more.*
