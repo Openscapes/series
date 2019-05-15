@@ -40,7 +40,7 @@ Agendas          | Chapters |      Slides
 6. Mid-series check in | | 
 [7. Coding with communities, part 1](https://docs.google.com/document/d/1YHTvob1D-ow9H82x3s1rENX60b5Y-gCo5xWEtGc6fZA/edit?usp=sharing)| |  [coding with communities, part 1](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing)
 [8. Coding with communities, part 2](https://docs.google.com/document/d/1C2KlfXLglvWpmlHbR5cxYmm3pZITdTufgAsQdh01rV4/edit?usp=sharing) | | [coding with communities, part 2](https://docs.google.com/presentation/d/1ZYQERUuNJ69QRSUs_JKLdask_VnQRmvMTulv6m2VmUU/edit?usp=sharing)
-[9. Communicating science openly](https://drive.google.com/open?id=14lZLb-5IzmoEq2L_DVki99zzMxsesmQbtaA0Uu31f_I) | | [publishing & discoverability](https://docs.google.com/presentation/d/1efJj7Dxg_g4ZRZT2b1agDQrT3DN5lVcNvv25IWcyGlw/edit#slide=id.g574ba85675_0_10)
+[9. Communicating science openly](https://docs.google.com/document/d/14lZLb-5IzmoEq2L_DVki99zzMxsesmQbtaA0Uu31f_I/edit?usp=sharing) | | [publishing & discoverability](https://docs.google.com/presentation/d/1efJj7Dxg_g4ZRZT2b1agDQrT3DN5lVcNvv25IWcyGlw/edit#slide=id.g574ba85675_0_10)
 10. Presentations: Openscapes pathways | | 
 
 <br>
