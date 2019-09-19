@@ -52,6 +52,10 @@ The Series is written (and always improving) to be used as a reference, to teach
 
 [Openscapes](https://openscapes.org) is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and is being incubated by a [Mozilla](https://foundation.mozilla.org/en/) Fellowship awarded to [Julia Stewart Lowndes](http://jules32.github.io).
 
+----
+
+<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License' style='border-width:0' src='https://i.creativecommons.org/l/by/4.0/88x31.png' /></a><br />Openscapes is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>.
+
 <!---
 resize:
 ![](img/openscapes_hex_design_final_correct_dimensions.png)
