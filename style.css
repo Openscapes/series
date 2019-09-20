@@ -1,0 +1,10 @@
+<style>
+.grey-outline-center {
+   background-color: grey;
+   padding:2px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+</style>

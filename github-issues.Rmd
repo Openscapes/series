@@ -15,14 +15,29 @@ GH is there to make your life easier. And facilitate collaboration. But doesn't 
 
 *Note: the [slides](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g) for this chapter have additional screenshots not included here yet*. 
 
-Using project management software is a strategy used by every software developer/person working on projects with many moving parts. It streamlines technical discussions with people who are coming/joining a group. It also organizes and tracks projects that single or multiple & overlapping users can be a part of. 
+Using project management software is a strategy used by every software developer/person working on projects with many moving parts. It streamlines technical discussions with people who are coming/joining a group. It also helps organize and track projects that single or multiple & overlapping users can be a part of. 
 
 GitHub is a super useful tool whether you're working "alone"* or with others; it helps actualize the mindset of **Future You** and **Future Us**. To help Future You pick up a project again after a few weeks or months (i.e. when you're back from field work or done with teaching), you can use GitHub to leave breadcrumbs for yourself like thoughts and links. And it is also hugely useful for Future Us. You might already be working with a present-day Us, and this is also a great mindset to streamline methods documentation, etc. And taking it a step further, Future Us means planning ahead so others could onboard a little more smoothly. This means having the mindset that your work is important enough that others will be helping with or using or building from it in the future. Maybe a new person joins your lab. Or maybe you'll move on, and others will continue your work. 
 
+~~ I like using GitHub for project management because it's one less account I need to have, and it's already linked to my code and my work, and with my collaborators. 
 
 ## What are Issues?
 
-Every repo has issues. 
+Every GitHub repository has a feature called Issues. 
+
+<!---<center><img src="img/issues-intro.png" width="600px"></center> --->
+
+```{r, out.width="50%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+knitr::include_graphics("img/issues-intro.png")  
+
+# https://blog.revolutionanalytics.com/2017/06/rmarkdown-tricks.html
+# http://www.zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/
+# https://www.w3schools.com/howto/howto_css_image_center.asp
+
+```
+
+
+GitHub calls their "task things" Issues. 
 
 Issues “track ideas, enhancements, tasks, or bugs for work on GitHub.” - [GitHub help article](https://help.github.com/en/articles/about-issues)
 
@@ -83,4 +98,6 @@ OHI thought process & strategy:
   - Closing an issue
 - Have fun! Talk to your breakout group, share what you learn 
 
+This is the result of this time: 
 
+![](img/issues-inbox.png)

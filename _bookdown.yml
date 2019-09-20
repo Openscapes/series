@@ -20,3 +20,4 @@ rmd_files: [
  # "champion.Rmd"] # from open data science training book
 delete_merged_file: true
 output_dir: "docs"
+# css: ["style.css"]
