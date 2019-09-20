@@ -1,0 +1,9 @@
+# Coding with communities {#communities} 
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(htmltools)
+```
+
+
+*Coming soon. [Slides](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing) are best until then*. 

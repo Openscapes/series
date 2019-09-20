@@ -49,7 +49,7 @@ We aren’t going to teach traditional git/GitHub today, but here are 2 recommen
 - [GitHub](http://ohi-science.org/data-science-training/github.html)
 - [Collaborating with GitHub](http://ohi-science.org/data-science-training/collaborating.html)
 
-Note: locally, I interact with GitHub through RStudio 99.9% of the time (use command line .1% of time). There is also a chapter on [R, RStudio, and RMarkdown](http://ohi-science.org/data-science-training/rstudio.html).
+Note: locally, I interact with GitHub through RStudio 99.9% of the time (use command line .1% of time). There is also a chapter on [R, RStudio, and RMarkdown](http://ohi-science.org/data-science-training/rstudio.html). If you use R, then **the** best resource to learn GitHub is Jenny Bryan's [Happy Git With R](https://happygitwithr.com/).
 
 ## What is GitHub? — Non-traditional answer
 
@@ -78,13 +78,17 @@ It makes it easier to navigate through and find stuff — so you are "not siftin
 
 ### “Commits” & “commit messages”
 
-Unlike Dropbox or Google Drive that constantly sync to the cloud, you have to deliberately say when you have an amount of work that you want to be versioned and synced. You have to commit to it. GitHub takes care of the backend bookkeeping involved, but you have to write a human-readable message to your future self and others. That is the commit message. Leave breadcrumbs for yourself.
+Unlike Dropbox or Google Drive that constantly and automatically sync to the cloud, you have to deliberately say when you have an amount of work that you want to be versioned and synced. You have to commit to it. GitHub takes care of the backend bookkeeping involved, but you have to write a human-readable message to your future self and others. That is the commit message. Leave breadcrumbs for yourself.
 
 ### Public vs private
 
 ### Search feature is awesome
 
 This helps so much for navigating through the zoo of files.
+
+### Branches & Forks
+
+We're not going to talk about these. These are a core feature of what makes GitHub super powerful for software development, and one of the first things you'll see in GitHub tutorials. But I do not think that is the most relevant or smoothest entryway for those of us who are scientists fairly new to collaborative coding and version control. 
 
 ## GitHub Orientation
 
@@ -103,7 +107,7 @@ In the demo, the example .md was a deliberate example of sharing slides from a t
 
 What to do: (you all have permissions)
 
-- Go to <https://github.com/openscapes/demo>yourname.md
+- Go to <https://github.com/openscapes/demo/>yourname.md
 - Click on the pencil to edit your file
 - Make many edits & commits with commit messages
   - Github.com has a default message, but get into the habit of writing an actual message to yourself/others (breadcrumbs)

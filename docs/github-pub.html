@@ -24,7 +24,7 @@
 <meta name="author" content="Julie Lowndes" />
 
 
-<meta name="date" content="2019-09-19" />
+<meta name="date" content="2019-09-20" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -195,6 +195,7 @@
 <li class="chapter" data-level="7.4.3" data-path="github-pub.html"><a href="github-pub.html#commits-commit-messages"><i class="fa fa-check"></i><b>7.4.3</b> “Commits” &amp; “commit messages”</a></li>
 <li class="chapter" data-level="7.4.4" data-path="github-pub.html"><a href="github-pub.html#public-vs-private"><i class="fa fa-check"></i><b>7.4.4</b> Public vs private</a></li>
 <li class="chapter" data-level="7.4.5" data-path="github-pub.html"><a href="github-pub.html#search-feature-is-awesome"><i class="fa fa-check"></i><b>7.4.5</b> Search feature is awesome</a></li>
+<li class="chapter" data-level="7.4.6" data-path="github-pub.html"><a href="github-pub.html#branches-forks"><i class="fa fa-check"></i><b>7.4.6</b> Branches &amp; Forks</a></li>
 </ul></li>
 <li class="chapter" data-level="7.5" data-path="github-pub.html"><a href="github-pub.html#github-orientation"><i class="fa fa-check"></i><b>7.5</b> GitHub Orientation</a></li>
 <li class="chapter" data-level="7.6" data-path="github-pub.html"><a href="github-pub.html#editing-files-from-github."><i class="fa fa-check"></i><b>7.6</b> Editing files from GitHub.</a></li>
@@ -227,12 +228,11 @@
 <li class="chapter" data-level="9.3.5" data-path="streamlined-code.html"><a href="streamlined-code.html#name-files-deliberately"><i class="fa fa-check"></i><b>9.3.5</b> Name files deliberately</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="10" data-path="community.html"><a href="community.html"><i class="fa fa-check"></i><b>10</b> Community culture</a></li>
-<li class="chapter" data-level="11" data-path="study-groups.html"><a href="study-groups.html"><i class="fa fa-check"></i><b>11</b> Study groups</a></li>
-<li class="chapter" data-level="12" data-path="r-scicomm.html"><a href="r-scicomm.html"><i class="fa fa-check"></i><b>12</b> R for science communication</a><ul>
-<li class="chapter" data-level="12.1" data-path="r-scicomm.html"><a href="r-scicomm.html#books-with-bookdown"><i class="fa fa-check"></i><b>12.1</b> books with bookdown</a></li>
-<li class="chapter" data-level="12.2" data-path="r-scicomm.html"><a href="r-scicomm.html#websites-with-rmarkdown"><i class="fa fa-check"></i><b>12.2</b> websites with RMarkdown</a></li>
-<li class="chapter" data-level="12.3" data-path="r-scicomm.html"><a href="r-scicomm.html#websites-with-blogdown"><i class="fa fa-check"></i><b>12.3</b> websites with Blogdown</a></li>
+<li class="chapter" data-level="10" data-path="communities.html"><a href="communities.html"><i class="fa fa-check"></i><b>10</b> Coding with communities</a></li>
+<li class="chapter" data-level="11" data-path="r-scicomm.html"><a href="r-scicomm.html"><i class="fa fa-check"></i><b>11</b> R for science communication</a><ul>
+<li class="chapter" data-level="11.1" data-path="r-scicomm.html"><a href="r-scicomm.html#books-with-bookdown"><i class="fa fa-check"></i><b>11.1</b> books with bookdown</a></li>
+<li class="chapter" data-level="11.2" data-path="r-scicomm.html"><a href="r-scicomm.html#websites-with-rmarkdown"><i class="fa fa-check"></i><b>11.2</b> websites with RMarkdown</a></li>
+<li class="chapter" data-level="11.3" data-path="r-scicomm.html"><a href="r-scicomm.html#websites-with-blogdown"><i class="fa fa-check"></i><b>11.3</b> websites with Blogdown</a></li>
 </ul></li>
 <li class="divider"></li>
 <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
@@ -291,7 +291,7 @@ https://bootswatch.com/
 <li><a href="http://ohi-science.org/data-science-training/github.html">GitHub</a></li>
 <li><a href="http://ohi-science.org/data-science-training/collaborating.html">Collaborating with GitHub</a></li>
 </ul>
-<p>Note: locally, I interact with GitHub through RStudio 99.9% of the time (use command line .1% of time). There is also a chapter on <a href="http://ohi-science.org/data-science-training/rstudio.html">R, RStudio, and RMarkdown</a>.</p>
+<p>Note: locally, I interact with GitHub through RStudio 99.9% of the time (use command line .1% of time). There is also a chapter on <a href="http://ohi-science.org/data-science-training/rstudio.html">R, RStudio, and RMarkdown</a>. If you use R, then <strong>the</strong> best resource to learn GitHub is Jenny Bryan’s <a href="https://happygitwithr.com/">Happy Git With R</a>.</p>
 </div>
 <div id="what-is-github-non-traditional-answer" class="section level2">
 <h2><span class="header-section-number">7.3</span> What is GitHub? — Non-traditional answer</h2>
@@ -318,7 +318,7 @@ https://bootswatch.com/
 </div>
 <div id="commits-commit-messages" class="section level3">
 <h3><span class="header-section-number">7.4.3</span> “Commits” &amp; “commit messages”</h3>
-<p>Unlike Dropbox or Google Drive that constantly sync to the cloud, you have to deliberately say when you have an amount of work that you want to be versioned and synced. You have to commit to it. GitHub takes care of the backend bookkeeping involved, but you have to write a human-readable message to your future self and others. That is the commit message. Leave breadcrumbs for yourself.</p>
+<p>Unlike Dropbox or Google Drive that constantly and automatically sync to the cloud, you have to deliberately say when you have an amount of work that you want to be versioned and synced. You have to commit to it. GitHub takes care of the backend bookkeeping involved, but you have to write a human-readable message to your future self and others. That is the commit message. Leave breadcrumbs for yourself.</p>
 </div>
 <div id="public-vs-private" class="section level3">
 <h3><span class="header-section-number">7.4.4</span> Public vs private</h3>
@@ -326,6 +326,10 @@ https://bootswatch.com/
 <div id="search-feature-is-awesome" class="section level3">
 <h3><span class="header-section-number">7.4.5</span> Search feature is awesome</h3>
 <p>This helps so much for navigating through the zoo of files.</p>
+</div>
+<div id="branches-forks" class="section level3">
+<h3><span class="header-section-number">7.4.6</span> Branches &amp; Forks</h3>
+<p>We’re not going to talk about these. These are a core feature of what makes GitHub super powerful for software development, and one of the first things you’ll see in GitHub tutorials. But I do not think that is the most relevant or smoothest entryway for those of us who are scientists fairly new to collaborative coding and version control.</p>
 </div>
 </div>
 <div id="github-orientation" class="section level2">
@@ -340,7 +344,7 @@ https://bootswatch.com/
 <p>In the demo, the example .md was a deliberate example of sharing slides from a talk :)</p>
 <p>What to do: (you all have permissions)</p>
 <ul>
-<li>Go to <a href="https://github.com/openscapes/demo" class="uri">https://github.com/openscapes/demo</a>yourname.md</li>
+<li>Go to <a href="https://github.com/openscapes/demo/" class="uri">https://github.com/openscapes/demo/</a>yourname.md</li>
 <li>Click on the pencil to edit your file</li>
 <li>Make many edits &amp; commits with commit messages
 <ul>

@@ -12,9 +12,10 @@ rmd_files: [
   "github-pub.Rmd",
   "github-issues.Rmd",
   "streamlined-code.Rmd",
-  "community.Rmd",
+  "communities.Rmd",
+  #"case-studies.Rmd", CREATE AND LINK
   #"code-tour.Rmd", 
-  "study-groups.Rmd",
+  #"study-groups.Rmd",
   "r-for-scicomm.Rmd"]
  # "champion.Rmd"] # from open data science training book
 delete_merged_file: true

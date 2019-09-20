@@ -38,10 +38,10 @@ Agendas          | Chapters |      Slides
 [4. GitHub for the lab](https://docs.google.com/document/d/1Y8_5EFbsaaH26LvqXc5NZZ66Np4JQWuSemQbCrNIjSY/edit?usp=sharing) |  [GitHub for publishing](#github-pub),  [GitHub for project management](#github-issues) | [GitHub for publishing](https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing), [GitHub for project management](https://docs.google.com/presentation/d/1JGFnZqz01Ex8h2qO3OBUHc1OiTFkAqV2ED2XFiMdN4I/edit?usp=sharing)
 [5. Streamlined workflows with code](https://docs.google.com/document/d/1QHCmZm4KPuv--35PiohkpGlpwuyhPHCmZ6NczrBHeMY/edit?usp=sharing) | [source files, filepaths & project oriented workflows](#streamlined-code) | [source files & file paths](https://docs.google.com/presentation/d/1HbxQ9Lg-ySEhmvH01PnMX0BDuquQezru73GI3PV-Ibo/edit?usp=sharing); [project oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing)
 6. Mid-series check in | | 
-[7. Coding with communities, part 1](https://docs.google.com/document/d/1YHTvob1D-ow9H82x3s1rENX60b5Y-gCo5xWEtGc6fZA/edit?usp=sharing)| |  [coding with communities, part 1](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing)
+[7. Coding with communities, part 1](https://docs.google.com/document/d/1YHTvob1D-ow9H82x3s1rENX60b5Y-gCo5xWEtGc6fZA/edit?usp=sharing)| [coding with communities](#communities) |  [coding with communities, part 1](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing)
 [8. Coding with communities, part 2](https://docs.google.com/document/d/1C2KlfXLglvWpmlHbR5cxYmm3pZITdTufgAsQdh01rV4/edit?usp=sharing) | | [coding with communities, part 2](https://docs.google.com/presentation/d/1ZYQERUuNJ69QRSUs_JKLdask_VnQRmvMTulv6m2VmUU/edit?usp=sharing)
 [9. Communicating science openly](https://docs.google.com/document/d/14lZLb-5IzmoEq2L_DVki99zzMxsesmQbtaA0Uu31f_I/edit?usp=sharing) | | [publishing & discoverability](https://docs.google.com/presentation/d/1efJj7Dxg_g4ZRZT2b1agDQrT3DN5lVcNvv25IWcyGlw/edit#slide=id.g574ba85675_0_10)
-10. Presentations: Openscapes pathways | | 
+[10. Presentations: Openscapes Case Studies](https://docs.google.com/document/d/1MhWL9AnrZr0hfm56pumzExJtkyMoEiylo0GoOyJZm0A/edit?usp=sharing) | | 
 
 <br>
 
@@ -54,7 +54,7 @@ The Series is written (and always improving) to be used as a reference, to teach
 
 ----
 
-<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License' style='border-width:0' src='https://i.creativecommons.org/l/by/4.0/88x31.png' /></a><br />Openscapes is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>.
+<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License' style='border-width:0' src='https://i.creativecommons.org/l/by/4.0/88x31.png' /></a>&nbsp;&nbsp;Openscapes is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>.
 
 <!---
 resize:
