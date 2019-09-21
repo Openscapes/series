@@ -1,7 +1,7 @@
 # Github for Project Management {#github-issues} 
 
 ```{r, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 library(htmltools)
 ```
 
@@ -23,11 +23,12 @@ GitHub is a super useful tool whether you're working "alone"* or with others; it
 
 ## What are Issues?
 
-Every GitHub repository has a feature called Issues. 
+Every GitHub repository (shortened to "repo") has a feature called Issues. Issues is GitHub's project management and task-tracking feature. 
 
-<!---<center><img src="img/issues-intro.png" width="600px"></center> --->
+> Issues “track ideas, enhancements, tasks, or bugs for work on GitHub.” - [GitHub help article](https://help.github.com/en/articles/about-issues)
 
-```{r, out.width="50%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+
+```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
 knitr::include_graphics("img/issues-intro.png")  
 
 # https://blog.revolutionanalytics.com/2017/06/rmarkdown-tricks.html
@@ -37,25 +38,41 @@ knitr::include_graphics("img/issues-intro.png")
 ```
 
 
-GitHub calls their "task things" Issues. 
+You can create an Issue for a topic, and use it track progress. You can use it to ask other people questions for other people can ask questions about it. You can provide links, describe updates, link to other Issues, and you can close the Issue when it is completed. You can also re-open previously-closed Issues.
 
-Issues “track ideas, enhancements, tasks, or bugs for work on GitHub.” - [GitHub help article](https://help.github.com/en/articles/about-issues)
+When you click on the green "New Issue" button", you're asked to give a Title and Leave a Comment. Then you'll be able to Submit the Issue. On the right side, you'll see options to Assign someone to the Issue, add a Lable, add it to a Project, or add it to a Milestone. We'll explore these features a bit more in a moment. 
 
-Create an issue for a topic, track progress, others ask questions, provide links and updates, close issue when completed
+```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+knitr::include_graphics("img/issues-create.png")  
+```
 
-Public repo – anyone with a username can create and comment on issues. 
+Every GitHub repository has this Issues feature. This means that sometimes Issues are public and sometimes they are private. 
 
-Private repo – only users with permission can create and comment on issues, or see them at all
+- In a public repo, anyone with a GitHub username can create and comment on issues. 
+- In a private repo, only users with permission can create and comment on issues, or see them at all
 
-GitHub search is awesome – will search code and issues!
+GitHub search is awesome – it will search all of your files and Issues! <!---I find this really helpful...--->
+
 
 ## Issues in the Wild
 
-Examples of "traditional" and "non-traditional" use of issues: 
+Here are some examples of "traditional" and "non-traditional" use of issues. 
 
-[ggplot2](https://github.com/tidyverse/ggplot2/issues): Bug reports, code, feature, & help requests
+[ggplot2's Issues](https://github.com/tidyverse/ggplot2/issues) is an example of what I think is the "traditional" use of Issues, which is in a pretty pure software development context. This is a public repository, and all topics are directly related to ggplot2. Issues are largely used to report bugs, troubleshoot and sometimes to request features. 
 
-[MozillaFestival](https://github.com/MozillaFestival/mozfest-program-2018/issues): Project submissions and progress tracking
+```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+knitr::include_graphics("img/issues-ggplot2.png")  
+```
+
+[MozillaFestival's Issues](https://github.com/MozillaFestival/mozfest-program-2018/issues) are an example of a less "traditonal", but increasingly common use of Issues: for community engagement through project submissions and progress tracking. You can see here an example of the use of labels: those colorful tags that help categorize the Issues. 
+
+```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+knitr::include_graphics("img/issues-mozfest.png")  
+```
+
+
+<!---[rOpenSci]() unconf--->
+
 
 OHI-Science: Private conversations and archiving (no link because this is a private repo: we use issues in place of email to have private, archived, searchable conversations about scientific methods. Instead of important science conversations lost in forwarded emails, texts, or slack, onboarding and offboarding is much smoother). 
 
@@ -63,7 +80,7 @@ OHI-Science: Private conversations and archiving (no link because this is a priv
 
 (demo)
 
-Creating a new issue
+Creating a new issue. Each issue will have a number, note the URL. 
 
 Writing
 
@@ -71,9 +88,9 @@ Markdown help
 
 Commenting
 
-Tagging people
+Tagging people 
 
-Labels, Milestones, Projects, & even more
+Assigning, Labels, Milestones, Projects, & even more
 
 ## Strategies for Issues
 
