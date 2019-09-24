@@ -21,18 +21,21 @@ emailed so you don't need to interface with GH if you don't want to. Watching.
 
 --->
 
-Using project management software is a strategy used by every software developer/person working on projects with many moving parts. It streamlines technical discussions with people who are coming/joining a group. It also helps organize and track projects that single or multiple & overlapping users can be a part of. 
+GitHub is best known as a collaborative coding platform. But of course productive collaboration requires communication, and GitHub has powerful features to support communication and project management through GitHub Issues.
 
-GitHub is a super useful tool whether you're working "alone"* or with others; it helps actualize the mindset of **Future You** and **Future Us**. To help Future You pick up a project again after a few weeks or months (i.e. when you're back from field work or done with teaching), you can use GitHub to leave breadcrumbs for yourself like thoughts and links. And it is also hugely useful for Future Us. You might already be working with a present-day Us, and this is also a great mindset to streamline methods documentation, etc. And taking it a step further, Future Us means planning ahead so others could onboard a little more smoothly. This means having the mindset that your work is important enough that others will be helping with or using or building from it in the future. Maybe a new person joins your lab. Or maybe you'll move on, and others will continue your work. 
+We are focusing on GitHub Issues here because they are a powerful way for team members to have active discussions about data and code, and therefore ways to participate in analyses even for those that are not involved in the day-to-day coding. I find Issues not only useful to discuss topics as a team, but I also treat it as my external memory: I write notes to myself, link to files and websites; I leave breadcrumbs for myself so that I am more easily able to remember my past thought processes and pick up projects where I left off. 
 
-~~ I like using GitHub for project management because it's one less account I need to have, and it's already linked to my code and my work, and with my collaborators. 
+In this way, GitHub Issues help actualize the mindset of **Future You** and **Future Us**. This means being deliberate now about communicating decisions and progress so that you or others can work in the future a little more smoothly. Using project management software is a strategy used by every software developer or people working on projects with many moving parts. It streamlines technical discussions with people who are coming/joining a group. It also helps organize and track projects that single or multiple & overlapping users can be a part of. 
+
+While there are many options for project management software out there, I like using GitHub because it's already managing my code and my work, and linked to my collaborators so it offers a streamlined way to communicate. It's also one less account I need to have, which is a huge bonus in my mind.
 
 ## What are Issues?
 
 Every GitHub repository (shortened to "repo") has a feature called Issues. Issues is GitHub's project management and task-tracking feature. 
 
-> Issues “track ideas, enhancements, tasks, or bugs for work on GitHub.” - [GitHub help article](https://help.github.com/en/articles/about-issues)
+> Issues “track ideas, enhancements, tasks, or bugs for work on GitHub.” - [GitHub](https://help.github.com/en/articles/about-issues)
 
+<br> 
 
 ```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
 knitr::include_graphics("img/issues-intro.png")  
@@ -43,8 +46,9 @@ knitr::include_graphics("img/issues-intro.png")
 
 ```
 
+<br> 
 
-You can create an Issue for a topic, and use it track progress. You can use it to ask other people questions for other people can ask questions about it. You can provide links, describe updates, link to other Issues, and you can close the Issue when it is completed. You can also re-open previously-closed Issues.
+You create an Issue for a topic, and use it track progress or ask questions. You can provide links, describe updates, link to other Issues, and you can close the Issue when it is completed. You can also re-open previously-closed Issues.
 
 Every GitHub repository has this Issues feature. This means that sometimes Issues are public and sometimes they are private. 
 
@@ -58,27 +62,35 @@ GitHub search is awesome – it will search all of your files and Issues! <!---I
 
 Here are some examples of "traditional" and "non-traditional" use of issues. 
 
-[ggplot2's Issues](https://github.com/tidyverse/ggplot2/issues) is an example of what I think is the "traditional" use of Issues, which is in a pretty pure software development context. This is a public repository, and all topics are directly related to ggplot2. Issues are largely used to report bugs, troubleshoot and sometimes to request features. Note the "Filter" feature on the top-left: this by default will search through the Issues that are still open, but you can also change this if you wanted to search also for closed Issues (just below "Filter" you can see that there are over 2000 closed Issues, documenting the innovation that's been ongoing in ggplot2).
+[ggplot2's Issues](https://github.com/tidyverse/ggplot2/issues) is an example of what I think is the "traditional" use of Issues, which is in a pretty pure software development context. This is a public repository, and all topics are directly related to ggplot2. Issues are largely used to report bugs, troubleshoot and sometimes to request features. Note the "Filters" feature on the top-left: this by default will search through the Issues that are still open, but you can also change this if you wanted to search also for closed Issues (just below "Filters" you can see that there are over 2000 closed Issues, documenting the innovation that's been ongoing in ggplot2).
+
+<br> 
 
 ```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
 knitr::include_graphics("img/issues-ggplot2.png")  
 ```
 
-[MozillaFestival's Issues](https://github.com/MozillaFestival/mozfest-program-2018/issues) are an example of a less "traditional", but increasingly common use of Issues: for project submissions, coordination, and community engagement. It is also an example of the use of labels: those colorful tags that help group and categorize the Issues. To the right of "Filter", you'll see a "Labels" button: clicking on this will give you a list of all the labels and how many Issues are tagged with each label. 
+<br> 
+
+[MozillaFestival's Issues](https://github.com/MozillaFestival/mozfest-program-2018/issues) are an example of a less "traditional", but increasingly common use of Issues: for project submissions, coordination, and community engagement. It is also an example of the use of labels: those colorful tags that help group and categorize the Issues. To the right of "Filters", you'll see a "Labels" button: clicking on this will give you a list of all the labels and how many Issues are tagged with each label. 
+
+<br> 
 
 ```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
 knitr::include_graphics("img/issues-mozfest.png")  
 ```
 
-
-<!---TODO? [rOpenSci]() unconf--->
-
+<br> 
 
 OHI-Science's Issues: are also an example of less "traditional" use of Issues but perhaps also somewhat common. This is a private repository, which is why there is no link to these Issues. Here, Issues are used for private conversations and archiving ideas and discussions: the OHI-Science team uses issues instead of email to have private, archived, searchable conversations about scientific methods. We are diligent about having important science conversations in these Issues, rather than those conversations being lost in emails or Slack. This is more organized and also makes onboarding team members much smoother since we do not need to forward emails to new team members. 
+
+<br> 
 
 ```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
 knitr::include_graphics("img/issues-ohiscience.png")  
 ```
+
+<br> 
 
 
 ## How to use Issues
@@ -91,9 +103,13 @@ When you click on the green "New Issue" button", you're asked to give a Title an
 
 Then you'll be able to Submit the Issue. On the right side, you'll see options to Assign someone to the Issue, add a Label, add it to a Project, or add it to a Milestone. We'll explore these features a bit more in a moment. 
 
+<br> 
+
 ```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
 knitr::include_graphics("img/issues-create.png")  
 ```
+
+<br> 
 
 When you click Submit, your Issue gets a number, which is now written next to the title. This number is also part of the URL as well. 
 
@@ -111,11 +127,46 @@ Each time there is a comment in the Issue thread, there will be a new date marke
 
 And something really great is that you can click on the date — and watch the URL change. This allows you to anchor to a specific comment within the Issue thread. This is really useful if, for example, you wanted to share a specific comment with someone else instead of having them scroll down themselves. (Note: you can also click on the three dots at the right of the blue Comment header to copy the anchored link).
 
+<br> 
+
+```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+knitr::include_graphics("img/issues-comment.png")  
+```
+
+<br> 
+
 ### Markdown
 
 Issues support Markdown. This means that you can add simple formatting to your text, such as headers, bold and italics, lists, images, links, and formatted code. To help you use Markdown formatting as you learn, GitHub Issues have built-in help: there are icons between the Title and the Comment of the Issue that will do the Markdown formatting for you, and help you learn along the way. 
 
 There is also a "Preview" tab between the Title and Comment (next to the "Write" tab, where you are by default) where you can preview what your Markdown formatting looks like before you Submit the Issue. Submitting the Issue will also render the Markdown formatting. 
+
+GitHub enables you to also create Markdown check-lists by typing `- [ ]`. Once this is rendered, you can click it to check this box. Alternatively, in Markdown you check a box by typing `- [x]`. The number of checked and unchecked items will be visible in the Issue as well. 
+
+<br> 
+
+```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+knitr::include_graphics("img/issues-checklist.png")  
+```
+
+<br> 
+
+### Linking to files
+
+Linking to specific files or versions of files is good practice when you are discussing it in an Issue: reduce the work for the person reading the Issue (which might be Future You!). You can link to the file by opening it in the browser and copying its URL and placing it in Markdown formatting for hyperlinks: `[text to hyperlink](URL)`. 
+
+You can also navigate to a specific version of that file, or a specific commit message, if you want to capture that file at a specific point in time. 
+
+You can also anchor to specific lines within a file, which is useful if you are requesting feedback on a specific part of an analysis or asking for help troubleshooting. I can send someone to a specific place within a file with the appropriate lines highlighted. For example `[important code](https://github.com/Openscapes/issues-demo/blob/master/code-example.R#L12-L13)` will render as [important code](https://github.com/Openscapes/issues-demo/blob/master/code-example.R#L12-L13).
+
+<br> 
+
+```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+knitr::include_graphics("img/github-anchor-lines.png")  
+```
+
+<br> 
+
 
 ### Assigning, Labels
 
@@ -123,19 +174,39 @@ On the right side of the Issue thread, there is the "metadata" for the Issue. Yo
 
 If you navigate back to the full list of Issue topics (which will have the URL github.com/username-or-organization/repo-name/issues), you'll see these metadata categories listed at the top as well, which lets you filter or view based on these categories.
 
+<br> 
+
+```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+knitr::include_graphics("img/issues-labels.png")  
+```
+
+<br> 
+
 ### Projects, Milestones
 
 Projects and Milestones are further ways to organize and track progress with your Issues. 
 
-Organization or Personal Projects
+Projects are a way to organize and prioritize your issues. It uses the idea of a Kanban board, which [Wikipedia](https://en.wikipedia.org/wiki/Kanban_board) says "visually depict work at various stages of a process using cards to represent work items and columns to represent each stage of the process. Cards are moved from left to right to show progress and to help coordinate teams performing the work." The simplest have 3 columns labeled "to do", "doing" and "done". 
 
-<!---TODO: complete!--->
+You can use Projects for both Organization or personal projects. In fact, you can have multiple projects within the same repository, so different people can have different Projects organized within their shared repository, for example. 
+
+You have a lot of control over how you will manage your Projects; at this point I do not use all the features but have been playing around with using them for Openscapes planning:
+
+<br> 
+
+```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+knitr::include_graphics("img/issues-projects.png")  
+```
+
+<br> 
+
+Milestones are a way to attach deadlines to your Project (although you do not need to identify a date if you don't want to). Once you create a Milestone, you can add Issues to that Milestone to help track progress. For example, maybe you have a presentation coming up and there are several Issues that need to be addressed before then.  
 
 ## Strategies for Issues
 
 <!---TODO Issues are really powerful, but most powerful if they work for you---> 
 
-Every repo has Issues, but do you want to use issues in every repo? It helps to consider the purpose for the Issues. 
+Every repo has Issues, but do you want to use Issues in every repo? It helps to consider the purpose for the Issues. 
 
 Using Issues for “traditional” bug/features for code, it makes sense to keep the repository public and have all Issues pertaining to that repo there within that repo. 
 
@@ -145,24 +216,36 @@ If you're using Issues for “non-traditional” laboratory research group and s
 
 Here is an example of the Ocean Health Index team's thought process & strategy. 
 
-We work across many repositories, and sanity-wise, we didn’t want to have conversations in Issues across many repositories because it would make finding those conversations more difficult (although now GitHub can search all Issues/code across an Organization!). 
+Our team works within a GitHub Organization called "OHI-Science". Within that Organization, we work in many repositories, with different combinations of people working primarily within different repositories. Sanity-wise, we didn’t want to have conversations in Issues within each of those repositories because it would make finding those conversations more difficult (although now GitHub can search all Issues/code across an Organization!). 
 
-We also wanted our repos to be public, but to have private conversations about them. 
+We also wanted our repos to be public, but to have private conversations using the Issues feature. 
 
-These two needs led us to create a single private repository named “issues”, and we only use it for Issues. 
+These two needs led us to create a single private repository named “issues”, and we only use it for Issues. This works really well for us, especially since our team lead can engage in these discussions by receiving emails about the Issues in his inbox, and can respond without having to go to GitHub.com.
 
-## Practice creating & commenting on issues
+## Your Turn: Create & comment on issues
 
-- Go to github.com/openscapes/demo/issues
-- Create an issue, tag people in your breakout group (ask their username)
+We will break into groups and you can explore some of these features in Issues. Here is what to do: 
+
+- Go to [github.com/openscapes/demo/issues](https://github.com/openscapes/demo/issues)
+- Create an issue, tag people in your breakout group (ask for their username)
 - Browse issues, comment in other issues
 - Try: 
-  - Linking to your .md document 
+  - Linking to the .md document you created in the previous chapter
   - Creating a label and applying it, assigning people
-  - Adding issues to a Project (create one if need be) 
-  - Closing an issue
-- Have fun! Talk to your breakout group, share what you learn 
+  - Adding Issues to a Project (create one if need be) 
+  - Closing an Issue
 
-This is the result of this time: 
+Have fun! And throughout the process, talk to your breakout group, and share what you learn. 
 
-![](img/issues-inbox.png)
+Here's what your inbox will look like afterwards:
+
+<br> 
+
+```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+knitr::include_graphics("img/issues-inbox-crop.png")  
+```
+
+<br> 
+ 
+This is pretty rare to receive so many emails all at once. But you can always switch your setting to "Not Watch" this repository so that you only receive emails about Issues that you are tagged in. 
+
