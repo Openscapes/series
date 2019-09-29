@@ -29,6 +29,8 @@ In this way, GitHub Issues help actualize the mindset of **Future You** and **Fu
 
 While there are many options for project management software out there, I like using GitHub because it's already managing my code and my work, and linked to my collaborators so it offers a streamlined way to communicate. It's also one less account I need to have, which is a huge bonus in my mind.
 
+One of the reason we talk about Issues in Openscapes is because they are an excellent way to develop habits for using GitHub for your analytical project more broadly. 
+
 ## What are Issues?
 
 Every GitHub repository (shortened to "repo") has a feature called Issues. Issues is GitHub's project management and task-tracking feature. 
@@ -47,6 +49,30 @@ knitr::include_graphics("img/issues-intro.png")
 ```
 
 <br> 
+
+[Jenny Bryan](https://twitter.com/jennybryan/) has an excellent summary of Issues in her article "Excuse Me, Do You Have a Moment to Talk About Version Control?" (open-access pre-print from [PeerJ](https://peerj.com/preprints/3159/), published in [The American Statistican](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1399928)): 
+
+> GitHub issues are another powerful feature of the platform.  Recall that we are repur-
+posing Git, a tool that facilitates software development.  Think of the issues for a project
+as  its  bug  tracker.   For  projects  that  are  not  pure  software  development,  we  co-opt  this
+machinery to organize our to-do list more generally.  The basic unit is an issue and you can
+interact with one in two ways.
+
+>First, issues are integrated into the project's web interface on GitHub, with a rich set
+of options for linking to project files and incremental changes. Second,  issues  and  their
+associated comment threads appear in your email, just like regular messages (this can, of
+course, be configured). The result is that all correspondence about a project comes through
+your normal channels, but is also tracked inside the project itself, with excellent navigability
+and search capabilities. For software, issues are used to track bugs and feature requests. In
+a data analysis project, you might open an issue to flesh out a specific sub-analysis or to
+develop a complicated figure. In a course, we use them to manage homework submission,
+marking, and peer review.
+
+>Issues can be assigned to specific people and they can be labelled, e.g. "bug", "simulation-
+study", or "final-exam".  Coupled with the ability to cross-link issues and the project  files or file changes, you have extraordinary power to document why things have happened in
+the past and to organize what needs to happen in the future.
+
+<br>
 
 You create an Issue for a topic, and use it track progress or ask questions. You can provide links, describe updates, link to other Issues, and you can close the Issue when it is completed. You can also re-open previously-closed Issues.
 
