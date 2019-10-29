@@ -125,7 +125,7 @@ We're not going to talk about branches and forks. These are a core feature of wh
 
 ## GitHub Orientation
 
-This is a demo *details upcoming*
+This is a demo *details upcoming* 
 
 <br> 
 
