@@ -9,6 +9,9 @@ library(htmltools)
 TO Add
 
 J. Gill: how to be a good advisor https://mobile.twitter.com/MattHHolden/status/1100033766053924864?s=19
+
+Lou Woodley: happy, productive teams: 
+https://twitter.com/LouWoodley/status/1131227839527837696
 --->
 
 

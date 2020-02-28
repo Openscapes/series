@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 11 R for science communication | Openscapes Champions Lesson Series</title>
   <meta name="description" content="This is the official lesson series for the Openscapes Champions program." />
-  <meta name="generator" content="bookdown 0.11 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.16 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 11 R for science communication | Openscapes Champions Lesson Series" />
   <meta property="og:type" content="book" />
@@ -24,14 +24,14 @@
 <meta name="author" content="Julie Lowndes" />
 
 
-<meta name="date" content="2019-10-22" />
+<meta name="date" content="2020-02-28" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="communities.html">
+<link rel="prev" href="communities.html"/>
 
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -40,6 +40,9 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
 
 
 
@@ -55,7 +58,6 @@ a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
 a.sourceLine:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode { white-space: pre; position: relative; }
-div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
@@ -133,7 +135,11 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 <li class="divider"></li>
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome</a><ul>
-<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#agendas"><i class="fa fa-check"></i><b>1.1</b> Agendas</a></li>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#agendas"><i class="fa fa-check"></i><b>1.1</b> Agendas</a><ul>
+<li class="chapter" data-level="1.1.1" data-path="index.html"><a href="index.html#month-remote"><i class="fa fa-check"></i><b>1.1.1</b> 5-month, remote</a></li>
+<li class="chapter" data-level="1.1.2" data-path="index.html"><a href="index.html#day-in-person"><i class="fa fa-check"></i><b>1.1.2</b> 2-day, in-person</a></li>
+</ul></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#about"><i class="fa fa-check"></i><b>1.2</b> About</a></li>
 </ul></li>
 <li class="chapter" data-level="2" data-path="overview.html"><a href="overview.html"><i class="fa fa-check"></i><b>2</b> Overview</a><ul>
 <li class="chapter" data-level="2.1" data-path="overview.html"><a href="overview.html#why-were-here"><i class="fa fa-check"></i><b>2.1</b> Why we’re here</a></li>
@@ -245,7 +251,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="6.4" data-path="code-of-conduct.html"><a href="code-of-conduct.html#case-study-titus-browns-lab"><i class="fa fa-check"></i><b>6.4</b> Case study: Titus Brown’s lab</a></li>
 <li class="chapter" data-level="6.5" data-path="code-of-conduct.html"><a href="code-of-conduct.html#examples-to-build-from"><i class="fa fa-check"></i><b>6.5</b> Examples to build from</a></li>
 </ul></li>
-<li class="chapter" data-level="7" data-path="github-pub.html"><a href="github-pub.html"><i class="fa fa-check"></i><b>7</b> Github for Publishing</a><ul>
+<li class="chapter" data-level="7" data-path="github-pub.html"><a href="github-pub.html"><i class="fa fa-check"></i><b>7</b> GitHub for Publishing</a><ul>
 <li class="chapter" data-level="7.1" data-path="github-pub.html"><a href="github-pub.html#preamble"><i class="fa fa-check"></i><b>7.1</b> Preamble</a><ul>
 <li class="chapter" data-level="7.1.1" data-path="github-pub.html"><a href="github-pub.html#prerequisite"><i class="fa fa-check"></i><b>7.1.1</b> Prerequisite</a></li>
 </ul></li>
@@ -254,7 +260,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="7.3.1" data-path="github-pub.html"><a href="github-pub.html#publishing-platform"><i class="fa fa-check"></i><b>7.3.1</b> Publishing platform</a></li>
 <li class="chapter" data-level="7.3.2" data-path="github-pub.html"><a href="github-pub.html#project-management-system"><i class="fa fa-check"></i><b>7.3.2</b> Project management system</a></li>
 </ul></li>
-<li class="chapter" data-level="7.4" data-path="github-pub.html"><a href="github-pub.html#github-framework-in-a-nutshell"><i class="fa fa-check"></i><b>7.4</b> Github framework in a nutshell</a><ul>
+<li class="chapter" data-level="7.4" data-path="github-pub.html"><a href="github-pub.html#github-framework-in-a-nutshell"><i class="fa fa-check"></i><b>7.4</b> GitHub framework in a nutshell</a><ul>
 <li class="chapter" data-level="7.4.1" data-path="github-pub.html"><a href="github-pub.html#users-vs.organizations"><i class="fa fa-check"></i><b>7.4.1</b> Users vs. organizations</a></li>
 <li class="chapter" data-level="7.4.2" data-path="github-pub.html"><a href="github-pub.html#repositories-repos"><i class="fa fa-check"></i><b>7.4.2</b> Repositories (“repos”)</a></li>
 <li class="chapter" data-level="7.4.3" data-path="github-pub.html"><a href="github-pub.html#commits-commit-messages"><i class="fa fa-check"></i><b>7.4.3</b> “Commits” &amp; “commit messages”</a></li>
@@ -367,11 +373,13 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -379,12 +387,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -396,6 +403,10 @@ gitbook.start({
 "text": "Edit"
 },
 "history": {
+"link": null,
+"text": null
+},
+"view": {
 "link": null,
 "text": null
 },

@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 7 Github for Publishing | Openscapes Champions Lesson Series</title>
+  <title>Chapter 7 GitHub for Publishing | Openscapes Champions Lesson Series</title>
   <meta name="description" content="This is the official lesson series for the Openscapes Champions program." />
-  <meta name="generator" content="bookdown 0.11 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.16 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 7 Github for Publishing | Openscapes Champions Lesson Series" />
+  <meta property="og:title" content="Chapter 7 GitHub for Publishing | Openscapes Champions Lesson Series" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   <meta name="github-repo" content="openscapes/series" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 7 Github for Publishing | Openscapes Champions Lesson Series" />
+  <meta name="twitter:title" content="Chapter 7 GitHub for Publishing | Openscapes Champions Lesson Series" />
   
   <meta name="twitter:description" content="This is the official lesson series for the Openscapes Champions program." />
   
@@ -24,15 +24,15 @@
 <meta name="author" content="Julie Lowndes" />
 
 
-<meta name="date" content="2019-10-22" />
+<meta name="date" content="2020-02-28" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="code-of-conduct.html">
-<link rel="next" href="github-issues.html">
+<link rel="prev" href="code-of-conduct.html"/>
+<link rel="next" href="github-issues.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -40,6 +40,9 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
 
 
 
@@ -55,7 +58,6 @@ a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
 a.sourceLine:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode { white-space: pre; position: relative; }
-div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
@@ -133,7 +135,11 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 <li class="divider"></li>
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome</a><ul>
-<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#agendas"><i class="fa fa-check"></i><b>1.1</b> Agendas</a></li>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#agendas"><i class="fa fa-check"></i><b>1.1</b> Agendas</a><ul>
+<li class="chapter" data-level="1.1.1" data-path="index.html"><a href="index.html#month-remote"><i class="fa fa-check"></i><b>1.1.1</b> 5-month, remote</a></li>
+<li class="chapter" data-level="1.1.2" data-path="index.html"><a href="index.html#day-in-person"><i class="fa fa-check"></i><b>1.1.2</b> 2-day, in-person</a></li>
+</ul></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#about"><i class="fa fa-check"></i><b>1.2</b> About</a></li>
 </ul></li>
 <li class="chapter" data-level="2" data-path="overview.html"><a href="overview.html"><i class="fa fa-check"></i><b>2</b> Overview</a><ul>
 <li class="chapter" data-level="2.1" data-path="overview.html"><a href="overview.html#why-were-here"><i class="fa fa-check"></i><b>2.1</b> Why we’re here</a></li>
@@ -245,7 +251,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="6.4" data-path="code-of-conduct.html"><a href="code-of-conduct.html#case-study-titus-browns-lab"><i class="fa fa-check"></i><b>6.4</b> Case study: Titus Brown’s lab</a></li>
 <li class="chapter" data-level="6.5" data-path="code-of-conduct.html"><a href="code-of-conduct.html#examples-to-build-from"><i class="fa fa-check"></i><b>6.5</b> Examples to build from</a></li>
 </ul></li>
-<li class="chapter" data-level="7" data-path="github-pub.html"><a href="github-pub.html"><i class="fa fa-check"></i><b>7</b> Github for Publishing</a><ul>
+<li class="chapter" data-level="7" data-path="github-pub.html"><a href="github-pub.html"><i class="fa fa-check"></i><b>7</b> GitHub for Publishing</a><ul>
 <li class="chapter" data-level="7.1" data-path="github-pub.html"><a href="github-pub.html#preamble"><i class="fa fa-check"></i><b>7.1</b> Preamble</a><ul>
 <li class="chapter" data-level="7.1.1" data-path="github-pub.html"><a href="github-pub.html#prerequisite"><i class="fa fa-check"></i><b>7.1.1</b> Prerequisite</a></li>
 </ul></li>
@@ -254,7 +260,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="7.3.1" data-path="github-pub.html"><a href="github-pub.html#publishing-platform"><i class="fa fa-check"></i><b>7.3.1</b> Publishing platform</a></li>
 <li class="chapter" data-level="7.3.2" data-path="github-pub.html"><a href="github-pub.html#project-management-system"><i class="fa fa-check"></i><b>7.3.2</b> Project management system</a></li>
 </ul></li>
-<li class="chapter" data-level="7.4" data-path="github-pub.html"><a href="github-pub.html#github-framework-in-a-nutshell"><i class="fa fa-check"></i><b>7.4</b> Github framework in a nutshell</a><ul>
+<li class="chapter" data-level="7.4" data-path="github-pub.html"><a href="github-pub.html#github-framework-in-a-nutshell"><i class="fa fa-check"></i><b>7.4</b> GitHub framework in a nutshell</a><ul>
 <li class="chapter" data-level="7.4.1" data-path="github-pub.html"><a href="github-pub.html#users-vs.organizations"><i class="fa fa-check"></i><b>7.4.1</b> Users vs. organizations</a></li>
 <li class="chapter" data-level="7.4.2" data-path="github-pub.html"><a href="github-pub.html#repositories-repos"><i class="fa fa-check"></i><b>7.4.2</b> Repositories (“repos”)</a></li>
 <li class="chapter" data-level="7.4.3" data-path="github-pub.html"><a href="github-pub.html#commits-commit-messages"><i class="fa fa-check"></i><b>7.4.3</b> “Commits” &amp; “commit messages”</a></li>
@@ -329,12 +335,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
             <section class="normal" id="section-">
 <div id="github-pub" class="section level1">
-<h1><span class="header-section-number">Chapter 7</span> Github for Publishing</h1>
+<h1><span class="header-section-number">Chapter 7</span> GitHub for Publishing</h1>
 <!---
 
 Things to tour/cover:
 
-- Github as a lab
+- GitHub as a lab
 - Google drive as a lab
 - Naming things
 - WTF, Happy Git With R
@@ -355,13 +361,13 @@ makers and others only read or review.
 --->
 <div id="preamble" class="section level2">
 <h2><span class="header-section-number">7.1</span> Preamble</h2>
-<p>GitHub is a powerful tool for collaborative coding with version control, but in the next two chapters we are going to focus on some of its lesser-celebrated awesomeness: GitHub for publication and project management. We will focus on how to use GitHub collaboration and communication for science, and spend time with hands-on practice.</p>
+<p>GitHub is a powerful tool for collaborative coding with version control, but in the next two chapters we are going to focus on some of its lesser-celebrated awesomeness: GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.</p>
 <p>We are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good for new lab members or students to contribute to your lab as soon as possible.</p>
 <p>GitHub can reduce friction for open science: it gives us avenues for communicating and publishing methods, blogs, interactive graphics and more, without a lot of heavy lifting!</p>
 <div id="prerequisite" class="section level3">
 <h3><span class="header-section-number">7.1.1</span> Prerequisite</h3>
-<p>You will need to create <strong>Github</strong> account at <a href="http://github.com" class="uri">http://github.com</a>, if you don’t already have one. For username, I recommend all lower-case letters, short as you can. I recommend using your <em>.edu email</em>, since you can request free private repositories via <a href="https://education.github.com/">GitHub Education</a> discount.</p>
-<!---TODO and if you are particpating in an Openscapes cohort, you'll need to email...--->
+<p>You will need to create <strong>GitHub</strong> account at <a href="http://github.com" class="uri">http://github.com</a>, if you don’t already have one. For username, I recommend all lower-case letters, short as you can. I recommend using your <em>.edu email</em>, since you can request free private repositories via <a href="https://education.github.com/">GitHub Education</a> discount.</p>
+<!---TODO and if you are participating in an Openscapes cohort, you'll need to email...--->
 </div>
 </div>
 <div id="what-is-github-traditional-answer" class="section level2">
@@ -396,12 +402,12 @@ makers and others only read or review. - <em>Jenny Bryan, “Excuse Me, Do You H
 </div>
 <div id="project-management-system" class="section level3">
 <h3><span class="header-section-number">7.3.2</span> Project management system</h3>
-<p>GitHut is also a project management system for short and long-term tasks. It is really powerful to have collaborative “todo”’s in the same software (and user accounts) as all the analysis and all the people that you’re already working with.</p>
+<p>GitHub is also a project management system for short and long-term tasks. It is really powerful to have collaborative “todo”’s in the same software (and user accounts) as all the analysis and all the people that you’re already working with.</p>
 <p>We will talk about “Issues” &amp; “Projects” in the next chapter.</p>
 </div>
 </div>
 <div id="github-framework-in-a-nutshell" class="section level2">
-<h2><span class="header-section-number">7.4</span> Github framework in a nutshell</h2>
+<h2><span class="header-section-number">7.4</span> GitHub framework in a nutshell</h2>
 <div id="users-vs.organizations" class="section level3">
 <h3><span class="header-section-number">7.4.1</span> Users vs. organizations</h3>
 <p>Example: <a href="https://github.com/jules32">jules32</a> is a user account, <a href="https://github.com/openscapes">openscapes</a> is an organization group.</p>
@@ -434,7 +440,7 @@ makers and others only read or review. - <em>Jenny Bryan, “Excuse Me, Do You H
 <h2><span class="header-section-number">7.5</span> GitHub Orientation</h2>
 <p>This is a demo <em>details upcoming</em></p>
 <p><br></p>
-<pre class="sourceCode r"><code class="sourceCode r">knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;img/github-orientation.png&quot;</span>)  </code></pre>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb3-1" data-line-number="1">knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;img/github-orientation.png&quot;</span>)  </a></code></pre></div>
 <p><img src="img/github-orientation.png" width="80%" style="background-color: gray; padding:2px; display: inline-block;" /></p>
 <p><br></p>
 </div>
@@ -450,7 +456,7 @@ makers and others only read or review. - <em>Jenny Bryan, “Excuse Me, Do You H
 <li>Click on the pencil to edit your file</li>
 <li>Make many edits &amp; commits with commit messages
 <ul>
-<li>Github.com has a default message, but get into the habit of writing an actual message to yourself/others (breadcrumbs)</li>
+<li>github.com has a default message, but get into the habit of writing an actual message to yourself/others (breadcrumbs)</li>
 </ul></li>
 <li>This is different from saving (cancel if you save!)</li>
 </ul>
@@ -485,11 +491,13 @@ And check out the [README](https://github.com/MozillaFestival/open-leaders-6#moz
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -497,12 +505,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -514,6 +521,10 @@ gitbook.start({
 "text": "Edit"
 },
 "history": {
+"link": null,
+"text": null
+},
+"view": {
 "link": null,
 "text": null
 },

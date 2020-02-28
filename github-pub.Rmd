@@ -1,4 +1,4 @@
-# Github for Publishing {#github-pub} 
+# GitHub for Publishing {#github-pub} 
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -9,7 +9,7 @@ library(htmltools)
 
 Things to tour/cover:
 
-- Github as a lab
+- GitHub as a lab
 - Google drive as a lab
 - Naming things
 - WTF, Happy Git With R
@@ -32,7 +32,7 @@ makers and others only read or review.
 
 ## Preamble
 
-GitHub is a powerful tool for collaborative coding with version control, but in the next two chapters we are going to focus on some of its lesser-celebrated awesomeness: GitHub for publication and project management. We will focus on how to use GitHub collaboration and communication for science, and spend time with hands-on practice.
+GitHub is a powerful tool for collaborative coding with version control, but in the next two chapters we are going to focus on some of its lesser-celebrated awesomeness: GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.
 
 We are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good for new lab members or students to contribute to your lab as soon as possible. 
 
@@ -40,9 +40,9 @@ GitHub can reduce friction for open science: it gives us avenues for communicati
 
 ### Prerequisite
 
-You will need to create **Github** account at <http://github.com>, if you don't already have one. For username, I recommend all lower-case letters, short as you can. I recommend using your *.edu email*, since you can request free private repositories via [GitHub Education](https://education.github.com/) discount.
+You will need to create **GitHub** account at <http://github.com>, if you don't already have one. For username, I recommend all lower-case letters, short as you can. I recommend using your *.edu email*, since you can request free private repositories via [GitHub Education](https://education.github.com/) discount.
  
-<!---TODO and if you are particpating in an Openscapes cohort, you'll need to email...--->
+<!---TODO and if you are participating in an Openscapes cohort, you'll need to email...--->
 
 ## What is GitHub? — Traditional answer
 
@@ -87,11 +87,11 @@ It's for books like this one ([openscapes.org/series](https://openscapes.org/ser
 
 ### Project management system 
 
-GitHut is also a project management system for short and long-term tasks. It  is really powerful to have collaborative "todo"’s in the same software (and user accounts) as all the analysis and all the people that you're already working with. 
+GitHub is also a project management system for short and long-term tasks. It  is really powerful to have collaborative "todo"’s in the same software (and user accounts) as all the analysis and all the people that you're already working with. 
 
 We will talk about “Issues” & “Projects” in the next chapter.
 
-## Github framework in a nutshell
+## GitHub framework in a nutshell
 
 ### Users vs. organizations
 
@@ -152,7 +152,7 @@ What to do: (you all have permissions)
 - Go to <https://github.com/openscapes/demo/>yourname.md
 - Click on the pencil to edit your file
 - Make many edits & commits with commit messages
-  - Github.com has a default message, but get into the habit of writing an actual message to yourself/others (breadcrumbs)
+  - github.com has a default message, but get into the habit of writing an actual message to yourself/others (breadcrumbs)
 - This is different from saving (cancel if you save!)
 
 

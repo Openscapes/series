@@ -120,11 +120,11 @@ Embrace emerging and established community best practices
 
 aka Outcomes.
 
-- Be champions for open data science (in your labs, departments, communities.)
-- A more open culture in your lab
+- Be champions for open data science (in your groups, departments, communities.)
+- A more open culture in your group
   - dedicated lab meetings to discuss data workflows
     - **“Seaside chats”** (<- this is what we call them at OHI)
-  - stated **code of conduct** or lab philosophy
+  - stated **code of conduct** or lab group philosophy
   - beginnings of a lab **roadmap** of shared data workflows
 - A growing community of practice on campus 
   - study groups / **coding clubs** (ex: [Eco-Data-Science](http://eco-data-science.github.io/))
