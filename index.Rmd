@@ -14,7 +14,7 @@ description: "This is the official lesson series for the Openscapes Champions pr
 
 # Welcome {#welcome}
 
-This book is a lesson series for the Openscapes Champions program. ***It is under heavy development; some chapters are only notes at this point***.
+This book is a lesson series for the Openscapes Champions program. ***It improved iteratively and the most recent version always openly available online***.
 
 Openscapes Champions is a mentorship program that empowers scientists with open data science tools and grows the community of practice. We mentor early career researchers in leadership roles – faculty, lecturers, program managers, and others who want to establish open data science practices in their labs and on their campuses. It is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient and open. We've been building Openscapes from an open data science angle, but along with that comes the mindset of openness, collaboration, good intentions, and creating the culture we want in science. Note: "lab" is broadly defined. 
 
@@ -36,7 +36,7 @@ Call agendas and slides are all available in a [Google Folder](https://drive.goo
 
 Agendas          | Chapters |      Slides
 ------------------|----------------------|---------------------------
-[1. Openscapes overview & mindset](https://drive.google.com/open?id=1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU) | [overview](#overview), [mindset](#mindset) |  [overview](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing), [mindset](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing) 
+[1. Openscapes overview & mindset](https://drive.google.com/open?id=1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU) | [overview](#overview), [mindset](#mindset) |  [overview](https://docs.google.com/presentation/d/1ePdaUE77BxVpnUUAOolG5WdeINhSZXnfIegmnYw8QVU/edit?usp=sharing), [mindset](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing) 
 [2. Better science in less time](https://docs.google.com/document/d/1F4fatp_PLMEm6XbinxZDQjOQ8w1HYSAegmftM4Cm4E8/edit?usp=sharing) | [better science in less time](#bsilt) | [better science in less time](https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing), [data interlude](https://docs.google.com/presentation/d/1YnHR1OqtpH4LkVaNBF8LhLGPUUx7mDysw4YAR7mKKfE/edit?usp=sharing) 
 [3. Lab culture](https://docs.google.com/document/d/1zY-hzebfb7KdwxQ8e4DO_SaaufocmjKEe7HjFw8ThZY/edit?usp=sharing) | [lab culture](#lab-culture), [code of conduct](code-of-conduct) | [lab culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing), [code of conduct](https://docs.google.com/presentation/d/1eydm6NcrR_T2NwoMWYBWM682OW-qr755iYemVWL8cJg/edit?usp=sharing)
 [4. GitHub for the lab](https://docs.google.com/document/d/1Y8_5EFbsaaH26LvqXc5NZZ66Np4JQWuSemQbCrNIjSY/edit?usp=sharing) |  [GitHub for publishing](#github-pub),  [GitHub for project management](#github-issues) | [GitHub for publishing](https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing), [GitHub for project management](https://docs.google.com/presentation/d/1JGFnZqz01Ex8h2qO3OBUHc1OiTFkAqV2ED2XFiMdN4I/edit?usp=sharing)
