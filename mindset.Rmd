@@ -1,5 +1,25 @@
 # Openscapes Mindset {#mindset}
 
+Open data science tools, practices, & communities exist and are powerful and empowering, and game-changing for science. They enable us to do better science in less time. They are like the Force from Star Wars:
+
+- More powerful than you ever imagined
+- Enable you to broaden the scope of the questions you can ask
+- You can be a Jedi to others: pass forward what you’ve learned
+- You can join & build diverse communities of allies (not all allies are Jedis)
+
+
+We can harness this power for science more broadly. We can create the culture that we want to be a part of – towards [kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). We can do this if we:
+
+- Redefine collaborators & community
+  - Think like a team: Future You, Future Us
+  - Beyond your own discipline & online
+- Reimagine challenges
+  - Expect there is a better way
+  - Achieve with confidence, agency, & community
+  - You're not alone, it's not too late
+
+---
+
 We are here because I know these files are on your computer — we all have them.
 
 ```

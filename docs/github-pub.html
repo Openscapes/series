@@ -24,7 +24,7 @@
 <meta name="author" content="Julie Lowndes" />
 
 
-<meta name="date" content="2020-03-13" />
+<meta name="date" content="2020-04-30" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -53,9 +53,9 @@
 
 
 <style type="text/css">
-a.sourceLine { display: inline-block; line-height: 1.25; }
-a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
-a.sourceLine:empty { height: 1.2em; }
+code.sourceCode > span { display: inline-block; line-height: 1.25; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode { white-space: pre; position: relative; }
 pre.sourceCode { margin: 0; }
@@ -64,14 +64,16 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 code.sourceCode { white-space: pre-wrap; }
-a.sourceLine { text-indent: -1em; padding-left: 1em; }
+code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
-pre.numberSource a.sourceLine
-  { position: relative; left: -4em; }
-pre.numberSource a.sourceLine::before
-  { content: attr(data-line-number);
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
     position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; pointer-events: all; display: inline-block;
+    border: none; display: inline-block;
     -webkit-touch-callout: none; -webkit-user-select: none;
     -khtml-user-select: none; -moz-user-select: none;
     -ms-user-select: none; user-select: none;
@@ -80,9 +82,9 @@ pre.numberSource a.sourceLine::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {  }
+  {   }
 @media screen {
-a.sourceLine::before { text-decoration: underline; }
+code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ff0000; font-weight: bold; } /* Alert */
 code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
@@ -261,7 +263,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="7.3.2" data-path="github-pub.html"><a href="github-pub.html#project-management-system"><i class="fa fa-check"></i><b>7.3.2</b> Project management system</a></li>
 </ul></li>
 <li class="chapter" data-level="7.4" data-path="github-pub.html"><a href="github-pub.html#github-framework-in-a-nutshell"><i class="fa fa-check"></i><b>7.4</b> GitHub framework in a nutshell</a><ul>
-<li class="chapter" data-level="7.4.1" data-path="github-pub.html"><a href="github-pub.html#users-vs.organizations"><i class="fa fa-check"></i><b>7.4.1</b> Users vs. organizations</a></li>
+<li class="chapter" data-level="7.4.1" data-path="github-pub.html"><a href="github-pub.html#users-vs.-organizations"><i class="fa fa-check"></i><b>7.4.1</b> Users vs. organizations</a></li>
 <li class="chapter" data-level="7.4.2" data-path="github-pub.html"><a href="github-pub.html#repositories-repos"><i class="fa fa-check"></i><b>7.4.2</b> Repositories (“repos”)</a></li>
 <li class="chapter" data-level="7.4.3" data-path="github-pub.html"><a href="github-pub.html#commits-commit-messages"><i class="fa fa-check"></i><b>7.4.3</b> “Commits” &amp; “commit messages”</a></li>
 <li class="chapter" data-level="7.4.4" data-path="github-pub.html"><a href="github-pub.html#public-vs-private"><i class="fa fa-check"></i><b>7.4.4</b> Public vs private</a></li>
@@ -408,7 +410,7 @@ makers and others only read or review. - <em>Jenny Bryan, “Excuse Me, Do You H
 </div>
 <div id="github-framework-in-a-nutshell" class="section level2">
 <h2><span class="header-section-number">7.4</span> GitHub framework in a nutshell</h2>
-<div id="users-vs.organizations" class="section level3">
+<div id="users-vs.-organizations" class="section level3">
 <h3><span class="header-section-number">7.4.1</span> Users vs. organizations</h3>
 <p>Example: <a href="https://github.com/jules32">jules32</a> is a user account, <a href="https://github.com/openscapes">openscapes</a> is an organization group.</p>
 <p>You can think of them like other social media accounts: I can be an individual or part of a group, and there are permissions associated with both.</p>
@@ -440,7 +442,7 @@ makers and others only read or review. - <em>Jenny Bryan, “Excuse Me, Do You H
 <h2><span class="header-section-number">7.5</span> GitHub Orientation</h2>
 <p>This is a demo <em>details upcoming</em></p>
 <p><br></p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb3-1" data-line-number="1">knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;img/github-orientation.png&quot;</span>)  </a></code></pre></div>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="github-pub.html#cb3-1"></a>knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;img/github-orientation.png&quot;</span>)  </span></code></pre></div>
 <p><img src="img/github-orientation.png" width="80%" style="background-color: gray; padding:2px; display: inline-block;" /></p>
 <p><br></p>
 </div>
