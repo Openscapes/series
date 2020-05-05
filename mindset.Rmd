@@ -1,5 +1,7 @@
 # Openscapes Mindset {#mindset}
 
+*Please see accompanying [slides](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing) as this chapter is built out more.*
+
 Open data science tools, practices, & communities exist and are powerful and empowering, and game-changing for science. They enable us to do better science in less time. They are like the Force from Star Wars:
 
 - More powerful than you ever imagined
