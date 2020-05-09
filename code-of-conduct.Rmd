@@ -40,20 +40,10 @@ Lab philosophy, mission statement, participation agreements
 - Adopting and sharing – so people know it exists & where to find it
 - Reporting and enforcing – standardized form can help
 
-## Case study: Titus Brown's lab
-
-[CoC](http://ivory.idyll.org/lab/coc.html)  
-[Notes on our lab Code of Conduct](http://ivory.idyll.org/blog/2016-notes-on-lab-coc.html) highlights: 
-
-- develop & post a CoC whether or not you know of any problems
-- the CoC has to set expectations for everyone
-  - “...impostor syndrome rules and it takes a bit of overt friendliness for people to ask questions. Providing ground rules for interaction helps tremendously.”
-  - “There have definitely been benefits in recruiting: having a code (and following it!) means that people know you are aware of many issues that all too many faculty seem unaware of... this encourages a more diverse applicant pool. This may be one reason the lab is fairly diverse in practice, as well.”
-
 ## Examples to build from
 
 - [rOpenSci CoC](https://ropensci.org/code-of-conduct/)  
-- [Titus Brown Lab CoC](http://ivory.idyll.org/lab/coc.html)  
+- [Buffer's CoC & Why It’s Important For Diversity And Inclusion](https://open.buffer.com/code-of-conduct/)
 - [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 - [Template CoC for labs](https://github.com/dasaderi/Lab_CoC_templates/blob/master/CODE_OF_CONDUCT.md)
 
