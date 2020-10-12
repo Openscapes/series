@@ -12,6 +12,28 @@ The first half of the Series focuses on efficiency and open culture within the l
 
 We are passionate environmental scientists studying important, time-sensitive topics using data of all kinds. And we were never taught to work efficiently with data. 
 
+
+We are here because I know these files are on your computer — we all have them.
+
+```
+data_final_final.xls
+data_final_usethis.xls
+...
+thesis_v16_new_ch1.docx
+thesis_v16.docx
+...
+```
+
+And we also send and receive emails with subject lines like: 
+
+```
+Re:FWD:Fwd:Data question
+Re:Sending again with the correct version
+```
+
+We are going to talk about how to make the data experience better, for you, your lab, your department, and beyond. 
+
+
 Data analysis can be inefficient and demoralizing when you’re without the right tools/skills and you feel alone. 
 
 But! Open tools, practices, and communities exist that are powerful and empowering, and game-changing for science. And we can learn and use open practices for science.
@@ -171,7 +193,10 @@ Slides for this chapter are available [here]()
 
 ## Additional reading
 
-Practical Computing for Biologists. Introduction to the Terminal/command line, introduction to regular expressions. Chapter 2 alone. 
+- Practical Computing for Biologists. Introduction to the Terminal/command line, introduction to regular expressions. Chapter 2 alone is incredibly powerful
+- Virtual meetings
+  - https://opensource.com/article/20/6/remote-meetings
+  - https://aspirationtech.org/blog/virtualmeetingpowerdynamics
 
 
 

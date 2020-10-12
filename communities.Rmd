@@ -7,3 +7,10 @@ library(htmltools)
 
 
 *Coming soon. [Slides](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing) are best until then*. 
+
+
+Coding Club examples: 
+
+- EcoDataScience at UC Santa Barbara
+- [BioData Club](https://biodata-club.github.io) at OHSU
+- [The Bio-Data Club](https://www.biodataclub.org/) at Moffitt

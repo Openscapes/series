@@ -47,8 +47,14 @@ Lab philosophy, mission statement, participation agreements
 - [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 - [Template CoC for labs](https://github.com/dasaderi/Lab_CoC_templates/blob/master/CODE_OF_CONDUCT.md)
 
+## Further Reading
+
+- [How Codes of Conduct Are Combatting Open Source’s Diversity Problem](https://eyeondesign.aiga.org/are-codes-of-conduct-changing-the-diversity-stats-in-open-source/) — Margaret Rhodes, AIGA Eye on Design
 
 <!---
+
+Radical gradualism RBG
+
 seaside chats a great thing to help onboard.  
 
 Onboarding:::: they won't know what questions to ask. Provide structure. And be deliberate about the culture. Have you tried to instill culture, or hoping it will be organic? Have to build trust and be intentional - Angela Bassa 

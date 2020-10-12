@@ -10,38 +10,26 @@ Open data science tools, practices, & communities exist and are powerful and emp
 - You can join & build diverse communities of allies (not all allies are Jedis)
 
 
-We can harness this power for science more broadly. We can create the culture that we want to be a part of – towards [kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). We can do this if we:
+We can harness this power for science more broadly. We can create the culture that we want to be a part of – towards [kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). We can do this with the Openscapes mindset: 
 
-- Redefine collaborators & community
-  - Think like a team: Future You, Future Us
-  - Beyond your own discipline & online
-- Reimagine challenges
-  - Expect there is a better way
-  - Achieve with confidence, agency, & community
+- Be efficient, open, collaborative, inclusive, and kind 
+- Reframe data analysis as a collaborative effort rather than an individual burden or personal craft
+- Redefine collaborators & community: Future You, Future Us
+  - Think like a team: share imperfect work and learn together
+  - Beyond your own discipline, and online
+- Reimagine challenges: Expect there is a better way
+  - Iterate with confidence, agency, & community
   - You're not alone, it's not too late
 
+Our approach to help develop this mindset is by focusing on the following:
+
+- Data science as a discipline
+- Open as a way to work
+- Group members as a team
+- Collaborators and community (redefined) as a way to learn
+- The Internet as an underleveraged tool for science
+
 ---
-
-We are here because I know these files are on your computer — we all have them.
-
-```
-data_final_final.xls
-data_final_usethis.xls
-...
-thesis_v16_new_ch1.docx
-thesis_v16.docx
-...
-```
-
-And we also send and receive emails with subject lines like: 
-
-```
-Re:FWD:Fwd:Data question
-Re:Sending again with the correct version
-```
-
-We are going to talk about how to make the data experience better, for you, your lab, your department, and beyond. 
-
 
 ## Data science as a discipline
 *Alternative title: "Data science is a thing".* 
@@ -59,7 +47,10 @@ Just like a field chemistry has concepts for things like moleculte, theory for h
 It is incredible what is possible on the communication front. Watch this one-minute video called [What is RMarkdown?](https://vimeo.com/178485416) to blow your mind. 
 
 
-### Not just for “big data”
+### Not just for “big data” or AI or machine learning
+
+You can use data science theory and tools no matter the size or context of your data.
+
 ### Your study system is not unique when it comes to data
 
 Think about your data separately from your study system. Don't confound them or it will be really hard to ask for help.  
@@ -147,7 +138,9 @@ Cannot emphasize this enough. Work now so that you can succeed later (whether th
 ### Twitter for learning 
 Follow selectively, listen & learn (e.g. #rstats)
 
+## Additional reading 
 
+- [Biased by default: exploring discrimination in research code](https://docs.google.com/presentation/d/1INTsli9obj3BiV8xDwJc4IovPnt2EUFNyLYyF_GK7bE/present#slide=id.g8dabbda190_0_898) - Abby Cabunoc Mayes Bioinformatics Community Confference Keynote 2020
 
 <!---
 ## Slides
