@@ -120,5 +120,10 @@ Create a welcoming environment where they know where to ask for help – They wo
 
 ### Code of Conduct (next slide deck)  
 
+<!--- 
+Further reading
+https://laderast.github.io/psych_safety/#18
+--->
+
 ## Post Cohort Call Resources
 
