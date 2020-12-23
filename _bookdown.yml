@@ -16,7 +16,8 @@ rmd_files: [
   #"case-studies.Rmd", CREATE AND LINK
   #"code-tour.Rmd", 
   #"study-groups.Rmd",
-  "r-for-scicomm.Rmd"]
+  "r-for-scicomm.Rmd"] 
+ # "resources-that-influence.Rmd"]
  # "champion.Rmd"] # from open data science training book
 delete_merged_file: true
 output_dir: "docs"
