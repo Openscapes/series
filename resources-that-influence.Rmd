@@ -10,14 +10,14 @@ library(htmltools)
 <!---
 # Innovation through openness, architecture, leadership, teamwork, and disruption
 
-\*Openness and design is always on my mind, through Openscapes and beyond. But as a scientist, my entryway to it all has been through open science - more specificially/narrowly through data and code - so I am constantly learning of established ideas and stories from leaders of all kinds that inform and inspire me. I think differently now - more actively, optimistically, and boldly - than I did before, and am always trying to connect and reinforce ideas, tools, people, communities that I come across. Kindness is a big part of this too - I tried articulating some of these toughts in my essay "Open software means kinder science" in [[Scientific American](%5Bhttps://blogs.scientificamerican.com/observations/open-software-means-kinder-science/)](<https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/>)) at the end of my Mozilla Fellowship, but I have a lot more to learn. The plan here is to summarize things I've read and been thinking about along these lines. I highly recommend everything I list here and hope it will be inspiring for you too.\*
+\*Openness and design is always on my mind, through Openscapes and beyond. But as a scientist, my entryway to it all has been through open science - more specifically/narrowly through data and code - so I am constantly learning of established ideas and stories from leaders of all kinds that inform and inspire me. I think differently now - more actively, optimistically, and boldly - than I did before, and am always trying to connect and reinforce ideas, tools, people, communities that I come across. Kindness is a big part of this too - I tried articulating some of these thoughts in my essay "Open software means kinder science" in [[Scientific American](%5Bhttps://blogs.scientificamerican.com/observations/open-software-means-kinder-science/)](<https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/>)) at the end of my Mozilla Fellowship, but I have a lot more to learn. The plan here is to summarize things I've read and been thinking about along these lines. I highly recommend everything I list here and hope it will be inspiring for you too.\*
 
 Welcoming entryways
 
 I've always talked about Openscapes centered on the "what" : getting jazzed about open data science. But during COVID i've been focusing on the "how": 
 and welcoming entryways
 
-- new coders to R and collaborative, reproducible and open pratices
+- new coders to R and collaborative, reproducible and open practices
 - seasoned coders to GitHub
 - scientists to open science through data science and publishing
 - meeting design
@@ -47,6 +47,17 @@ Self-Organising System - Extinction Rebellion
 [Power of Vulnerability: TED Talk](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en)
 
 [Dare To Lead Podcast](https://brenebrown.com/dtl-podcast/)
+
+## All We Can Save: Ayana Johnson & Katharine Wilkinson
+
+[All We Can Save Project](https://www.allwecansave.earth/)
+
+> There is a renaissance blooming in the climate movement: leaderhip that is more characteristically feminine and more faithfully feminist, rooted in ompassion, connection, creativity, and collaboration. ...To change everything, we need everyone — All We Can Save
+
+> Johnson’s frustration with the climate movement isn’t about the current leaders doing a bad job—it’s just that we need more leaders. Her vision of the world includes people from every community in climate leadership roles. — [The Marine Biologist Building an Inclusive Climate Movement](https://www.vice.com/en/article/5dpyn3/the-marine-biologist-building-an-inclusive-climate-movement), Vice
+
+>All We Can Save is basically a community bound between two covers, and a gift to any who wishes to join in. - [Eric Roston, Bloomberg](https://www.bloomberg.com/news/articles/2020-12-22/this-book-about-climate-change-will-give-you-hope)
+
 
 ## The Power of Welcome 
 
@@ -104,7 +115,7 @@ This tale is about how the organizational architecture of existing entities - wh
 
 [Cautionary Tales Podcast Ep 7 -- Bowie, jazz, and the unplayable piano](http://timharford.com/2019/12/cautionary-tales-ep-7-bowie-jazz-and-the-unplayable-piano/). 
 
-This tale is about music: how Keith Jarrett reluctuntly played on a broken piano and how David Bowie and Brian Eno's take on collaboration led to brand new sounds and ideas. I think about this for science and openness - working out of your comfort zones and mixing up how you do it and who you do it with.
+This tale is about music: how Keith Jarrett reluctantly played on a broken piano and how David Bowie and Brian Eno's take on collaboration led to brand new sounds and ideas. I think about this for science and openness - working out of your comfort zones and mixing up how you do it and who you do it with.
 
 ## Kaitlyn Thaney
 
