@@ -1,0 +1,27 @@
+# Data Interlude {#data-interlude}
+
+
+What is metadata — Irene's/Jeannette's Amazon Dog Costume. 
+
+Don't do a wholesale retrofit — but do better starting now. And when you come back to previous projects or need to hand a project off to someone (onboarding), spend a little time getting it a bit better set up as you go. Definitely read: Good enough practices in scientific computing. In terms of data management, they have 2 main themes:
+
+1. work towards ready-to-analyze data incrementally, documenting both the intermediate data and the process
+1. embrace the idea of "tidy data", which can be a powerful accelerator for analysis
+
+a good first step for many people is generating data dictionaries
+which are just regular (like tabular, csv) name and definitions of column names in various datasets they use
+a good way to encourage people to use consistent naming schemes
+Example of a data dictionary: https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-05-14
+
+
+https://nceas.github.io/crescynt-training/
+https://nceas.github.io/crescynt-training/data-rescue.html
+https://nceas.github.io/crescynt-training/data-integration.html
+
+http://create.frictionlessdata.io/ — creates JSON, but lots of scientists use XML
+
+EML is a metadata standard (one of many) that uses XML to generate a regular structure
+
+http://training.arcticdata.io/materials/arctic-data-center-training/social-aspects-of-collaboration-and-data-policies.html
+
+How to connect with databases from R: https://sciencificity-blog.netlify.app/posts/2020-12-12-using-the-tidyverse-with-databases/
