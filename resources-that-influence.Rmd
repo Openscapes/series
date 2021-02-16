@@ -48,6 +48,11 @@ Self-Organising System - Extinction Rebellion
 
 [Dare To Lead Podcast](https://brenebrown.com/dtl-podcast/)
 
+### Hedgehog concept: Jim Collins
+
+[Hedgehog concept](https://www.jimcollins.com/concepts/the-hedgehog-concept.html)
+
+
 ## All We Can Save: Ayana Johnson & Katharine Wilkinson
 
 [All We Can Save Project](https://www.allwecansave.earth/)
@@ -63,9 +68,7 @@ Self-Organising System - Extinction Rebellion
 
 [The Value of Welcome](https://ropensci.org/blog/2017/07/18/value-of-welcome/) — Stef Butland, rOpenSci
 
-## Hedgehog concept: Jim Collins
-
-[Hedgehog concept](https://www.jimcollins.com/concepts/the-hedgehog-concept.html)
+## The moment of lift: Melinda Gates
 
 ## Architecture of Participation: Tim O'Reilly
 

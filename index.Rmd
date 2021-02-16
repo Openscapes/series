@@ -1,6 +1,6 @@
 --- 
 title: "Openscapes Champions Lesson Series"
-author: "Julie Lowndes"
+author: "Openscapes team"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 # output: bookdown::gitbook
@@ -16,9 +16,9 @@ description: "This is the official lesson series for the Openscapes Champions pr
 
 This book is a lesson series for the Openscapes Champions program. ***It improved iteratively and the most recent version always openly available online***.
 
-Openscapes Champions is a mentorship program that empowers scientists with open data science tools and grows the community of practice. We mentor early career researchers in leadership roles – faculty, lecturers, program managers, and others who want to establish open data science practices in their labs and on their campuses. It is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient and open. We've been building Openscapes from an open data science angle, but along with that comes the mindset of openness, collaboration, good intentions, and creating the culture we want in science. Note: "lab" is broadly defined. 
+Openscapes Champions is a mentorship program that empowers researchers with open data science tools and grows the community of practice. We mentor early career researchers in leadership roles – faculty, lecturers, program managers, and others who want to establish open data science practices in their research groups, at their institutions, and beyond. It is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient, open, and collaborative. We've been building Openscapes from an open data science angle, but along with that comes the mindset of openness, collaboration, kindness, and creating the culture we want in science. Note: "research group" or "lab group" is broadly defined. 
 
-The Series is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). That paper is a retrospective of how a team's data workflow changed over four years; the Openscapes Series aims to help guide other labs to incrementally make similar progress themselves, no matter where they are starting from. 
+The Series is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). That paper is a retrospective of how a team's data workflow changed over four years; the Openscapes Series aims to help guide other teams to accelerate this timeline and begin make similar progress themselves, no matter where they are starting from. 
 
 ----
 
@@ -28,7 +28,7 @@ The first half of the Series focuses on efficiency and open culture within the r
 
 ### 4-month, remote
 
-In the Long-term Remote Program, Cohorts of research groups participate over a four-month period, with two Cohort Calls each month. Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
+In the 4-month remote program, Cohorts of research groups participate in 8 Cohort Calls: 2 each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
 
 Call agendas and slides are all available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), and identified individually in the following table. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an [Efficiency Tips Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml).
 
@@ -48,9 +48,24 @@ Agendas          | Chapters |      Slides
 <br>
 
 
+### 2-month, remote
+
+In the 2-month remote program, Cohorts of research groups participate in 4 Cohort Calls: 2 each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
+
+<br>
+
+Agendas          | Chapters |      Slides
+------------------|----------------------|---------------------------
+[1. Openscapes mindset](https://docs.google.com/document/d/1h-EADIRykge8fGn0ZSNnls1bm8y9AOe1d3QLheqJB2s/edit?usp=sharing) | [mindset](#mindset) |  [mindset](https://docs.google.com/presentation/d/1giEW0EIYVnxneGpOBSJnEqg-1CVBUGrbH8Z5gawdeBc/edit?usp=sharing), [tidy data](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing)
+[2. Better science in less time](https://docs.google.com/document/d/1F4fatp_PLMEm6XbinxZDQjOQ8w1HYSAegmftM4Cm4E8/edit?usp=sharing) | [better science in less time](#bsilt) | [better science in less time](https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing), [discovering community tools](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing) 
+[3. Lab culture](https://docs.google.com/document/d/1zY-hzebfb7KdwxQ8e4DO_SaaufocmjKEe7HjFw8ThZY/edit?usp=sharing) | [lab culture](#lab-culture), [GitHub for publishing](#github-pub)| [lab culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing), [GitHub for publishing](https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing)
+4. Project-oriented workflows | [project oriented workflows](#streamlined-code) | [project oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing) |
+
+<br>
+
 ### 2-day, in-person
 
-Through In-person Workshops, Cohorts of research groups participate over a 2 full days. Workshops are designed to be engaging, requiring active participation through discussion, live-notetaking in Google Docs, and breakout group activities. 
+Through in-person Workshops, Cohorts of research groups participate over a 2 full days. Workshops are designed to be engaging, requiring active participation through discussion, live-notetaking in Google Docs, and breakout group activities. 
 
 The Workshop agenda with links to slides is in this [Google Doc](https://docs.google.com/document/d/1bD3p0gRjS39xF4XxYOXa9XCB6_h6qeVvBSDIrWndQjA/edit?usp=sharing), and identified individually in the following table. 
 
@@ -71,7 +86,7 @@ Time          | Day 1 |      Day 2
 
 The Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it's created with the same tools and practices we will be talking about: R and RStudio — specifially [bookdown](https://bookdown.org/yihui/bookdown/) — and GitHub.
 
-[Openscapes](https://openscapes.org) is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and is being incubated by a [Mozilla](https://foundation.mozilla.org/en/) Fellowship awarded to [Julia Stewart Lowndes](http://jules32.github.io).
+[Openscapes](https://openscapes.org) is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and was incubated by a [Mozilla](https://foundation.mozilla.org/en/) Fellowship awarded to [Julia Stewart Lowndes](http://jules32.github.io).
 
 ----
 

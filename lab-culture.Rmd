@@ -21,6 +21,10 @@ Diversity, Equity, and Inclusion. Readings:
 - [The realities of being a black birdwatcher](https://www.cnn.com/2020/05/27/us/birdwatching-black-christian-cooper/index.html)
 - [Scientists push against barriers to diversity in the field sciences](https://www.sciencemag.org/careers/2020/03/scientists-push-against-barriers-diversity-field-sciences) John Pickrell, Science
 
+- [](https://conversations.vanguardstem.com/a-practical-guide-to-mentoring-across-intersections-c596496ee334)
+  - Belonging ("structural inclusion"), Autonomy & agency, Identity & self-care. 
+  - linked: https://www.mdpi.com/2313-5778/5/1/8
+
 --->
 
 
@@ -126,4 +130,8 @@ https://laderast.github.io/psych_safety/#18
 --->
 
 ## Post Cohort Call Resources
+
+## Further reading
+
+- [A Practical Guide to Mentoring Across Intersections](https://conversations.vanguardstem.com/a-practical-guide-to-mentoring-across-intersections-c596496ee334) - Harriot 2020 *VanguardSTEM Blog*
 
