@@ -1,8 +1,8 @@
 welcome
 agendas
-month-remote
-month-remote-1
-day-in-person
+remote-4-month
+remote-2-month
+in-person-2-day
 about
 overview
 why-were-here
