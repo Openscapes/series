@@ -52,6 +52,8 @@ Agendas          | Chapters |      Slides
 
 In the 2-month remote program, Cohorts of research groups participate in 4 Cohort Calls: 2 each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
 
+This is happening!
+
 <!---
 1. Openscapes mindset; Tidy Data.  
 Hw: read BSILT
