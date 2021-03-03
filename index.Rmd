@@ -52,8 +52,6 @@ Agendas          | Chapters |      Slides
 
 In the 2-month remote program, Cohorts of research groups participate in 4 Cohort Calls: 2 each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
 
-This is happening!
-
 <!---
 1. Openscapes mindset; Tidy Data.  
 Hw: read BSILT
@@ -70,7 +68,7 @@ Agendas          | Chapters |      Slides
 ------------------|----------------------|---------------------------
 [1. Openscapes mindset](https://docs.google.com/document/d/1h-EADIRykge8fGn0ZSNnls1bm8y9AOe1d3QLheqJB2s/edit?usp=sharing) | [mindset](#mindset) |  [mindset](https://docs.google.com/presentation/d/1giEW0EIYVnxneGpOBSJnEqg-1CVBUGrbH8Z5gawdeBc/edit?usp=sharing), [tidy data](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing)
 2. Better science in less time | [better science in less time](#bsilt) | [better science in less time](https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing), [discovering community tools](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing) 
-3. Lab culture | [lab culture](#lab-culture), [GitHub for publishing](#github-pub)| [lab culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing), [GitHub for publishing](https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing)
+3. Research group culture | [research group culture](#lab-culture), [GitHub for publishing](#github-pub)| [research group culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing), [GitHub for publishing](https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing)
 4. Project-oriented workflows | [project oriented workflows](#streamlined-code) | [project oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing) |
 
 <br>
