@@ -1,4 +1,4 @@
-# Data Interlude {#data-interlude}
+# Tidy data {#tidy-data}
 
 
 What is metadata — Irene's/Jeannette's Amazon Dog Costume. 
@@ -25,3 +25,7 @@ EML is a metadata standard (one of many) that uses XML to generate a regular str
 http://training.arcticdata.io/materials/arctic-data-center-training/social-aspects-of-collaboration-and-data-policies.html
 
 How to connect with databases from R: https://sciencificity-blog.netlify.app/posts/2020-12-12-using-the-tidyverse-with-databases/
+
+## Further Reading
+
+https://github.com/jtleek/datasharing
