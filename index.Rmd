@@ -14,17 +14,46 @@ description: "This is the official lesson series for the Openscapes Champions pr
 
 # Welcome {#welcome}
 
-This book is a lesson series for the Openscapes Champions program. ***It improved iteratively and the most recent version always openly available online***.
+This book is the lesson series for the Openscapes Champions program. It improved iteratively and the most recent version always openly available online.
 
-Openscapes Champions is a mentorship program that empowers researchers with open data science tools and grows the community of practice. We mentor early career researchers in leadership roles – faculty, lecturers, program managers, and others who want to establish open data science practices in their research groups, at their institutions, and beyond. It is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient, open, and collaborative. We've been building Openscapes from an open data science angle, but along with that comes the mindset of openness, collaboration, kindness, and creating the culture we want in science. Note: "research group" or "lab group" is broadly defined. 
+Openscapes Champions is a professional development and leadership opportunity for environmental and Earth science research teams to explore open data science practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. By discussing open software tooling and communities enabling reproducible research (e.g. R/RStudio, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science, enabling increased efficiency and resilience for teams so that their work has more enduring impact. Note: "research group" or "lab group" is broadly defined. 
 
-The Series is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). That paper is a retrospective of how a team's data workflow changed over four years; the Openscapes Series aims to help guide other teams to accelerate this timeline and begin make similar progress themselves, no matter where they are starting from. 
+The lesson series is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). That paper is a retrospective of how a team's data workflow changed over four years; Openscapes Champions aims to help guide other teams to accelerate this timeline and begin make similar progress themselves, no matter where they are starting from. 
+
+Chapters in this book accompany what is presented and discussed through Cohort Calls, when a cohort of ~7 research teams (~28 individuals) convene remotely as a Champions Cohort. We are testing and learning from Cohorts of different durations as we continue to improve and grow Openscapes, and below are agendas from 2-month, 4-month, and 2-day iterations. 
 
 ----
 
 ## Agendas
 
 The first half of the Series focuses on efficiency and open culture within the research group, and the second half is about sustained learning and bringing these practices to the broader campus or insitutional community. 
+
+
+### Remote, 2-month
+
+In the 2-month remote program, Cohorts of research groups participate in 4 Cohort Calls: 2 each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
+
+<!---
+1. Openscapes mindset; Tidy Data.  
+Hw: read BSILT
+2. better science in less time; Collaborative coding and discovering community tools
+Hw: seaside chat: discuss pathway
+3. Lab Culture, GitHub for publishing and project management https://docs.github.com/en/github/building-a-strong-community 
+Hw: seaside chat: refine pathway, practice gh, CoC...
+4. Streamlined workflows: source files & filepaths, project-oriented workflows; share your pathway/next steps
+--->
+
+<br>
+
+Agendas          | Chapters |      Slides
+------------------|----------------------|---------------------------
+1. Openscapes mindset | [mindset](#mindset), [better science in less time](#bsilt) |  [mindset](https://docs.google.com/presentation/d/1giEW0EIYVnxneGpOBSJnEqg-1CVBUGrbH8Z5gawdeBc/edit?usp=sharing), [better science in less time](https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing)
+2. Data & coding strategies for future us |  | [discovering community tools](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing), [tidy data](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing) 
+3. Team culture | [research group culture](#lab-culture), [GitHub for publishing](#github-pub)| [research group culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing), [GitHub for publishing](https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing)
+4. Project-oriented workflows | [project oriented workflows](#streamlined-code) | [project oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing) |
+
+<br>
+
 
 ### Remote, 4-month
 
@@ -48,30 +77,6 @@ Agendas          | Chapters |      Slides
 <br>
 
 
-### Remote, 2-month
-
-In the 2-month remote program, Cohorts of research groups participate in 4 Cohort Calls: 2 each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
-
-<!---
-1. Openscapes mindset; Tidy Data.  
-Hw: read BSILT
-2. better science in less time; Collaborative coding and discovering community tools
-Hw: seaside chat: discuss pathway
-3. Lab Culture, GitHub for publishing and project management https://docs.github.com/en/github/building-a-strong-community 
-Hw: seaside chat: refine pathway, practice gh, CoC...
-4. Streamlined workflows: source files & filepaths, project-oriented workflows; share your pathway/next steps
---->
-
-<br>
-
-Agendas          | Chapters |      Slides
-------------------|----------------------|---------------------------
-1. Openscapes mindset | [mindset](#mindset), [better science in less time](#bsilt) |  [mindset](https://docs.google.com/presentation/d/1giEW0EIYVnxneGpOBSJnEqg-1CVBUGrbH8Z5gawdeBc/edit?usp=sharing), [better science in less time](https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing)
-2. Discovering community tooling |  | [discovering community tools](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing), [tidy data](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing) 
-3. Team culture | [research group culture](#lab-culture), [GitHub for publishing](#github-pub)| [research group culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing), [GitHub for publishing](https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing)
-4. Project-oriented workflows | [project oriented workflows](#streamlined-code) | [project oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing) |
-
-<br>
 
 ### In-person, 2-day
 
