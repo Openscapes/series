@@ -1,11 +1,14 @@
-# Streamlined workflows with code {#streamlined-code} 
+# Coding strategies for future us {#coding-strategies} 
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(htmltools)
 ```
 
-<!---Code: your packages are like ingredients in a recipe. They need to be up at the top. Also for RLadies. Dry ingredients and wet. Preheat the oven oven. Think of it as a recipe: not only it is telling the steps to follow to do the thing, there whole reason for writing it down at all is so you and others can figure out what's going on/what to do 
+<!--- TODO: update this text after NWFSC cohort run through as Coding strategies
+
+
+Code: your packages are like ingredients in a recipe. They need to be up at the top. Also for RLadies. Dry ingredients and wet. Preheat the oven oven. Think of it as a recipe: not only it is telling the steps to follow to do the thing, there whole reason for writing it down at all is so you and others can figure out what's going on/what to do 
 
 README files are a convention for coders. They are found in a folder and give a "lay of the land" of the neighboring files in the folder. They are such a convention that GitHub displays markdown files named README. 
 

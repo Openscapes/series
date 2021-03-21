@@ -16,18 +16,15 @@ description: "This is the official lesson series for the Openscapes Champions pr
 
 This book is the lesson series for the Openscapes Champions program. It improved iteratively and the most recent version always openly available online.
 
-Openscapes Champions is a professional development and leadership opportunity for environmental and Earth science research teams to explore open data science practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend as a team with their research group in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. By discussing open software tooling and communities enabling reproducible research (e.g. R/RStudio, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science, enabling increased efficiency and resilience for teams so that their work has more enduring impact. Note: "research group" or "lab group" is broadly defined. 
+Chapters in this book accompany the agendas of the Champions program Cohort Calls, when cohorts of ~7 research teams (~28 individuals) convene remotely to explore open data science practices. We are testing and learning from Cohorts of different durations as we continue to improve and grow Openscapes. [Below are agendas](#agendas) from 2-month, 4-month, and 2-day iterations. 
 
-The lesson series is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). That paper is a retrospective of how a team's data workflow changed over four years; Openscapes Champions aims to help guide other teams to accelerate this timeline and begin make similar progress themselves, no matter where they are starting from. 
+**Openscapes Champions** is a professional development and leadership opportunity for research teams to explore open data science practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend as a team with their research group — including the team lead — in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. By discussing open software tooling and communities enabling reproducible research (e.g. R/RStudio, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science, enabling increased efficiency and resilience for teams so that their work has more enduring impact.
 
-Chapters in this book accompany what is presented and discussed through Cohort Calls, when a cohort of ~7 research teams (~28 individuals) convene remotely as a Champions Cohort. We are testing and learning from Cohorts of different durations as we continue to improve and grow Openscapes, and below are agendas from 2-month, 4-month, and 2-day iterations. 
+The lesson series is originally framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). That paper is a retrospective of how a team's data workflow changed over four years; Openscapes Champions aims to help guide other teams to accelerate this timeline and begin make similar progress themselves, no matter where they are starting from. 
 
 ----
 
 ## Agendas
-
-The first half of the Series focuses on efficiency and open culture within the research group, and the second half is about sustained learning and bringing these practices to the broader campus or insitutional community. 
-
 
 ### Remote, 2-month
 
@@ -48,16 +45,16 @@ Hw: seaside chat: refine pathway, practice gh, CoC...
 Agendas          | Chapters |      Slides
 ------------------|----------------------|---------------------------
 1. Openscapes mindset | [mindset](#mindset), [better science in less time](#bsilt) |  [mindset](https://docs.google.com/presentation/d/1giEW0EIYVnxneGpOBSJnEqg-1CVBUGrbH8Z5gawdeBc/edit?usp=sharing), [better science in less time](https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing)
-2. Data & coding strategies for future us |  | [discovering community tools](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing), [tidy data](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing) 
+2. Data & coding strategies for future us | [data strategies](#data-strategies), [coding strategies](#coding-strategies) | [data strategies](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing), [coding strategies](https://docs.google.com/presentation/d/1nTLJ782dpZqp3MEhQU9zNaFInrTaFUVQbj9OqsmxUYo/edit?usp=sharing) 
 3. Team culture | [research group culture](#lab-culture), [GitHub for publishing](#github-pub)| [research group culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing), [GitHub for publishing](https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing)
-4. Project-oriented workflows | [project oriented workflows](#streamlined-code) | [project oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing) |
+4. | |
 
 <br>
 
 
 ### Remote, 4-month
 
-In the 4-month remote program, Cohorts of research groups participate in 8 Cohort Calls: 2 each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
+In the 4-month remote program, the first half of the Series focuses on efficiency and open culture within the research group, and the second half is about sustained learning and bringing these practices to the broader campus or insitutional community. Cohorts of research groups participate in 8 Cohort Calls: 2 each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
 
 Call agendas and slides are all available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), and identified individually in the following table. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an [Efficiency Tips Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml).
 
@@ -69,7 +66,7 @@ Agendas          | Chapters |      Slides
 [2. Better science in less time](https://docs.google.com/document/d/1F4fatp_PLMEm6XbinxZDQjOQ8w1HYSAegmftM4Cm4E8/edit?usp=sharing) | [better science in less time](#bsilt) | [better science in less time](https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing), [data interlude](https://docs.google.com/presentation/d/1YnHR1OqtpH4LkVaNBF8LhLGPUUx7mDysw4YAR7mKKfE/edit?usp=sharing) 
 [3. Lab culture](https://docs.google.com/document/d/1zY-hzebfb7KdwxQ8e4DO_SaaufocmjKEe7HjFw8ThZY/edit?usp=sharing) | [lab culture](#lab-culture), [code of conduct](code-of-conduct) | [lab culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing), [code of conduct](https://docs.google.com/presentation/d/1eydm6NcrR_T2NwoMWYBWM682OW-qr755iYemVWL8cJg/edit?usp=sharing)
 [4. GitHub for the lab](https://docs.google.com/document/d/1Y8_5EFbsaaH26LvqXc5NZZ66Np4JQWuSemQbCrNIjSY/edit?usp=sharing) |  [GitHub for publishing](#github-pub),  [GitHub for project management](#github-issues) | [GitHub for publishing](https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing), [GitHub for project management](https://docs.google.com/presentation/d/1JGFnZqz01Ex8h2qO3OBUHc1OiTFkAqV2ED2XFiMdN4I/edit?usp=sharing)
-[5. Streamlined workflows with code](https://docs.google.com/document/d/1QHCmZm4KPuv--35PiohkpGlpwuyhPHCmZ6NczrBHeMY/edit?usp=sharing) | [source files, filepaths & project oriented workflows](#streamlined-code) | [source files & file paths](https://docs.google.com/presentation/d/1HbxQ9Lg-ySEhmvH01PnMX0BDuquQezru73GI3PV-Ibo/edit?usp=sharing); [project oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing)
+[5. Streamlined workflows with code](https://docs.google.com/document/d/1QHCmZm4KPuv--35PiohkpGlpwuyhPHCmZ6NczrBHeMY/edit?usp=sharing) | [coding strategies](#coding-strategies) | [source files & file paths](https://docs.google.com/presentation/d/1HbxQ9Lg-ySEhmvH01PnMX0BDuquQezru73GI3PV-Ibo/edit?usp=sharing); [project oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing)
 [6. Coding with communities, part 1](https://docs.google.com/document/d/1YHTvob1D-ow9H82x3s1rENX60b5Y-gCo5xWEtGc6fZA/edit?usp=sharing), [part 2](https://docs.google.com/document/d/1C2KlfXLglvWpmlHbR5cxYmm3pZITdTufgAsQdh01rV4/edit?usp=sharing)| [coding with communities](#communities) |  [coding with communities, part 1](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing), [part 2](https://docs.google.com/presentation/d/1ZYQERUuNJ69QRSUs_JKLdask_VnQRmvMTulv6m2VmUU/edit?usp=sharing)
 [7. Communicating science openly](https://docs.google.com/document/d/14lZLb-5IzmoEq2L_DVki99zzMxsesmQbtaA0Uu31f_I/edit?usp=sharing) | [R for science communication](#r-scicomm) | [publishing & discoverability](https://docs.google.com/presentation/d/1efJj7Dxg_g4ZRZT2b1agDQrT3DN5lVcNvv25IWcyGlw/edit#slide=id.g574ba85675_0_10)
 [8. Presentations: Openscapes Case Studies](https://docs.google.com/document/d/1MhWL9AnrZr0hfm56pumzExJtkyMoEiylo0GoOyJZm0A/edit?usp=sharing) | | 
@@ -101,7 +98,7 @@ Time          | Day 1 |      Day 2
 
 The Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it's created with the same tools and practices we will be talking about: R and RStudio — specifially [bookdown](https://bookdown.org/yihui/bookdown/) — and GitHub.
 
-[Openscapes](https://openscapes.org) is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and was incubated by a [Mozilla](https://foundation.mozilla.org/en/) Fellowship awarded to [Julia Stewart Lowndes](http://jules32.github.io).
+[Openscapes](https://openscapes.org) is co-directed by Julia Stewart Lowndes and Erin Robinson. It is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and was incubated by a [Mozilla](https://foundation.mozilla.org/en/) Fellowship awarded to Lowndes in 2018.
 
 ----
 

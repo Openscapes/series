@@ -7,6 +7,7 @@ bookdown::gitbook:
     after_body: _after_body.html
   config:
     toc:
+      collapse: section
       before: |
         <li><a href="./">Openscapes Champions Series</a></li>
         <li><a href="https://openscapes.org">← Back to openscapes.org</a></li>
