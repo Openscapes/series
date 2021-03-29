@@ -35,7 +35,7 @@ Jai: Electricity the cultural adaptation took a long time
 Self-Organising System - Extinction Rebellion
 
 --->
-## Hilary Parker & Roger Peng
+## Talking about data science: Hilary Parker & Roger Peng
 
 [RStudio::conf(2020) keynote](https://rstudio.com/resources/rstudioconf-2020/not-so-standard-deviations-episode-100/) & [NSSD podcast episode 100]( http://nssdeviations.com/100-live-from-rstudio-conf-2020)
 
@@ -147,5 +147,7 @@ Another possibility might be to develop a Volitional Help Sheet for Open Science
 https://www.cos.io/blog/open-science-is-a-behavior
 --->
 
+## Mentorship vs Sponsorship
 
+https://larahogan.me/sponsors/
 

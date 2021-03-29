@@ -44,8 +44,8 @@ Hw: seaside chat: refine pathway, practice gh, CoC...
 
 Agendas          | Chapters |      Slides
 ------------------|----------------------|---------------------------
-1. Openscapes mindset | [mindset](#mindset), [better science in less time](#bsilt) |  [mindset](https://docs.google.com/presentation/d/1giEW0EIYVnxneGpOBSJnEqg-1CVBUGrbH8Z5gawdeBc/edit?usp=sharing), [better science in less time](https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing)
-2. Strategies for future us | [data strategies](#data-strategies), [coding strategies](#coding-strategies) | [data strategies](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing), [coding strategies](https://docs.google.com/presentation/d/1nTLJ782dpZqp3MEhQU9zNaFInrTaFUVQbj9OqsmxUYo/edit?usp=sharing) 
+[1. Openscapes mindset](https://docs.google.com/document/d/1h-EADIRykge8fGn0ZSNnls1bm8y9AOe1d3QLheqJB2s/edit?usp=sharing) | [mindset](#mindset), [better science in less time](#bsilt) |  [mindset](https://docs.google.com/presentation/d/1giEW0EIYVnxneGpOBSJnEqg-1CVBUGrbH8Z5gawdeBc/edit?usp=sharing), [better science in less time](https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing)
+[2. Strategies for future us](https://docs.google.com/document/d/1ypw-ZKbXp8pET6XuYL2kbZIgf-bWAfqD390wHmsOXsc/edit?usp=sharing) | [data strategies](#data-strategies), [coding strategies](#coding-strategies) | [data strategies](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing), [coding strategies](https://docs.google.com/presentation/d/1nTLJ782dpZqp3MEhQU9zNaFInrTaFUVQbj9OqsmxUYo/edit?usp=sharing) 
 3. Team culture & collaboration | [research group culture](#lab-culture), [GitHub for publishing](#github-pub)| [research group culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing), [GitHub for publishing](https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing)
 4. Pathways share | |
 
