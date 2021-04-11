@@ -18,7 +18,7 @@ This book is the lesson series for the Openscapes Champions program. It improved
 
 Chapters in this book accompany the agendas of the Champions program Cohort Calls, when cohorts of ~7 research teams (~28 individuals) convene remotely to explore open data science practices. We are testing and learning from Cohorts of different durations as we continue to improve and grow Openscapes. [Below are agendas](#agendas) from 2-month, 4-month, and 2-day iterations. 
 
-**Openscapes Champions** is a professional development and leadership opportunity for research teams to explore open data science practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend as a team with their research group — including the team lead — in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. By discussing open software tooling and communities enabling reproducible research (e.g. R/RStudio, GitHub, metadata), participants develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science, enabling increased efficiency and resilience for teams so that their work has more enduring impact.
+**Openscapes Champions** is a professional development and leadership opportunity for research teams to explore open data science practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend as a team with their research group — including the team lead — in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. A driving motivation is to reduce the burden for early career faculty/leads wanting to modernize their research groups' approaches to collaborative data analysis an stewardship. By discussing open software tooling and communities enabling reproducible research (e.g. R/RStudio, GitHub, metadata), research groups develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science, enabling increased efficiency and resilience for teams so that their work has more enduring impact.
 
 The lesson series is originally framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). That paper is a retrospective of how a team's data workflow changed over four years; Openscapes Champions aims to help guide other teams to accelerate this timeline and begin make similar progress themselves, no matter where they are starting from. 
 
@@ -26,9 +26,13 @@ The lesson series is originally framed around [Lowndes *et al. 2017, Nature Ecol
 
 ## Agendas
 
+Cohorts of research groups participate in the Champions program over several months, with 2 Cohort Calls each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
+
+Call agendas and slides are all openly available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), and identified individually in the following tables. As we continue to learn and iterate from working with different research groups, you can always review [previous agendas](https://github.com/Openscapes/series/blob/master/agenda-archive.md) for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an [Efficiency Tips Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml).
+
 ### Remote, 2-month
 
-In the 2-month remote program, Cohorts of research groups participate in 4 Cohort Calls: 2 each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
+In the 2-month remote program, research groups participate in 4 Cohort Calls. 
 
 <!---
 1. Openscapes mindset; Tidy Data.  
@@ -51,12 +55,9 @@ Agendas          | Chapters |      Slides
 
 <br>
 
-
 ### Remote, 4-month
 
-In the 4-month remote program, the first half of the Series focuses on efficiency and open culture within the research group, and the second half is about sustained learning and bringing these practices to the broader campus or insitutional community. Cohorts of research groups participate in 8 Cohort Calls: 2 each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
-
-Call agendas and slides are all available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), and identified individually in the following table. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an [Efficiency Tips Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml).
+In the 4-month remote program, research groups participate in 8 Cohort Calls. The first half of the Series focuses on efficiency and open culture within the research group, and the second half is about sustained learning and bringing these practices to the broader campus or institutional community. 
 
 <br>
 
@@ -73,11 +74,9 @@ Agendas          | Chapters |      Slides
 
 <br>
 
-
-
 ### In-person, 2-day
 
-Through in-person Workshops, Cohorts of research groups participate over a 2 full days. Workshops are designed to be engaging, requiring active participation through discussion, live-notetaking in Google Docs, and breakout group activities. 
+Through in-person Workshops, research groups participate as a cohort over a 2 full days. 
 
 The Workshop agenda with links to slides is in this [Google Doc](https://docs.google.com/document/d/1bD3p0gRjS39xF4XxYOXa9XCB6_h6qeVvBSDIrWndQjA/edit?usp=sharing), and identified individually in the following table. 
 
