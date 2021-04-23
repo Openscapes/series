@@ -1,0 +1,67 @@
+# Github for Publishing {#code-tour} 
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(htmltools)
+```
+
+<!---
+
+https://alison.rbind.io/post/read-multiple-header-rows/
+
+stashing for now: 
+https://github.com/mozilla/leadership-training/blob/master/for_mentors/tip_sheet.md
+
+https://github.com/awesomedata/awesome-public-datasets
+
+A few R examples: sf, separate_rows, Rgbif
+
+https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368
+
+
+What are your resources for a (sneaky) intro to data engineering? My #RLadies go-tos: ☑️ data in spreadsheets, @kara_woo and @kwbroman, https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375989 … ☑️ data dictionaries, @beeonaposy, https://caitlinhudon.com/2018/10/30/data-dictionaries/ … ☑️ code smells/feels, @JennyBryan,:::: and others
+https://twitter.com/CivicAngela/status/1130860863244701696
+
+Alternatives to datacamp: https://twitter.com/nic_crane/status/1117762686794764290
+
+Ggplot flipbook: https://twitter.com/EvaMaeRey/status/1095102690936291328
+
+--->
+
+citation()
+citation("packagename")
+
+https://github.com/ThinkR-open/companies-using-r
+
+https://www.earthdatascience.org/
+
+https://www.computerworld.com/article/2921176/great-r-packages-for-data-import-wrangling-visualization.html
+
+https://bookdown.org/martin_monkman/DataScienceResources_book/
+
+https://twitter.com/jimhester_/status/1110904358034640898
+
+## Preamble
+
+https://twitter.com/sharlagelfand/status/1106641682802585601
+janitor
+
+https://cran.r-project.org/web/packages/blastula/index.html
+
+
+
+<!---
+Go back in time: https://mobile.twitter.com/rstudio/status/1090634455612416000?s=19
+Chat with Liz Selig: Add TOC, Goal-oriented strategy to Openscapes?
+
+Cowplots - multimodel outputs fast.
+
+Facilitate culture – deliberate
+Teaching
+Data science in a box
+Christie’s 
+https://cbahlai.github.io/rqm-template/ 
+https://reproducibleqm.github.io/RQM_SS18/
+
+
+--->

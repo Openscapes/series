@@ -95,8 +95,8 @@ organize-your-work-into-projects
 rstudio-projects
 tips-for-rstudio-projects
 name-files-deliberately
-lab-culture
-why-talk-about-lab-culture
+team-culture
+why-talk-about-team-culture
 science-benefits-from-diversity
 sexual-harassment-is-rife-in-the-sciences
 we-need-to-unlearn-racism-and-build-antiracist-culture-in-science

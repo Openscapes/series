@@ -9,7 +9,7 @@ rmd_files: [
   "bsilt.Rmd",
   "data-strategies.Rmd",
   "coding-strategies.Rmd",
-  "lab-culture.Rmd",
+  "team-culture.Rmd",
   "code-of-conduct.Rmd",
   "github-pub.Rmd",
   "github-issues.Rmd",

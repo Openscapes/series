@@ -1,4 +1,4 @@
-# Lab culture {#lab-culture} 
+# Team culture {#team-culture} 
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -30,9 +30,11 @@ https://twitter.com/tararobertson/status/1363926183922966528: wheel of power/pri
 --->
 
 
-## Why talk about lab culture?
+## Why talk about team culture?
 
 *Please see accompanying [slides](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing) until this chapter is built out more.*
+
+*This chapter will also soon include information from the [psychological safety](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing) slides by Tara Robertson*
 
 ### Science benefits from diversity
 
