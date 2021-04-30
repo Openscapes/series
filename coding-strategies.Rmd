@@ -188,6 +188,9 @@ Jenny Bryan’s 3 rules for Naming Things:
 Available from [Speakerdeck](https://speakerdeck.com/jennybc/how-to-name-files) or [download pdf](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
 
 
+## Further reading
+
+https://jhudatascience.org/tidyversecourse/
 
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770
 <!---

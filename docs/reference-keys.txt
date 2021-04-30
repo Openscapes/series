@@ -95,6 +95,7 @@ organize-your-work-into-projects
 rstudio-projects
 tips-for-rstudio-projects
 name-files-deliberately
+further-reading-1
 team-culture
 why-talk-about-team-culture
 science-benefits-from-diversity
@@ -121,13 +122,13 @@ onboarding-how-to-welcome-new-people-to-your-lab
 asking-for-help
 code-of-conduct-next-slide-deck
 post-cohort-call-resources
-further-reading-1
+further-reading-2
 code-of-conduct
 code-of-conduct-also-known-as
 requirements
 case-study-ropensci
 examples-to-build-from
-further-reading-2
+further-reading-3
 github-pub
 preamble
 prerequisite

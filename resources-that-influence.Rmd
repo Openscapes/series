@@ -41,6 +41,17 @@ Self-Organising System - Extinction Rebellion
 
 > If you want to write, you read a lot, music, you listen a lot. I'ts hard to do this with data analysis.
 
+## Opinionated data analysis
+
+
+## Principles for data analysis workflows
+Stoudt, Vásquez, Martinez, 
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770
+
+> workflow describes what a researcher does to make advances on scientific ques- tions: developing hypotheses, wrangling data, writing code, and interpreting results.
+> Workflow: The process that moves a scientific investigation from raw data to coherent research question to insightful contribution. This often involves a complex series of pro- cesses and includes a mixture of machine automation and human intervention. It is a nonlinear and iterative exercise.
+
+> Importantly, the difficulties we encounter in this [Explore] phase help us build empathy for an eventual audience beyond ourselves. It is here that we experience firsthand the challenges of processing our data set, framing domain research questions appro- priate to it, and structuring the beginnings of a workflow. Documenting our trial and error helps our own work stay on track in addition to assisting future researchers facing similar challenges.
 
 ## Vulnerability: Brené Brown
 
