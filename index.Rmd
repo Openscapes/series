@@ -14,13 +14,23 @@ description: "This is the official lesson series for the Openscapes Champions pr
 
 # Welcome {#welcome}
 
-This book is the lesson series for the [**Openscapes Champions program**](https://www.openscapes.org/champions/). It improved iteratively and the most recent version always openly available online.
+Hello! This book is the lesson series for the [**Openscapes Champions program**](https://www.openscapes.org/champions/), an open data science mentorship program for science teams. 
 
-Chapters in this book accompany slide decks and agendas for the Champions program Cohort Calls. Cohort Calls are when cohorts of ~7 research teams (~28 individuals) convene remotely to explore open data science practices. We are testing and learning from Cohorts of different durations as we continue to improve and grow Openscapes. [Below are agendas](#agendas) from 2-month, 4-month, and 2-day iterations. 
+Openscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together.
 
+<center>
+  <img src="img/horst_openscapes_champions.jpg" width="600px"></a>
+   <figcaption>Artwork by [Allison Horst](https://twitter.com/allison_horst) </figcaption>
+</center>
+<br>
+
+The open curriculum is improved iteratively and the most recent version always available online. Chapters accompany slide decks that are taught through [Cohort Agendas](#agendas) (below), depending on the Cohort duration. The lesson series is originally framed around "Our path to better science in less time using open data science tools" [(Lowndes et al. 2017)](https://www.nature.com/articles/s41559-017-0160). <!--- That paper is a retrospective of how a team's data workflow changed over four years; Openscapes Champions aims to help guide other teams to accelerate this timeline and begin make similar progress themselves, no matter where they are starting from. ---> As we learn and iterate with Cohorts of different durations and from different disciplines, the curriculum will iterate and grow as well. 
+<!---
 **Openscapes Champions** is a professional development and leadership opportunity for research teams to explore open data science practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend as a team with their research group — including the team lead — in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. A driving motivation is to reduce the burden for early career faculty/leads wanting to modernize their research groups' approaches to collaborative data analysis and stewardship. By discussing open software tooling and communities enabling reproducible research (e.g. R/RStudio, GitHub, metadata), research groups develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science, enabling increased efficiency and resilience for teams so that their work has more enduring impact.
 
-The lesson series is originally framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). That paper is a retrospective of how a team's data workflow changed over four years; Openscapes Champions aims to help guide other teams to accelerate this timeline and begin make similar progress themselves, no matter where they are starting from. 
+--->
+
+
 
 ----
 

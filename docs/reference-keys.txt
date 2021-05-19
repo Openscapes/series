@@ -121,14 +121,13 @@ social-events
 onboarding-how-to-welcome-new-people-to-your-lab
 asking-for-help
 code-of-conduct-next-slide-deck
-post-cohort-call-resources
-further-reading-2
+further-resources
 code-of-conduct
 code-of-conduct-also-known-as
 requirements
 case-study-ropensci
 examples-to-build-from
-further-reading-3
+further-reading-2
 github-pub
 preamble
 prerequisite
