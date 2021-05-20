@@ -159,6 +159,11 @@ strategies-for-issues
 ohi-example
 your-turn-create-comment-on-issues
 communities
+prelude
+open-science-coding-communities-connect-online-and-in-person
+so-why-participate
+how-to-get-started
+coding-club-examples
 r-scicomm
 books-with-bookdown
 websites-with-rmarkdown
