@@ -1,34 +1,74 @@
 # Better science in less time {#bsilt}
 
-<!--- *Alternative chapter title: "R: not just for code anymore"* --->
+Better science is less time is science that is more efficient, reproducible, open, inclusive, and kind. There are growing examples of better science in less time in environmental and Earth science, and beyond. Here are a few examples to showcase what is possible and being done by the community.
 
-We will highlight some concepts brought up in 
+**Slides** that have been presented during Champions Program Cohort Calls: 
 
-[Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). 
+- [Better science in less time](https://docs.google.com/presentation/d/1GmuTa1sUO_boH-2TonC875pD5xvXaIMHRKIoO3vUrdY/edit?usp=sharing) - Julie Lowndes
+- [Empowering transformational science](https://docs.google.com/presentation/d/1SUMiQg0HhD19H-D6DDzTrFQVzub0kOINwJBG59uQCTw/edit#slide=id.p1) - Chelle Gentemann
 
+Here we also introduce the [**Pathway document**](https://drive.google.com/open?id=1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8) that teams will develop throughout the Champions program. The Pathway is based on Table 1 in Lowndes et al. 2017, and helps teams deliberately identify data workflow practices and next steps to facilitate efficiency and open culture in terms of reproduciblity, collaboration, communication, and culture. 
 
-## OHI pathway 
-Motivated by necessity  
-Improved by possibility & community   
+---
 
-Gives us more time to do other things (like focus on science)
+## Ocean Health Index: behind the scenes
+
+Some key points to discuss from [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160): 
+
+- Reproducibility & communication enabled by open tooling
+- Shared practices are useful beyond shared projects
+
+If you're interested in more overview of the OHI setup, see this 2017 talk (25 mins): [OHI Better science in less time](https://www.youtube.com/watch?v=x4uzVAZvFCA)
+
+### OHI pathway 
+
+- Motivated by necessity
+- Reimagined by possibility and community 
+- Done incrementally!
+- Yes: it’s an investment. 
+- Also yes: huge, enduring payoff for (your) science
+
+### Reproducibility & communication enabled by open tooling
+
+RMarkdown to reimagine data analysis and communication. RMarkdown combines analyses & figures together, rendered to your reporting output of choice. 
+
+An example: <http://ohi-science.org/betterscienceinlesstime/>
+
+- Website built with R/RMarkdown & Github  
+- You can get started too: ([1-hour tutorial](https://jules32.github.io/rmarkdown-website-tutorial/)) 
 
 ### Shared workflows not only useful for shared projects
 
-OHI team: we work on many different projects, still use same workflows and share feedback 
+- OHI team: we identified as a team & prioritized helping each other
+  - We work on many different projects
+  - Use same workflows, share feedback, can think together across projects
+- Shared conventions reduce friction & cognitive load
+  - Common ground, easier to talk about, easier to ask for help
+  - You don’t need to design everything from scratch
 
-Shared conventions reduce friction
+And, critically: 
 
-Common ground, easier to talk about, easier to ask for help
+- It’s about increasing efficiency and reproducibility and open science. 
+- But it is also about increasing participation and inclusion. 
+- Consider diversity, equity, and inclusion in your daily practices.
+- How you work and onboard others to your projects is a DEI issue. 
 
-Identify collaborative opportunities
-- Reduce cognitive load
-- You don’t need to design everything from scratch
+## Open science and the cloud
 
-Easier to find things 
+Resources by Chelle Gentemann and colleagues: 
+
+- [Empowering transformational science](https://docs.google.com/presentation/d/1SUMiQg0HhD19H-D6DDzTrFQVzub0kOINwJBG59uQCTw/edit#slide=id.p1)
 
 
-## Resources to highlight
+## Other examples 
+
+- Tampa Bay Estuary Program
+  - <https://tbep-tech.github.io/tbeptools>
+- NOAA NMFS RMarkdown reports
+  - <https://emilymarkowitz-noaa.github.io/NMFSReports>
+
+
+## Further resources
 
 ### Not so standard deviation podcast 
 
@@ -44,99 +84,6 @@ Haddock & Dunn
 Software & computing concepts already on your computer  
 Chapter 2: Regular expressions  
 
-## R for science communication
-
-OHI Team
-<http://ohi-science.org/betterscienceinlesstime/>
-
-Website built with R/RMarkdown & Github  
-List of media & lectures, resources  
-Interviews in Nature, rOpenSci  
-Example of what you can do ([1-hour tutorial](https://jules32.github.io/rmarkdown-website-tutorial/)) 
-
-## Seaside chats
-
-Ocean Health Index:
-
-- Standing meeting, 1hr 1x/week
-- Ours are lab members only (not the lab lead)
-- Topic planned ahead
-- Usually low effort, but not always
-  - I need to learn Zotero, I’ll share what I know by next week
-  - Hey, could you show us how you use GitHub?
-- We keep a list of topics
-  - helps with onboarding new members
-  
-## Table 1
-
-Took us a long time to make this, really difficult to parse out what we were doing so that we could improve.
-
-## Pathway
-
-Let's use the BSILT Table 1 as a way to help you think of how you work now and identify your paths forward. 
-
-Deliberately identify: 
-
-1. data workflow practices in your lab 
-22 next steps to facilitate efficiency and open culture. 
-
-Will help create protocols for shared lab practices – important for onboarding. 
-
-[example and blank doc to work from](https://docs.google.com/presentation/d/1sPoCE6J2avMDRkZl6I-x0uPW0lRkBjcpFelVmJ5_hVg/edit)
-
-
-<!---
-
-Also, see interviews (i.e. shorter summaries) about it: 
-
-- lab’s workflows & shared practices for data analysis
-- collaboration channels
-- on/offboarding
-- seaside chats
-- come for the efficiency, stay for the learning & support community
-
- From then to now: improving reproducibility and collaboration
-
-We thought we were doing reproducible science. Compared with 5 years later: actually doing reproducible science
-
-Fig 1, Table 1. 
-
- Reproducibility
-
- Data preparation: coding and documenting.
-
- Modelling: R functions and packages.
-
-Version control.
-
- Organization
-
- Collaboration within our team
-
- Coding collaboratively.
-
- Our (simplified) GitHub workflow.
-
- Internal communication. 
-
- Communication outside the project
-
-Sharing data and code.
-
- Sharing methods and instruction.
-
-SHOW don't tell
-
- Box 1, Box 2
-
-
-(Table 1)
-
---->
-
-
-
-
 
 <!---
 
@@ -146,10 +93,4 @@ Carly Strasser
 
 Fischetti, T. How dplyr replaced my most common r idioms. StatsBlogs http://www.onthelambda.com/2014/02/10/how-dplyr-replaced-my-most-common-r-idioms/ (10 February 2014).
 
---->
-
-<!---
-## Slides
-
-Slides for this chapter are available [here]()
 --->

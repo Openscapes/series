@@ -193,6 +193,8 @@ Available from [Speakerdeck](https://speakerdeck.com/jennybc/how-to-name-files) 
 https://jhudatascience.org/tidyversecourse/
 
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770
+
+- [R Cookbook](https://rc2e.com/) — JD Long
 <!---
 
 Opinionated analysis development. RStudio is already doing this. Reserve your mental energy for the fun part of the analysis
