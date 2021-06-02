@@ -33,5 +33,9 @@ fancier, dynamic
 
 ## Further resources
 
-- [Academic Publications with
-R Markdown](https://danovando.github.io/publications-with-rmarkdown/presentations/pubs-with-rmarkdown#9)- Dan Ovando 2020
+- [RMarkdown](https://rmarkdown.rstudio.com) - RStudio (2021)
+- [How I teach RMarkdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown) - Hill (2020)
+- [R Markdown for scientists](https://rmd4sci.njtierney.com) - Tierney (2020)
+- [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel) - Lowndes & Horst (2020)
+- [RMarkdown website tutorial](http://jules32.github.io/rmarkdown-website-tutorial) - Lowndes (2016) 
+- [Academic Publications with R Markdown](https://danovando.github.io/publications-with-rmarkdown/presentations/pubs-with-rmarkdown#9)- Ovando 2020
