@@ -5,25 +5,55 @@ knitr::opts_chunk$set(echo = TRUE)
 library(htmltools)
 ```
 
-<!--- TODO: update this text after NWFSC cohort run through as Coding strategies
+Coding strategies can blend with workflow strategies, and the idea is working in a way that is not just for you in this moment. Here we will discuss good coding practices for beginning and seasoned coders alike that make it easier to work with other people, times, and computers. 
+
+**Slides** that have been presented during Champions Program Cohort Calls: 
+
+- [Coding strategies for future us](https://docs.google.com/presentation/d/1nTLJ782dpZqp3MEhQU9zNaFInrTaFUVQbj9OqsmxUYo/edit?usp=sharing)
+  - See previous iterations: [Filepaths](https://docs.google.com/presentation/d/1HbxQ9Lg-ySEhmvH01PnMX0BDuquQezru73GI3PV-Ibo/edit?usp=sharing) and [Project-oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing)
+
+---
+
+## Software considerations for coding
+
+The following advice is from Tiffany Timbers, UBC Data Science, [Intro to Reticulate](https://github.com/ttimbers/intro-to-reticulate/blob/main/slides/reticulate-intro.pdf):
+
+**You will need these software tools:** 
+
+- Programming language (R, python)
+- Code editor (RStudio IDE, Jupyter)
+- Version control software (git, GitHub/bitbucket) 
+
+**How to choose the “best” tool for the job:**
+
+- Reproducible and auditable
+- Accurate
+- Collaborative (and portable)
+
+If you're choosing between R, Python, and other modern languages, they will aready be reproducible, auditable, and accurate. That leaves collaboration -- what do your collaborators use? What do folks in your lab, or field use? What is mentioned in the papers you read? There is increasing interoperability between languages (e.g. see [reticulate](https://rstudio.github.io/reticulate/) to run python code from R) so when you have some idea it's best to get started!
+
+See also: [Opinionated analysis development (Parker 2017)](https://peerj.com/preprints/3210). Tools like RStudio are already doing this to help you. Reserve your mental energy for the fun part of the analysis!
 
 
-Code: your packages are like ingredients in a recipe. They need to be up at the top. Also for RLadies. Dry ingredients and wet. Preheat the oven oven. Think of it as a recipe: not only it is telling the steps to follow to do the thing, there whole reason for writing it down at all is so you and others can figure out what's going on/what to do 
+## WTF: What They Forgot to teach you
 
-README files are a convention for coders. They are found in a folder and give a "lay of the land" of the neighboring files in the folder. They are such a convention that GitHub displays markdown files named README. 
+Most of this advice comes directly from Jenny Bryan & Jim Hester’s awesome course [What they Forgot to Teach You About R](https://whattheyforgot.org). I highly recommend reading Chapters 1-4 that go into much better detail than the notes here. The advice here is solid coding practices for any language, with examples from R. 
 
-Use GitHub search and breadcrumbs in your commits. Eg: search "redirects"
-https://github.com/Openscapes/website/commit/93b68e9c9091b0c30ecf3278f2e9e0666adb1153
+### Workflow versus product
 
---->
+Distinction between things you do because of personal taste & habits (“workflow”) versus the logic and output that is the essence of your project (“product”). 
 
-*Alternative title: “coding for not just you in this moment"*
+**Workflow:**
 
-We will discuss good coding practices for beginning and seasoned coders alike that make it easier to work with other people, times, and computers.
+- Editor you use to write code.
+- Name of your home directory.
+- R code you ran before lunch.
 
-Most of this comes directly from Jenny Bryan & Jim Hester’s awesome course [What they Forgot to Teach You About R](https://whattheyforgot.org). I highly recommend reading Chapters 1-4 that go into much better detail than the notes here. 
+**Clearly product:**
+- Raw data.
+- R code someone needs to run on your raw data to get your results, including the explicit library() calls to load necessary packages. (script, notebook)
 
-Note: these are all general coding practices, not R-specific
+**Ideally, you don’t hardwire anything about your workflow into your product.**
 
 ## Source files 
 
@@ -41,10 +71,12 @@ Examples:
 
 Save the source code; do not save the R object itself.
 
-Save your commands as a .R or .py ("script"), or .Rmd or .ipynb ("R Markdown” or “notebook”) file. It doesn't have to be polished. Just save it!
+Save your commands as "scripts" (`.R`, `.py`) or “notebooks” (`.Rmd`, `ipynb`).  It doesn't have to be polished. Just save it!
 
 Everything that really matters should be achieved through code that you save – including objects and figures
 The contrast is storing them implicitly or explicitly, as part of an entire workspace, or clicking via the mouse.  
+
+Load libraries/packages at the top. Just like a recipe: tell us the ingredients need before we get going!
 
 ### Always start R with a blank slate
 
@@ -73,7 +105,8 @@ This is highly suggestive of a non-reproducible workflow.
 
 It only deletes user-created objects from the global workspace.
 
-Instead, Restart R!!
+Instead, Restart R with a clean slate OFTEN (e.g. many times/day), and write every script assuming it will be run in a fresh R process
+
 
 ## Filepaths
 
@@ -185,16 +218,28 @@ Jenny Bryan’s 3 rules for Naming Things:
 - human readable
 - plays well with default ordering
 
-Available from [Speakerdeck](https://speakerdeck.com/jennybc/how-to-name-files) or [download pdf](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
-
+Available from [Speakerdeck](https://speakerdeck.com/jennybc/how-to-name-files) 
 
 ## Further reading
 
-https://jhudatascience.org/tidyversecourse/
-
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770
-
+- [Tidyverse Skills for Data Science](https://jhudatascience.org/tidyversecourse/) - Wright, Ellis, Hicks, & Peng
+- [Principles for data analysis workflows](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770) - Stoudt, Vasquez, and Martinez 2021, PLOS Computational Biology
 - [R Cookbook](https://rc2e.com/) — JD Long
+
+
+<!--- TODO: update this text after NWFSC cohort run through as Coding strategies
+
+
+Code: your packages are like ingredients in a recipe. They need to be up at the top. Also for RLadies. Dry ingredients and wet. Preheat the oven oven. Think of it as a recipe: not only it is telling the steps to follow to do the thing, there whole reason for writing it down at all is so you and others can figure out what's going on/what to do 
+
+README files are a convention for coders. They are found in a folder and give a "lay of the land" of the neighboring files in the folder. They are such a convention that GitHub displays markdown files named README. 
+
+Use GitHub search and breadcrumbs in your commits. Eg: search "redirects"
+https://github.com/Openscapes/website/commit/93b68e9c9091b0c30ecf3278f2e9e0666adb1153
+
+--->
+
+
 <!---
 
 Opinionated analysis development. RStudio is already doing this. Reserve your mental energy for the fun part of the analysis

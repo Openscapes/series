@@ -80,6 +80,9 @@ tidy-data-for-the-win
 learn-more-about-tidy-data
 further-reading
 coding-strategies
+software-considerations-for-coding
+wtf-what-they-forgot-to-teach-you
+workflow-versus-product
 source-files
 save-the-source-not-the-workspace
 always-start-r-with-a-blank-slate
@@ -168,6 +171,7 @@ r-scicomm
 books-with-bookdown
 websites-with-rmarkdown
 websites-with-blogdown
+further-resources-2
 resources-influence
 talking-about-data-science-hilary-parker-roger-peng
 opinionated-data-analysis

@@ -1,4 +1,4 @@
-# R for science communication {#r-scicomm} 
+# RMarkdown for scicomm {#r-scicomm} 
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -30,3 +30,8 @@ simple, static
 ## websites with Blogdown
 
 fancier, dynamic
+
+## Further resources
+
+- [Academic Publications with
+R Markdown](https://danovando.github.io/publications-with-rmarkdown/presentations/pubs-with-rmarkdown#9)- Dan Ovando 2020
