@@ -5,6 +5,17 @@ knitr::opts_chunk$set(echo = TRUE)
 library(htmltools)
 ```
 
+We discuss team culture because while we know that [diverse teams are more innovative](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/), creating spaces where everyone can do their best work and feel safe to contribute takes intention; it does not happen by default. There is a lot of work to do to improve research culture, and we can lead by example in our own research groups and communities.
+
+**Slides** that have been presented during Champions Program Cohort Calls: 
+
+- [Team culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing)
+- [Psychological safety](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing), contributed by [Tara Robertson](https://tararobertson.ca/)
+
+See also the following chapter on [Codes of Conduct](#code-of-conduct).
+
+---
+
 <!--- 
 TO Add
 
@@ -32,9 +43,8 @@ https://twitter.com/tararobertson/status/1363926183922966528: wheel of power/pri
 
 ## Why talk about team culture?
 
-*Please see accompanying [slides](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing) until this chapter is built out more.*
+Role modeling sets a lot of team culture, and there is a lot we can learn and do to deliberately create a scientific culture that we want to be a part of.
 
-*This chapter will also soon include information from the [psychological safety](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing) slides by Tara Robertson*
 
 ### Science benefits from diversity
 
@@ -53,16 +63,18 @@ Most common form is gender harassment: it's the “put-downs as opposed to come-
 
 ### We need to unlearn racism and build antiracist culture in science
 
--[Ten simple rules for building an antiracist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210)
+- [Ten simple rules for building an antiracist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210) - Chaudhary & Berhe, 2020. PLOS
 - [Unlearning Racism in Geoscience — URGE](https://urgeoscience.org/)
 
 ### Put your values forward
 
-Model the behavior you want to see in your lab & in academia. (lab, dept, campus, online)
+Model the behavior you want to see in your research group & beyond (lab, dept, campus, organization, online)
 
 ### Building trust 
 
-Have to build trust and be intentional, don’t hope for organic
+Have to build trust and be intentional, don’t hope for organic. 
+
+- [How to build (and rebuild trust](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust?language=en) - Frances Frei
 
 ### Sustain the culture
 
@@ -75,43 +87,36 @@ Labs have people coming and going all the time; how do you set the tone and have
 
 Opening remarks at RStudio::conf 2019, in front of an audience of 1700 at a global software conference, Chief Scientist Hadley Wickham announces the Code of Conduct, how to identify RStudio staff if you need help, and how to mingle with welcoming body posture to invite others to join. This set the tone of the whole conference to be the most positive I have ever attended.
 
-## Collegiality
+### Collegiality
 
-Deliberately setting the tone for collegiality.
+We must deliberately set the tone for collegiality to create a positive, inclusive research group environment.
 
-### Positive, inclusive lab environment.
+Safety and accessibility as parts of inclusion and empowerment. Does everyone feel safe to speak up? Does everyone have channels to contribute? This is especially true as the tech we use evolves. Who can participate?
 
-### Safety and accessibility as parts of inclusion and empowerment.
-
-### Reslience
-
-Add resilience to your lab. If someone needs to leave for a family emergency, maternity/paternity leave, vacation, set yourselves up so your lab continue smoothly/ — Angela Bassa RStudio talk
+This builds resilience to your research group. If someone needs to leave for a family emergency, maternity/paternity leave, vacation, set yourselves up so your team continue smoothly/ — Angela Bassa RStudio talk
 
 Opportunity cost of not doing this. Burnout, people leaving science. 
 
 <!--- Panel: hp: in academia there is only one thing, and it's being smart --->
 
-## Lab efficiency 
+### Team efficiency 
 
-Deliberately setting the tone for lab efficiency 
+We must deliberately set the tone to create a positive, inclusive research group environment that fuels team efficiency.
 
-### Team mindset: focus on similarities rather the differences. 
+This means create a team mindset, and focusing on similarities rather differences. We all work on different projects and have different research questions, but we all have to wrangle data, organize version files, have things we don't know...let's create a space where we can talk about all this and find common ground to tackle together so we don't reinvent.
 
-### Sharing & collaboration: default to assuming good intentions.
+There can be an advantage to having team conventions. This can both reduce friction and reinventing the wheel. But there also needs to be room for different skills people come in with.  For example, if they’re more efficient in Python, don’t want to force R. But want to create space where folks can interoperate and work together. The tech/software side helps with this, but it's our mindsets too. We need to be open to it.
 
-### Advantage to having lab conventions 
+## Open software can facilitate open/shared culture 
 
-But need room for different skills people come in with. 
+A lot to say here, for now, see:
 
-Reduce friction and reinventing the wheel.
-
-If they’re more efficient in python, don’t want to force R.
-
-### Open software can facilitate open/shared culture 
-
-This is (next week’s topic)!
+- <https://openscapes.github.io/slides/betterscience/environment-canada>
+- <https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/>
 
 ## Enabling & participating
+
+Here are some ideas that you can support and participate in to learn and create a kinder team culture: 
 
 ### Seaside chats – discuss share data workflows
 
@@ -125,13 +130,13 @@ From Michelle Stuart's [blog about the Pinsky Lab's first Fishbowl chat](http://
 
 Get to know each other outside of work. Do some during work hours can include more people who can't participate after work
 
-### Onboarding – how to welcome new people to your lab
+### Onboarding – how to welcome new people to your research group
 
 ### Asking for help
 
 Create a welcoming environment where they know where to ask for help – They won't know what questions to ask. Provide structure. 
 
-### Code of Conduct (next slide deck)  
+### Code of Conduct (next chapter)!
 
 <!--- 
 Further reading
@@ -147,17 +152,14 @@ https://laderast.github.io/psych_safety/#18
   - PEERS
   - micro affirmations
   
-<!--- from USouth Florida
-
-Schell et al (2020). Recreating Wakanda by promoting Black excellence in ecology and evolution https://www.nature.com/articles/s41559-020-1266-7 
-Carpenter (2020). Get it wrong for me: What I need from allies www.linkedin.com/pulse/get-wrong-me-what-i-need-from-allies-megan-carpenter 
-Harriot (2020)- A Practical Guide to Mentoring Across Intersections https://conversations.vanguardstem.com/a-practical-guide-to-mentoring-across-intersections-c596496ee334
-Ariel (2017). For Our White Friends Desiring to Be Allies https://sojo.net/articles/our-white-friends-desiring-be-allies  
-Tunstall (2020). Dr. Dori Tunstall on Respectful Design: Models for Diversity, Inclusion, & Decolonization www.youtube.com/watch?v=oaesVb7O38s  
-Witze (2018). Sexual harassment is rife in the sciences, finds landmark US study www.nature.com/articles/d41586-018-05404-6 
-Johnson & Wilkerson (2020). All We Can Save. www.allwecansave.earth
-Kimmerer (2013). Braiding Sweetgrass. https://milkweed.org/book/braiding-sweetgrass
+- [Recreating Wakanda by promoting Black excellence in ecology and evolution](https://www.nature.com/articles/s41559-020-1266-7) — Schell et al (2020)
+- [Get it wrong for me: What I need from allies](www.linkedin.com/pulse/get-wrong-me-what-i-need-from-allies-megan-carpenter) — Carpenter (2020)
+- [A Practical Guide to Mentoring Across Intersections](https://conversations.vanguardstem.com/a-practical-guide-to-mentoring-across-intersections-c596496ee334) — Harriot (2020)
+- [For Our White Friends Desiring to Be Allies](https://sojo.net/articles/our-white-friends-desiring-be-allies) — Ariel (2017)  
+- [Dr. Dori Tunstall on Respectful Design: Models for Diversity, Inclusion, & Decolonization](www.youtube.com/watch?v=oaesVb7O38s) — Tunstall (2020)
+- [Sexual harassment is rife in the sciences, finds landmark US study](www.nature.com/articles/d41586-018-05404-6) — Witze (2018)
+- [All We Can Save](www.allwecansave.earth) — Johnson & Wilkerson (2020)
+- [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass) — Kimmerer (2013)
 
 
 
---->
