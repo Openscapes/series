@@ -62,8 +62,7 @@ ocean-health-index-behind-the-scenes
 ohi-pathway
 reproducibility-communication-enabled-by-open-tooling
 shared-workflows-not-only-useful-for-shared-projects
-open-science-and-the-cloud
-other-examples
+examples-in-the-wild-environmental-science
 further-resources
 not-so-standard-deviation-podcast
 practical-computing-for-biologists

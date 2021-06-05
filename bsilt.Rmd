@@ -53,20 +53,11 @@ And, critically:
 - Consider diversity, equity, and inclusion in your daily practices.
 - How you work and onboard others to your projects is a DEI issue. 
 
-## Open science and the cloud
+## Examples in the wild: environmental science
 
-Resources by Chelle Gentemann and colleagues: 
-
-- [Empowering transformational science](https://docs.google.com/presentation/d/1SUMiQg0HhD19H-D6DDzTrFQVzub0kOINwJBG59uQCTw/edit#slide=id.p1)
-
-
-## Other examples 
-
-- Tampa Bay Estuary Program
-  - <https://tbep-tech.github.io/tbeptools>
-- NOAA NMFS RMarkdown reports
-  - <https://emilymarkowitz-noaa.github.io/NMFSReports>
-
+- [Regime Shifts in R & Data Science within the BC Public Service Observations from the field](https://stephhazlitt.github.io/regime-shifts/slides#1) - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote
+- [NMFSReports: Easily write NOAA reports and tech memos in R Markdown!](https://github.com/EmilyMarkowitz-NOAA/NMFSReports/blob/main/presentations/2021-06-05%20NMFSReports%20-%20R%20Cascadia%20Conf.pdf) - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk
+ - [Automated reporting in Tampa Bay with open science](https://www.openscapes.org/blog/2020/11/16/tampa-bay-reporting/) - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog 
 
 ## Further resources
 
