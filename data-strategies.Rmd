@@ -1,6 +1,13 @@
 # Data strategies for future us {#data-strategies}
 
-Here we will discuss personal and team habits for data management and sharing: data strategies for future us.
+Data strategies are part of a shared workflow strategy: How do we structure data, where do we store and back up data, how do we create metadata, and keep the raw data raw...Here we will discuss personal and team habits for data management and sharing: data strategies for future us.
+
+**Slides** that have been presented during Champions Program Cohort Calls: 
+
+- [Data strategies for Future Us](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing)
+- [Metadata](https://docs.google.com/presentation/d/10X5i9zZ0uVeEaTW6F2aSvkrcxLCgW0JU9rVZvPB1ZKc/edit#slide=id.g6532ff24f4_0_0) - Jessica Couture
+
+---
 
 ## Data organization in spreadsheets
 
@@ -158,21 +165,20 @@ So for more efficient, reproducible, and collaborative analyses, make friends wi
 
 ### Learn more about tidy data: 
 
-Wickham, H (2014). _Tidy Data_. Journal of Statistical Software 58 (10). [jstatsoft.org/v59/i10/](http://www.jstatsoft.org/v59/i10/)
-
-"Informal and code-heavy version" of the full paper above: [tidyr.tidyverse.org/articles/tidy-data](https://tidyr.tidyverse.org/articles/tidy-data.html)
-
-Broman, KW and KH Woo (2018). _Data Organization in Spreadsheets_. [The American Statistician 72 (1)](https://doi.org/10.1080/00031305.2017.1375989). Available open access as a [PeerJ preprint](https://peerj.com/preprints/3183/).
-
-Grolemund, G & Wickham, H (2016). R for Data Science: Ch 12 (Tidy Data)
-<https://r4ds.had.co.nz>
 
 
 
 
 ## Further Reading
 
-https://github.com/jtleek/datasharing
+- Wickham, H (2014). _Tidy Data_. Journal of Statistical Software 58 (10). [jstatsoft.org/v59/i10/](http://www.jstatsoft.org/v59/i10/)
+
+- Broman, KW and KH Woo (2018). _Data Organization in Spreadsheets_. [The American Statistician 72 (1)](https://doi.org/10.1080/00031305.2017.1375989). Available open access as a [PeerJ preprint](https://peerj.com/preprints/3183/).
+
+- Grolemund, G & Wickham, H (2016). R for Data Science: Ch 12 (Tidy Data)
+<https://r4ds.had.co.nz>
+
+- Leek, J (2016). [How to share data with a statistician] https://github.com/jtleek/datasharing)
 
 
 <!---
