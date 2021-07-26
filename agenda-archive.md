@@ -1,5 +1,18 @@
 As we develop the Champions Program and work with research groups of different needs and backgrounds, we are constantly learning and adapting the Lesson Series and the shapes and sizes of the program. Here is an archive of the agendas for specific previous cohorts.
 
+# CS&S and CSU COAST 2021: 2-month remote
+
+<br>
+
+Agendas          | Chapters |      Slides
+------------------|----------------------|---------------------------
+[1. Openscapes mindset](https://docs.google.com/document/d/1h-EADIRykge8fGn0ZSNnls1bm8y9AOe1d3QLheqJB2s/edit?usp=sharing) | [mindset](#mindset), [better science in less time](#bsilt) |  [mindset](https://docs.google.com/presentation/d/1giEW0EIYVnxneGpOBSJnEqg-1CVBUGrbH8Z5gawdeBc/edit?usp=sharing), [better science in less time](https://docs.google.com/presentation/d/1GmuTa1sUO_boH-2TonC875pD5xvXaIMHRKIoO3vUrdY/edit#slide=id.p)
+[2. Coding with communities, GitHub with the team](https://docs.google.com/document/d/15Z-INAStgfo4q2kLSYGPzP5Y3nkI4HlAihHsNMlEAzg/edit?usp=sharing) | [coding with communities](#communities) [GitHub for publishing](#github-pub),  [GitHub for project mgmt](#github-issues) |  [intro to coding communities](https://docs.google.com/presentation/d/17HSNmBYvPw-7Prioys7WIhL9QGVb3s3bJCLaAJVaChc/edit?usp=sharing), [GitHub clinic](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing), [(discovering community tools)](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing)
+[3. Strategies for future us](https://docs.google.com/document/d/1ypw-ZKbXp8pET6XuYL2kbZIgf-bWAfqD390wHmsOXsc/edit?usp=sharing) | [data strategies](#data-strategies), [coding strategies](#coding-strategies), [team culture](#team-culture) | [data strategies](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing), [coding strategies](https://docs.google.com/presentation/d/1nTLJ782dpZqp3MEhQU9zNaFInrTaFUVQbj9OqsmxUYo/edit?usp=sharing), [psychological safety](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing)
+[4. Pathways share & team on/offboarding ](https://docs.google.com/document/d/1J63PSjv_NrWYvNaKlbJGxfr1Fpi2yGAfg_HfznqHMrE/edit?usp=sharing) |  | 
+
+<br>
+
 # NWFSC Cohort 2021: 2-month remote
 
 <br>
