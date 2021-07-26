@@ -2,6 +2,8 @@
 
 *Please see accompanying [slides](https://docs.google.com/presentation/d/1eydm6NcrR_T2NwoMWYBWM682OW-qr755iYemVWL8cJg/edit?usp=sharing) until this chapter is built out more.*
 
+Please also refer to Openscapes' Code of Conduct: <https://openscapes.org/code-of-conduct>
+
 <!--- other resources
 https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/
 https://internethealthreport.org/2019/codes-of-conduct-in-open-source-communities/

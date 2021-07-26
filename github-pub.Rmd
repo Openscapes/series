@@ -155,7 +155,9 @@ What to do: (you all have permissions)
   - github.com has a default message, but get into the habit of writing an actual message to yourself/others (breadcrumbs)
 - This is different from saving (cancel if you save!)
 
+## Further resources
 
+- [Git for Humans](https://www.youtube.com/watch?v=eWxxfttcMts) - Alice Bartlett, 2016
 
 <!---
 Also, let's talk about Google Docs. Embrace technology. Sharing permissions.
