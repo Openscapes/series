@@ -1,6 +1,6 @@
 As we develop the Champions Program and work with research groups of different needs and backgrounds, we are constantly learning and adapting the Lesson Series and the shapes and sizes of the program. Here is an archive of the agendas for specific previous cohorts.
 
-# CS&S and CSU COAST 2021: 2-month remote
+# CS&S and CSU-COAST 2021: 2-month remote
 
 <br>
 
