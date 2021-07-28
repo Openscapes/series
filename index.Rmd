@@ -50,7 +50,7 @@ In the 2-month remote program, research groups participate in 4 Cohort Calls and
 
 **Clinics:**
 
-- [GitHub Agenda](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing): hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
+- [GitHub Clinic](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing): hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
   - Chapters: [GitHub for publishing](#github-pub),  [GitHub for project management](#github-issues)
   - Slides: [GitHub clinic](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing)
   - Offered several times before Call 2
