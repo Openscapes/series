@@ -29,10 +29,15 @@ your past and future self, as well as an asymmetric model, in which some people 
 makers and others only read or review.
 --->
 
+GitHub is a powerful tool for collaborative coding with version control, but in the next two chapters we are going to focus on some of its lesser-celebrated awesomeness: GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.
+
+**Slides** that have been presented during Champions Program Cohort Calls: 
+
+- [GitHub Clinic](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing)
+
+---
 
 ## Preamble
-
-GitHub is a powerful tool for collaborative coding with version control, but in the next two chapters we are going to focus on some of its lesser-celebrated awesomeness: GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.
 
 We are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good for new lab members or students to contribute to your lab as soon as possible. 
 

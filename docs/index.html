@@ -142,11 +142,10 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="divider"></li>
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome</a>
 <ul>
-<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#agendas"><i class="fa fa-check"></i><b>1.1</b> Agendas</a>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#cohort-agendas"><i class="fa fa-check"></i><b>1.1</b> Cohort Agendas</a>
 <ul>
-<li class="chapter" data-level="1.1.1" data-path="index.html"><a href="index.html#remote-2-month"><i class="fa fa-check"></i><b>1.1.1</b> Remote, 2-month</a></li>
-<li class="chapter" data-level="1.1.2" data-path="index.html"><a href="index.html#remote-4-month"><i class="fa fa-check"></i><b>1.1.2</b> Remote, 4-month</a></li>
-<li class="chapter" data-level="1.1.3" data-path="index.html"><a href="index.html#in-person-2-day"><i class="fa fa-check"></i><b>1.1.3</b> In-person, 2-day</a></li>
+<li class="chapter" data-level="1.1.1" data-path="index.html"><a href="index.html#two-month"><i class="fa fa-check"></i><b>1.1.1</b> Two-month</a></li>
+<li class="chapter" data-level="1.1.2" data-path="index.html"><a href="index.html#four-month"><i class="fa fa-check"></i><b>1.1.2</b> Four-month</a></li>
 </ul></li>
 <li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#about"><i class="fa fa-check"></i><b>1.2</b> About</a></li>
 </ul></li>
@@ -321,11 +320,10 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 <li class="chapter" data-level="9" data-path="communities.html"><a href="communities.html"><i class="fa fa-check"></i><b>9</b> Coding with communities</a>
 <ul>
-<li class="chapter" data-level="9.1" data-path="communities.html"><a href="communities.html#prelude"><i class="fa fa-check"></i><b>9.1</b> Prelude</a></li>
-<li class="chapter" data-level="9.2" data-path="communities.html"><a href="communities.html#open-science-coding-communities-connect-online-and-in-person"><i class="fa fa-check"></i><b>9.2</b> Open science / coding communities connect online and in person</a></li>
-<li class="chapter" data-level="9.3" data-path="communities.html"><a href="communities.html#so-why-participate"><i class="fa fa-check"></i><b>9.3</b> So why participate?</a></li>
-<li class="chapter" data-level="9.4" data-path="communities.html"><a href="communities.html#how-to-get-started"><i class="fa fa-check"></i><b>9.4</b> How to get started?</a></li>
-<li class="chapter" data-level="9.5" data-path="communities.html"><a href="communities.html#coding-club-examples"><i class="fa fa-check"></i><b>9.5</b> Coding Club examples:</a></li>
+<li class="chapter" data-level="9.1" data-path="communities.html"><a href="communities.html#open-science-coding-communities-connect-online-and-in-person"><i class="fa fa-check"></i><b>9.1</b> Open science / coding communities connect online and in person</a></li>
+<li class="chapter" data-level="9.2" data-path="communities.html"><a href="communities.html#so-why-participate"><i class="fa fa-check"></i><b>9.2</b> So why participate?</a></li>
+<li class="chapter" data-level="9.3" data-path="communities.html"><a href="communities.html#how-to-get-started"><i class="fa fa-check"></i><b>9.3</b> How to get started?</a></li>
+<li class="chapter" data-level="9.4" data-path="communities.html"><a href="communities.html#coding-club-examples"><i class="fa fa-check"></i><b>9.4</b> Coding Club examples:</a></li>
 </ul></li>
 <li class="chapter" data-level="10" data-path="github-pub.html"><a href="github-pub.html"><i class="fa fa-check"></i><b>10</b> GitHub for Publishing</a>
 <ul>
@@ -427,7 +425,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <div id="welcome" class="section level1" number="1">
 <h1><span class="header-section-number">Chapter 1</span> Welcome</h1>
 <p>Hello! This book is the lesson series for the <a href="https://www.openscapes.org/champions/"><strong>Openscapes Champions program</strong></a>, an open data science mentorship program for science teams.</p>
-<p>Openscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis &amp; stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together.</p>
+<p>Openscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis &amp; stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together. This is a remote-by-design program since its launch in 2019.</p>
 <center>
 <img src="img/horst_openscapes_champions.jpg" width="600px"></a>
 <figcaption>
@@ -435,19 +433,20 @@ Artwork by <a href="https://twitter.com/allison_horst">Allison Horst</a>
 </figcaption>
 </center>
 <p><br></p>
-<p>This open curriculum is improved iteratively and the most recent version always available online. Chapters accompany slide decks that are taught through <a href="index.html#agendas">Cohort Agendas</a> (below), depending on the Cohort duration. The lesson series is originally framed around “Our path to better science in less time using open data science tools” <a href="https://www.nature.com/articles/s41559-017-0160">(Lowndes et al. 2017)</a>. <!--- That paper is a retrospective of how a team's data workflow changed over four years; Openscapes Champions aims to help guide other teams to accelerate this timeline and begin make similar progress themselves, no matter where they are starting from. ---> As we learn and iterate with Cohorts of different durations and from different disciplines, the curriculum will iterate and grow as well.
+<p>This open curriculum is improved iteratively and the most recent version always available online. Chapters accompany slide decks that are taught through <a href="#agendas">Cohort Agendas</a> (below), depending on the Cohort duration. The lesson series is originally framed around “Our path to better science in less time using open data science tools” <a href="https://www.nature.com/articles/s41559-017-0160">(Lowndes et al. 2017)</a>. <!--- That paper is a retrospective of how a team's data workflow changed over four years; Openscapes Champions aims to help guide other teams to accelerate this timeline and begin make similar progress themselves, no matter where they are starting from. ---> As we learn and iterate with Cohorts of different durations and from different disciplines, the curriculum will iterate and grow as well.
 <!---
 **Openscapes Champions** is a professional development and leadership opportunity for research teams to explore open data science practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend as a team with their research group — including the team lead — in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. A driving motivation is to reduce the burden for early career faculty/leads wanting to modernize their research groups' approaches to collaborative data analysis and stewardship. By discussing open software tooling and communities enabling reproducible research (e.g. R/RStudio, GitHub, metadata), research groups develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science, enabling increased efficiency and resilience for teams so that their work has more enduring impact.
 
 ---></p>
 <hr />
-<div id="agendas" class="section level2" number="1.1">
-<h2><span class="header-section-number">1.1</span> Agendas</h2>
-<p>Cohorts of research groups participate in the Champions program over several months, with 2 Cohort Calls each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts).</p>
-<p>Call agendas and slides are all openly available in a <a href="https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g">Google Folder</a>, and identified individually in the following tables. As we continue to learn and iterate from working with different research groups, you can always review <a href="https://github.com/Openscapes/series/blob/master/agenda-archive.md">previous agendas</a> for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an <a href="https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub">Efficiency Tips Doc</a> and <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml">Spreadsheet</a>.</p>
-<div id="remote-2-month" class="section level3" number="1.1.1">
-<h3><span class="header-section-number">1.1.1</span> Remote, 2-month</h3>
-<p>In the 2-month remote program, research groups participate in 4 Cohort Calls and 1 GitHub Clinic. The series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team shares about their Pathways forward.</p>
+<div id="cohort-agendas" class="section level2" number="1.1">
+<h2><span class="header-section-number">1.1</span> Cohort Agendas</h2>
+<p>Research teams participate as a cohort over several months, meeting twice-monthly for 1.5-hour sessions we call Cohort Calls. Cohort Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts).</p>
+<p>Cohort Call agendas and slides are all openly available in a <a href="https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g">Google Folder</a>, and identified individually in the following tables. As we continue to learn and iterate from working with different research groups, you can always review <a href="https://github.com/Openscapes/series/blob/master/agenda-archive.md">previous agendas</a> for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an <a href="https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub">Efficiency Tips Doc</a> and <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml">Spreadsheet</a>.</p>
+<p>Between Cohort Calls, each team meets for a <a href="https://www.openscapes.org/blog/2019/03/10/seaside-chats/">Seaside Chat</a>, which have been described by participants as one of the most valuable parts of the Champions Program. We also have hands-on skill-building Clinics and Co-Working sessions (which differ from “Office Hours” because participants come to work and learn together).</p>
+<div id="two-month" class="section level3" number="1.1.1">
+<h3><span class="header-section-number">1.1.1</span> Two-month</h3>
+<p>The two-month Champions program includes 4 Cohort Calls and 1 GitHub Clinic. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team shares about their Pathways forward.</p>
 <table>
 <colgroup>
 <col width="26%" />
@@ -456,26 +455,26 @@ Artwork by <a href="https://twitter.com/allison_horst">Allison Horst</a>
 </colgroup>
 <thead>
 <tr class="header">
-<th>Agendas</th>
-<th>Chapters</th>
-<th>Slides</th>
+<th>Cohort Call Agendas</th>
+<th>Series Chapters</th>
+<th>Between Cohort Calls</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><a href="https://docs.google.com/document/d/1h-EADIRykge8fGn0ZSNnls1bm8y9AOe1d3QLheqJB2s/edit?usp=sharing">1. Openscapes mindset</a></td>
 <td><a href="mindset.html#mindset">mindset</a>, <a href="bsilt.html#bsilt">better science in less time</a></td>
-<td><a href="https://docs.google.com/presentation/d/1giEW0EIYVnxneGpOBSJnEqg-1CVBUGrbH8Z5gawdeBc/edit?usp=sharing">mindset</a>, <a href="https://docs.google.com/presentation/d/1GmuTa1sUO_boH-2TonC875pD5xvXaIMHRKIoO3vUrdY/edit#slide=id.p">better science in less time</a></td>
+<td>Seaside Chat (Pathways); GitHub Clinic</td>
 </tr>
 <tr class="even">
 <td><a href="https://docs.google.com/document/d/1ypw-ZKbXp8pET6XuYL2kbZIgf-bWAfqD390wHmsOXsc/edit?usp=sharing">2. Team culture &amp; technical strategies for future us</a></td>
 <td><a href="team-culture.html#team-culture">team culture</a>, <a href="data-strategies.html#data-strategies">data strategies</a>, <a href="coding-strategies.html#coding-strategies">coding strategies</a></td>
-<td><a href="https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing">psychological safety</a>, <a href="https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing">data strategies</a>, <a href="https://docs.google.com/presentation/d/1nTLJ782dpZqp3MEhQU9zNaFInrTaFUVQbj9OqsmxUYo/edit?usp=sharing">coding strategies</a></td>
+<td>Seaside Chat (Code of Conduct); Co-working</td>
 </tr>
 <tr class="odd">
 <td><a href="https://docs.google.com/document/d/15Z-INAStgfo4q2kLSYGPzP5Y3nkI4HlAihHsNMlEAzg/edit?usp=sharing">3. Coding with communities</a></td>
 <td><a href="communities.html#communities">coding with communities</a></td>
-<td><a href="https://docs.google.com/presentation/d/17HSNmBYvPw-7Prioys7WIhL9QGVb3s3bJCLaAJVaChc/edit?usp=sharing">intro to coding communities</a>, <a href="https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing">discovering community tools</a></td>
+<td>Seaside Chat (Pathways); Co-working</td>
 </tr>
 <tr class="even">
 <td><a href="https://docs.google.com/document/d/1J63PSjv_NrWYvNaKlbJGxfr1Fpi2yGAfg_HfznqHMrE/edit?usp=sharing">4. Pathways share</a></td>
@@ -484,20 +483,19 @@ Artwork by <a href="https://twitter.com/allison_horst">Allison Horst</a>
 </tr>
 </tbody>
 </table>
-<p><strong>Clinics:</strong></p>
+<p><strong>Clinic Agendas:</strong></p>
 <ul>
-<li><a href="https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing">GitHub Clinic</a>: hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
+<li><a href="https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing">GitHub</a>: hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
 <ul>
 <li>Chapters: <a href="github-pub.html#github-pub">GitHub for publishing</a>, <a href="github-issues.html#github-issues">GitHub for project management</a></li>
-<li>Slides: <a href="https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing">GitHub clinic</a></li>
 <li>Offered several times before Call 2</li>
 </ul></li>
 </ul>
 <p><br></p>
 </div>
-<div id="remote-4-month" class="section level3" number="1.1.2">
-<h3><span class="header-section-number">1.1.2</span> Remote, 4-month</h3>
-<p>In the 4-month remote program, research groups participate in 8 Cohort Calls and 2 Clinics. The 2-month program can be modified to introduce new curriculum specific to a community, as illustrated below.</p>
+<div id="four-month" class="section level3" number="1.1.2">
+<h3><span class="header-section-number">1.1.2</span> Four-month</h3>
+<p>The four-month Champions program includes 8 Cohort Calls and 2 Clinics. Beginning with the core lessons from the two-month program, we work with partners to co-develop new curriculum specific to a community, as illustrated below.</p>
 <p><br></p>
 <table>
 <colgroup>
@@ -507,26 +505,26 @@ Artwork by <a href="https://twitter.com/allison_horst">Allison Horst</a>
 </colgroup>
 <thead>
 <tr class="header">
-<th>Agendas</th>
-<th>Chapters</th>
-<th>Slides</th>
+<th>Cohort Call Agendas</th>
+<th>Series Chapters</th>
+<th>Between Cohort Calls</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><a href="https://docs.google.com/document/d/1h-EADIRykge8fGn0ZSNnls1bm8y9AOe1d3QLheqJB2s/edit?usp=sharing">1. Openscapes mindset</a></td>
 <td><a href="mindset.html#mindset">mindset</a>, <a href="bsilt.html#bsilt">better science in less time</a></td>
-<td><a href="https://docs.google.com/presentation/d/1giEW0EIYVnxneGpOBSJnEqg-1CVBUGrbH8Z5gawdeBc/edit?usp=sharing">mindset</a>, <a href="https://docs.google.com/presentation/d/1GmuTa1sUO_boH-2TonC875pD5xvXaIMHRKIoO3vUrdY/edit#slide=id.p">better science in less time</a></td>
+<td>Seaside Chat (Pathways); GitHub Clinic</td>
 </tr>
 <tr class="even">
 <td><a href="https://docs.google.com/document/d/1ypw-ZKbXp8pET6XuYL2kbZIgf-bWAfqD390wHmsOXsc/edit?usp=sharing">2. Team culture &amp; technical strategies for future us</a></td>
 <td><a href="team-culture.html#team-culture">team culture</a>, <a href="data-strategies.html#data-strategies">data strategies</a>, <a href="coding-strategies.html#coding-strategies">coding strategies</a></td>
-<td><a href="https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing">psychological safety</a>, <a href="https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing">data strategies</a>, <a href="https://docs.google.com/presentation/d/1nTLJ782dpZqp3MEhQU9zNaFInrTaFUVQbj9OqsmxUYo/edit?usp=sharing">coding strategies</a></td>
+<td>Seaside Chat (Code of Conduct); Co-working</td>
 </tr>
 <tr class="odd">
 <td><a href="https://docs.google.com/document/d/15Z-INAStgfo4q2kLSYGPzP5Y3nkI4HlAihHsNMlEAzg/edit?usp=sharing">3. Coding with communities</a></td>
 <td><a href="communities.html#communities">coding with communities</a></td>
-<td><a href="https://docs.google.com/presentation/d/17HSNmBYvPw-7Prioys7WIhL9QGVb3s3bJCLaAJVaChc/edit?usp=sharing">intro to coding communities</a>, <a href="https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing">discovering community tools</a></td>
+<td>Seaside Chat (Pathways); Co-working</td>
 </tr>
 <tr class="even">
 <td><a href="https://docs.google.com/document/d/1J63PSjv_NrWYvNaKlbJGxfr1Fpi2yGAfg_HfznqHMrE/edit?usp=sharing">4. Pathways share</a></td>
@@ -536,102 +534,35 @@ Artwork by <a href="https://twitter.com/allison_horst">Allison Horst</a>
 <tr class="odd">
 <td>5. Art of writing methods</td>
 <td></td>
-<td></td>
+<td>Seaside Chat; Co-working</td>
 </tr>
 <tr class="even">
 <td>6. Peer review of methods</td>
 <td></td>
-<td></td>
+<td>Seaside Chat; Co-working</td>
 </tr>
 <tr class="odd">
 <td>7. Tricky details discussion</td>
 <td></td>
-<td></td>
+<td>Seaside Chat; Co-working</td>
 </tr>
 <tr class="even">
-<td>8. Pathways share part 2</td>
+<td>8. Pathways share #2</td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
-<p><strong>Clinics:</strong></p>
+<p><strong>Clinic Agendas:</strong></p>
 <ul>
-<li><a href="https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing">GitHub Agenda</a>: hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
+<li><a href="https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing">GitHub</a>: hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
 <ul>
 <li>Chapters: <a href="github-pub.html#github-pub">GitHub for publishing</a>, <a href="github-issues.html#github-issues">GitHub for project management</a></li>
-<li>Slides: <a href="https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing">GitHub clinic</a></li>
 <li>Offered several times before Call 2</li>
 </ul></li>
 <li>Community Agenda (TBD)</li>
 </ul>
 <p><br></p>
-</div>
-<div id="in-person-2-day" class="section level3" number="1.1.3">
-<h3><span class="header-section-number">1.1.3</span> In-person, 2-day</h3>
-<p>Through in-person Workshops, research groups participate as a cohort over a 2 full days.</p>
-<p>The Workshop agenda with links to slides is in this <a href="https://docs.google.com/document/d/1bD3p0gRjS39xF4XxYOXa9XCB6_h6qeVvBSDIrWndQjA/edit?usp=sharing">Google Doc</a>, and identified individually in the following table.</p>
-<table>
-<colgroup>
-<col width="26%" />
-<col width="32%" />
-<col width="40%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Time</th>
-<th>Day 1</th>
-<th>Day 2</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>9:00- 9:10</td>
-<td>Welcome</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>9:10- 10:30</td>
-<td>Introductions, <a href="https://docs.google.com/presentation/d/1ePdaUE77BxVpnUUAOolG5WdeINhSZXnfIegmnYw8QVU/edit?usp=sharing">Openscapes overview</a>, <a href="https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing">Openscapes mindset</a></td>
-<td>Streamlined workflows: <a href="https://docs.google.com/presentation/d/1HbxQ9Lg-ySEhmvH01PnMX0BDuquQezru73GI3PV-Ibo/edit?usp=sharing">Source files &amp; filepaths</a>, <a href="https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing">Project-oriented workflows</a>, <a href="https://docs.google.com/presentation/d/17HSNmBYvPw-7Prioys7WIhL9QGVb3s3bJCLaAJVaChc/edit?usp=sharing">Intro to coding communities</a></td>
-</tr>
-<tr class="odd">
-<td>10:30- 11:00</td>
-<td>Break</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>11:00- 12:30</td>
-<td><a href="https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing">Better science in less time</a>, <a href="https://drive.google.com/open?id=1sPoCE6J2avMDRkZl6I-x0uPW0lRkBjcpFelVmJ5_hVg">Pathways</a></td>
-<td>Collaborative coding: <a href="https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing">Discovering community tools</a></td>
-</tr>
-<tr class="odd">
-<td>12:30- 1:30</td>
-<td>Lunch</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>1:30- 3:00</td>
-<td><a href="https://docs.google.com/presentation/d/1YnHR1OqtpH4LkVaNBF8LhLGPUUx7mDysw4YAR7mKKfE/edit?usp=sharing">Data interlude</a>, <a href="https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing">Team culture</a>, <a href="https://docs.google.com/presentation/d/1eydm6NcrR_T2NwoMWYBWM682OW-qr755iYemVWL8cJg/edit?usp=sharing">Codes of conduct</a></td>
-<td><a href="https://docs.google.com/presentation/d/1ZYQERUuNJ69QRSUs_JKLdask_VnQRmvMTulv6m2VmUU/edit?usp=sharing">Supercharge your research</a>, Pathways preparation</td>
-</tr>
-<tr class="odd">
-<td>3:00- 3:30</td>
-<td>Break</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>3:30- 4:45</td>
-<td><a href="https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing">GitHub for publishing</a>, <a href="https://docs.google.com/presentation/d/1JGFnZqz01Ex8h2qO3OBUHc1OiTFkAqV2ED2XFiMdN4I/edit?usp=sharing">GitHub for project management</a></td>
-<td>Pathways share</td>
-</tr>
-<tr class="odd">
-<td>4:45- 5:00</td>
-<td>Closing</td>
-<td></td>
-</tr>
-</tbody>
-</table>
 </div>
 </div>
 <div id="about" class="section level2" number="1.2">

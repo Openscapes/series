@@ -5,6 +5,14 @@ knitr::opts_chunk$set(echo = FALSE)
 library(htmltools)
 ```
 
+GitHub is best known as a collaborative coding platform. But of course productive collaboration requires communication, and GitHub has powerful features to support communication and project management through GitHub Issues. (Also see thee previous chapter about GitHub for publishing).
+
+**Slides** that have been presented during Champions Program Cohort Calls: 
+
+- [GitHub Clinic](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing)
+
+---
+
 <!---
 GH is there to make your life easier. And facilitate collaboration. But doesn't take away necessary to communicate
 
@@ -20,8 +28,6 @@ Great way for teams to engage, whether or not
 emailed so you don't need to interface with GH if you don't want to. Watching.
 
 --->
-
-GitHub is best known as a collaborative coding platform. But of course productive collaboration requires communication, and GitHub has powerful features to support communication and project management through GitHub Issues. (Also see thee previous chapter about GitHub for publishing).
 
 We are focusing on GitHub Issues here because they are a powerful way for team members to have active discussions about data and code, and therefore ways to participate in analyses even for those that are not involved in the day-to-day coding. I find Issues not only useful to discuss topics as a team, but I also treat it as my external memory: I write notes to myself, link to files and websites; I leave breadcrumbs for myself so that I am more easily able to remember my past thought processes and pick up projects where I left off. 
 

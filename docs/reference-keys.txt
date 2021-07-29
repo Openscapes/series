@@ -1,8 +1,7 @@
 welcome
-agendas
-remote-2-month
-remote-4-month
-in-person-2-day
+cohort-agendas
+two-month
+four-month
 about
 overview
 why-were-here
@@ -125,7 +124,6 @@ tips-for-rstudio-projects
 name-files-deliberately
 further-reading-2
 communities
-prelude
 open-science-coding-communities-connect-online-and-in-person
 so-why-participate
 how-to-get-started

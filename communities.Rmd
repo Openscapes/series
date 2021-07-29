@@ -5,17 +5,14 @@ knitr::opts_chunk$set(echo = TRUE)
 library(htmltools)
 ```
 
+Open communities play a big role in advancing research, helping research feel less lonely and reducing the amount of time we all spend being stuck spend reinventing the wheel. This is a brief (incomplete) introduction to the idea of coding with communities. We will explore: What are open science coding communities? Why participate in them? And also how Twitter as a legit coding tool.  Originially focusing on R communities, we are adding more examples from Python and beyond. 
 
-## Prelude
-
-This is a brief (incomplete) introduction to the idea of coding with communities. We will explore: What are open science coding communities? Why participate in them? And also how Twitter as a legit coding tool. 
-
-This is currently focused on R communities, but we'll be adding more examples from Python and beyond. 
-
-There are 2 slide decks associated:
+**Slides** that have been presented during Champions Program Cohort Calls: 
 
 - [Coding With Communities](https://docs.google.com/presentation/d/17HSNmBYvPw-7Prioys7WIhL9QGVb3s3bJCLaAJVaChc/edit?usp=sharing), which we go through in a Cohort Call
 - [Discovering Community Tools](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing), which teams review during a Seaside Chat
+
+---
 
 ## Open science / coding communities connect online and in person
 

@@ -16,7 +16,7 @@ description: "This is the official lesson series for the Openscapes Champions pr
 
 Hello! This book is the lesson series for the [**Openscapes Champions program**](https://www.openscapes.org/champions/), an open data science mentorship program for science teams. 
 
-Openscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together.
+Openscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together. This is a remote-by-design program since its launch in 2019. 
 
 <center>
   <img src="img/horst_openscapes_champions.jpg" width="600px"></a>
@@ -34,71 +34,53 @@ This open curriculum is improved iteratively and the most recent version always 
 
 ----
 
-## Agendas
+## Cohort Agendas
 
-Cohorts of research groups participate in the Champions program over several months, with 2 Cohort Calls each month (1.5 hours each). Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
+Research teams participate as a cohort over several months, meeting twice-monthly for 1.5-hour sessions we call Cohort Calls. Cohort Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
 
-Call agendas and slides are all openly available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), and identified individually in the following tables. As we continue to learn and iterate from working with different research groups, you can always review [previous agendas](https://github.com/Openscapes/series/blob/master/agenda-archive.md) for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an [Efficiency Tips Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml).
+Cohort Call agendas and slides are all openly available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), and identified individually in the following tables. As we continue to learn and iterate from working with different research groups, you can always review [previous agendas](https://github.com/Openscapes/series/blob/master/agenda-archive.md) for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an [Efficiency Tips Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml).
 
-### Remote, 2-month
+Between Cohort Calls, each team meets for a [Seaside Chat](https://www.openscapes.org/blog/2019/03/10/seaside-chats/), which have been described by participants as one of the most valuable parts of the Champions Program. We also have hands-on skill-building Clinics and Co-Working sessions (which differ from "Office Hours" because participants come to work and learn together).
 
-In the 2-month remote program, research groups participate in 4 Cohort Calls and 1 GitHub Clinic. The series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team shares about their Pathways forward.
+### Two-month
+
+The two-month Champions program includes 4 Cohort Calls and 1 GitHub Clinic. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team shares about their Pathways forward.
 
 ```{r, child="agenda-2month.Rmd"}
 ```
 
 
-**Clinics:**
+**Clinic Agendas:**
 
-- [GitHub Clinic](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing): hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
+- [GitHub](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing): hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
   - Chapters: [GitHub for publishing](#github-pub),  [GitHub for project management](#github-issues)
-  - Slides: [GitHub clinic](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing)
   - Offered several times before Call 2
 
 
 <br>
 
-### Remote, 4-month
+### Four-month
 
-In the 4-month remote program, research groups participate in 8 Cohort Calls and 2 Clinics. The 2-month program can be modified to introduce new curriculum specific to a community, as illustrated below.  
+The four-month Champions program includes 8 Cohort Calls and 2 Clinics. Beginning with the core lessons from the two-month program, we work with partners to co-develop new curriculum specific to a community, as illustrated below.  
 
 <br>
 
 ```{r, child="agenda-2month.Rmd"}
 ```
-5. Art of writing methods | |
-6. Peer review of methods | |
-7. Tricky details discussion | |
-8. Pathways share part 2 | | 
+5. Art of writing methods | | Seaside Chat; Co-working
+6. Peer review of methods | | Seaside Chat; Co-working
+7. Tricky details discussion | | Seaside Chat; Co-working
+8. Pathways share #2 | | 
 
 
-**Clinics:**
+**Clinic Agendas:**
 
-- [GitHub Agenda](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing): hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
+- [GitHub](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing): hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
   - Chapters: [GitHub for publishing](#github-pub),  [GitHub for project management](#github-issues)
-  - Slides: [GitHub clinic](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing)
   - Offered several times before Call 2
 - Community Agenda (TBD)
 
 <br>
-
-### In-person, 2-day
-
-Through in-person Workshops, research groups participate as a cohort over a 2 full days. 
-
-The Workshop agenda with links to slides is in this [Google Doc](https://docs.google.com/document/d/1bD3p0gRjS39xF4XxYOXa9XCB6_h6qeVvBSDIrWndQjA/edit?usp=sharing), and identified individually in the following table. 
-
-Time          | Day 1 |      Day 2
-------------------|----------------------|---------------------------
-9:00- 9:10 | Welcome | 
-9:10- 10:30 | Introductions, [Openscapes overview](https://docs.google.com/presentation/d/1ePdaUE77BxVpnUUAOolG5WdeINhSZXnfIegmnYw8QVU/edit?usp=sharing), [Openscapes mindset](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing) |  Streamlined workflows: [Source files & filepaths](https://docs.google.com/presentation/d/1HbxQ9Lg-ySEhmvH01PnMX0BDuquQezru73GI3PV-Ibo/edit?usp=sharing), [Project-oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing), [Intro to coding communities](https://docs.google.com/presentation/d/17HSNmBYvPw-7Prioys7WIhL9QGVb3s3bJCLaAJVaChc/edit?usp=sharing) 
-10:30- 11:00 | Break 
-11:00- 12:30 | [Better science in less time](https://docs.google.com/presentation/d/1RGdNNZwqR74wf1d2XPUwqiaxGVtUnn58awJcEqQ_YHs/edit?usp=sharing),  [Pathways](https://drive.google.com/open?id=1sPoCE6J2avMDRkZl6I-x0uPW0lRkBjcpFelVmJ5_hVg) | Collaborative coding: [Discovering community tools](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing) 
-12:30- 1:30 | Lunch
-1:30- 3:00 | [Data interlude](https://docs.google.com/presentation/d/1YnHR1OqtpH4LkVaNBF8LhLGPUUx7mDysw4YAR7mKKfE/edit?usp=sharing), [Team culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing), [Codes of conduct](https://docs.google.com/presentation/d/1eydm6NcrR_T2NwoMWYBWM682OW-qr755iYemVWL8cJg/edit?usp=sharing) | [Supercharge your research](https://docs.google.com/presentation/d/1ZYQERUuNJ69QRSUs_JKLdask_VnQRmvMTulv6m2VmUU/edit?usp=sharing), Pathways preparation 
-3:00- 3:30 | Break 
-3:30- 4:45 | [GitHub for publishing](https://docs.google.com/presentation/d/1lTUAL1vO95dyjcONIWDineAWyEP92pNjFvXAM6u9y5Y/edit?usp=sharing), [GitHub for project management](https://docs.google.com/presentation/d/1JGFnZqz01Ex8h2qO3OBUHc1OiTFkAqV2ED2XFiMdN4I/edit?usp=sharing) | Pathways share
-4:45- 5:00 | Closing
 
 
 ## About

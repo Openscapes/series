@@ -1,6 +1,14 @@
 # Openscapes Mindset {#mindset}
 
-*Please see accompanying [slides](https://docs.google.com/presentation/d/1SWjccZAzLC3IPpcmgeQiSdCdbwq_UF5DVEJQEN8ngdA/edit?usp=sharing) as this chapter is built out more.*
+The Openscapes mindset is about moving away from lonely, individual science and towards science that is more efficient, open, collaborative, inclusive and kind. 
+
+**Slides** that have been presented during Champions Program Cohort Calls: 
+
+- [Openscapes mindset](https://docs.google.com/presentation/d/1giEW0EIYVnxneGpOBSJnEqg-1CVBUGrbH8Z5gawdeBc/edit?usp=sharing)
+
+---
+
+*Please also see the above slides as this chapter is developed more*.
 
 Open data science tools, practices, & communities exist and are powerful and empowering, and game-changing for science. They enable us to do better science in less time. They are like the Force from Star Wars:
 

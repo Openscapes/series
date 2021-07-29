@@ -5,7 +5,7 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 **Slides** that have been presented during Champions Program Cohort Calls: 
 
 - [Data strategies for Future Us](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing)
-- [Metadata](https://docs.google.com/presentation/d/10X5i9zZ0uVeEaTW6F2aSvkrcxLCgW0JU9rVZvPB1ZKc/edit#slide=id.g6532ff24f4_0_0) - Jessica Couture
+- [Metadata](https://docs.google.com/presentation/d/10X5i9zZ0uVeEaTW6F2aSvkrcxLCgW0JU9rVZvPB1ZKc/edit#slide=id.g6532ff24f4_0_0), contributed by [Dr. Jessica Couture](https://www.jessicalcouture.com/)
 
 ---
 
