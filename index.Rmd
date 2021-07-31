@@ -36,49 +36,35 @@ This open curriculum is improved iteratively and the most recent version always 
 
 ## Cohort Agendas
 
-Research teams participate as a cohort over several months, meeting twice-monthly for 1.5-hour sessions we call Cohort Calls. Cohort Calls are designed to be engaging, requiring discussion and active participation through live-notetaking in Google Docs and video Zoom (group and breakouts). 
+Research teams participate as a cohort over several months, meeting twice-monthly for 1.5-hour sessions we call Cohort Calls. Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and video as a group and breakout groups. 
 
-Cohort Call agendas and slides are all openly available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), and identified individually in the following tables. As we continue to learn and iterate from working with different research groups, you can always review [previous agendas](https://github.com/Openscapes/series/blob/master/agenda-archive.md) for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an [Efficiency Tips Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml).
+Cohort Call agendas and slides are all openly available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), and identified individually in the following tables. As we continue to learn and iterate from working with different research groups, you can always review the [agenda archive](https://github.com/Openscapes/series/blob/master/agenda-archive.md) for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an [Efficiency Tips Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml).
 
-Between Cohort Calls, each team meets for a [Seaside Chat](https://www.openscapes.org/blog/2019/03/10/seaside-chats/), which have been described by participants as one of the most valuable parts of the Champions Program. We also have hands-on skill-building Clinics and Co-Working sessions (which differ from "Office Hours" because participants come to work and learn together).
+Between Cohort Calls, each team meets together for a [Seaside Chat](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) to begin identifying and addressing shared needs; Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program. Additionally, we coordinate skill-building Clinics and Co-Working sessions (which differ from "Office Hours" because participants come to work and learn together) between Cohort Calls.
 
 ### Two-month
 
-The two-month Champions program includes 4 Cohort Calls and 1 GitHub Clinic. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team shares about their Pathways forward.
+The two-month Champions program includes 4 Cohort Calls and 1 GitHub Clinic. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team describes their trailhead and pathways forward.
 
 ```{r, child="agenda-2month.Rmd"}
 ```
-
-
-**Clinic Agendas:**
-
-- [GitHub](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing): hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
-  - Chapters: [GitHub for publishing](#github-pub),  [GitHub for project management](#github-issues)
-  - Offered several times before Call 2
 
 
 <br>
 
 ### Four-month
 
-The four-month Champions program includes 8 Cohort Calls and 2 Clinics. Beginning with the core lessons from the two-month program, we work with partners to co-develop new curriculum specific to a community, as illustrated below.  
+The four-month Champions program includes 8 Cohort Calls and 2 Clinics. Beginning with the core lessons from the two-month program, we work with partners to co-develop new curriculum specific to a community.  
 
 <br>
 
 ```{r, child="agenda-2month.Rmd"}
 ```
+\> Skillbuilding Clinic <  | | 
 5. Art of writing methods | | Seaside Chat; Co-working
 6. Peer review of methods | | Seaside Chat; Co-working
 7. Tricky details discussion | | Seaside Chat; Co-working
 8. Pathways share #2 | | 
-
-
-**Clinic Agendas:**
-
-- [GitHub](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing): hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
-  - Chapters: [GitHub for publishing](#github-pub),  [GitHub for project management](#github-issues)
-  - Offered several times before Call 2
-- Community Agenda (TBD)
 
 <br>
 
