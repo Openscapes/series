@@ -46,7 +46,7 @@ Between Cohort Calls, each team meets together for a [Seaside Chat](https://www.
 
 The two-month Champions program includes 4 Cohort Calls and 1 GitHub Clinic. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team describes their trailhead and pathways forward.
 
-```{r, child="agenda-2month.Rmd"}
+```{r, child="agenda_2month.Rmd"}
 ```
 
 
@@ -58,7 +58,7 @@ The four-month Champions program includes 8 Cohort Calls and 2 Clinics. Beginnin
 
 <br>
 
-```{r, child="agenda-2month.Rmd"}
+```{r, child="agenda_2month.Rmd"}
 ```
 \> Skillbuilding Clinic <  | | 
 5. Art of writing methods | | Seaside Chat; Co-working
