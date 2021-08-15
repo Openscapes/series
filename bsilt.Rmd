@@ -57,7 +57,8 @@ And, critically:
 
 - [Regime Shifts in R & Data Science within the BC Public Service Observations from the field](https://stephhazlitt.github.io/regime-shifts/slides#1) - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote
 - [NMFSReports: Easily write NOAA reports and tech memos in R Markdown!](https://github.com/EmilyMarkowitz-NOAA/NMFSReports/blob/main/presentations/2021-06-05%20NMFSReports%20-%20R%20Cascadia%20Conf.pdf) - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk
- - [Automated reporting in Tampa Bay with open science](https://www.openscapes.org/blog/2020/11/16/tampa-bay-reporting/) - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog 
+- [Automated reporting in Tampa Bay with open science](https://www.openscapes.org/blog/2020/11/16/tampa-bay-reporting/) - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog 
+  - [TBEP's Data Management Workflow](https://tbep-tech.github.io/data-management-sop/workflow.html) and open science cake
 
 ## Further resources
 

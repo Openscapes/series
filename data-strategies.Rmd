@@ -178,7 +178,7 @@ So for more efficient, reproducible, and collaborative analyses, make friends wi
 - Grolemund, G & Wickham, H (2016). R for Data Science: Ch 12 (Tidy Data)
 <https://r4ds.had.co.nz>
 
-- Leek, J (2016). [How to share data with a statistician] https://github.com/jtleek/datasharing)
+- Leek, J (2016). [How to share data with a statistician](https://github.com/jtleek/datasharing)
 
 
 <!---
