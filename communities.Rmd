@@ -47,12 +47,15 @@ There are strategies for learning with both online and local communities.
 ## How to get started? 
 
 Google your interests/needs. When you Google, include what you want to do PLUS r, rstats; python. 
+
 Start by listening and learning. Be deliberate: curate who you follow. 
+
 Like and share when you’re comfortable. 
-Then, contribute – your ideas, your blogs, your papers, your code…
-Contributors are welcome in open communities! And know too that the R packages ggplot & knitr were 
-created by students (Wickham & Xie) (see [McBain 2019](https://resources.rstudio.com/rstudio-conf-2019/our-colour-of-magic-the-open-sourcery-of-fantastic-r-packages))
-Twitter is a legit tool for science. Some places to start: `#rstats, #rstatsES, #rspatial, #pydata, #BlackAndSTEM, #MeTooSTEM`
+
+Then, contribute – your ideas, your blogs, your papers, your code… Contributors are welcome in open communities! And know too that the R packages ggplot & knitr were 
+created by students (Wickham & Xie) (see [McBain 2019](https://resources.rstudio.com/rstudio-conf-2019/our-colour-of-magic-the-open-sourcery-of-fantastic-r-packages)). 
+
+Finally, Twitter is a legit tool for science. It's a good way to learn what you need to learn and broadening your horizons while building community. Some places to start: `#rstats, #rstatsES, #rspatial, #pydata, #BlackAndSTEM, #MeTooSTEM`
  
 [Seaside Chats](https://github.com/Openscapes/seaside-chats#seaside-chats) are a great way to start exploring together. 
 
