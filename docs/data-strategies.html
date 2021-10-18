@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 7 Data strategies for future us | Openscapes Champions Lesson Series</title>
   <meta name="description" content="This is the official lesson series for the Openscapes Champions program." />
-  <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 7 Data strategies for future us | Openscapes Champions Lesson Series" />
   <meta property="og:type" content="book" />
@@ -24,7 +24,7 @@
 <meta name="author" content="Openscapes team" />
 
 
-<meta name="date" content="2021-08-16" />
+<meta name="date" content="2021-10-18" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,8 +33,9 @@
   
 <link rel="prev" href="code-of-conduct.html"/>
 <link rel="next" href="coding-strategies.html"/>
-<script src="libs/header-attrs-2.10.1/header-attrs.js"></script>
+<script src="libs/header-attrs-2.11.2/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -42,7 +43,6 @@
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
 
 
 
@@ -424,8 +424,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <ul>
 <li><a href="https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing">Data strategies for Future Us</a></li>
 <li><a href="https://docs.google.com/presentation/d/10X5i9zZ0uVeEaTW6F2aSvkrcxLCgW0JU9rVZvPB1ZKc/edit#slide=id.g6532ff24f4_0_0">Metadata</a>, contributed by <a href="https://www.jessicalcouture.com/">Dr. Jessica Couture</a></li>
+<li><h2 id="data-to-product-workflows-contributed-by-dr.-emily-markowitz-video"><a href="https://docs.google.com/presentation/d/12Jru3DReVH3sO-nG0msAjCNS8PVNuaYSxHi-Bxlkr1E/edit?usp=sharing">Data to Product Workflows</a>, contributed by <a href="https://twitter.com/emilyhmarkowitz">Dr. Emily Markowitz</a> (<a href="https://www.youtube.com/watch?v=CyqOjQwQLy8">video</a>)</h2></li>
 </ul>
-<hr />
 <div id="data-organization-in-spreadsheets" class="section level2" number="7.1">
 <h2><span class="header-section-number">7.1</span> Data organization in spreadsheets</h2>
 <p>This publication by <a href="https://peerj.com/preprints/3183/">Broman &amp; Woo, 2018</a> appears in the “Practical Data Science for Stats” collection in <a href="https://peerj.com/collections/50-practicaldatascistats/">PeerJ</a> &amp; <a href="https://www.tandfonline.com/toc/utas20/72/1">American Statistician</a>.</p>
@@ -456,7 +456,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>In terms of data management recommendataion, they have 2 main themes:</p>
 <ol style="list-style-type: decimal">
 <li>work towards ready-to-analyze data incrementally, documenting both the intermediate data and the process</li>
-<li>embrace the idea of “tidy data,” which can be a powerful accelerator for analysis</li>
+<li>embrace the idea of “tidy data”, which can be a powerful accelerator for analysis</li>
 </ol>
 <p>Read their paper for strategies behind their basic principles (Box 1):</p>
 <ol style="list-style-type: decimal">
@@ -519,7 +519,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <img src="img/tidydata/tidydata_1.jpg" width="500px"></a>
 </center>
 <p><br></p>
-<p>This standard structure of tidy data led Hadley Wickham to describe it the way Leo Tolstoy describes families. Leo says “Happy families are all alike; every unhappy family is unhappy in its own way.” Similarly, Hadley says “tidy datasets are all alike, but every messy dataset is messy in its own way.”</p>
+<p>This standard structure of tidy data led Hadley Wickham to describe it the way Leo Tolstoy describes families. Leo says “Happy families are all alike; every unhappy family is unhappy in its own way”. Similarly, Hadley says “tidy datasets are all alike, but every messy dataset is messy in its own way”.</p>
 <center>
 <img src="img/tidydata/tidydata_2.jpg" width="500px"></a>
 </center>
@@ -620,7 +620,6 @@ How to connect with databases from R: https://sciencificity-blog.netlify.app/pos
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -661,7 +660,7 @@ gitbook.start({
 },
 "download": ["series.pdf"],
 "search": {
-"engine": "lunr",
+"engine": "fuse",
 "options": null
 },
 "toc": {

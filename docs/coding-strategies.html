@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 8 Coding strategies for future us | Openscapes Champions Lesson Series</title>
   <meta name="description" content="This is the official lesson series for the Openscapes Champions program." />
-  <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 8 Coding strategies for future us | Openscapes Champions Lesson Series" />
   <meta property="og:type" content="book" />
@@ -24,7 +24,7 @@
 <meta name="author" content="Openscapes team" />
 
 
-<meta name="date" content="2021-08-16" />
+<meta name="date" content="2021-10-18" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,8 +33,9 @@
   
 <link rel="prev" href="data-strategies.html"/>
 <link rel="next" href="communities.html"/>
-<script src="libs/header-attrs-2.10.1/header-attrs.js"></script>
+<script src="libs/header-attrs-2.11.2/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -42,7 +43,6 @@
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
 
 
 
@@ -467,7 +467,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <div id="source-files" class="section level2" number="8.3">
 <h2><span class="header-section-number">8.3</span> Source files</h2>
 <p>What are they and why?</p>
-<p>Code that creates objects is “source code.” Source code is essentially text files you edit in a text editor that is then executed in the console.</p>
+<p>Code that creates objects is “source code”. Source code is essentially text files you edit in a text editor that is then executed in the console.</p>
 <p>Examples:</p>
 <ul>
 <li>.R, .Rmd</li>
@@ -572,7 +572,7 @@ here()</code></pre>
 <li>File path discipline: all paths are relative — relative to the project’s folder.</li>
 </ul>
 <p>Synergistic habits: you’ll get the biggest payoff if you practice all of them together.</p>
-<p>Portability: the project can be moved around on your computer or onto other computers and will still “just work.” is the only practical convention that creates reliable, polite behavior across different computers/users/time. This convention is neither new, nor unique to R.</p>
+<p>Portability: the project can be moved around on your computer or onto other computers and will still “just work”. is the only practical convention that creates reliable, polite behavior across different computers/users/time. This convention is neither new, nor unique to R.</p>
 <p>It’s like agreeing that we will all drive on the left or the right. A hallmark of civilization is following conventions that constrain your behavior a little, in the name of public safety.</p>
 </div>
 <div id="rstudio-projects" class="section level3" number="8.5.3">
@@ -588,7 +588,7 @@ here()</code></pre>
 <p>One suggestion for organizing:</p>
 <p>Have a dedicated folder for your Projects.
 - If you have One Main Place for Projects, then go there in Finder/File Explorer to launch any specific project with .Rproj.
-- Mine is called “~/github/.”</p>
+- Mine is called “~/github/”.</p>
 <p>Switching Projects: RStudio knows about recent Projects.</p>
 </div>
 <div id="name-files-deliberately" class="section level3" number="8.5.5">
@@ -680,7 +680,6 @@ Additional Reading
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -721,7 +720,7 @@ gitbook.start({
 },
 "download": ["series.pdf"],
 "search": {
-"engine": "lunr",
+"engine": "fuse",
 "options": null
 },
 "toc": {

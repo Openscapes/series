@@ -12,6 +12,7 @@ Coding strategies can blend with workflow strategies, and the idea is working in
 - [Coding strategies for future us](https://docs.google.com/presentation/d/1nTLJ782dpZqp3MEhQU9zNaFInrTaFUVQbj9OqsmxUYo/edit?usp=sharing)
   - See previous iterations: [Filepaths](https://docs.google.com/presentation/d/1HbxQ9Lg-ySEhmvH01PnMX0BDuquQezru73GI3PV-Ibo/edit?usp=sharing) and [Project-oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing)
 
+
 ---
 
 ## Software considerations for coding

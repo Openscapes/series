@@ -5,7 +5,7 @@ Better science is less time is science that is more efficient, reproducible, ope
 **Slides** that have been presented during Champions Program Cohort Calls: 
 
 - [Better science in less time](https://docs.google.com/presentation/d/1GmuTa1sUO_boH-2TonC875pD5xvXaIMHRKIoO3vUrdY/edit?usp=sharing)
-- [Empowering transformational science](https://docs.google.com/presentation/d/1SUMiQg0HhD19H-D6DDzTrFQVzub0kOINwJBG59uQCTw/edit#slide=id.p1) - Chelle Gentemann
+- [Empowering transformational science](https://docs.google.com/presentation/d/1SUMiQg0HhD19H-D6DDzTrFQVzub0kOINwJBG59uQCTw/edit#slide=id.p1) - [Dr. Chelle Gentemann](https://twitter.com/ChelleGentemann)
 
 Here we also introduce the [**Pathway document**](https://drive.google.com/open?id=1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8) that teams will develop throughout the Champions program. The Pathway is based on Table 1 in Lowndes et al. 2017, and helps teams deliberately identify data workflow practices and next steps to facilitate efficiency and open culture in terms of reproduciblity, collaboration, communication, and culture. 
 
