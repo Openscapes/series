@@ -5,6 +5,7 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 **Slides** that have been presented during Champions Program Cohort Calls (with guest teachers indicated): 
 
 - [Data strategies for Future Us](https://docs.google.com/presentation/d/1rv-JfJeuYhogxV6Dpn_hNDm09nfKnOMtmZpgcciI_98/edit?usp=sharing), also presented by [Ileana Fenwick](https://twitter.com/_ileanaf)
+  - [Data stategies including data management plans (DMPs)](https://docs.google.com/presentation/d/145TOlLGH3qbJzPWdEJ2KS1LFdvP3MLTWgORHktb2R1k/edit#slide=id.p)
 - [Metadata](https://docs.google.com/presentation/d/10X5i9zZ0uVeEaTW6F2aSvkrcxLCgW0JU9rVZvPB1ZKc/edit#slide=id.g6532ff24f4_0_0), contributed by [Dr. Jessica Couture](https://www.jessicalcouture.com/)
 - [Data to Product Workflows](https://docs.google.com/presentation/d/12Jru3DReVH3sO-nG0msAjCNS8PVNuaYSxHi-Bxlkr1E/edit?usp=sharing), contributed by [Dr. Emily Markowitz](https://twitter.com/emilyhmarkowitz) ([video](https://www.youtube.com/watch?v=CyqOjQwQLy8))
 
