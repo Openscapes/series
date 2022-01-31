@@ -1,44 +1,78 @@
 project: 
-  type: book
+  type: website
   output-dir: _site
   
-book: 
+website: 
+  page-navigation: true
   title: "Openscapes Champions Series"
   author: "Openscapes team"
-  date: "February 1st, 2022"
   description: "This is the official lesson series for the Openscapes Champions program."
+  date: "February 1, 2022"
+  site-url: "https://openscapes.github.io/series"
+
+ 
   repo-url: https://github.com/openscapes/series
   repo-actions: [edit, issue]
-  sharing: [twitter]
-  chapters: [
-  "index.Rmd",
-  "overview.Rmd",
-  "mindset.Rmd",
-  "bsilt.Rmd",
-  "team-culture.Rmd",
-  "code-of-conduct.Rmd",
-  "data-strategies.Rmd",
-  "coding-strategies.Rmd",
-  "communities.Rmd",
-  "github-pub.Rmd",
-  "github-issues.Rmd",
+  
+  # sharing: [twitter] come back to https://github.com/sta210-s22/website/blob/main/_quarto.yml#L13
+  
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-By Openscapes, 2022"
+    background: "#D9E3E4"
+    
+  sidebar:
+    background: "#D9E3E4"
+    logo: "images/openscapes_hex.png"
+    pinned: true
+    align: center
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - section: "Lesson Series"
+        contents:        
+         - href: "index.Rmd"
+           text: Welcome
+         - href: "overview.Rmd"
+           text: Overview
+         - href: "mindset.Rmd"
+           text: Mindset
+         - href: "bsilt.Rmd"
+           text: Better science in less time
+         - href: "team-culture.Rmd"
+           text: Team culture
+         - href: "code-of-conduct.Rmd"
+           text: Code of conduct
+         - href: "data-strategies.Rmd"
+           text: Data stategies
+         - href: "coding-strategies.Rmd"
+           text: Coding strategies
+         - href: "communities.Rmd"
+           text: Open communities
+         - href: "github-pub.Rmd"
+           text: GitHub for publication
+         - href: "github-issues.Rmd"
+           text: GitHub for project management
   #"case-studies.Rmd", CREATE AND LINK
   #"code-tour.Rmd", 
   #"study-groups.Rmd",
-  "r-for-scicomm.Rmd", 
-  "resources-that-influence.Rmd",
-  "testing-ohi.Rmd"]
+         - href: "r-for-scicomm.Rmd"
+           text: R for scicomm
+         - href: "resources-that-influence.Rmd"
+           text: Resources
   
-
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
-link-citations: yes
-number-depth: 2
 
 format:
   html:
-    css: style.css
-
+    theme:
+      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
 
 
 
