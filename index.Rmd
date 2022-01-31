@@ -68,7 +68,6 @@ The four-month Champions program includes 8 Cohort Calls and 2 Clinics. Beginnin
 
 <br>
 
-
 ## About
 
 The Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it's created with the same tools and practices we will be talking about: R and RStudio — specifially [bookdown](https://bookdown.org/yihui/bookdown/) — and GitHub.

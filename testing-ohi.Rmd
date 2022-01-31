@@ -1,0 +1,43 @@
+# Testing - OHI {#testing-ohi}
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
+```
+
+## Onboarding Roadmap
+
+The **OHI Onboarding Roadmap** below outlines 15 hours of training — resources that you can asynchronously watch and read as self-paced learning as your time allows. Please visit each chapter in this book, which provides further details and resources.
+
+<br>
+
+```{r setup-full-table}
+## load libraries
+library(tidyverse)
+library(glue)
+library(gt)
+## read in data
+sched_sheet <- read_csv("schedule_sheet.csv") 
+load_from_gsheets = FALSE
+if(load_from_gsheets == TRUE) {
+  library(googlesheets4) # install.packages("googlesheets4")
+  ## read sheet from shared OHI Google Folder
+  sched_sheet <- read_sheet("https://docs.google.com/spreadsheets/d/1JCY6DIeNs1NjouehLYm32Ulq2XCOCaWx5vBpuhsgKbg/edit#gid=0")
+  ## save local copy, overwrite anytime read from googlesheets4
+  write_csv(sched_sheet, "schedule_sheet.csv")
+}
+```
+
+```{r full-table}
+## wrangle
+sched <- sched_sheet %>%
+  mutate(Action = case_when(!is.na(Link1) ~ glue("[{Action}]({Link1})"), 
+                            is.na(Link1) ~ Action)) %>%
+  select(Chapter, Topic, Action, Minutes) %>% 
+  filter(!is.na(Chapter), Chapter != "Revisit") %>%
+  filter(!is.na(Chapter), Chapter != "OMIT") %>%
+  group_by(Chapter)
+## create gt table
+source("create_ohi_gt.R") # making & loading as a package seems overkill
+sched_gt <- create_ohi_gt(sched)
+sched_gt
+```
