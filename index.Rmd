@@ -1,18 +1,4 @@
---- 
-title: "Openscapes Champions Lesson Series"
-author: "Openscapes team"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-# output: bookdown::gitbook
-documentclass: book
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
-link-citations: yes
-github-repo: openscapes/series
-description: "This is the official lesson series for the Openscapes Champions program."
----
-
-# Welcome {#welcome}
+# Welcome {#welcome .unnumbered}
 
 Hello! This book is the lesson series for the [**Openscapes Champions program**](https://www.openscapes.org/champions/), an open data science mentorship program for science teams. 
 
