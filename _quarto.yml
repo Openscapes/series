@@ -1,6 +1,5 @@
 project: 
   type: website
-  output-dir: _site
   
 website: 
   page-navigation: true

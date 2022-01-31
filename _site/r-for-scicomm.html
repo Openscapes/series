@@ -3,8 +3,7 @@
   <meta charset="utf-8">
   <meta name="generator" content="quarto-0.3.73">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <meta name="description" content="This is the official lesson series for the Openscapes Champions program.">
-  <title>Openscapes Champions Series - 11&nbsp; RMarkdown for scicomm</title>
+  <title>Openscapes Champions Series – r-for-scicomm</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -15,7 +14,6 @@
   </style>
 
   <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-  <script src="site_libs/quarto-nav/headroom.min.js"></script>
   <script src="site_libs/clipboard/clipboard.min.js"></script>
   <meta name="quarto:offset" content="./">
   <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -57,12 +55,12 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
 </head>
-<body class="floating">
+<body class="docked">
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">RMarkdown for scicomm</span></h1>
+      <h1 class="quarto-secondary-nav-title">(Untitled)</h1>
       <button type="button" class="quarto-btn-toggle btn">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -72,16 +70,14 @@
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">Openscapes Champions Series</a> 
-        <div class="sidebar-tools-main tools-wide">
-    <a href="https://github.com/openscapes/series" title="Source Code" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-    <a href="https://twitter.com/intent/tweet?url=|url|" title="Twitter" class="sidebar-tool px-1"><i class="bi bi-twitter"></i></a>
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+      <a href="./">
+      <img src="./images/openscapes_hex.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      <div class="sidebar-tools-main">
   <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
-    </div>
       </div>
       <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -90,6 +86,14 @@
       </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+    <div class="sidebar-item-container"> 
+        <a class="sidebar-item-text text-start  " data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-lesson-series" aria-expanded="true">Lesson Series</a>
+      <a class="sidebar-item-toggle text-start  " data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-lesson-series" aria-expanded="true">
+        <i class="bi bi-chevron-right ms-2"></i>
+      </a>
+    </div>
+    <ul id="quarto-sidebar-section-lesson-series" class="collapse list-unstyled sidebar-section depth1 show">  
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text ">Welcome</a>
@@ -97,90 +101,94 @@
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./overview.html" class="sidebar-item-text "><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Overview</span></a>
+  <a href="./overview.html" class="sidebar-item-text ">Overview</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./mindset.html" class="sidebar-item-text "><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Openscapes Mindset</span></a>
+  <a href="./mindset.html" class="sidebar-item-text ">Mindset</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./bsilt.html" class="sidebar-item-text "><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Better science in less time</span></a>
+  <a href="./bsilt.html" class="sidebar-item-text ">Better science in less time</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./team-culture.html" class="sidebar-item-text "><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Team culture</span></a>
+  <a href="./team-culture.html" class="sidebar-item-text ">Team culture</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./code-of-conduct.html" class="sidebar-item-text "><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Code of Conduct</span></a>
+  <a href="./code-of-conduct.html" class="sidebar-item-text ">Code of conduct</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./data-strategies.html" class="sidebar-item-text "><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Data strategies for future us</span></a>
+  <a href="./data-strategies.html" class="sidebar-item-text ">Data stategies</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./coding-strategies.html" class="sidebar-item-text "><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Coding strategies for future us</span></a>
+  <a href="./coding-strategies.html" class="sidebar-item-text ">Coding strategies</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./communities.html" class="sidebar-item-text "><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Open communities</span></a>
+  <a href="./communities.html" class="sidebar-item-text ">Open communities</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./github-pub.html" class="sidebar-item-text "><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">GitHub for Publishing</span></a>
+  <a href="./github-pub.html" class="sidebar-item-text ">GitHub for publication</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./github-issues.html" class="sidebar-item-text "><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">GitHub for Project Management</span></a>
+  <a href="./github-issues.html" class="sidebar-item-text ">GitHub for project management</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./r-for-scicomm.html" class="sidebar-item-text active"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">RMarkdown for scicomm</span></a>
+  <a href="./r-for-scicomm.html" class="sidebar-item-text active">R for scicomm</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./resources-that-influence.html" class="sidebar-item-text "><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Resources that influence us</span></a>
+  <a href="./resources-that-influence.html" class="sidebar-item-text ">Resources</a>
   </div>
 </li>
+    </ul>
+  </li>
     </ul>
     </div>
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc">
-<h2 id="toc-title">Table of contents</h2>
+<h2 id="toc-title">On this page</h2>
 <ul>
-<li><a href="#books-with-bookdown" class="nav-link active" data-scroll-target="#books-with-bookdown"> <span class="header-section-number">11.1</span> books with bookdown</a></li>
-<li><a href="#websites-with-rmarkdown" class="nav-link" data-scroll-target="#websites-with-rmarkdown"> <span class="header-section-number">11.2</span> websites with RMarkdown</a></li>
-<li><a href="#websites-with-blogdown" class="nav-link" data-scroll-target="#websites-with-blogdown"> <span class="header-section-number">11.3</span> websites with Blogdown</a></li>
-<li><a href="#further-resources" class="nav-link" data-scroll-target="#further-resources"> <span class="header-section-number">11.4</span> Further resources</a></li>
+<li><a href="#r-scicomm" class="nav-link active" data-scroll-target="#r-scicomm">RMarkdown for scicomm</a>
+<ul class="collapse">
+<li><a href="#books-with-bookdown" class="nav-link" data-scroll-target="#books-with-bookdown">books with bookdown</a></li>
+<li><a href="#websites-with-rmarkdown" class="nav-link" data-scroll-target="#websites-with-rmarkdown">websites with RMarkdown</a></li>
+<li><a href="#websites-with-blogdown" class="nav-link" data-scroll-target="#websites-with-blogdown">websites with Blogdown</a></li>
+<li><a href="#further-resources" class="nav-link" data-scroll-target="#further-resources">Further resources</a></li>
+</ul></li>
 </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/series/edit/main/r-for-scicomm.Rmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/series/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content">
-<header id="title-block-header">
-<h1 class="title display-7"><span id="r-scicomm" class="quarto-section-identifier d-none d-lg-block"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">RMarkdown for scicomm</span></span></h1>
-</header>
 
+<section id="r-scicomm" class="level1">
+<h1>RMarkdown for scicomm</h1>
 <p><em>Coming soon. <a href="https://docs.google.com/presentation/d/1efJj7Dxg_g4ZRZT2b1agDQrT3DN5lVcNvv25IWcyGlw/edit?usp=sharing">Slides</a> are best until then</em>. See also <a href="https://docs.google.com/presentation/d/1Jv0akRHEnjG_4t_9P7t93682BCBJskYnRu_7EnaeDQI/edit?usp=sharing">Data science as an entryway to open publishing</a> - May 27, 2020: Fireside Chat co-presented with Dr.&nbsp;Nick Tierney at <a href="https://openpublishingfest.org/calendar.html#event-74">Open Publishing Fest</a></p>
 <p>So much potential for public communication, lab protocols and documents, etc. with R.</p>
 <p>All based on RMarkdown.</p>
-<section id="books-with-bookdown" class="level2" data-number="11.1">
-<h2 data-number="11.1" class="anchored" data-anchor-id="books-with-bookdown"><span class="header-section-number">11.1</span> books with bookdown</h2>
+<section id="books-with-bookdown" class="level2">
+<h2 class="anchored" data-anchor-id="books-with-bookdown">books with bookdown</h2>
 <p>Commit the generated docs/ directory!</p>
 <p>Then, change the setting in your repo on github.com so that github knows where your book is located so it can publish it. Here’s what to do:</p>
 <ol type="1">
@@ -190,16 +198,16 @@
 </ol>
 <p><img src="img/github-bookdown-docs-setting.png" class="img-fluid"></p>
 </section>
-<section id="websites-with-rmarkdown" class="level2" data-number="11.2">
-<h2 data-number="11.2" class="anchored" data-anchor-id="websites-with-rmarkdown"><span class="header-section-number">11.2</span> websites with RMarkdown</h2>
+<section id="websites-with-rmarkdown" class="level2">
+<h2 class="anchored" data-anchor-id="websites-with-rmarkdown">websites with RMarkdown</h2>
 <p>simple, static</p>
 </section>
-<section id="websites-with-blogdown" class="level2" data-number="11.3">
-<h2 data-number="11.3" class="anchored" data-anchor-id="websites-with-blogdown"><span class="header-section-number">11.3</span> websites with Blogdown</h2>
+<section id="websites-with-blogdown" class="level2">
+<h2 class="anchored" data-anchor-id="websites-with-blogdown">websites with Blogdown</h2>
 <p>fancier, dynamic</p>
 </section>
-<section id="further-resources" class="level2" data-number="11.4">
-<h2 data-number="11.4" class="anchored" data-anchor-id="further-resources"><span class="header-section-number">11.4</span> Further resources</h2>
+<section id="further-resources" class="level2">
+<h2 class="anchored" data-anchor-id="further-resources">Further resources</h2>
 <ul>
 <li><a href="https://rmarkdown.rstudio.com">RMarkdown</a> - RStudio (2021)</li>
 <li><a href="https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown">How I teach RMarkdown</a> - Hill (2020)</li>
@@ -210,6 +218,7 @@
 </ul>
 
 
+</section>
 </section>
 </main> <!-- /main -->
 <script type="application/javascript">
@@ -387,16 +396,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./github-issues.html">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">GitHub for Project Management</span></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">GitHub for project management</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
       <a href="./resources-that-influence.html">
-        <span class="nav-page-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Resources that influence us</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text">Resources</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">© CC-By Openscapes, 2022</div>   
+    <div class="nav-footer-right">This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</div>
+  </div>
+</footer>
 
 
 </body></html>
