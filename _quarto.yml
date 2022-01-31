@@ -1,6 +1,6 @@
 project: 
   type: book
-  output-dir: docs
+  output-dir: _site
   
 book: 
   title: "Openscapes Champions Series"

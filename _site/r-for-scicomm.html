@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="generator" content="quarto-0.3.73">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="description" content="This is the official lesson series for the Openscapes Champions program.">
+  <title>Openscapes Champions Series - 11&nbsp; RMarkdown for scicomm</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+
+  <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+  <script src="site_libs/quarto-nav/headroom.min.js"></script>
+  <script src="site_libs/clipboard/clipboard.min.js"></script>
+  <meta name="quarto:offset" content="./">
+  <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+  <script src="site_libs/quarto-search/fuse.min.js"></script>
+  <script src="site_libs/quarto-search/quarto-search.js"></script>
+  <link href="./resources-that-influence.html" rel="next">
+  <link href="./github-issues.html" rel="prev">
+  <script src="site_libs/quarto-html/quarto.js"></script>
+  <script src="site_libs/quarto-html/popper.min.js"></script>
+  <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+  <script src="site_libs/quarto-html/anchor.min.js"></script>
+  <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+  <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+  <script src="site_libs/bootstrap/bootstrap.min.js"></script>
+  <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+  <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <script id="quarto-search-options" type="application/json">{
+    "location": "sidebar",
+    "copy-button": false,
+    "collapse-after": 2,
+    "panel-placement": "start",
+    "type": "textbox",
+    "limit": 20,
+    "language": {
+      "search-no-results-text": "No results",
+      "search-matching-documents-text": "matching documents",
+      "search-copy-link-title": "Copy link to search",
+      "search-hide-matches-text": "Hide additional matches",
+      "search-more-match-text": "more match in this document",
+      "search-more-matches-text": "more matches in this document",
+      "search-clear-button-title": "Clear",
+      "search-detached-cancel-button-title": "Cancel",
+      "search-submit-button-title": "Submit"
+    }
+  }</script>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="floating">
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">RMarkdown for scicomm</span></h1>
+      <button type="button" class="quarto-btn-toggle btn">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Openscapes Champions Series</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/openscapes/series" title="Source Code" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+    <a href="https://twitter.com/intent/tweet?url=|url|" title="Twitter" class="sidebar-tool px-1"><i class="bi bi-twitter"></i></a>
+</div>
+    </div>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text ">Welcome</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./overview.html" class="sidebar-item-text "><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Overview</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./mindset.html" class="sidebar-item-text "><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Openscapes Mindset</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./bsilt.html" class="sidebar-item-text "><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Better science in less time</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./team-culture.html" class="sidebar-item-text "><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Team culture</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./code-of-conduct.html" class="sidebar-item-text "><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Code of Conduct</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./data-strategies.html" class="sidebar-item-text "><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Data strategies for future us</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./coding-strategies.html" class="sidebar-item-text "><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Coding strategies for future us</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./communities.html" class="sidebar-item-text "><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Open communities</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./github-pub.html" class="sidebar-item-text "><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">GitHub for Publishing</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./github-issues.html" class="sidebar-item-text "><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">GitHub for Project Management</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./r-for-scicomm.html" class="sidebar-item-text active"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">RMarkdown for scicomm</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./resources-that-influence.html" class="sidebar-item-text "><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Resources that influence us</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./testing-ohi.html" class="sidebar-item-text "><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Testing - OHI</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc">
+<h2 id="toc-title">Table of contents</h2>
+<ul>
+<li><a href="#books-with-bookdown" class="nav-link active" data-scroll-target="#books-with-bookdown"> <span class="header-section-number">11.1</span> books with bookdown</a></li>
+<li><a href="#websites-with-rmarkdown" class="nav-link" data-scroll-target="#websites-with-rmarkdown"> <span class="header-section-number">11.2</span> websites with RMarkdown</a></li>
+<li><a href="#websites-with-blogdown" class="nav-link" data-scroll-target="#websites-with-blogdown"> <span class="header-section-number">11.3</span> websites with Blogdown</a></li>
+<li><a href="#further-resources" class="nav-link" data-scroll-target="#further-resources"> <span class="header-section-number">11.4</span> Further resources</a></li>
+</ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/series/edit/main/r-for-scicomm.Rmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/series/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+    </div>
+<!-- main -->
+<main class="content">
+<header id="title-block-header">
+<h1 class="title display-7"><span id="r-scicomm" class="quarto-section-identifier d-none d-lg-block"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">RMarkdown for scicomm</span></span></h1>
+</header>
+
+<p><em>Coming soon. <a href="https://docs.google.com/presentation/d/1efJj7Dxg_g4ZRZT2b1agDQrT3DN5lVcNvv25IWcyGlw/edit?usp=sharing">Slides</a> are best until then</em>. See also <a href="https://docs.google.com/presentation/d/1Jv0akRHEnjG_4t_9P7t93682BCBJskYnRu_7EnaeDQI/edit?usp=sharing">Data science as an entryway to open publishing</a> - May 27, 2020: Fireside Chat co-presented with Dr.&nbsp;Nick Tierney at <a href="https://openpublishingfest.org/calendar.html#event-74">Open Publishing Fest</a></p>
+<p>So much potential for public communication, lab protocols and documents, etc. with R.</p>
+<p>All based on RMarkdown.</p>
+<section id="books-with-bookdown" class="level2" data-number="11.1">
+<h2 data-number="11.1" class="anchored" data-anchor-id="books-with-bookdown"><span class="header-section-number">11.1</span> books with bookdown</h2>
+<p>Commit the generated docs/ directory!</p>
+<p>Then, change the setting in your repo on github.com so that github knows where your book is located so it can publish it. Here’s what to do:</p>
+<ol type="1">
+<li>go to https://github.com/haudarren/ai_handbook</li>
+<li>click on settings at the top bar (at the opposite end from code, issues, pull requests)</li>
+<li>scroll down to the GitHub pages section. Click on Source and change it so it reads master branch /docs folder like below. You should get a green band like below that says “your site is published to username.github.io/reponame”</li>
+</ol>
+<p><img src="img/github-bookdown-docs-setting.png" class="img-fluid"></p>
+</section>
+<section id="websites-with-rmarkdown" class="level2" data-number="11.2">
+<h2 data-number="11.2" class="anchored" data-anchor-id="websites-with-rmarkdown"><span class="header-section-number">11.2</span> websites with RMarkdown</h2>
+<p>simple, static</p>
+</section>
+<section id="websites-with-blogdown" class="level2" data-number="11.3">
+<h2 data-number="11.3" class="anchored" data-anchor-id="websites-with-blogdown"><span class="header-section-number">11.3</span> websites with Blogdown</h2>
+<p>fancier, dynamic</p>
+</section>
+<section id="further-resources" class="level2" data-number="11.4">
+<h2 data-number="11.4" class="anchored" data-anchor-id="further-resources"><span class="header-section-number">11.4</span> Further resources</h2>
+<ul>
+<li><a href="https://rmarkdown.rstudio.com">RMarkdown</a> - RStudio (2021)</li>
+<li><a href="https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown">How I teach RMarkdown</a> - Hill (2020)</li>
+<li><a href="https://rmd4sci.njtierney.com">R Markdown for scientists</a> - Tierney (2020)</li>
+<li><a href="https://rstudio-conf-2020.github.io/r-for-excel">R for Excel Users</a> - Lowndes &amp; Horst (2020)</li>
+<li><a href="http://jules32.github.io/rmarkdown-website-tutorial">RMarkdown website tutorial</a> - Lowndes (2016)</li>
+<li><a href="https://danovando.github.io/publications-with-rmarkdown/presentations/pubs-with-rmarkdown#9">Academic Publications with R Markdown</a>- Ovando 2020</li>
+</ul>
+
+
+</section>
+</main> <!-- /main -->
+<script type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    setTimeout(function() {
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./github-issues.html">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">GitHub for Project Management</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./resources-that-influence.html">
+        <span class="nav-page-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Resources that influence us</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+</body></html>
