@@ -1,4 +1,4 @@
-# lesson-series
+# Openscapes Lesson Series
 Lesson series for the Openscapes Champions program. 
 
 ### Research notice
