@@ -12,7 +12,7 @@ Coding strategies can blend with workflow strategies, and the idea is working in
 - [Coding strategies for future us](https://docs.google.com/presentation/d/1nTLJ782dpZqp3MEhQU9zNaFInrTaFUVQbj9OqsmxUYo/edit?usp=sharing)
   - See previous iterations: [Filepaths](https://docs.google.com/presentation/d/1HbxQ9Lg-ySEhmvH01PnMX0BDuquQezru73GI3PV-Ibo/edit?usp=sharing) and [Project-oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing)
 - [Expanding ouR community!](https://docs.google.com/presentation/d/1a620vM5OkOgcUi0I-mQPV5ZTQglRfwSnAb6O41g8tv0/edit#slide=id.p1), contributed by [Dr. Chanté Davis](https://twitter.com/DrFintastic)
-
+- [State of the Ecosystem Product Development Workflow](https://noaa-edab.github.io/presentations/20211015_Openscapes_Bastille.html), contributed by Kim Bastille
 
 ---
 
