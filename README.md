@@ -6,6 +6,7 @@ See <https://openscapes.org/champions> for more information.
 
 ----
 
+
 ### Research notice
 Please note that this repository is participating in a study into sustainability
  of open source projects. Data will be gathered about this repository for
