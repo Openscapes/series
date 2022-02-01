@@ -74,6 +74,8 @@ format:
     toc: true
 
 
-
+filters:
+  - include-files.lua
+  - quarto
 
   

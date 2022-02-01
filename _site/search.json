@@ -91,20 +91,6 @@
     "text": "Further reading\n\nTidyverse Skills for Data Science - Wright, Ellis, Hicks, & Peng\nPrinciples for data analysis workflows - Stoudt, Vasquez, and Martinez 2021, PLOS Computational Biology\nR Cookbook — JD Long"
   },
   {
-    "objectID": "index.html#cohort-agendas",
-    "href": "index.html#cohort-agendas",
-    "title": "Openscapes Champions Series",
-    "section": "Cohort Agendas",
-    "text": "Cohort Agendas\nResearch teams participate as a cohort over several months, meeting twice-monthly for 1.5-hour sessions we call Cohort Calls. Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and video as a group and breakout groups.\nCohort Call agendas and slides are all openly available in a Google Folder, and identified individually in the following tables. As we continue to learn and iterate from working with different research groups, you can always review the agenda archive for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an Efficiency Tips Doc and Spreadsheet.\nBetween Cohort Calls, each team meets together for a Seaside Chat to begin identifying and addressing shared needs; Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program. Additionally, we coordinate skill-building Clinics and Co-Working sessions (which differ from “Office Hours” because participants come to work and learn together) between Cohort Calls.\n\nTwo-month\nThe two-month Champions program includes 4 Cohort Calls and 1 GitHub Clinic. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team describes their trailhead and pathways forward.\n\n\n\nCohort Call Agendas\nSeries Chapters\nBetween Cohort Calls\n\n\n\n\n1. Openscapes mindset\nmindset, better science in less time\nSeaside Chat (trailhead)\n\n\n2. GitHub for publishing & project management\npublishing, project management\nSeaside Chat: shared organizing with GitHub\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nSeaside Chat (code of conduct);Co-working\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nSeaside Chat (pathway); Co-working\n\n\n5. Pathways share and next steps\n\n\n\n\n\n\n\n\nFour-month\nThe four-month Champions program includes 8 Cohort Calls and 2 Clinics. Beginning with the core lessons from the two-month program, we work with partners to co-develop new curriculum specific to a community.\n\n\n\n\nCohort Call Agendas\nSeries Chapters\nBetween Cohort Calls\n\n\n\n\n1. Openscapes mindset\nmindset, better science in less time\nSeaside Chat (trailhead)\n\n\n2. GitHub for publishing & project management\npublishing, project management\nSeaside Chat: shared organizing with GitHub\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nSeaside Chat (code of conduct);Co-working\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nSeaside Chat (pathway); Co-working\n\n\n5. Pathways share and next steps\n\n\n\n\n> Skillbuilding Clinic <\n\n\n\n\n5. Art of writing methods\n\nSeaside Chat; Co-working\n\n\n6. Peer review of methods\n\nSeaside Chat; Co-working\n\n\n7. Tricky details discussion\n\nSeaside Chat; Co-working\n\n\n8. Pathways share #2"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Openscapes Champions Series",
-    "section": "About",
-    "text": "About\nThe Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it’s created with the same tools and practices we will be talking about: R and RStudio — specifially bookdown — and GitHub.\nOpenscapes is co-directed by Julia Stewart Lowndes and Erin Robinson. It is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and was incubated by a Mozilla Fellowship awarded to Lowndes in 2018.\n\n  Openscapes is licensed under a Creative Commons Attribution 4.0 International License."
-  },
-  {
     "objectID": "overview.html#why-were-here",
     "href": "overview.html#why-were-here",
     "title": "Openscapes Champions Series",
@@ -441,6 +427,20 @@
     "text": "Further Reading\n\nWickham, H (2014). Tidy Data. Journal of Statistical Software 58 (10). jstatsoft.org/v59/i10/\nBroman, KW and KH Woo (2018). Data Organization in Spreadsheets. The American Statistician 72 (1). Available open access as a PeerJ preprint.\nGrolemund, G & Wickham, H (2016). R for Data Science: Ch 12 (Tidy Data) https://r4ds.had.co.nz\nLeek, J (2016). How to share data with a statistician"
   },
   {
+    "objectID": "index.html#cohort-agendas",
+    "href": "index.html#cohort-agendas",
+    "title": "Openscapes Champions Series",
+    "section": "Cohort Agendas",
+    "text": "Cohort Agendas\nResearch teams participate as a cohort over several months, meeting twice-monthly for 1.5-hour sessions we call Cohort Calls. Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and video as a group and breakout groups.\nCohort Call agendas and slides are all openly available in a Google Folder, and identified individually in the following tables. As we continue to learn and iterate from working with different research groups, you can always review the agenda archive for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an Efficiency Tips Doc and Spreadsheet.\nBetween Cohort Calls, each team meets together for a Seaside Chat to begin identifying and addressing shared needs; Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program. Additionally, we coordinate skill-building Clinics and Co-Working sessions (which differ from “Office Hours” because participants come to work and learn together) between Cohort Calls.\n\nTwo-month\nThe two-month Champions program includes 4 Cohort Calls and 1 GitHub Clinic. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team describes their trailhead and pathways forward.\n\n\n\nCohort Call Agendas\nSeries Chapters\nBetween Cohort Calls\n\n\n\n\n1. Openscapes mindset\nmindset, better science in less time\nSeaside Chat (trailhead)\n\n\n2. GitHub for publishing & project management\npublishing, project management\nSeaside Chat: shared organizing with GitHub\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nSeaside Chat (code of conduct);Co-working\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nSeaside Chat (pathway); Co-working\n\n\n5. Pathways share and next steps\n\n\n\n\n\n\n\n\nFour-month\nThe four-month Champions program includes 8 Cohort Calls and 2 Clinics. Beginning with the core lessons from the two-month program, we work with partners to co-develop new curriculum specific to a community.\n\n\n\n\nCohort Call Agendas\nSeries Chapters\nBetween Cohort Calls\n\n\n\n\n1. Openscapes mindset\nmindset, better science in less time\nSeaside Chat (trailhead)\n\n\n2. GitHub for publishing & project management\npublishing, project management\nSeaside Chat: shared organizing with GitHub\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nSeaside Chat (code of conduct);Co-working\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nSeaside Chat (pathway); Co-working\n\n\n5. Pathways share and next steps\n\n\n\n\n\n> Skillbuilding Clinic < | | 5. Art of writing methods | | Seaside Chat; Co-working 6. Peer review of methods | | Seaside Chat; Co-working 7. Tricky details discussion | | Seaside Chat; Co-working 8. Pathways share #2 | |"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Openscapes Champions Series",
+    "section": "About",
+    "text": "About\nThe Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it’s created with the same tools and practices we will be talking about: R and RStudio — specifially bookdown — and GitHub.\nOpenscapes is co-directed by Julia Stewart Lowndes and Erin Robinson. It is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and was incubated by a Mozilla Fellowship awarded to Lowndes in 2018.\n\n  Openscapes is licensed under a Creative Commons Attribution 4.0 International License."
+  },
+  {
     "objectID": "agenda_2month_withlinks.html",
     "href": "agenda_2month_withlinks.html",
     "title": "Openscapes Champions Series",
@@ -474,13 +474,6 @@
     "title": "Openscapes Champions Series",
     "section": "Build community",
     "text": "Build community\nJoin existing communities locally and online, and start local chapters with friends!\nSome ideas:\n\nMozilla Study Groups Example: Eco-data-science. Also see (Steven et al. 2018)\nRLadies. Example: RLadies Santa Barbara\n\nThese meetups can be for skill-sharing, showcasing how people work, or building community so you can troubleshoot together. They can be an informal “hacky hour” at a cafe or pub!"
-  },
-  {
-    "objectID": "agenda_2month.html",
-    "href": "agenda_2month.html",
-    "title": "Openscapes Champions Series",
-    "section": "",
-    "text": "Cohort Call Agendas\nSeries Chapters\nBetween Cohort Calls\n\n\n\n\n1. Openscapes mindset\nmindset, better science in less time\nSeaside Chat (trailhead)\n\n\n2. GitHub for publishing & project management\npublishing, project management\nSeaside Chat: shared organizing with GitHub\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nSeaside Chat (code of conduct);Co-working\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nSeaside Chat (pathway); Co-working\n\n\n5. Pathways share and next steps"
   },
   {
     "objectID": "code-of-conduct.html#code-of-conduct-also-known-as",
