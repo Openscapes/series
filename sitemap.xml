@@ -2,46 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://openscapes.github.io/series/bsilt.html</loc>
-    <lastmod>2022-02-01T04:09:06.611Z</lastmod>
+    <lastmod>2022-02-01T13:36:42.826Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/communities.html</loc>
-    <lastmod>2022-02-01T04:09:07.591Z</lastmod>
+    <lastmod>2022-02-01T13:36:45.758Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/index.html</loc>
-    <lastmod>2022-02-01T04:09:07.851Z</lastmod>
+    <lastmod>2022-02-01T13:36:46.030Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/resources-that-influence.html</loc>
-    <lastmod>2022-02-01T04:09:08.107Z</lastmod>
+    <lastmod>2022-02-01T13:36:46.310Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/team-culture.html</loc>
-    <lastmod>2022-02-01T04:09:08.383Z</lastmod>
+    <lastmod>2022-02-01T13:36:46.594Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/github-pub.html</loc>
+    <lastmod>2022-02-01T13:36:46.870Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/overview.html</loc>
-    <lastmod>2022-02-01T04:09:08.671Z</lastmod>
+    <lastmod>2022-02-01T13:36:47.178Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/github-issues.html</loc>
+    <lastmod>2022-02-01T13:36:47.554Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/coding-strategies.html</loc>
-    <lastmod>2022-02-01T04:09:08.943Z</lastmod>
+    <lastmod>2022-02-01T13:36:47.854Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/code-of-conduct.html</loc>
-    <lastmod>2022-02-01T04:09:09.151Z</lastmod>
+    <lastmod>2022-02-01T13:36:48.062Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/r-for-scicomm.html</loc>
-    <lastmod>2022-02-01T04:09:09.359Z</lastmod>
+    <lastmod>2022-02-01T13:36:48.270Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/data-strategies.html</loc>
-    <lastmod>2022-02-01T04:09:09.631Z</lastmod>
+    <lastmod>2022-02-01T13:36:48.570Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/mindset.html</loc>
-    <lastmod>2022-02-01T04:09:09.871Z</lastmod>
+    <lastmod>2022-02-01T13:36:48.838Z</lastmod>
   </url>
 </urlset>
