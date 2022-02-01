@@ -32,7 +32,7 @@ website:
     contents:
       - section: "Lesson Series"
         contents:        
-         - href: "index.Rmd"
+         - href: "index.qmd"
            text: Welcome
          - href: "overview.Rmd"
            text: Overview
