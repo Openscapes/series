@@ -1,4 +1,13 @@
-# Welcome {#welcome .unnumbered}
+---
+title: "Openscapes Champions Lesson Series"
+subtitle: "This is the official lesson series for the Openscapes Champions program." 
+date: "February 1, 2022"
+author: "Openscapes team"
+citation_url: https://openscapes.github.io/series
+slug: index
+---
+
+# Welcome {#welcome}
 
 Hello! This book is the lesson series for the [**Openscapes Champions program**](https://www.openscapes.org/champions/), an open data science mentorship program for science teams. 
 
@@ -30,36 +39,17 @@ Between Cohort Calls, each team meets together for a [Seaside Chat](https://www.
 
 ### Two-month
 
-The two-month Champions program includes 4 Cohort Calls and 1 GitHub Clinic. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team describes their trailhead and pathways forward.
+The two-month Champions program includes 5 Cohort Calls. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team describes their trailhead and pathways forward.
 
 ```{.include}
 _agenda_2month.qmd
 ```
-
-
-
-<br>
-
-### Four-month
-
-The four-month Champions program includes 8 Cohort Calls and 2 Clinics. Beginning with the core lessons from the two-month program, we work with partners to co-develop new curriculum specific to a community.  
-
-<br>
-
-```{.include}
-_agenda_2month.qmd
-```
-\> Skillbuilding Clinic <  | | 
-5. Art of writing methods | | Seaside Chat; Co-working
-6. Peer review of methods | | Seaside Chat; Co-working
-7. Tricky details discussion | | Seaside Chat; Co-working
-8. Pathways share #2 | | 
 
 <br>
 
 ## About
 
-The Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it's created with the same tools and practices we will be talking about: R and RStudio — specifially [bookdown](https://bookdown.org/yihui/bookdown/) — and GitHub.
+The Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it's created with the same tools and practices we will be talking about: originally R and [bookdown](https://bookdown.org/yihui/bookdown/) and now [quarto](https://quarto.org), and GitHub.
 
 [Openscapes](https://openscapes.org) is co-directed by Julia Stewart Lowndes and Erin Robinson. It is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and was incubated by a [Mozilla](https://foundation.mozilla.org/en/) Fellowship awarded to Lowndes in 2018.
 

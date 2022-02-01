@@ -45,15 +45,13 @@ Every GitHub repository (shortened to "repo") has a feature called Issues. Issue
 
 <br> 
 
+![](img/issues-intro.png){width="80%"} 
 
-```{r} 
-#| out.width: "80%"
-knitr::include_graphics("img/issues-intro.png")  
-
+<!---
 # https://blog.revolutionanalytics.com/2017/06/rmarkdown-tricks.html
 # http://www.zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/
 # https://www.w3schools.com/howto/howto_css_image_center.asp
-```
+--->
 
 <br> 
 
@@ -99,10 +97,7 @@ Here are some examples of "traditional" and "non-traditional" use of issues.
 
 <br> 
 
-```{r} 
-#| out.width: "80%"
-knitr::include_graphics("img/issues-ggplot2.png")  
-```
+![](img/issues-ggplot2.png){width="80%"} 
 
 <br> 
 
@@ -110,10 +105,7 @@ knitr::include_graphics("img/issues-ggplot2.png")
 
 <br> 
 
-```{r} 
-#| out.width: "80%"
-knitr::include_graphics("img/issues-mozfest.png")  
-```
+![](img/issues-mozfest.png){width="80%"} 
 
 <br> 
 
@@ -121,10 +113,7 @@ OHI-Science's Issues: are also an example of less "traditional" use of Issues bu
 
 <br> 
 
-```{r} 
-#| out.width: "80%"
-knitr::include_graphics("img/issues-ohiscience.png")  
-```
+![](img/issues-ohiscience.png){width="80%"} 
 
 <br> 
 
@@ -141,10 +130,7 @@ Then you'll be able to Submit the Issue. On the right side, you'll see options t
 
 <br> 
 
-```{r} 
-#| out.width: "80%"
-knitr::include_graphics("img/issues-create.png")  
-```
+![](img/issues-create.png){width="80%"} 
 
 <br> 
 
@@ -166,10 +152,7 @@ And something really great is that you can click on the date — and watch the U
 
 <br> 
 
-```{r} 
-#| out.width: "80%"
-knitr::include_graphics("img/issues-comment.png")  
-```
+![](img/issues-comment.png){width="80%"} 
 
 <br> 
 
@@ -183,10 +166,7 @@ GitHub enables you to also create Markdown check-lists by typing `- [ ]`. Once t
 
 <br> 
 
-```{r} 
-#| out.width: "80%"
-knitr::include_graphics("img/issues-checklist.png")  
-```
+![](img/issues-checklist.png){width="80%"} 
 
 <br> 
 
@@ -200,11 +180,7 @@ You can also anchor to specific lines within a file, which is useful if you are 
 
 <br> 
 
-```{r} 
-#| out.width: "80%"
-knitr::include_graphics("img/github-anchor-lines.png")  
-```
-
+![](img/github-anchor-lines.png){width="80%"} 
 <br> 
 
 
@@ -216,11 +192,7 @@ If you navigate back to the full list of Issue topics (which will have the URL g
 
 <br> 
 
-```{r} 
-#| out.width: "80%"
-knitr::include_graphics("img/issues-labels.png")  
-```
-
+![](img/issues-labels.png){width="80%"} 
 <br> 
 
 ### Projects, Milestones
@@ -235,10 +207,7 @@ You have a lot of control over how you will manage your Projects; at this point 
 
 <br> 
 
-```{r} 
-#| out.width: "80%"
-knitr::include_graphics("img/issues-projects.png")  
-```
+![](img/issues-projects.png){width="80%"} 
 
 <br> 
 
@@ -283,11 +252,7 @@ Here's what your inbox will look like afterwards:
 
 <br> 
 
-```{r} 
-#| out.width: "80%"
-knitr::include_graphics("img/issues-inbox-crop.png")  
-```
-
+![](img/issues-inbox-crop.png){width="80%"} 
 <br> 
  
 This is pretty rare to receive so many emails all at once. But you can always switch your setting to "Not Watch" this repository so that you only receive emails about Issues that you are tagged in. 
