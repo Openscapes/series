@@ -50,8 +50,8 @@ website:
            text: Coding strategies
          - href: "communities.qmd"
            text: Open communities
-         - href: "github-pub.qmd"
-           text: GitHub for publication
+     #    - href: "github-pub.qmd"
+     #      text: GitHub for publication
      #    - href: "github-issues.qmd"
      #      text: GitHub for project management
   #"case-studies.qmd", CREATE AND LINK

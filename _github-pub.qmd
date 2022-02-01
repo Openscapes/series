@@ -56,7 +56,8 @@ It is used for code and files: organize,  archive, bookkeeping, searchable, chan
 
 <br> 
 
-```{r, echo=FALSE, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+```{r} 
+#| out.width: "80%"
 knitr::include_graphics("img/github-differencing.png")  
 # https://github.com/OHI-Science/arc/commit/931d967ee0b85992f2f6cd37ee79c705f9f056b2?short_path=6a78fa2#diff-6a78fa24f588c99eca20ff4d8c9071f8
 ```
@@ -129,7 +130,8 @@ This is a demo *details upcoming*
 
 <br> 
 
-```{r, out.width="80%", out.extra='style="background-color: gray; padding:2px; display: inline-block;"'}
+```{r} 
+#| out.width: "80%"
 knitr::include_graphics("img/github-orientation.png")  
 ```
 
