@@ -34,32 +34,32 @@ website:
         contents:        
          - href: "index.qmd"
            text: Welcome
-         - href: "overview.Rmd"
+         - href: "overview.qmd"
            text: Overview
-         - href: "mindset.Rmd"
+         - href: "mindset.qmd"
            text: Mindset
-         - href: "bsilt.Rmd"
+         - href: "bsilt.qmd"
            text: Better science in less time
-         - href: "team-culture.Rmd"
+         - href: "team-culture.qmd"
            text: Team culture
-         - href: "code-of-conduct.Rmd"
+         - href: "code-of-conduct.qmd"
            text: Code of conduct
-         - href: "data-strategies.Rmd"
+         - href: "data-strategies.qmd"
            text: Data stategies
-         - href: "coding-strategies.Rmd"
+         - href: "coding-strategies.qmd"
            text: Coding strategies
-         - href: "communities.Rmd"
+         - href: "communities.qmd"
            text: Open communities
-         - href: "github-pub.Rmd"
+         - href: "github-pub.qmd"
            text: GitHub for publication
-         - href: "github-issues.Rmd"
+         - href: "github-issues.qmd"
            text: GitHub for project management
-  #"case-studies.Rmd", CREATE AND LINK
-  #"code-tour.Rmd", 
-  #"study-groups.Rmd",
-         - href: "r-for-scicomm.Rmd"
+  #"case-studies.qmd", CREATE AND LINK
+  #"code-tour.qmd", 
+  #"study-groups.qmd",
+         - href: "r-for-scicomm.qmd"
            text: R for scicomm
-         - href: "resources-that-influence.Rmd"
+         - href: "resources-that-influence.qmd"
            text: Resources
   
 
