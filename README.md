@@ -3,6 +3,7 @@ Lesson series for the Openscapes Champions program.
 
 See <https://openscapes.org/champions> for more information.
 
+
 ----
 
 ### Research notice
