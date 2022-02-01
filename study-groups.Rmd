@@ -1,11 +1,5 @@
 # Study groups {#study-groups} 
 
-```{r, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(htmltools)
-```
-
-
 
 https://twitter.com/thomas_mock/status/1110209164448534530
 

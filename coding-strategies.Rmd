@@ -1,10 +1,5 @@
 # Coding strategies for future us {#coding-strategies} 
 
-```{r, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(htmltools)
-```
-
 Coding strategies can blend with workflow strategies, and the idea is working in a way that is not just for you in this moment. Here we will discuss good coding practices for beginning and seasoned coders alike that make it easier to work with other people, times, and computers. 
 
 **Slides** that have been presented during Champions Program Cohort Calls (with guest teachers indicated): 

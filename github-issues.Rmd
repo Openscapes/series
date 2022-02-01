@@ -1,10 +1,5 @@
 # GitHub for Project Management {#github-issues} 
 
-```{r, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-library(htmltools)
-```
-
 GitHub is best known as a collaborative coding platform. But of course productive collaboration requires communication, and GitHub has powerful features to support communication and project management through GitHub Issues. (Also see thee previous chapter about GitHub for publishing).
 
 **Slides** that have been presented during Champions Program Cohort Calls: 

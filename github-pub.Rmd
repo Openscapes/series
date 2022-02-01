@@ -1,10 +1,5 @@
 # GitHub for Publishing {#github-pub} 
 
-```{r, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(htmltools)
-```
-
 <!---
 
 Things to tour/cover:

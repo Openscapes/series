@@ -1,9 +1,4 @@
-# Github for Publishing {#code-tour} 
-
-```{r, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(htmltools)
-```
+# Code tour {#code-tour} 
 
 <!---
 

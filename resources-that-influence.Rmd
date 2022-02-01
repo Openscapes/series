@@ -1,10 +1,5 @@
 # Resources that influence us {#resources-influence} 
 
-```{r, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(htmltools)
-```
-
 *Some resources that influence our thinking.*
 
 <!---
