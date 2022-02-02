@@ -1,11 +1,13 @@
 ---
 title: "Openscapes Champions Lesson Series"
-subtitle: "This is the official lesson series for the Openscapes Champions program." 
+subtitle: "Open educational resources for the Openscapes Champions program" 
 date: "February 1, 2022"
 author: "Openscapes team"
 citation_url: https://openscapes.github.io/series
 slug: index
 ---
+
+<br>
 
 # Welcome {#welcome}
 
@@ -19,23 +21,19 @@ Openscapes Champions is a professional development and leadership opportunity fo
 </center>
 <br>
 
-This open curriculum is improved iteratively and the most recent version always available online. Chapters accompany slide decks that are taught through [Cohort Agendas](#agendas) (below), depending on the Cohort duration. The lesson series is originally framed around "Our path to better science in less time using open data science tools" [(Lowndes et al. 2017)](https://www.nature.com/articles/s41559-017-0160). <!--- That paper is a retrospective of how a team's data workflow changed over four years; Openscapes Champions aims to help guide other teams to accelerate this timeline and begin make similar progress themselves, no matter where they are starting from. ---> As we learn and iterate with Cohorts of different durations and from different disciplines, the curriculum will iterate and grow as well. 
-<!---
-**Openscapes Champions** is a professional development and leadership opportunity for research teams to explore open data science practices. It is a remote-by-design mentorship program that guides teams through the open data science landscape, empowers them as leaders, and welcomes them as part of the growing open community. Participants attend as a team with their research group — including the team lead — in a cohort with other teams, together learning how to reframe data-intensive science as a collaborative effort rather than an individual burden. A driving motivation is to reduce the burden for early career faculty/leads wanting to modernize their research groups' approaches to collaborative data analysis and stewardship. By discussing open software tooling and communities enabling reproducible research (e.g. R/RStudio, GitHub, metadata), research groups develop collaborative skills, mindsets, and habits and establish shared practices for increased efficiency in their own research, while contributing to a more inclusive scientific culture. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science, enabling increased efficiency and resilience for teams so that their work has more enduring impact.
+This open curriculum is improved iteratively and the most recent version always available online for reuse and remix. It was originally developed from "Our path to better science in less time using open data science tools" [(Lowndes et al. 2017)](https://www.nature.com/articles/s41559-017-0160). As we have learn and iterate with Champions Cohorts, the curriculum is iterating and growing as well. 
 
---->
-
-
+Each chapter in this book introduces the concepts, tooling, and examples that we discuss during our Champions Program Cohort Calls. The way lead and teach Cohort Calls is described more below.
 
 ----
 
 ## Cohort Agendas
 
-Research teams participate as a cohort over several months, meeting twice-monthly for 1.5-hour sessions we call Cohort Calls. Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and video as a group and breakout groups. 
+Research teams participate as a cohort over several months, meeting twice-monthly for 1.5-hour sessions we call Cohort Calls. Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that . 
 
-Cohort Call agendas and slides are all openly available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), and identified individually in the following tables. As we continue to learn and iterate from working with different research groups, you can always review the [agenda archive](https://github.com/Openscapes/series/blob/master/agenda-archive.md) for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an [Efficiency Tips Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml).
+Cohort Call agendas and slides are all openly available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g). As we continue to learn and iterate from working with different research groups, you can always review the [agenda archive](https://github.com/Openscapes/series/blob/master/agenda-archive.md) for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an [Efficiency Tips Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml).
 
-Between Cohort Calls, each team meets together for a [Seaside Chat](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) to begin identifying and addressing shared needs; Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program. Additionally, we coordinate skill-building Clinics and Co-Working sessions (which differ from "Office Hours" because participants come to work and learn together) between Cohort Calls.
+Between Cohort Calls, each team meets together for a [Seaside Chat](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) to begin identifying and addressing shared needs; Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen a culture of shared workflows and learning. Additionally, we coordinate skill-building Clinics and Co-Working sessions (which differ from "Office Hours" because participants come to work and learn together) between Cohort Calls.
 
 ### Two-month
 
