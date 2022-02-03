@@ -242,7 +242,7 @@
     "href": "how-to/setup-rstudio-github.html#installation",
     "title": "Setup RStudio and GitHub",
     "section": "Installation",
-    "text": "Installation\nTo setup RStudio and GitHub, you will need four things:\n\nR\nRStudio\nGit\nGitHub\n\nFollow the UCSB MEDS Installation Guide for detailed instructions on how to create accounts, download, install, and configure."
+    "text": "Installation\nTo setup RStudio and GitHub, you will need four things:\n\nR\nRStudio\nGit\nGitHub\n\nFollow the UCSB MEDS Installation Guide for detailed instructions on how to create accounts, download, install, and configure. (For an even more detailed walk-through, see Allison Horst’s ESM 206 Google Doc). Thanks for sharing Allison!"
   },
   {
     "objectID": "how-to/setup-rstudio-github.html#practice",
