@@ -23,7 +23,7 @@ Openscapes Champions is a professional development and leadership opportunity fo
 
 This open curriculum is improved iteratively and the most recent version always available online for reuse and remix. It was originally developed from "Our path to better science in less time using open data science tools" [(Lowndes et al. 2017)](https://www.nature.com/articles/s41559-017-0160). As we have learn and iterate with Champions Cohorts, the curriculum is iterating and growing as well. 
 
-Each chapter in this book introduces the concepts, tooling, and examples that we discuss during our Champions Program Cohort Calls. The way lead and teach Cohort Calls is described more below.
+Each chapter in the Core Lesson Series introduces the concepts, tooling, and examples that we discuss during our Champions Program Cohort Calls, and the way lead and teach Cohort Calls is described more below. We're also organizing additional Champions Lessons, Community Lessons, and How To guides to support research teams.
 
 ----
 
