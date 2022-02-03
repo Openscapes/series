@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "bsilt.html#ocean-health-index-behind-the-scenes",
-    "href": "bsilt.html#ocean-health-index-behind-the-scenes",
-    "title": "Openscapes Champions Series",
-    "section": "Ocean Health Index: behind the scenes",
-    "text": "Ocean Health Index: behind the scenes\nSome key points to discuss from Lowndes et al. 2017, Nature Ecology & Evolution: Our path to better science in less time using open data science tools:\n\nReproducibility & communication enabled by open tooling\nShared practices are useful beyond shared projects\n\nIf you’re interested in more overview of the OHI setup, see this 2017 talk (25 mins): OHI Better science in less time\n\nOHI pathway\n\nMotivated by necessity\nReimagined by possibility and community\nDone incrementally!\nYes: it’s an investment.\nAlso yes: huge, enduring payoff for (your) science\n\n\n\nReproducibility & communication enabled by open tooling\nRMarkdown to reimagine data analysis and communication. RMarkdown combines analyses & figures together, rendered to your reporting output of choice.\nAn example: http://ohi-science.org/betterscienceinlesstime/\n\nWebsite built with R/RMarkdown & Github\n\nYou can get started too: (1-hour tutorial)\n\n\n\nShared workflows not only useful for shared projects\n\nOHI team: we identified as a team & prioritized helping each other\n\nWe work on many different projects\nUse same workflows, share feedback, can think together across projects\n\nShared conventions reduce friction & cognitive load\n\nCommon ground, easier to talk about, easier to ask for help\nYou don’t need to design everything from scratch\n\n\nAnd, critically:\n\nIt’s about increasing efficiency and reproducibility and open science.\nBut it is also about increasing participation and inclusion.\nConsider diversity, equity, and inclusion in your daily practices.\nHow you work and onboard others to your projects is a DEI issue."
-  },
-  {
-    "objectID": "bsilt.html#examples-in-the-wild-environmental-science",
-    "href": "bsilt.html#examples-in-the-wild-environmental-science",
-    "title": "Openscapes Champions Series",
-    "section": "Examples in the wild: environmental science",
-    "text": "Examples in the wild: environmental science\n\nRegime Shifts in R & Data Science within the BC Public Service Observations from the field - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote\nNMFSReports: Easily write NOAA reports and tech memos in R Markdown! - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk\nAutomated reporting in Tampa Bay with open science - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog\n\nTBEP’s Data Management Workflow and open science cake"
-  },
-  {
-    "objectID": "bsilt.html#further-resources",
-    "href": "bsilt.html#further-resources",
-    "title": "Openscapes Champions Series",
-    "section": "Further resources",
-    "text": "Further resources\n\nNot so standard deviation podcast\nParker & Peng\nhttp://nssdeviations.com\nGreat discussions about data concepts and “in the wild”\nEpisode 9: Spreadsheet drama\n\n\nPractical computing for biologists\nHaddock & Dunn\nhttp://practicalcomputing.org/\nSoftware & computing concepts already on your computer\nChapter 2: Regular expressions"
-  },
-  {
     "objectID": "communities.html#what-are-open-communities",
     "href": "communities.html#what-are-open-communities",
     "title": "Openscapes Champions Series",
@@ -49,18 +28,235 @@
     "text": "Examples in the wild: campus coding clubs\n\nEcoDataScience at UC Santa Barbara\nBioData Club at OHSU\nThe Bio-Data Club at Moffitt"
   },
   {
-    "objectID": "index.html#cohort-agendas",
-    "href": "index.html#cohort-agendas",
-    "title": "Openscapes Champions Lesson Series",
-    "section": "Cohort Agendas",
-    "text": "Cohort Agendas\nResearch teams participate as a cohort over several months, meeting twice-monthly for 1.5-hour sessions we call Cohort Calls. Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that .\nCohort Call agendas and slides are all openly available in a Google Folder. As we continue to learn and iterate from working with different research groups, you can always review the agenda archive for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an Efficiency Tips Doc and Spreadsheet.\nBetween Cohort Calls, each team meets together for a Seaside Chat to begin identifying and addressing shared needs; Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen a culture of shared workflows and learning. Additionally, we coordinate skill-building Clinics and Co-Working sessions (which differ from “Office Hours” because participants come to work and learn together) between Cohort Calls.\n\nTwo-month\nThe two-month Champions program includes 5 Cohort Calls. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team describes their trailhead and pathways forward.\n\n\n\nCohort Call Agendas\nSeries Chapters\nBetween Cohort Calls\n\n\n\n\n1. Openscapes mindset\nmindset, better science in less time\nSeaside Chat (trailhead)\n\n\n2. GitHub for publishing & project management\npublishing, project management\nSeaside Chat: shared organizing with GitHub; Co-working\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nSeaside Chat (code of conduct);Co-working\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nSeaside Chat (pathway); Co-working\n\n\n5. Pathways share and next steps"
+    "objectID": "github-pub.html#preamble",
+    "href": "github-pub.html#preamble",
+    "title": "Openscapes Champions Series",
+    "section": "Preamble",
+    "text": "Preamble\nWe are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good for new lab members or students to contribute to your lab as soon as possible.\nGitHub can reduce friction for open science: it gives us avenues for communicating and publishing methods, blogs, interactive graphics and more, without a lot of heavy lifting!\n\nPrerequisite\nYou will need to create GitHub account at http://github.com, if you don’t already have one. For username, I recommend all lower-case letters, short as you can. I recommend using your .edu email, since you can request free private repositories via GitHub Education discount."
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Openscapes Champions Lesson Series",
-    "section": "About",
-    "text": "About\nThe Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it’s created with the same tools and practices we will be talking about: originally R and bookdown and now quarto, and GitHub.\nOpenscapes is co-directed by Julia Stewart Lowndes and Erin Robinson. It is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and was incubated by a Mozilla Fellowship awarded to Lowndes in 2018.\n\n  Openscapes is licensed under a Creative Commons Attribution 4.0 International License."
+    "objectID": "github-pub.html#what-is-github-traditional-answer",
+    "href": "github-pub.html#what-is-github-traditional-answer",
+    "title": "Openscapes Champions Series",
+    "section": "What is GitHub? — Traditional answer",
+    "text": "What is GitHub? — Traditional answer\nGitHub means GitHub.com; it’s a company that is an online collaborative platform, with some features familiar to social media users.\nGitHub centers around git, which is powerful version control software for your local computer. This has been around for years, taking care of bookkeeping for you locally on your computer.\nGitHub makes git’s local bookkeeping collaborative through its powerful online platform. It will weave together all the version control from your local computer with other collaborators you work with.\nIt is used for code and files: organize, archive, bookkeeping, searchable, changes visualized, etc. In the figure below, notice the familiar red and green to denote deletions and additions line-by-line, with darker shading to identify specific text within a line. Also notice the differencing in the image’s color bar!\n\n \nWe aren’t going to teach traditional git/GitHub today, but here are some recommendations if you’d like to learn. First, read Jenny Bryan’s “Excuse Me, Do You Have a Moment to Talk About Version Control?” (open-access pre-print from PeerJ, published in The American Statistican). This provides an excellent overview. One quote I like in particular is\n\nCollaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review. - Jenny Bryan, “Excuse Me, Do You Have a Moment to Talk About Version Control?”\n\nNext, to learn GitHub with R, the absolute best resource is Jenny Bryan’s Happy Git With R. This is a comprehensive, friendly step-by-step process of how to do so, and is an awesome reference for seasoned git/GitHub users as well. If you want a shorter-form resource, I’d recommend 2 tutorials from OHI-Science’s data-science-training. This also teaches you how to set up GitHub to sync directly through RStudio, so that you don’t have to have any other software (including the command line) open to do so:\n\nGitHub\nCollaborating with GitHub\n\nOn my local computer, I interact with GitHub through RStudio 99.9% of the time (use command line .1% of time). Upcoming: resources for setting up GitHub without RStudio"
+  },
+  {
+    "objectID": "github-pub.html#what-is-github-non-traditional-answer",
+    "href": "github-pub.html#what-is-github-non-traditional-answer",
+    "title": "Openscapes Champions Series",
+    "section": "What is GitHub? — Non-traditional answer",
+    "text": "What is GitHub? — Non-traditional answer\n\nPublishing platform\nIt’s for books like this one (openscapes.org/series), websites like openscapes.org, which was built with R’s blogdown package, and interactive dashboards.\n\n\nProject management system\nGitHub is also a project management system for short and long-term tasks. It is really powerful to have collaborative “todo”’s in the same software (and user accounts) as all the analysis and all the people that you’re already working with.\nWe will talk about “Issues” & “Projects” in the next chapter."
+  },
+  {
+    "objectID": "github-pub.html#github-framework-in-a-nutshell",
+    "href": "github-pub.html#github-framework-in-a-nutshell",
+    "title": "Openscapes Champions Series",
+    "section": "GitHub framework in a nutshell",
+    "text": "GitHub framework in a nutshell\n\nUsers vs. organizations\nExample: jules32 is a user account, openscapes is an organization group.\nYou can think of them like other social media accounts: I can be an individual or part of a group, and there are permissions associated with both.\n\n\nRepositories (“repos”)\nRepos are GitHub’s main unit. They are essentially a folder, and you’ll put files and folders in them. They are contained, with permissions specific to each one.\nIt makes it easier to navigate through and find stuff — so you are “not sifting through a zoo of files” as one Openscapes Champion has said.\n\n\n“Commits” & “commit messages”\nUnlike Dropbox or Google Drive that constantly and automatically sync to the cloud, you have to deliberately tell git/GitHub when you have an amount of work that you want to be versioned and synced. You have to commit to telling them. GitHub takes care of the backend bookkeeping involved, but you have to write a human-readable message to your future self and others. That is the commit message.\nThere is no absolute guidance for how often to commit, but I think of it as leaving breadcrumbs for yourself. How much work and on what things/in what combination would you like to be able to reverse? What kind of information will make it easier for Future You to work with?\n\n\nPublic vs private\nYou can have both public (the free default) and private repositories, and change these permissions later on. I mostly work in public repos, but if I work in private ones, I often have the expectation that they will be made public some day. So I practice good habits with commits and documentation, and keep conversations on-topic.\n\n\nThe search feature is awesome\nYou are able to search within a GitHub repository, across repositories in an organization, or across all GitHub public repositories. I find this helps me find things quickly if I’m looking for how I’ve used a function in the past, or if I remember a word that would stand out that I included in a commit message as a breadcrumb to myself. It will also search Issues within the repositories, so you can look for specific words in conversations as well.\n\n\nBranches & Forks\nWe’re not going to talk about branches and forks. These are a core feature of what makes GitHub super powerful for software development, and one of the first things you’ll see in GitHub tutorials geared towards software engineers. But I do not think that is the most relevant or smoothest entryway for those of us who are scientists fairly new to collaborative coding and version control."
+  },
+  {
+    "objectID": "github-pub.html#github-orientation",
+    "href": "github-pub.html#github-orientation",
+    "title": "Openscapes Champions Series",
+    "section": "GitHub Orientation",
+    "text": "GitHub Orientation\nThis is a demo details upcoming"
+  },
+  {
+    "objectID": "github-pub.html#editing-files-from-github.",
+    "href": "github-pub.html#editing-files-from-github.",
+    "title": "Openscapes Champions Series",
+    "section": "Editing files from GitHub.",
+    "text": "Editing files from GitHub.\nThis is also a demo details upcoming\nFirst a Disclaimer: you don’t want to edit from the browser for most things – you would want to “clone” the repo to your local computer and leverage more goodies & power. However, you will sometimes edit in the browser, and it’s a good entry point for us today, and maybe for onboarding folks in your lab in the future.\nWhy not edit in the browser? You don’t want to overwrite each other or forget yourself. Good for quick md editing, not script editing.\nIn the demo, the example .md was a deliberate example of sharing slides from a talk :)\nWhat to do: (you all have permissions)\n\nGo to https://github.com/openscapes/demo/yourname.md\nClick on the pencil to edit your file\nMake many edits & commits with commit messages\n\ngithub.com has a default message, but get into the habit of writing an actual message to yourself/others (breadcrumbs)\n\nThis is different from saving (cancel if you save!)"
+  },
+  {
+    "objectID": "github-pub.html#further-resources",
+    "href": "github-pub.html#further-resources",
+    "title": "Openscapes Champions Series",
+    "section": "Further resources",
+    "text": "Further resources\n\nGit for Humans - Alice Bartlett, 2016"
+  },
+  {
+    "objectID": "coding-strategies.html#software-considerations-for-coding",
+    "href": "coding-strategies.html#software-considerations-for-coding",
+    "title": "Openscapes Champions Series",
+    "section": "Software considerations for coding",
+    "text": "Software considerations for coding\nThe following advice is from Tiffany Timbers, UBC Data Science, Intro to Reticulate:\nYou will need these software tools:\n\nProgramming language (R, python)\nCode editor (RStudio IDE, Jupyter)\nVersion control software (git, GitHub/bitbucket)\n\nHow to choose the “best” tool for the job:\n\nReproducible and auditable\nAccurate\nCollaborative (and portable)\n\nIf you’re choosing between R, Python, and other modern languages, they will aready be reproducible, auditable, and accurate. That leaves collaboration – what do your collaborators use? What do folks in your lab, or field use? What is mentioned in the papers you read? There is increasing interoperability between languages (e.g. see reticulate to run python code from R) so when you have some idea it’s best to get started!\nSee also: Opinionated analysis development (Parker 2017). Tools like RStudio are already doing this to help you. Reserve your mental energy for the fun part of the analysis!"
+  },
+  {
+    "objectID": "coding-strategies.html#wtf-what-they-forgot-to-teach-you",
+    "href": "coding-strategies.html#wtf-what-they-forgot-to-teach-you",
+    "title": "Openscapes Champions Series",
+    "section": "WTF: What They Forgot to teach you",
+    "text": "WTF: What They Forgot to teach you\nMost of this advice comes directly from Jenny Bryan & Jim Hester’s awesome course What they Forgot to Teach You About R. I highly recommend reading Chapters 1-4 that go into much better detail than the notes here. The advice here is solid coding practices for any language, with examples from R.\n\nWorkflow versus product\nDistinction between things you do because of personal taste & habits (“workflow”) versus the logic and output that is the essence of your project (“product”).\nWorkflow:\n\nEditor you use to write code.\nName of your home directory.\nR code you ran before lunch.\n\nClearly product: - Raw data. - R code someone needs to run on your raw data to get your results, including the explicit library() calls to load necessary packages. (script, notebook)\nIdeally, you don’t hardwire anything about your workflow into your product."
+  },
+  {
+    "objectID": "coding-strategies.html#source-files",
+    "href": "coding-strategies.html#source-files",
+    "title": "Openscapes Champions Series",
+    "section": "Source files",
+    "text": "Source files\nWhat are they and why?\nCode that creates objects is “source code”. Source code is essentially text files you edit in a text editor that is then executed in the console.\nExamples:\n\n.R, .Rmd\n.py\n.m\n\n\nSave the source, not the workspace\nSave the source code; do not save the R object itself.\nSave your commands as “scripts” (.R, .py) or “notebooks” (.Rmd, ipynb). It doesn’t have to be polished. Just save it!\nEverything that really matters should be achieved through code that you save – including objects and figures The contrast is storing them implicitly or explicitly, as part of an entire workspace, or clicking via the mouse.\nLoad libraries/packages at the top. Just like a recipe: tell us the ingredients need before we get going!\n\n\nAlways start R with a blank slate\nSaving code is an absolute requirement for reproducibility.\nWhen you quit, do not save the workspace to an .Rdata file. When you launch, do not reload the workspace from an .Rdata file.\nIn RStudio, set this via Tools > Global Options.\n\n\nRestart R often during development\n\n“Have you tried turning it off and then on again?” – timeless troubleshooting wisdom, applies to everything\n\nIf you use RStudio, use the menu item Session > Restart R\nAdditional ways to restart development where you left off, i.e. “re-run all the code up to HERE”\n\n\nAvoid rm(list = ls())\nIt’s common to see scripts begin with this object-nuking command: rm(list = ls())\nThis is highly suggestive of a non-reproducible workflow.\nThe problem with rm(list = ls()) is that, given the intent, it does not go far enough.\nIt only deletes user-created objects from the global workspace.\nInstead, Restart R with a clean slate OFTEN (e.g. many times/day), and write every script assuming it will be run in a fresh R process"
+  },
+  {
+    "objectID": "coding-strategies.html#filepaths",
+    "href": "coding-strategies.html#filepaths",
+    "title": "Openscapes Champions Series",
+    "section": "Filepaths",
+    "text": "Filepaths\nEvery saved thing gets a unique path.\nYour code needs to run from somewhere specific. And when it interacts with other things (data or other code), you need to tell your code where things are.\nThe more deliberate you are about where things live,\n\nThe easier it will be for you and future you\nThe easier it will be for other people\nThe easier it will be on another computer\n\n\nsetwd(“path/that/only/works/on/my/machine”)\nThe chance of setwd() having the desired effect – making the file paths work – for anyone besides its author is 0%.\nIt’s also unlikely to work for the author one or two years or computers from now.\nHard-wired, absolute paths, especially when sprinkled throughout the code, make a project brittle. Such code does not travel well across time or space.\n\n\nsetwd()\nBUT, if you still decide to use setwd() in your scripts, you should at least be very disciplined about it:\nOnly use setwd() at the very start of a file, i.e. in an obvious and predictable place.\nAlways set working directory to the same thing, namely to the top-level of the project. Always build subsequent paths relative to that.\n\n\nR users: use the here package\nhere() identifies your project’s files, based on the current working directory at the time when the package is loaded.\nlibrary(here)\nhere()"
+  },
+  {
+    "objectID": "coding-strategies.html#project-oriented-workflows",
+    "href": "coding-strategies.html#project-oriented-workflows",
+    "title": "Openscapes Champions Series",
+    "section": "Project oriented workflows",
+    "text": "Project oriented workflows\n\nDilemma and Solution\nProblem statement:\nWe want to work on project A with the working directory set to path/to/projectA (my data analysis) and on project B with the working directory set to path/to/projectB (my teaching material).\nBut we also want to keep code like setwd(“path/to/projectA”) out of our scripts.\nSolution:\nSolution: use an IDE that supports a project-based workflow.\nAn integrated development environment (IDE) offers:\n\na powerful, R-aware code editor\nmany ways to send your code to a running R process\nother modern conveniences\n\nAnd it eliminates:\n\ntemptation to develop code directly in the Console. (instead:.R!)\ntension between development convenience and portability of the code.\n\n\n\nOrganize your work into projects\nHere’s what I mean by “work in a project”:\n\nFile system discipline: put all files related to a project in a designated folder.\n\nThis applies to data, code, figures, notes, etc.\nDepending on project complexity, you might enforce further organization into subfolders.\n\nWorking directory intentionality: when working on project A, make sure working directory is set to project A’s folder.\n\nIdeally, this is achieved via the development workflow and tooling, not by baking absolute paths into the code.\n\nFile path discipline: all paths are relative — relative to the project’s folder.\n\nSynergistic habits: you’ll get the biggest payoff if you practice all of them together.\nPortability: the project can be moved around on your computer or onto other computers and will still “just work”. is the only practical convention that creates reliable, polite behavior across different computers/users/time. This convention is neither new, nor unique to R.\nIt’s like agreeing that we will all drive on the left or the right. A hallmark of civilization is following conventions that constrain your behavior a little, in the name of public safety.\n\n\nRStudio Projects\nThe RStudio IDE has a notion of a (capital “P”) Project, which is a very effective implementation of (small “p”) projects.\nProject have an.Rproj file in the folder, which is used to store settings specific to that project. Use File > New Project … to get started.\nAllows for multiple projects\nno danger of crosstalk: each has own R process, global workspace & working directory\nSame “unit” as a GitHub repo!\n\n\nTips for RStudio Projects\nOne suggestion for organizing:\nHave a dedicated folder for your Projects. - If you have One Main Place for Projects, then go there in Finder/File Explorer to launch any specific project with .Rproj. - Mine is called “~/github/”.\nSwitching Projects: RStudio knows about recent Projects.\n\n\nName files deliberately\nJenny Bryan’s 3 rules for Naming Things:\n\nmachine readable\nhuman readable\nplays well with default ordering\n\nAvailable from Speakerdeck"
+  },
+  {
+    "objectID": "coding-strategies.html#further-reading",
+    "href": "coding-strategies.html#further-reading",
+    "title": "Openscapes Champions Series",
+    "section": "Further reading",
+    "text": "Further reading\n\nTidyverse Skills for Data Science - Wright, Ellis, Hicks, & Peng\nPrinciples for data analysis workflows - Stoudt, Vasquez, and Martinez 2021, PLOS Computational Biology\nR Cookbook — JD Long"
+  },
+  {
+    "objectID": "code-of-conduct.html#code-of-conduct-also-known-as",
+    "href": "code-of-conduct.html#code-of-conduct-also-known-as",
+    "title": "Openscapes Champions Series",
+    "section": "Code of Conduct also known as",
+    "text": "Code of Conduct also known as\nCommunity Participation Guidelines\nCode of Practice\nSimilar ideas:\nLab philosophy, mission statement, participation agreements"
+  },
+  {
+    "objectID": "code-of-conduct.html#requirements",
+    "href": "code-of-conduct.html#requirements",
+    "title": "Openscapes Champions Series",
+    "section": "Requirements",
+    "text": "Requirements\n\nClear explicit statements\nSeen and heard – that all participants know about\n\nAccessible and discoverable online\nMentioned aloud in meetings/interviews/onboarding\n\nAvenues for action, identified committees, recusals"
+  },
+  {
+    "objectID": "code-of-conduct.html#case-study-ropensci",
+    "href": "code-of-conduct.html#case-study-ropensci",
+    "title": "Openscapes Champions Series",
+    "section": "Case study: rOpenSci",
+    "text": "Case study: rOpenSci\nCoC itself\nBlog post about the CoC\nBlog post about creating the CoC — following a community call on the topic. Interesting points:\n\nDrafting – make it good and revisit; but not a living doc\nAdopting and sharing – so people know it exists & where to find it\nReporting and enforcing – standardized form can help"
+  },
+  {
+    "objectID": "code-of-conduct.html#examples-to-build-from",
+    "href": "code-of-conduct.html#examples-to-build-from",
+    "title": "Openscapes Champions Series",
+    "section": "Examples to build from",
+    "text": "Examples to build from\n\nrOpenSci CoC\n\nBuffer’s CoC & Why It’s Important For Diversity And Inclusion\nMozilla Community Participation Guidelines\nTemplate CoC for labs"
+  },
+  {
+    "objectID": "code-of-conduct.html#further-reading",
+    "href": "code-of-conduct.html#further-reading",
+    "title": "Openscapes Champions Series",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nHow Codes of Conduct Are Combatting Open Source’s Diversity Problem — Margaret Rhodes, AIGA Eye on Design"
+  },
+  {
+    "objectID": "data-strategies.html#data-organization-in-spreadsheets",
+    "href": "data-strategies.html#data-organization-in-spreadsheets",
+    "title": "Openscapes Champions Series",
+    "section": "Data organization in spreadsheets",
+    "text": "Data organization in spreadsheets\nThis publication by Broman & Woo, 2018 appears in the “Practical Data Science for Stats” collection in PeerJ & American Statistician.\nIt is a delightful read, from the first opening sentences:\n\n“Spreadsheets, for all of their mundane rectangularness, have been the subject of angst and controversy for decades.… Amid this debate, spreadsheets have continued to play a significant role in researchers’ workflows. The dangers of spreadsheets are real, however – so much so that the European Spreadsheet Risks Interest Group keeps a public archive of spreadsheet ‘horror stories’…”\n\nBroman & Woo share practical tips to make spreadsheets less error-prone, easier for computers to process, and easier to share. And something incredibly cool, it’s the 3rd most downloaded stats paper in the American Statistician, behind 2 papers about p-values (twitter thread).\nRead their paper for strategies behind their basic principles:\n\nBe consistent\nWrite dates like YYYY-MM-DD\nDon’t leave any cells empty\nPut just one thing in a cell\nOrganize data as a rectangle (“Tidy data”)\nCreate a data dictionary\nDon’t include calculations in the raw data files\nDon’t use font color or highlighting as data\nChoose good names for things\nMake backups\nUse data validation to avoid data entry errors\nSave the data in plain text files"
+  },
+  {
+    "objectID": "data-strategies.html#good-enough-practices-in-scientific-computing.",
+    "href": "data-strategies.html#good-enough-practices-in-scientific-computing.",
+    "title": "Openscapes Champions Series",
+    "section": "Good enough practices in scientific computing.",
+    "text": "Good enough practices in scientific computing.\nThis publication by Wilson et al. 2017 in PLoS Computational Biology follows a previous publication by Wilson et al. 2014: Best practices for scientific computing.\nIn terms of data management recommendataion, they have 2 main themes:\n\nwork towards ready-to-analyze data incrementally, documenting both the intermediate data and the process\nembrace the idea of “tidy data”, which can be a powerful accelerator for analysis\n\nRead their paper for strategies behind their basic principles (Box 1):\n\nSave the raw data.\nEnsure that raw data are backed up in more than one location.\nCreate the data you wish to see in the world.\nCreate analysis-friendly data.\nRecord all the steps used to process data.\nAnticipate the need to use multiple tables, & use a unique identifier for every record.\nSubmit data to a reputable DOI-issuing repository so that others can access & cite.\n\nThe publication also covers:\n\nSoftware: write, organize, and share scripts and programs used in an analysis.\nCollaboration: make it easy for existing and new collaborators to understand & contribute to a project.\nProject organization: organize the digital artifacts of a project to ease discovery & understanding.\nTracking changes: record how various components of your project change over time.\nManuscripts: write manuscripts in a way that leaves an audit trail & minimizes manual merging of conflicts."
+  },
+  {
+    "objectID": "data-strategies.html#make-scientific-data-fair",
+    "href": "data-strategies.html#make-scientific-data-fair",
+    "title": "Openscapes Champions Series",
+    "section": "Make scientific data FAIR",
+    "text": "Make scientific data FAIR\nThis publication by Stall et al 2019 in Nature, says that all disciplines should follow the geosciences and demand best practice for publishing and sharing data.\nFAIR data means:\n\n‘Findable’ by anyone using common search tools\n‘Accessible’ so that the data and metadata can be examined\n‘Interoperable’ so that comparable data can be analysed and integrated through the use of common vocabulary and formats\n‘Reusable’ by others through robust metadata, provenance, usage licences\n\n\n“Changes in geosciences policy and practice elevate data to valuable research contributions rather than files that are shoved in as an afterthought.”\n\nRead their paper for strategies and examples behind changing the culture: There are three big changes are crucial to shift research culture across all disciplines:\n\nMake depositing open and FAIR data a priority for all.\nRecognize and incentivize FAIR data practices.\nFund global infrastructure to support FAIR data and tools."
+  },
+  {
+    "objectID": "data-strategies.html#tidy-data-for-efficiency-reproducibility-collaboration",
+    "href": "data-strategies.html#tidy-data-for-efficiency-reproducibility-collaboration",
+    "title": "Openscapes Champions Series",
+    "section": "Tidy data for efficiency, reproducibility, & collaboration",
+    "text": "Tidy data for efficiency, reproducibility, & collaboration\nBy Lowndes & Horst 2020, posted on the Openscapes blog: an illustrated series to tell a story about tidy data.\nTidy data has been mentioned in each of the above, as a way to organize data in spreadsheets, to prepare ready-to-analyze data, and for sharing with the FAIR principles.\nSo what is tidy data?\nFirst, a preamble:\n\nRaw data may not be stored in a tidy way\n“Wrangling” data into tidy structure should be done programmatically as part of the analytical process - keep the raw data raw\nTidy data is a philosophy\nThere are existing tools to help\n\nRemember that “tidying data (“data wrangling”) – up to 50–80% of a data scientist’s time” Lohr 2014, New York Times, so it’s important to leverage these existing philosophies and tools.\nWhen we talk about organizing data to help us work in an efficient, reproducible, and collaborative way, we are talking about TIDY DATA. We mean deliberately thinking about the shape and structure of data – something that might not seem super exciting but is truly game-changing.\nSo let’s talk about what tidy data is and why it is so empowering for your analytical life.\n\nWhat is tidy data?\nTidy data is a way to describe data that’s organized with a particular structure – a rectangular structure, where each variable has its own column, and each observation has its own row (Wickham 2014).\n\n\n\n\nThis standard structure of tidy data led Hadley Wickham to describe it the way Leo Tolstoy describes families. Leo says “Happy families are all alike; every unhappy family is unhappy in its own way”. Similarly, Hadley says “tidy datasets are all alike, but every messy dataset is messy in its own way”.\n\n\n\n\n\n\nTidy data for more efficient data science\nTidy data allows you to be more efficient by using existing tools deliberately built to do the things you need to do, from subsetting portions of your data to plotting maps of your study area. Using existing tools saves you from building from scratch each time you work with a new dataset (which can be time-consuming and demoralizing). And luckily, there are a lot of tools specifically built to wrangle untidy data into tidy data (for example, in the tidyr package). By being more equipped to wrangle your data into a tidy format, you can get to your analyses faster to start answering the questions you’re asking.\n\n\n\n\n\n\nTidy data for easier collaboration\nTidy data makes it easier to collaborate because our friends can use the same tools in a familiar way. Whether thinking about collaborators as current teammates, your future self, or future teammates, organizing and sharing data in a consistent and predictable way means less adjustment, time, and effort for all.\n\n\n\n\n\n\nTidy data for reproducibility and reuse\nTidy data also makes it easier to reproduce analyses because they are easier to understand, update, and reuse. By using tools together that all expect tidy data as inputs, you can build and iterate really powerful workflows. And, when you have additional data entries, it’s no problem to re-run your code!\n\n\n\n\n\n\nTidy data for the win!\nOnce you are empowered with tools to work with tidy data generally, it opens up a whole new world of datasets that feel more approachable because you can work using familiar tools. This transferrable confidence and ability to collaborate might be the best thing about tidy data.\n\n\n\n\nSo for more efficient, reproducible, and collaborative analyses, make friends with tidy data!\n\n\n\n\n\n\n\nLearn more about tidy data:"
+  },
+  {
+    "objectID": "data-strategies.html#further-reading",
+    "href": "data-strategies.html#further-reading",
+    "title": "Openscapes Champions Series",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nWickham, H (2014). Tidy Data. Journal of Statistical Software 58 (10). jstatsoft.org/v59/i10/\nBroman, KW and KH Woo (2018). Data Organization in Spreadsheets. The American Statistician 72 (1). Available open access as a PeerJ preprint.\nGrolemund, G & Wickham, H (2016). R for Data Science: Ch 12 (Tidy Data) https://r4ds.had.co.nz\nLeek, J (2016). How to share data with a statistician"
+  },
+  {
+    "objectID": "bsilt.html#ocean-health-index-behind-the-scenes",
+    "href": "bsilt.html#ocean-health-index-behind-the-scenes",
+    "title": "Openscapes Champions Series",
+    "section": "Ocean Health Index: behind the scenes",
+    "text": "Ocean Health Index: behind the scenes\nSome key points to discuss from Lowndes et al. 2017, Nature Ecology & Evolution: Our path to better science in less time using open data science tools:\n\nReproducibility & communication enabled by open tooling\nShared practices are useful beyond shared projects\n\nIf you’re interested in more overview of the OHI setup, see this 2017 talk (25 mins): OHI Better science in less time\n\nOHI pathway\n\nMotivated by necessity\nReimagined by possibility and community\nDone incrementally!\nYes: it’s an investment.\nAlso yes: huge, enduring payoff for (your) science\n\n\n\nReproducibility & communication enabled by open tooling\nRMarkdown to reimagine data analysis and communication. RMarkdown combines analyses & figures together, rendered to your reporting output of choice.\nAn example: http://ohi-science.org/betterscienceinlesstime/\n\nWebsite built with R/RMarkdown & Github\n\nYou can get started too: (1-hour tutorial)\n\n\n\nShared workflows not only useful for shared projects\n\nOHI team: we identified as a team & prioritized helping each other\n\nWe work on many different projects\nUse same workflows, share feedback, can think together across projects\n\nShared conventions reduce friction & cognitive load\n\nCommon ground, easier to talk about, easier to ask for help\nYou don’t need to design everything from scratch\n\n\nAnd, critically:\n\nIt’s about increasing efficiency and reproducibility and open science.\nBut it is also about increasing participation and inclusion.\nConsider diversity, equity, and inclusion in your daily practices.\nHow you work and onboard others to your projects is a DEI issue."
+  },
+  {
+    "objectID": "bsilt.html#examples-in-the-wild-environmental-science",
+    "href": "bsilt.html#examples-in-the-wild-environmental-science",
+    "title": "Openscapes Champions Series",
+    "section": "Examples in the wild: environmental science",
+    "text": "Examples in the wild: environmental science\n\nRegime Shifts in R & Data Science within the BC Public Service Observations from the field - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote\nNMFSReports: Easily write NOAA reports and tech memos in R Markdown! - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk\nAutomated reporting in Tampa Bay with open science - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog\n\nTBEP’s Data Management Workflow and open science cake"
+  },
+  {
+    "objectID": "bsilt.html#further-resources",
+    "href": "bsilt.html#further-resources",
+    "title": "Openscapes Champions Series",
+    "section": "Further resources",
+    "text": "Further resources\n\nNot so standard deviation podcast\nParker & Peng\nhttp://nssdeviations.com\nGreat discussions about data concepts and “in the wild”\nEpisode 9: Spreadsheet drama\n\n\nPractical computing for biologists\nHaddock & Dunn\nhttp://practicalcomputing.org/\nSoftware & computing concepts already on your computer\nChapter 2: Regular expressions"
+  },
+  {
+    "objectID": "mindset.html#data-science-as-a-discipline",
+    "href": "mindset.html#data-science-as-a-discipline",
+    "title": "Openscapes Champions Series",
+    "section": "Data science as a discipline",
+    "text": "Data science as a discipline\nAlternative title: “Data science is a thing”.\nNo matter what your study system or your question, to Do Your Science you will need to get your data into analytical software, wrangle it (tidy and transform), and make sense of it visually and with models. Very important here: tidy your data first, don’t build your whole analysis around whatever weird format your data may have come in. We’ll talk about tidy data in more detail another day.\n R for Data Science\n\nThere are concepts, theory, and tools for thinking about and working with data\nJust like a field chemistry has concepts for things like moleculte, theory for how they work, and tools for studying them, so does data science — for data.\n\n\nEmphasis on communication\nIt is incredible what is possible on the communication front. Watch this one-minute video called What is RMarkdown? to blow your mind.\n\n\nNot just for “big data” or AI or machine learning\nYou can use data science theory and tools no matter the size or context of your data.\n\n\nYour study system is not unique when it comes to data\nThink about your data separately from your study system. Don’t confound them or it will be really hard to ask for help.\nExpect there is a way to do what you want to do.\n\nThis will help you find commonalities and unite you with other lab members and beyond.\n\n\nDistinguish data questions from research questions, learn how to ask for help"
+  },
+  {
+    "objectID": "mindset.html#open-data-science-tools-exist",
+    "href": "mindset.html#open-data-science-tools-exist",
+    "title": "Openscapes Champions Series",
+    "section": "Open data science tools exist",
+    "text": "Open data science tools exist\n\nTools to match data science theory\n\nWickham 2017\n\n\nThey exist to streamline working with data\n\n\nAnd they are developed by actual people – nice people!\n\n\nMy advice\n\nExpect there is a better way\nIf you’re making the same plot 10 times, stop.\nDon’t confound data science with your science. Expect that someone has had your problem before or done what you want to do.\n\n\nDivorce your science question from the data science question\nFocus on the operations for the data, not your hypothesis\n\n\nGoogle your question (ask for help)\nArticulate it, and identify useful solutions Trusted urls, recent dates"
+  },
+  {
+    "objectID": "mindset.html#open-as-a-way-to-work",
+    "href": "mindset.html#open-as-a-way-to-work",
+    "title": "Openscapes Champions Series",
+    "section": "Open as a way to work",
+    "text": "Open as a way to work\n\nOpen science as a way to be more efficient and streamlined\nNot an added ask at publication to share your data\nIt’s not only about sharing data. It’s about how you work, who you include, and the tools that you use.\n\n\nExternal memory (personal and collective)\nEasier on/offboarding\n\n\nFind solutions faster – learn to talk about your data\n\n\nBuild confidence – skills are transferable beyond your science\n\n\nBe empathic and inclusive – grow a network of allies"
+  },
+  {
+    "objectID": "mindset.html#lab-members-as-a-team",
+    "href": "mindset.html#lab-members-as-a-team",
+    "title": "Openscapes Champions Series",
+    "section": "Lab members as a team",
+    "text": "Lab members as a team\nScience is collaborative. Not heads down elbows out.\n\nFocus on what unites lab members, not what sets them apart\n\n\nThink of the lab horizontally as skillsets & needs instead of vertically as science bins\nInstead of the skills you have when you come to the lab determining how you will be able to Do Science, have shared practices in the lab and paths to onboard new people to work that way as well."
+  },
+  {
+    "objectID": "mindset.html#learn-with-collaborators-and-community-redefined",
+    "href": "mindset.html#learn-with-collaborators-and-community-redefined",
+    "title": "Openscapes Champions Series",
+    "section": "Learn with collaborators and community (redefined)",
+    "text": "Learn with collaborators and community (redefined)\nCommunities for learning, teaching, and mentorship.\n\nHelps overcome isolation, self-taught bad practices, apprehension\nStevens et al. 2018 ### Your most important collaborator is Future You\nCannot emphasize this enough. Work now so that you can succeed later (whether that’s this afternoon or 4 years from now)\n\n\nCommunities beyond the colleagues in your field\n\n\nLearn from, with, & for others"
+  },
+  {
+    "objectID": "mindset.html#the-internet-as-an-underleveraged-tool-for-science",
+    "href": "mindset.html#the-internet-as-an-underleveraged-tool-for-science",
+    "title": "Openscapes Champions Series",
+    "section": "The internet as an underleveraged tool for science",
+    "text": "The internet as an underleveraged tool for science\n\nTwitter for learning\nFollow selectively, listen & learn (e.g. #rstats)"
+  },
+  {
+    "objectID": "mindset.html#additional-reading",
+    "href": "mindset.html#additional-reading",
+    "title": "Openscapes Champions Series",
+    "section": "Additional reading",
+    "text": "Additional reading\n\nBiased by default: exploring discrimination in research code - Abby Cabunoc Mayes Bioinformatics Community Confference Keynote 2020"
   },
   {
     "objectID": "resources-that-influence.html#talking-about-data-science-hilary-parker-roger-peng",
@@ -161,88 +357,67 @@
     "text": "Mentorship vs Sponsorship\nhttps://larahogan.me/sponsors/"
   },
   {
-    "objectID": "team-culture.html#why-talk-about-team-culture",
-    "href": "team-culture.html#why-talk-about-team-culture",
-    "title": "Openscapes Champions Series",
-    "section": "Why talk about team culture?",
-    "text": "Why talk about team culture?\nRole modeling sets a lot of team culture, and there is a lot we can learn and do to deliberately create a scientific culture that we want to be a part of.\n\nScience benefits from diversity\nAnd we need to be deliberate about welcoming and including people from diverse backgrounds.\nA few recent articles from Nature with many more links within:\n\nScience benefits from diversity\nWhat does it take to make an institution more diverse?\n\n\n\nSexual harassment is rife in the sciences\nSexual harassment is rife in the sciences, finds landmark US study. Existing policies to address the issue are ineffective, concludes a long-awaited report from the National Academies of Sciences, Engineering, and Medicine.\nMost common form is gender harassment: it’s the “put-downs as opposed to come-ons”.\n\n\nWe need to unlearn racism and build antiracist culture in science\n\nTen simple rules for building an antiracist lab - Chaudhary & Berhe, 2020. PLOS\nUnlearning Racism in Geoscience — URGE\n\n\n\nPut your values forward\nModel the behavior you want to see in your research group & beyond (lab, dept, campus, organization, online)\n\n\nBuilding trust\nHave to build trust and be intentional, don’t hope for organic.\n\nHow to build (and rebuild trust - Frances Frei\n\n\n\nSustain the culture\nOvertly showing kindness & a Code of Conduct can filter out people who don’t want to be subject to its enforcement – rOpenSci\nLabs have people coming and going all the time; how do you set the tone and have it be sustainable?"
+    "objectID": "how-to/publish-with-quarto.html#setup-from-the-browser",
+    "href": "how-to/publish-with-quarto.html#setup-from-the-browser",
+    "title": "Publish with Quarto",
+    "section": "Setup from the Browser",
+    "text": "Setup from the Browser\nThis is an intro to setup and contribute to documentation with Quarto from the GitHub browser. This is a good way for getting started and for making small contributions. But is definitely limited. So when you feel ready you can also setup RStudio and GitHub on your local computer and write in the visual editor in a way that feels like a Google/Word Doc.\n\nDownload template site\n\nDownload https://github.com/Openscapes/quarto-site-template\nGreen button > Download ZIP\nOn your computer: unzip files\n\n\n\nCreate a GitHub repo\nCreate a GitHub repository in your user account or in an organizaion account (don’t worry too much about this, you can always move and rename later).\nIf you need to create a GitHub account, follow instructions from Happy Git with R.\n\n\nAdd template site files\n\nAdd file > Upload files > Select all the files in unzipped folder > drag to GitHub\nCommit\n\n\n\nSet up GitHub publishing\n\nAdd file > create new file > name it exactly .github/workflows/quarto-render.yml\nPaste inside:\n\nname: Render and deploy quarto files\non: \n  push:\n  pull_request:\n\njobs:\n  quarto-render-and-deploy:\n    runs-on: ubuntu-latest\n    steps:\n    - uses: actions/checkout@v2\n\n    - name: \"Install Quarto and render project\"\n      uses: nasa-openscapes/quarto-render@v0.3.79 \n\n    - name: \"Deploy to gh-pages\"\n      uses: peaceiris/actions-gh-pages@v3\n      if: github.ref == 'refs/heads/main'\n      with:\n        github_token: ${{ secrets.GITHUB_TOKEN }}\n        publish_dir: ./_site\n\nCheck that there is a second branch called gh-pages - all lowercase, with a hyphen - should be already made!\nSettings > Pages > Source > make sure this is set to gh-pages > root\nGo into _quarto.yml and update the urls with your own urls, i.e. https://your-username/your-repo-name.github.io\nWait until orange dot turns green\nInspect: https://your-username/your-repo-name.github.io. For example: https://openscapes.github.io/quarto-site-template"
   },
   {
-    "objectID": "team-culture.html#deliberately-setting-the-tone",
-    "href": "team-culture.html#deliberately-setting-the-tone",
-    "title": "Openscapes Champions Series",
-    "section": "Deliberately setting the tone",
-    "text": "Deliberately setting the tone\nOpening remarks at RStudio::conf 2019, in front of an audience of 1700 at a global software conference, Chief Scientist Hadley Wickham announces the Code of Conduct, how to identify RStudio staff if you need help, and how to mingle with welcoming body posture to invite others to join. This set the tone of the whole conference to be the most positive I have ever attended.\n\nCollegiality\nWe must deliberately set the tone for collegiality to create a positive, inclusive research group environment.\nSafety and accessibility as parts of inclusion and empowerment. Does everyone feel safe to speak up? Does everyone have channels to contribute? This is especially true as the tech we use evolves. Who can participate?\nThis builds resilience to your research group. If someone needs to leave for a family emergency, maternity/paternity leave, vacation, set yourselves up so your team continue smoothly/ — Angela Bassa RStudio talk\nOpportunity cost of not doing this. Burnout, people leaving science.\n\n\n\nTeam efficiency\nWe must deliberately set the tone to create a positive, inclusive research group environment that fuels team efficiency.\nThis means create a team mindset, and focusing on similarities rather differences. We all work on different projects and have different research questions, but we all have to wrangle data, organize version files, have things we don’t know…let’s create a space where we can talk about all this and find common ground to tackle together so we don’t reinvent.\nThere can be an advantage to having team conventions. This can both reduce friction and reinventing the wheel. But there also needs to be room for different skills people come in with. For example, if they’re more efficient in Python, don’t want to force R. But want to create space where folks can interoperate and work together. The tech/software side helps with this, but it’s our mindsets too. We need to be open to it."
+    "objectID": "how-to/publish-with-quarto.html#develop-content",
+    "href": "how-to/publish-with-quarto.html#develop-content",
+    "title": "Publish with Quarto",
+    "section": "Develop content",
+    "text": "Develop content\nNow you can start editing these files with what you want them to say! Start off from the browser, using Markdown. Add details here.\nIf you’d like to add a new chapter, you’ll need to update the _quarto.yml file and create a new .md file; start by copying an existing one. More details coming as we do this together.\nInstead of editing from the browser, you can work locally with whatever software/editor you like (RStudio, JupyterLab, etc).\n\nSet up Quarto\nInstall Quarto from https://quarto.org. You will use your computer’s install wizard to do this, and then you’re set! There won’t be a separate app or anything installed, but now this will be available to RStudio."
   },
   {
-    "objectID": "team-culture.html#open-software-can-facilitate-openshared-culture",
-    "href": "team-culture.html#open-software-can-facilitate-openshared-culture",
-    "title": "Openscapes Champions Series",
-    "section": "Open software can facilitate open/shared culture",
-    "text": "Open software can facilitate open/shared culture\nA lot to say here, for now, see:\n\nhttps://openscapes.github.io/slides/betterscience/environment-canada\nhttps://blogs.scientificamerican.com/observations/open-software-means-kinder-science/"
+    "objectID": "how-to/setup-rstudio-github.html#installation",
+    "href": "how-to/setup-rstudio-github.html#installation",
+    "title": "Setup RStudio and GitHub",
+    "section": "Installation",
+    "text": "Installation\nTo setup RStudio and GitHub, you will need four things:\n\nR\nRStudio\nGit\nGitHub\n\nFollow the UCSB MEDS Installation Guide for detailed instructions on how to create accounts, download, install, and configure."
   },
   {
-    "objectID": "team-culture.html#enabling-participating",
-    "href": "team-culture.html#enabling-participating",
-    "title": "Openscapes Champions Series",
-    "section": "Enabling & participating",
-    "text": "Enabling & participating\nHere are some ideas that you can support and participate in to learn and create a kinder team culture:\n\nSeaside chats – discuss share data workflows\nFrom Michelle Stuart’s blog about the Pinsky Lab’s first Fishbowl chat:\n\nThis open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking teammates for help, and it is exciting to see all of us getting on the same page with our data science.”�\n\n\n\nHackathons or documentation parties – co-create\n\n\nSocial events\nGet to know each other outside of work. Do some during work hours can include more people who can’t participate after work\n\n\nOnboarding – how to welcome new people to your research group\n\n\nAsking for help\nCreate a welcoming environment where they know where to ask for help – They won’t know what questions to ask. Provide structure.\n\n\nCode of Conduct (next chapter)!"
+    "objectID": "how-to/setup-rstudio-github.html#practice",
+    "href": "how-to/setup-rstudio-github.html#practice",
+    "title": "Setup RStudio and GitHub",
+    "section": "Practice",
+    "text": "Practice\nNow you’ll want to practice how to use RStudio and GitHub. Follow R for Excel Users’ GitHub Chapter to create a GitHub repository, clone it to RStudio, make edits, and practice syncing."
   },
   {
-    "objectID": "team-culture.html#further-resources",
-    "href": "team-culture.html#further-resources",
-    "title": "Openscapes Champions Series",
-    "section": "Further Resources",
-    "text": "Further Resources\n\nA Practical Guide to Mentoring Across Intersections - Harriot 2020 VanguardSTEM Blog\nGet it wrong for me: What I need from allies - Carpenter 2020.\n\n“Now, when someone asks, ‘what do you need from me’, I say, ‘I need you to learn, I need you to care’. Somehow, we’ve all evolved to underestimate the power of learning and the power of seeking to understand. Knowing what things harm me is a sign that you value me. …Then I want an ally who works to change their individual behavior and change the system around us for the better. Not just one or the other. I want a bunch of people who are interested in becoming allies to me to get it wrong. Because I promise, you will get it wrong, likely more than once. But please get it wrong, for me. Be wrong on my behalf. Try stuff, learn stuff, make attempts, and fail. Embrace the discomfort of not knowing, of not being certain, of not understanding and then be motivated enough to learn and get better. I will give you grace if you give me effort. We are risking our lives; you can risk getting things wrong.”\n\nInclusivity in STEM: Interview with Dr Mica Estrada (video, 17 mins). “Dr. Mica Estrada is a social psychologist and faculty member at University of San Francisco. Her research explores the role of identity and values in influencing the persistence of historically underserved students in STEM.”\n\nPEERS\nmicro affirmations\n\nRecreating Wakanda by promoting Black excellence in ecology and evolution — Schell et al (2020)\nGet it wrong for me: What I need from allies — Carpenter (2020)\nA Practical Guide to Mentoring Across Intersections — Harriot (2020)\nFor Our White Friends Desiring to Be Allies — Ariel (2017)\n\nDr. Dori Tunstall on Respectful Design: Models for Diversity, Inclusion, & Decolonization — Tunstall (2020)\nSexual harassment is rife in the sciences, finds landmark US study — Witze (2018)\nAll We Can Save — Johnson & Wilkerson (2020)\nBraiding Sweetgrass — Kimmerer (2013)"
+    "objectID": "how-to/index.html",
+    "href": "how-to/index.html",
+    "title": "How To Guides",
+    "section": "",
+    "text": "This is a collection of resources that complement what we cover in the Champions Lesson Series. Champions often screenshare and do these together during Seaside Chats and Co-Working sessions. In the spirit of reuse, we point to existing resources as much as possible."
   },
   {
-    "objectID": "github-pub.html#preamble",
-    "href": "github-pub.html#preamble",
+    "objectID": "r-for-scicomm.html#books-with-bookdown",
+    "href": "r-for-scicomm.html#books-with-bookdown",
     "title": "Openscapes Champions Series",
-    "section": "Preamble",
-    "text": "Preamble\nWe are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good for new lab members or students to contribute to your lab as soon as possible.\nGitHub can reduce friction for open science: it gives us avenues for communicating and publishing methods, blogs, interactive graphics and more, without a lot of heavy lifting!\n\nPrerequisite\nYou will need to create GitHub account at http://github.com, if you don’t already have one. For username, I recommend all lower-case letters, short as you can. I recommend using your .edu email, since you can request free private repositories via GitHub Education discount."
+    "section": "books with bookdown",
+    "text": "books with bookdown\nCommit the generated docs/ directory!\nThen, change the setting in your repo on github.com so that github knows where your book is located so it can publish it. Here’s what to do:\n\ngo to https://github.com/haudarren/ai_handbook\nclick on settings at the top bar (at the opposite end from code, issues, pull requests)\nscroll down to the GitHub pages section. Click on Source and change it so it reads master branch /docs folder like below. You should get a green band like below that says “your site is published to username.github.io/reponame”"
   },
   {
-    "objectID": "github-pub.html#what-is-github-traditional-answer",
-    "href": "github-pub.html#what-is-github-traditional-answer",
+    "objectID": "r-for-scicomm.html#websites-with-rmarkdown",
+    "href": "r-for-scicomm.html#websites-with-rmarkdown",
     "title": "Openscapes Champions Series",
-    "section": "What is GitHub? — Traditional answer",
-    "text": "What is GitHub? — Traditional answer\nGitHub means GitHub.com; it’s a company that is an online collaborative platform, with some features familiar to social media users.\nGitHub centers around git, which is powerful version control software for your local computer. This has been around for years, taking care of bookkeeping for you locally on your computer.\nGitHub makes git’s local bookkeeping collaborative through its powerful online platform. It will weave together all the version control from your local computer with other collaborators you work with.\nIt is used for code and files: organize, archive, bookkeeping, searchable, changes visualized, etc. In the figure below, notice the familiar red and green to denote deletions and additions line-by-line, with darker shading to identify specific text within a line. Also notice the differencing in the image’s color bar!\n\n \nWe aren’t going to teach traditional git/GitHub today, but here are some recommendations if you’d like to learn. First, read Jenny Bryan’s “Excuse Me, Do You Have a Moment to Talk About Version Control?” (open-access pre-print from PeerJ, published in The American Statistican). This provides an excellent overview. One quote I like in particular is\n\nCollaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review. - Jenny Bryan, “Excuse Me, Do You Have a Moment to Talk About Version Control?”\n\nNext, to learn GitHub with R, the absolute best resource is Jenny Bryan’s Happy Git With R. This is a comprehensive, friendly step-by-step process of how to do so, and is an awesome reference for seasoned git/GitHub users as well. If you want a shorter-form resource, I’d recommend 2 tutorials from OHI-Science’s data-science-training. This also teaches you how to set up GitHub to sync directly through RStudio, so that you don’t have to have any other software (including the command line) open to do so:\n\nGitHub\nCollaborating with GitHub\n\nOn my local computer, I interact with GitHub through RStudio 99.9% of the time (use command line .1% of time). Upcoming: resources for setting up GitHub without RStudio"
+    "section": "websites with RMarkdown",
+    "text": "websites with RMarkdown\nsimple, static"
   },
   {
-    "objectID": "github-pub.html#what-is-github-non-traditional-answer",
-    "href": "github-pub.html#what-is-github-non-traditional-answer",
+    "objectID": "r-for-scicomm.html#websites-with-blogdown",
+    "href": "r-for-scicomm.html#websites-with-blogdown",
     "title": "Openscapes Champions Series",
-    "section": "What is GitHub? — Non-traditional answer",
-    "text": "What is GitHub? — Non-traditional answer\n\nPublishing platform\nIt’s for books like this one (openscapes.org/series), websites like openscapes.org, which was built with R’s blogdown package, and interactive dashboards.\n\n\nProject management system\nGitHub is also a project management system for short and long-term tasks. It is really powerful to have collaborative “todo”’s in the same software (and user accounts) as all the analysis and all the people that you’re already working with.\nWe will talk about “Issues” & “Projects” in the next chapter."
+    "section": "websites with Blogdown",
+    "text": "websites with Blogdown\nfancier, dynamic"
   },
   {
-    "objectID": "github-pub.html#github-framework-in-a-nutshell",
-    "href": "github-pub.html#github-framework-in-a-nutshell",
-    "title": "Openscapes Champions Series",
-    "section": "GitHub framework in a nutshell",
-    "text": "GitHub framework in a nutshell\n\nUsers vs. organizations\nExample: jules32 is a user account, openscapes is an organization group.\nYou can think of them like other social media accounts: I can be an individual or part of a group, and there are permissions associated with both.\n\n\nRepositories (“repos”)\nRepos are GitHub’s main unit. They are essentially a folder, and you’ll put files and folders in them. They are contained, with permissions specific to each one.\nIt makes it easier to navigate through and find stuff — so you are “not sifting through a zoo of files” as one Openscapes Champion has said.\n\n\n“Commits” & “commit messages”\nUnlike Dropbox or Google Drive that constantly and automatically sync to the cloud, you have to deliberately tell git/GitHub when you have an amount of work that you want to be versioned and synced. You have to commit to telling them. GitHub takes care of the backend bookkeeping involved, but you have to write a human-readable message to your future self and others. That is the commit message.\nThere is no absolute guidance for how often to commit, but I think of it as leaving breadcrumbs for yourself. How much work and on what things/in what combination would you like to be able to reverse? What kind of information will make it easier for Future You to work with?\n\n\nPublic vs private\nYou can have both public (the free default) and private repositories, and change these permissions later on. I mostly work in public repos, but if I work in private ones, I often have the expectation that they will be made public some day. So I practice good habits with commits and documentation, and keep conversations on-topic.\n\n\nThe search feature is awesome\nYou are able to search within a GitHub repository, across repositories in an organization, or across all GitHub public repositories. I find this helps me find things quickly if I’m looking for how I’ve used a function in the past, or if I remember a word that would stand out that I included in a commit message as a breadcrumb to myself. It will also search Issues within the repositories, so you can look for specific words in conversations as well.\n\n\nBranches & Forks\nWe’re not going to talk about branches and forks. These are a core feature of what makes GitHub super powerful for software development, and one of the first things you’ll see in GitHub tutorials geared towards software engineers. But I do not think that is the most relevant or smoothest entryway for those of us who are scientists fairly new to collaborative coding and version control."
-  },
-  {
-    "objectID": "github-pub.html#github-orientation",
-    "href": "github-pub.html#github-orientation",
-    "title": "Openscapes Champions Series",
-    "section": "GitHub Orientation",
-    "text": "GitHub Orientation\nThis is a demo details upcoming"
-  },
-  {
-    "objectID": "github-pub.html#editing-files-from-github.",
-    "href": "github-pub.html#editing-files-from-github.",
-    "title": "Openscapes Champions Series",
-    "section": "Editing files from GitHub.",
-    "text": "Editing files from GitHub.\nThis is also a demo details upcoming\nFirst a Disclaimer: you don’t want to edit from the browser for most things – you would want to “clone” the repo to your local computer and leverage more goodies & power. However, you will sometimes edit in the browser, and it’s a good entry point for us today, and maybe for onboarding folks in your lab in the future.\nWhy not edit in the browser? You don’t want to overwrite each other or forget yourself. Good for quick md editing, not script editing.\nIn the demo, the example .md was a deliberate example of sharing slides from a talk :)\nWhat to do: (you all have permissions)\n\nGo to https://github.com/openscapes/demo/yourname.md\nClick on the pencil to edit your file\nMake many edits & commits with commit messages\n\ngithub.com has a default message, but get into the habit of writing an actual message to yourself/others (breadcrumbs)\n\nThis is different from saving (cancel if you save!)"
-  },
-  {
-    "objectID": "github-pub.html#further-resources",
-    "href": "github-pub.html#further-resources",
+    "objectID": "r-for-scicomm.html#further-resources",
+    "href": "r-for-scicomm.html#further-resources",
     "title": "Openscapes Champions Series",
     "section": "Further resources",
-    "text": "Further resources\n\nGit for Humans - Alice Bartlett, 2016"
+    "text": "Further resources\n\nRMarkdown - RStudio (2021)\nHow I teach RMarkdown - Hill (2020)\nR Markdown for scientists - Tierney (2020)\nR for Excel Users - Lowndes & Horst (2020)\nRMarkdown website tutorial - Lowndes (2016)\nAcademic Publications with R Markdown- Ovando 2020"
   },
   {
     "objectID": "overview.html#why-were-here",
@@ -287,6 +462,48 @@
     "text": "Additional reading\n\nPractical Computing for Biologists. Introduction to the Terminal/command line, introduction to regular expressions. Chapter 2 alone is incredibly powerful\nVirtual meetings\n\nhttps://opensource.com/article/20/6/remote-meetings\nhttps://aspirationtech.org/blog/virtualmeetingpowerdynamics"
   },
   {
+    "objectID": "index.html#cohort-agendas",
+    "href": "index.html#cohort-agendas",
+    "title": "Openscapes Champions Lesson Series",
+    "section": "Cohort Agendas",
+    "text": "Cohort Agendas\nResearch teams participate as a cohort over several months, meeting twice-monthly for 1.5-hour sessions we call Cohort Calls. Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that .\nCohort Call agendas and slides are all openly available in a Google Folder. As we continue to learn and iterate from working with different research groups, you can always review the agenda archive for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an Efficiency Tips Doc and Spreadsheet.\nBetween Cohort Calls, each team meets together for a Seaside Chat to begin identifying and addressing shared needs; Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen a culture of shared workflows and learning. Additionally, we coordinate skill-building Clinics and Co-Working sessions (which differ from “Office Hours” because participants come to work and learn together) between Cohort Calls.\n\nTwo-month\nThe two-month Champions program includes 5 Cohort Calls. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team describes their trailhead and pathways forward.\n\n\n\nCohort Call Agendas\nSeries Chapters\nBetween Cohort Calls\n\n\n\n\n1. Openscapes mindset\nmindset, better science in less time\nSeaside Chat (trailhead)\n\n\n2. GitHub for publishing & project management\npublishing, project management\nSeaside Chat: shared organizing with GitHub; Co-working\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nSeaside Chat (code of conduct);Co-working\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nSeaside Chat (pathway); Co-working\n\n\n5. Pathways share and next steps"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Openscapes Champions Lesson Series",
+    "section": "About",
+    "text": "About\nThe Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it’s created with the same tools and practices we will be talking about: originally R and bookdown and now quarto, and GitHub.\nOpenscapes is co-directed by Julia Stewart Lowndes and Erin Robinson. It is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and was incubated by a Mozilla Fellowship awarded to Lowndes in 2018.\n\n  Openscapes is licensed under a Creative Commons Attribution 4.0 International License."
+  },
+  {
+    "objectID": "community-lessons/index.html#nasa-openscapes-cloud-tutorials",
+    "href": "community-lessons/index.html#nasa-openscapes-cloud-tutorials",
+    "title": "Openscapes Community Lessons",
+    "section": "NASA Openscapes Cloud Tutorials",
+    "text": "NASA Openscapes Cloud Tutorials\nThe NASA Earthdata-Openscapes Mentors team and other contributors are creating open educational resources to help researchers migrate workflows to the Cloud - all available for reuse and remix.\nhttps://nasa-openscapes.github.io/tutorials.html\nCheck out the 2021-Cloud-Hackathon materials!"
+  },
+  {
+    "objectID": "community-lessons/index.html#nmfs-openscapes",
+    "href": "community-lessons/index.html#nmfs-openscapes",
+    "title": "Openscapes Community Lessons",
+    "section": "NMFS Openscapes",
+    "text": "NMFS Openscapes\nThe overarching vision of the NMFS Openscapes is to support scientific researchers within NOAA Fisheries by providing training in reproducible scientific workflows and platforms, facilitating collaboration across divisions in common scientific data science tasks, and providing shared “best practices” resources.\nhttps://github.com/nmfs-openscapes\nCheck out the NMFS R UG (R Users Group) for upcoming events and Wiki for links to resources and examples of open science at NOAA Fisheries."
+  },
+  {
+    "objectID": "community-lessons/index.html#fay-lab-manual",
+    "href": "community-lessons/index.html#fay-lab-manual",
+    "title": "Openscapes Community Lessons",
+    "section": "Fay Lab Manual",
+    "text": "Fay Lab Manual\nThis is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.\nhttps://thefaylab.github.io/lab-manual/\nCheck out how they’ve organized this onboarding document that prospective students and postdocs have said stood out to them. Consider reusing/remixing for your own group!"
+  },
+  {
+    "objectID": "community-lessons/index.html#r-for-excel-users",
+    "href": "community-lessons/index.html#r-for-excel-users",
+    "title": "Openscapes Community Lessons",
+    "section": "R for Excel Users",
+    "text": "R for Excel Users\nThis course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.\nhttps://rstudio-conf-2020.github.io/r-for-excel/\nCheck out the resources throughout as well - it’s not only for Excel users, it’s for everyone."
+  },
+  {
     "objectID": "github-issues.html#preamble",
     "href": "github-issues.html#preamble",
     "title": "GitHub for Project Management",
@@ -329,192 +546,38 @@
     "text": "Your Turn: Create & comment on issues\nWe will break into groups and you can explore some of these features in Issues. Here is what to do:\n\nGo to github.com/openscapes/demo/issues\nCreate an issue, tag people in your breakout group (ask for their username)\nBrowse issues, comment in other issues\nTry:\n\nLinking to the .md document you created in the previous chapter\nCreating a label and applying it, assigning people\nAdding Issues to a Project (create one if need be)\nClosing an Issue\n\n\nHave fun! And throughout the process, talk to your breakout group, and share what you learn.\nHere’s what your inbox will look like afterwards:\n\n \nThis is pretty rare to receive so many emails all at once. But you can always switch your setting to “Not Watch” this repository so that you only receive emails about Issues that you are tagged in."
   },
   {
-    "objectID": "coding-strategies.html#software-considerations-for-coding",
-    "href": "coding-strategies.html#software-considerations-for-coding",
+    "objectID": "team-culture.html#why-talk-about-team-culture",
+    "href": "team-culture.html#why-talk-about-team-culture",
     "title": "Openscapes Champions Series",
-    "section": "Software considerations for coding",
-    "text": "Software considerations for coding\nThe following advice is from Tiffany Timbers, UBC Data Science, Intro to Reticulate:\nYou will need these software tools:\n\nProgramming language (R, python)\nCode editor (RStudio IDE, Jupyter)\nVersion control software (git, GitHub/bitbucket)\n\nHow to choose the “best” tool for the job:\n\nReproducible and auditable\nAccurate\nCollaborative (and portable)\n\nIf you’re choosing between R, Python, and other modern languages, they will aready be reproducible, auditable, and accurate. That leaves collaboration – what do your collaborators use? What do folks in your lab, or field use? What is mentioned in the papers you read? There is increasing interoperability between languages (e.g. see reticulate to run python code from R) so when you have some idea it’s best to get started!\nSee also: Opinionated analysis development (Parker 2017). Tools like RStudio are already doing this to help you. Reserve your mental energy for the fun part of the analysis!"
+    "section": "Why talk about team culture?",
+    "text": "Why talk about team culture?\nRole modeling sets a lot of team culture, and there is a lot we can learn and do to deliberately create a scientific culture that we want to be a part of.\n\nScience benefits from diversity\nAnd we need to be deliberate about welcoming and including people from diverse backgrounds.\nA few recent articles from Nature with many more links within:\n\nScience benefits from diversity\nWhat does it take to make an institution more diverse?\n\n\n\nSexual harassment is rife in the sciences\nSexual harassment is rife in the sciences, finds landmark US study. Existing policies to address the issue are ineffective, concludes a long-awaited report from the National Academies of Sciences, Engineering, and Medicine.\nMost common form is gender harassment: it’s the “put-downs as opposed to come-ons”.\n\n\nWe need to unlearn racism and build antiracist culture in science\n\nTen simple rules for building an antiracist lab - Chaudhary & Berhe, 2020. PLOS\nUnlearning Racism in Geoscience — URGE\n\n\n\nPut your values forward\nModel the behavior you want to see in your research group & beyond (lab, dept, campus, organization, online)\n\n\nBuilding trust\nHave to build trust and be intentional, don’t hope for organic.\n\nHow to build (and rebuild trust - Frances Frei\n\n\n\nSustain the culture\nOvertly showing kindness & a Code of Conduct can filter out people who don’t want to be subject to its enforcement – rOpenSci\nLabs have people coming and going all the time; how do you set the tone and have it be sustainable?"
   },
   {
-    "objectID": "coding-strategies.html#wtf-what-they-forgot-to-teach-you",
-    "href": "coding-strategies.html#wtf-what-they-forgot-to-teach-you",
+    "objectID": "team-culture.html#deliberately-setting-the-tone",
+    "href": "team-culture.html#deliberately-setting-the-tone",
     "title": "Openscapes Champions Series",
-    "section": "WTF: What They Forgot to teach you",
-    "text": "WTF: What They Forgot to teach you\nMost of this advice comes directly from Jenny Bryan & Jim Hester’s awesome course What they Forgot to Teach You About R. I highly recommend reading Chapters 1-4 that go into much better detail than the notes here. The advice here is solid coding practices for any language, with examples from R.\n\nWorkflow versus product\nDistinction between things you do because of personal taste & habits (“workflow”) versus the logic and output that is the essence of your project (“product”).\nWorkflow:\n\nEditor you use to write code.\nName of your home directory.\nR code you ran before lunch.\n\nClearly product: - Raw data. - R code someone needs to run on your raw data to get your results, including the explicit library() calls to load necessary packages. (script, notebook)\nIdeally, you don’t hardwire anything about your workflow into your product."
+    "section": "Deliberately setting the tone",
+    "text": "Deliberately setting the tone\nOpening remarks at RStudio::conf 2019, in front of an audience of 1700 at a global software conference, Chief Scientist Hadley Wickham announces the Code of Conduct, how to identify RStudio staff if you need help, and how to mingle with welcoming body posture to invite others to join. This set the tone of the whole conference to be the most positive I have ever attended.\n\nCollegiality\nWe must deliberately set the tone for collegiality to create a positive, inclusive research group environment.\nSafety and accessibility as parts of inclusion and empowerment. Does everyone feel safe to speak up? Does everyone have channels to contribute? This is especially true as the tech we use evolves. Who can participate?\nThis builds resilience to your research group. If someone needs to leave for a family emergency, maternity/paternity leave, vacation, set yourselves up so your team continue smoothly/ — Angela Bassa RStudio talk\nOpportunity cost of not doing this. Burnout, people leaving science.\n\n\n\nTeam efficiency\nWe must deliberately set the tone to create a positive, inclusive research group environment that fuels team efficiency.\nThis means create a team mindset, and focusing on similarities rather differences. We all work on different projects and have different research questions, but we all have to wrangle data, organize version files, have things we don’t know…let’s create a space where we can talk about all this and find common ground to tackle together so we don’t reinvent.\nThere can be an advantage to having team conventions. This can both reduce friction and reinventing the wheel. But there also needs to be room for different skills people come in with. For example, if they’re more efficient in Python, don’t want to force R. But want to create space where folks can interoperate and work together. The tech/software side helps with this, but it’s our mindsets too. We need to be open to it."
   },
   {
-    "objectID": "coding-strategies.html#source-files",
-    "href": "coding-strategies.html#source-files",
+    "objectID": "team-culture.html#open-software-can-facilitate-openshared-culture",
+    "href": "team-culture.html#open-software-can-facilitate-openshared-culture",
     "title": "Openscapes Champions Series",
-    "section": "Source files",
-    "text": "Source files\nWhat are they and why?\nCode that creates objects is “source code”. Source code is essentially text files you edit in a text editor that is then executed in the console.\nExamples:\n\n.R, .Rmd\n.py\n.m\n\n\nSave the source, not the workspace\nSave the source code; do not save the R object itself.\nSave your commands as “scripts” (.R, .py) or “notebooks” (.Rmd, ipynb). It doesn’t have to be polished. Just save it!\nEverything that really matters should be achieved through code that you save – including objects and figures The contrast is storing them implicitly or explicitly, as part of an entire workspace, or clicking via the mouse.\nLoad libraries/packages at the top. Just like a recipe: tell us the ingredients need before we get going!\n\n\nAlways start R with a blank slate\nSaving code is an absolute requirement for reproducibility.\nWhen you quit, do not save the workspace to an .Rdata file. When you launch, do not reload the workspace from an .Rdata file.\nIn RStudio, set this via Tools > Global Options.\n\n\nRestart R often during development\n\n“Have you tried turning it off and then on again?” – timeless troubleshooting wisdom, applies to everything\n\nIf you use RStudio, use the menu item Session > Restart R\nAdditional ways to restart development where you left off, i.e. “re-run all the code up to HERE”\n\n\nAvoid rm(list = ls())\nIt’s common to see scripts begin with this object-nuking command: rm(list = ls())\nThis is highly suggestive of a non-reproducible workflow.\nThe problem with rm(list = ls()) is that, given the intent, it does not go far enough.\nIt only deletes user-created objects from the global workspace.\nInstead, Restart R with a clean slate OFTEN (e.g. many times/day), and write every script assuming it will be run in a fresh R process"
+    "section": "Open software can facilitate open/shared culture",
+    "text": "Open software can facilitate open/shared culture\nA lot to say here, for now, see:\n\nhttps://openscapes.github.io/slides/betterscience/environment-canada\nhttps://blogs.scientificamerican.com/observations/open-software-means-kinder-science/"
   },
   {
-    "objectID": "coding-strategies.html#filepaths",
-    "href": "coding-strategies.html#filepaths",
+    "objectID": "team-culture.html#enabling-participating",
+    "href": "team-culture.html#enabling-participating",
     "title": "Openscapes Champions Series",
-    "section": "Filepaths",
-    "text": "Filepaths\nEvery saved thing gets a unique path.\nYour code needs to run from somewhere specific. And when it interacts with other things (data or other code), you need to tell your code where things are.\nThe more deliberate you are about where things live,\n\nThe easier it will be for you and future you\nThe easier it will be for other people\nThe easier it will be on another computer\n\n\nsetwd(“path/that/only/works/on/my/machine”)\nThe chance of setwd() having the desired effect – making the file paths work – for anyone besides its author is 0%.\nIt’s also unlikely to work for the author one or two years or computers from now.\nHard-wired, absolute paths, especially when sprinkled throughout the code, make a project brittle. Such code does not travel well across time or space.\n\n\nsetwd()\nBUT, if you still decide to use setwd() in your scripts, you should at least be very disciplined about it:\nOnly use setwd() at the very start of a file, i.e. in an obvious and predictable place.\nAlways set working directory to the same thing, namely to the top-level of the project. Always build subsequent paths relative to that.\n\n\nR users: use the here package\nhere() identifies your project’s files, based on the current working directory at the time when the package is loaded.\nlibrary(here)\nhere()"
+    "section": "Enabling & participating",
+    "text": "Enabling & participating\nHere are some ideas that you can support and participate in to learn and create a kinder team culture:\n\nSeaside chats – discuss share data workflows\nFrom Michelle Stuart’s blog about the Pinsky Lab’s first Fishbowl chat:\n\nThis open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking teammates for help, and it is exciting to see all of us getting on the same page with our data science.”�\n\n\n\nHackathons or documentation parties – co-create\n\n\nSocial events\nGet to know each other outside of work. Do some during work hours can include more people who can’t participate after work\n\n\nOnboarding – how to welcome new people to your research group\n\n\nAsking for help\nCreate a welcoming environment where they know where to ask for help – They won’t know what questions to ask. Provide structure.\n\n\nCode of Conduct (next chapter)!"
   },
   {
-    "objectID": "coding-strategies.html#project-oriented-workflows",
-    "href": "coding-strategies.html#project-oriented-workflows",
+    "objectID": "team-culture.html#further-resources",
+    "href": "team-culture.html#further-resources",
     "title": "Openscapes Champions Series",
-    "section": "Project oriented workflows",
-    "text": "Project oriented workflows\n\nDilemma and Solution\nProblem statement:\nWe want to work on project A with the working directory set to path/to/projectA (my data analysis) and on project B with the working directory set to path/to/projectB (my teaching material).\nBut we also want to keep code like setwd(“path/to/projectA”) out of our scripts.\nSolution:\nSolution: use an IDE that supports a project-based workflow.\nAn integrated development environment (IDE) offers:\n\na powerful, R-aware code editor\nmany ways to send your code to a running R process\nother modern conveniences\n\nAnd it eliminates:\n\ntemptation to develop code directly in the Console. (instead:.R!)\ntension between development convenience and portability of the code.\n\n\n\nOrganize your work into projects\nHere’s what I mean by “work in a project”:\n\nFile system discipline: put all files related to a project in a designated folder.\n\nThis applies to data, code, figures, notes, etc.\nDepending on project complexity, you might enforce further organization into subfolders.\n\nWorking directory intentionality: when working on project A, make sure working directory is set to project A’s folder.\n\nIdeally, this is achieved via the development workflow and tooling, not by baking absolute paths into the code.\n\nFile path discipline: all paths are relative — relative to the project’s folder.\n\nSynergistic habits: you’ll get the biggest payoff if you practice all of them together.\nPortability: the project can be moved around on your computer or onto other computers and will still “just work”. is the only practical convention that creates reliable, polite behavior across different computers/users/time. This convention is neither new, nor unique to R.\nIt’s like agreeing that we will all drive on the left or the right. A hallmark of civilization is following conventions that constrain your behavior a little, in the name of public safety.\n\n\nRStudio Projects\nThe RStudio IDE has a notion of a (capital “P”) Project, which is a very effective implementation of (small “p”) projects.\nProject have an.Rproj file in the folder, which is used to store settings specific to that project. Use File > New Project … to get started.\nAllows for multiple projects\nno danger of crosstalk: each has own R process, global workspace & working directory\nSame “unit” as a GitHub repo!\n\n\nTips for RStudio Projects\nOne suggestion for organizing:\nHave a dedicated folder for your Projects. - If you have One Main Place for Projects, then go there in Finder/File Explorer to launch any specific project with .Rproj. - Mine is called “~/github/”.\nSwitching Projects: RStudio knows about recent Projects.\n\n\nName files deliberately\nJenny Bryan’s 3 rules for Naming Things:\n\nmachine readable\nhuman readable\nplays well with default ordering\n\nAvailable from Speakerdeck"
-  },
-  {
-    "objectID": "coding-strategies.html#further-reading",
-    "href": "coding-strategies.html#further-reading",
-    "title": "Openscapes Champions Series",
-    "section": "Further reading",
-    "text": "Further reading\n\nTidyverse Skills for Data Science - Wright, Ellis, Hicks, & Peng\nPrinciples for data analysis workflows - Stoudt, Vasquez, and Martinez 2021, PLOS Computational Biology\nR Cookbook — JD Long"
-  },
-  {
-    "objectID": "code-of-conduct.html#code-of-conduct-also-known-as",
-    "href": "code-of-conduct.html#code-of-conduct-also-known-as",
-    "title": "Openscapes Champions Series",
-    "section": "Code of Conduct also known as",
-    "text": "Code of Conduct also known as\nCommunity Participation Guidelines\nCode of Practice\nSimilar ideas:\nLab philosophy, mission statement, participation agreements"
-  },
-  {
-    "objectID": "code-of-conduct.html#requirements",
-    "href": "code-of-conduct.html#requirements",
-    "title": "Openscapes Champions Series",
-    "section": "Requirements",
-    "text": "Requirements\n\nClear explicit statements\nSeen and heard – that all participants know about\n\nAccessible and discoverable online\nMentioned aloud in meetings/interviews/onboarding\n\nAvenues for action, identified committees, recusals"
-  },
-  {
-    "objectID": "code-of-conduct.html#case-study-ropensci",
-    "href": "code-of-conduct.html#case-study-ropensci",
-    "title": "Openscapes Champions Series",
-    "section": "Case study: rOpenSci",
-    "text": "Case study: rOpenSci\nCoC itself\nBlog post about the CoC\nBlog post about creating the CoC — following a community call on the topic. Interesting points:\n\nDrafting – make it good and revisit; but not a living doc\nAdopting and sharing – so people know it exists & where to find it\nReporting and enforcing – standardized form can help"
-  },
-  {
-    "objectID": "code-of-conduct.html#examples-to-build-from",
-    "href": "code-of-conduct.html#examples-to-build-from",
-    "title": "Openscapes Champions Series",
-    "section": "Examples to build from",
-    "text": "Examples to build from\n\nrOpenSci CoC\n\nBuffer’s CoC & Why It’s Important For Diversity And Inclusion\nMozilla Community Participation Guidelines\nTemplate CoC for labs"
-  },
-  {
-    "objectID": "code-of-conduct.html#further-reading",
-    "href": "code-of-conduct.html#further-reading",
-    "title": "Openscapes Champions Series",
-    "section": "Further Reading",
-    "text": "Further Reading\n\nHow Codes of Conduct Are Combatting Open Source’s Diversity Problem — Margaret Rhodes, AIGA Eye on Design"
-  },
-  {
-    "objectID": "r-for-scicomm.html#books-with-bookdown",
-    "href": "r-for-scicomm.html#books-with-bookdown",
-    "title": "Openscapes Champions Series",
-    "section": "books with bookdown",
-    "text": "books with bookdown\nCommit the generated docs/ directory!\nThen, change the setting in your repo on github.com so that github knows where your book is located so it can publish it. Here’s what to do:\n\ngo to https://github.com/haudarren/ai_handbook\nclick on settings at the top bar (at the opposite end from code, issues, pull requests)\nscroll down to the GitHub pages section. Click on Source and change it so it reads master branch /docs folder like below. You should get a green band like below that says “your site is published to username.github.io/reponame”"
-  },
-  {
-    "objectID": "r-for-scicomm.html#websites-with-rmarkdown",
-    "href": "r-for-scicomm.html#websites-with-rmarkdown",
-    "title": "Openscapes Champions Series",
-    "section": "websites with RMarkdown",
-    "text": "websites with RMarkdown\nsimple, static"
-  },
-  {
-    "objectID": "r-for-scicomm.html#websites-with-blogdown",
-    "href": "r-for-scicomm.html#websites-with-blogdown",
-    "title": "Openscapes Champions Series",
-    "section": "websites with Blogdown",
-    "text": "websites with Blogdown\nfancier, dynamic"
-  },
-  {
-    "objectID": "r-for-scicomm.html#further-resources",
-    "href": "r-for-scicomm.html#further-resources",
-    "title": "Openscapes Champions Series",
-    "section": "Further resources",
-    "text": "Further resources\n\nRMarkdown - RStudio (2021)\nHow I teach RMarkdown - Hill (2020)\nR Markdown for scientists - Tierney (2020)\nR for Excel Users - Lowndes & Horst (2020)\nRMarkdown website tutorial - Lowndes (2016)\nAcademic Publications with R Markdown- Ovando 2020"
-  },
-  {
-    "objectID": "data-strategies.html#data-organization-in-spreadsheets",
-    "href": "data-strategies.html#data-organization-in-spreadsheets",
-    "title": "Openscapes Champions Series",
-    "section": "Data organization in spreadsheets",
-    "text": "Data organization in spreadsheets\nThis publication by Broman & Woo, 2018 appears in the “Practical Data Science for Stats” collection in PeerJ & American Statistician.\nIt is a delightful read, from the first opening sentences:\n\n“Spreadsheets, for all of their mundane rectangularness, have been the subject of angst and controversy for decades.… Amid this debate, spreadsheets have continued to play a significant role in researchers’ workflows. The dangers of spreadsheets are real, however – so much so that the European Spreadsheet Risks Interest Group keeps a public archive of spreadsheet ‘horror stories’…”\n\nBroman & Woo share practical tips to make spreadsheets less error-prone, easier for computers to process, and easier to share. And something incredibly cool, it’s the 3rd most downloaded stats paper in the American Statistician, behind 2 papers about p-values (twitter thread).\nRead their paper for strategies behind their basic principles:\n\nBe consistent\nWrite dates like YYYY-MM-DD\nDon’t leave any cells empty\nPut just one thing in a cell\nOrganize data as a rectangle (“Tidy data”)\nCreate a data dictionary\nDon’t include calculations in the raw data files\nDon’t use font color or highlighting as data\nChoose good names for things\nMake backups\nUse data validation to avoid data entry errors\nSave the data in plain text files"
-  },
-  {
-    "objectID": "data-strategies.html#good-enough-practices-in-scientific-computing.",
-    "href": "data-strategies.html#good-enough-practices-in-scientific-computing.",
-    "title": "Openscapes Champions Series",
-    "section": "Good enough practices in scientific computing.",
-    "text": "Good enough practices in scientific computing.\nThis publication by Wilson et al. 2017 in PLoS Computational Biology follows a previous publication by Wilson et al. 2014: Best practices for scientific computing.\nIn terms of data management recommendataion, they have 2 main themes:\n\nwork towards ready-to-analyze data incrementally, documenting both the intermediate data and the process\nembrace the idea of “tidy data”, which can be a powerful accelerator for analysis\n\nRead their paper for strategies behind their basic principles (Box 1):\n\nSave the raw data.\nEnsure that raw data are backed up in more than one location.\nCreate the data you wish to see in the world.\nCreate analysis-friendly data.\nRecord all the steps used to process data.\nAnticipate the need to use multiple tables, & use a unique identifier for every record.\nSubmit data to a reputable DOI-issuing repository so that others can access & cite.\n\nThe publication also covers:\n\nSoftware: write, organize, and share scripts and programs used in an analysis.\nCollaboration: make it easy for existing and new collaborators to understand & contribute to a project.\nProject organization: organize the digital artifacts of a project to ease discovery & understanding.\nTracking changes: record how various components of your project change over time.\nManuscripts: write manuscripts in a way that leaves an audit trail & minimizes manual merging of conflicts."
-  },
-  {
-    "objectID": "data-strategies.html#make-scientific-data-fair",
-    "href": "data-strategies.html#make-scientific-data-fair",
-    "title": "Openscapes Champions Series",
-    "section": "Make scientific data FAIR",
-    "text": "Make scientific data FAIR\nThis publication by Stall et al 2019 in Nature, says that all disciplines should follow the geosciences and demand best practice for publishing and sharing data.\nFAIR data means:\n\n‘Findable’ by anyone using common search tools\n‘Accessible’ so that the data and metadata can be examined\n‘Interoperable’ so that comparable data can be analysed and integrated through the use of common vocabulary and formats\n‘Reusable’ by others through robust metadata, provenance, usage licences\n\n\n“Changes in geosciences policy and practice elevate data to valuable research contributions rather than files that are shoved in as an afterthought.”\n\nRead their paper for strategies and examples behind changing the culture: There are three big changes are crucial to shift research culture across all disciplines:\n\nMake depositing open and FAIR data a priority for all.\nRecognize and incentivize FAIR data practices.\nFund global infrastructure to support FAIR data and tools."
-  },
-  {
-    "objectID": "data-strategies.html#tidy-data-for-efficiency-reproducibility-collaboration",
-    "href": "data-strategies.html#tidy-data-for-efficiency-reproducibility-collaboration",
-    "title": "Openscapes Champions Series",
-    "section": "Tidy data for efficiency, reproducibility, & collaboration",
-    "text": "Tidy data for efficiency, reproducibility, & collaboration\nBy Lowndes & Horst 2020, posted on the Openscapes blog: an illustrated series to tell a story about tidy data.\nTidy data has been mentioned in each of the above, as a way to organize data in spreadsheets, to prepare ready-to-analyze data, and for sharing with the FAIR principles.\nSo what is tidy data?\nFirst, a preamble:\n\nRaw data may not be stored in a tidy way\n“Wrangling” data into tidy structure should be done programmatically as part of the analytical process - keep the raw data raw\nTidy data is a philosophy\nThere are existing tools to help\n\nRemember that “tidying data (“data wrangling”) – up to 50–80% of a data scientist’s time” Lohr 2014, New York Times, so it’s important to leverage these existing philosophies and tools.\nWhen we talk about organizing data to help us work in an efficient, reproducible, and collaborative way, we are talking about TIDY DATA. We mean deliberately thinking about the shape and structure of data – something that might not seem super exciting but is truly game-changing.\nSo let’s talk about what tidy data is and why it is so empowering for your analytical life.\n\nWhat is tidy data?\nTidy data is a way to describe data that’s organized with a particular structure – a rectangular structure, where each variable has its own column, and each observation has its own row (Wickham 2014).\n\n\n\n\nThis standard structure of tidy data led Hadley Wickham to describe it the way Leo Tolstoy describes families. Leo says “Happy families are all alike; every unhappy family is unhappy in its own way”. Similarly, Hadley says “tidy datasets are all alike, but every messy dataset is messy in its own way”.\n\n\n\n\n\n\nTidy data for more efficient data science\nTidy data allows you to be more efficient by using existing tools deliberately built to do the things you need to do, from subsetting portions of your data to plotting maps of your study area. Using existing tools saves you from building from scratch each time you work with a new dataset (which can be time-consuming and demoralizing). And luckily, there are a lot of tools specifically built to wrangle untidy data into tidy data (for example, in the tidyr package). By being more equipped to wrangle your data into a tidy format, you can get to your analyses faster to start answering the questions you’re asking.\n\n\n\n\n\n\nTidy data for easier collaboration\nTidy data makes it easier to collaborate because our friends can use the same tools in a familiar way. Whether thinking about collaborators as current teammates, your future self, or future teammates, organizing and sharing data in a consistent and predictable way means less adjustment, time, and effort for all.\n\n\n\n\n\n\nTidy data for reproducibility and reuse\nTidy data also makes it easier to reproduce analyses because they are easier to understand, update, and reuse. By using tools together that all expect tidy data as inputs, you can build and iterate really powerful workflows. And, when you have additional data entries, it’s no problem to re-run your code!\n\n\n\n\n\n\nTidy data for the win!\nOnce you are empowered with tools to work with tidy data generally, it opens up a whole new world of datasets that feel more approachable because you can work using familiar tools. This transferrable confidence and ability to collaborate might be the best thing about tidy data.\n\n\n\n\nSo for more efficient, reproducible, and collaborative analyses, make friends with tidy data!\n\n\n\n\n\n\n\nLearn more about tidy data:"
-  },
-  {
-    "objectID": "data-strategies.html#further-reading",
-    "href": "data-strategies.html#further-reading",
-    "title": "Openscapes Champions Series",
-    "section": "Further Reading",
-    "text": "Further Reading\n\nWickham, H (2014). Tidy Data. Journal of Statistical Software 58 (10). jstatsoft.org/v59/i10/\nBroman, KW and KH Woo (2018). Data Organization in Spreadsheets. The American Statistician 72 (1). Available open access as a PeerJ preprint.\nGrolemund, G & Wickham, H (2016). R for Data Science: Ch 12 (Tidy Data) https://r4ds.had.co.nz\nLeek, J (2016). How to share data with a statistician"
-  },
-  {
-    "objectID": "mindset.html#data-science-as-a-discipline",
-    "href": "mindset.html#data-science-as-a-discipline",
-    "title": "Openscapes Champions Series",
-    "section": "Data science as a discipline",
-    "text": "Data science as a discipline\nAlternative title: “Data science is a thing”.\nNo matter what your study system or your question, to Do Your Science you will need to get your data into analytical software, wrangle it (tidy and transform), and make sense of it visually and with models. Very important here: tidy your data first, don’t build your whole analysis around whatever weird format your data may have come in. We’ll talk about tidy data in more detail another day.\n R for Data Science\n\nThere are concepts, theory, and tools for thinking about and working with data\nJust like a field chemistry has concepts for things like moleculte, theory for how they work, and tools for studying them, so does data science — for data.\n\n\nEmphasis on communication\nIt is incredible what is possible on the communication front. Watch this one-minute video called What is RMarkdown? to blow your mind.\n\n\nNot just for “big data” or AI or machine learning\nYou can use data science theory and tools no matter the size or context of your data.\n\n\nYour study system is not unique when it comes to data\nThink about your data separately from your study system. Don’t confound them or it will be really hard to ask for help.\nExpect there is a way to do what you want to do.\n\nThis will help you find commonalities and unite you with other lab members and beyond.\n\n\nDistinguish data questions from research questions, learn how to ask for help"
-  },
-  {
-    "objectID": "mindset.html#open-data-science-tools-exist",
-    "href": "mindset.html#open-data-science-tools-exist",
-    "title": "Openscapes Champions Series",
-    "section": "Open data science tools exist",
-    "text": "Open data science tools exist\n\nTools to match data science theory\n\nWickham 2017\n\n\nThey exist to streamline working with data\n\n\nAnd they are developed by actual people – nice people!\n\n\nMy advice\n\nExpect there is a better way\nIf you’re making the same plot 10 times, stop.\nDon’t confound data science with your science. Expect that someone has had your problem before or done what you want to do.\n\n\nDivorce your science question from the data science question\nFocus on the operations for the data, not your hypothesis\n\n\nGoogle your question (ask for help)\nArticulate it, and identify useful solutions Trusted urls, recent dates"
-  },
-  {
-    "objectID": "mindset.html#open-as-a-way-to-work",
-    "href": "mindset.html#open-as-a-way-to-work",
-    "title": "Openscapes Champions Series",
-    "section": "Open as a way to work",
-    "text": "Open as a way to work\n\nOpen science as a way to be more efficient and streamlined\nNot an added ask at publication to share your data\nIt’s not only about sharing data. It’s about how you work, who you include, and the tools that you use.\n\n\nExternal memory (personal and collective)\nEasier on/offboarding\n\n\nFind solutions faster – learn to talk about your data\n\n\nBuild confidence – skills are transferable beyond your science\n\n\nBe empathic and inclusive – grow a network of allies"
-  },
-  {
-    "objectID": "mindset.html#lab-members-as-a-team",
-    "href": "mindset.html#lab-members-as-a-team",
-    "title": "Openscapes Champions Series",
-    "section": "Lab members as a team",
-    "text": "Lab members as a team\nScience is collaborative. Not heads down elbows out.\n\nFocus on what unites lab members, not what sets them apart\n\n\nThink of the lab horizontally as skillsets & needs instead of vertically as science bins\nInstead of the skills you have when you come to the lab determining how you will be able to Do Science, have shared practices in the lab and paths to onboard new people to work that way as well."
-  },
-  {
-    "objectID": "mindset.html#learn-with-collaborators-and-community-redefined",
-    "href": "mindset.html#learn-with-collaborators-and-community-redefined",
-    "title": "Openscapes Champions Series",
-    "section": "Learn with collaborators and community (redefined)",
-    "text": "Learn with collaborators and community (redefined)\nCommunities for learning, teaching, and mentorship.\n\nHelps overcome isolation, self-taught bad practices, apprehension\nStevens et al. 2018 ### Your most important collaborator is Future You\nCannot emphasize this enough. Work now so that you can succeed later (whether that’s this afternoon or 4 years from now)\n\n\nCommunities beyond the colleagues in your field\n\n\nLearn from, with, & for others"
-  },
-  {
-    "objectID": "mindset.html#the-internet-as-an-underleveraged-tool-for-science",
-    "href": "mindset.html#the-internet-as-an-underleveraged-tool-for-science",
-    "title": "Openscapes Champions Series",
-    "section": "The internet as an underleveraged tool for science",
-    "text": "The internet as an underleveraged tool for science\n\nTwitter for learning\nFollow selectively, listen & learn (e.g. #rstats)"
-  },
-  {
-    "objectID": "mindset.html#additional-reading",
-    "href": "mindset.html#additional-reading",
-    "title": "Openscapes Champions Series",
-    "section": "Additional reading",
-    "text": "Additional reading\n\nBiased by default: exploring discrimination in research code - Abby Cabunoc Mayes Bioinformatics Community Confference Keynote 2020"
+    "section": "Further Resources",
+    "text": "Further Resources\n\nA Practical Guide to Mentoring Across Intersections - Harriot 2020 VanguardSTEM Blog\nGet it wrong for me: What I need from allies - Carpenter 2020.\n\n“Now, when someone asks, ‘what do you need from me’, I say, ‘I need you to learn, I need you to care’. Somehow, we’ve all evolved to underestimate the power of learning and the power of seeking to understand. Knowing what things harm me is a sign that you value me. …Then I want an ally who works to change their individual behavior and change the system around us for the better. Not just one or the other. I want a bunch of people who are interested in becoming allies to me to get it wrong. Because I promise, you will get it wrong, likely more than once. But please get it wrong, for me. Be wrong on my behalf. Try stuff, learn stuff, make attempts, and fail. Embrace the discomfort of not knowing, of not being certain, of not understanding and then be motivated enough to learn and get better. I will give you grace if you give me effort. We are risking our lives; you can risk getting things wrong.”\n\nInclusivity in STEM: Interview with Dr Mica Estrada (video, 17 mins). “Dr. Mica Estrada is a social psychologist and faculty member at University of San Francisco. Her research explores the role of identity and values in influencing the persistence of historically underserved students in STEM.”\n\nPEERS\nmicro affirmations\n\nRecreating Wakanda by promoting Black excellence in ecology and evolution — Schell et al (2020)\nGet it wrong for me: What I need from allies — Carpenter (2020)\nA Practical Guide to Mentoring Across Intersections — Harriot (2020)\nFor Our White Friends Desiring to Be Allies — Ariel (2017)\n\nDr. Dori Tunstall on Respectful Design: Models for Diversity, Inclusion, & Decolonization — Tunstall (2020)\nSexual harassment is rife in the sciences, finds landmark US study — Witze (2018)\nAll We Can Save — Johnson & Wilkerson (2020)\nBraiding Sweetgrass — Kimmerer (2013)"
   }
 ]
