@@ -77,6 +77,7 @@
       <img src="./images/openscapes_hex.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
+    <a href="https://openscapes.org" title="Openscapes.org" class="sidebar-tool px-1"><i class="bi bi-globe"></i></a>
     <a href="https://github.com/openscapes/series" title="Openscapes Series GitHub" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
     <a href="https://twitter.com/openscapes" title="Openscapes Twitter" class="sidebar-tool px-1"><i class="bi bi-twitter"></i></a>
   <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
@@ -114,12 +115,7 @@
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./bsilt.html" class="sidebar-item-text ">Better science</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./team-culture.html" class="sidebar-item-text ">Team culture</a>
+  <a href="./bsilt.html" class="sidebar-item-text ">Better science in less time</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -130,6 +126,11 @@
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./github-issues.html" class="sidebar-item-text ">GitHub for project management</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./team-culture.html" class="sidebar-item-text ">Team culture</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -229,11 +230,13 @@
 <ul>
 <li><a href="#welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a>
 <ul class="collapse">
-<li><a href="#cohort-agendas" class="nav-link" data-scroll-target="#cohort-agendas">Cohort Agendas</a>
-<ul class="collapse">
-<li><a href="#two-month" class="nav-link" data-scroll-target="#two-month">Two-month</a></li>
+<li><a href="#cohort-calls" class="nav-link" data-scroll-target="#cohort-calls">Cohort Calls</a></li>
+<li><a href="#cohort-agendas" class="nav-link" data-scroll-target="#cohort-agendas">Cohort Agendas</a></li>
 </ul></li>
-<li><a href="#about" class="nav-link" data-scroll-target="#about">About</a></li>
+<li><a href="#about" class="nav-link" data-scroll-target="#about">About</a>
+<ul class="collapse">
+<li><a href="#openscapes-champions" class="nav-link" data-scroll-target="#openscapes-champions">Openscapes Champions</a></li>
+<li><a href="#this-series-book" class="nav-link" data-scroll-target="#this-series-book">This Series Book</a></li>
 </ul></li>
 </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/series/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/series/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
@@ -242,62 +245,54 @@
 <main class="content">
 <header id="title-block-header">
 <h1 class="title d-none d-lg-block display-7">Openscapes Champions Lesson Series</h1>
-<p class="subtitle lead">Open educational resources for the Openscapes Champions program</p>
+<p class="subtitle lead">Open educational resources for Openscapes Champions</p>
 <p class="author">Openscapes team</p>
 <p class="date">February 1, 2022</p>
 </header>
 
-<p><br></p>
-<section id="welcome" class="level1">
-<h1>Welcome</h1>
-<p>Hello! This book is the lesson series for the <a href="https://www.openscapes.org/champions/"><strong>Openscapes Champions program</strong></a>, an open data science mentorship program for science teams.</p>
-<p>Openscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis &amp; stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together. This is a remote-by-design program since its launch in 2019.</p>
+<section id="welcome" class="level2">
+<h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
+<p>Hello! This is the lesson series for the <a href="https://www.openscapes.org/champions/"><strong>Openscapes Champions program</strong></a>, an open data science mentorship program for science teams. We think about open science like a landscape, and we help researchers move from lonely science towards team science as they identify their common needs and start navigating the landscape together with a cohort of their peers.</p>
 <center>
 <img src="img/horst_openscapes_champions.jpg" width="600px">
 <figcaption>
-Artwork by <a href="https://twitter.com/allison_horst">Allison Horst</a>
+Artwork by <a href="https://www.openscapes.org/gallery/">Allison Horst</a>
 </figcaption>
 </center>
 <p><br></p>
-<p>This open curriculum is improved iteratively and the most recent version always available online for reuse and remix. It was originally developed from “Our path to better science in less time using open data science tools” <a href="https://www.nature.com/articles/s41559-017-0160">(Lowndes et al.&nbsp;2017)</a>. As we have learn and iterate with Champions Cohorts, the curriculum is iterating and growing as well.</p>
-<p>Each chapter in this book introduces the concepts, tooling, and examples that we discuss during our Champions Program Cohort Calls. The way lead and teach Cohort Calls is described more below.</p>
-<hr>
-<section id="cohort-agendas" class="level2">
-<h2 class="anchored" data-anchor-id="cohort-agendas">Cohort Agendas</h2>
-<p>Research teams participate as a cohort over several months, meeting twice-monthly for 1.5-hour sessions we call Cohort Calls. Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that .</p>
-<p>Cohort Call agendas and slides are all openly available in a <a href="https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g">Google Folder</a>. As we continue to learn and iterate from working with different research groups, you can always review the <a href="https://github.com/Openscapes/series/blob/master/agenda-archive.md">agenda archive</a> for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an <a href="https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub">Efficiency Tips Doc</a> and <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml">Spreadsheet</a>.</p>
-<p>Between Cohort Calls, each team meets together for a <a href="https://www.openscapes.org/blog/2019/03/10/seaside-chats/">Seaside Chat</a> to begin identifying and addressing shared needs; Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen a culture of shared workflows and learning. Additionally, we coordinate skill-building Clinics and Co-Working sessions (which differ from “Office Hours” because participants come to work and learn together) between Cohort Calls.</p>
-<section id="two-month" class="level3">
-<h3 class="anchored" data-anchor-id="two-month">Two-month</h3>
-<p>The two-month Champions program includes 5 Cohort Calls. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team describes their trailhead and pathways forward.</p>
+<p>This open curriculum is improved iteratively and the most recent version always available online for reuse and remix. Each chapter in the Core Lesson Series introduces the concepts, tooling, and examples that we discuss during our Champions Program Cohort Calls. We’re also organizing additional Champions Lessons, Community Lessons, and How To guides to support Champions teams that you can navigate to on the left.</p>
+<section id="cohort-calls" class="level3">
+<h3 class="anchored" data-anchor-id="cohort-calls">Cohort Calls</h3>
+<p>Research teams participate as a Champions Cohort over 2 months, meeting twice-monthly for five 1.5-hour sessions we call Cohort Calls.</p>
+<p>Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that accompany each chapter of this book. Core lessons focus on building an open science mindset, efficiency and sharing culture within the team, and developing sustained learning practices with broader communities. At the end of the program, each team describes their work in progress and pathways forward.</p>
 <table class="table">
 <thead>
 <tr class="header">
-<th>Cohort Call Agendas</th>
+<th>Cohort Call Topics</th>
 <th>Series Chapters</th>
-<th>Between Cohort Calls</th>
+<th>Seaside Chat Topics</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>1. Openscapes mindset</td>
 <td><a href="#mindset">mindset</a>, <a href="#bsilt">better science in less time</a></td>
-<td>Seaside Chat (trailhead)</td>
+<td>Pathway - where are you now</td>
 </tr>
 <tr class="even">
 <td>2. GitHub for publishing &amp; project management</td>
 <td><a href="#github-pub">publishing</a>, <a href="#github-issues">project management</a></td>
-<td>Seaside Chat: shared organizing with GitHub; Co-working</td>
+<td>Shared organizing with GitHub</td>
 </tr>
 <tr class="odd">
 <td>3. Team culture and data strategies for future us</td>
 <td><a href="#team-culture">team culture</a>, <a href="#data-strategies">data strategies</a></td>
-<td>Seaside Chat (code of conduct);<br>Co-working</td>
+<td>Onboarding docs, code of conduct</td>
 </tr>
 <tr class="even">
 <td>4. Open communities and coding strategies for future us</td>
 <td><a href="#communities">open communities</a>, <a href="#coding-strategies">coding strategies</a></td>
-<td>Seaside Chat (pathway); Co-working</td>
+<td>Pathway - what is next</td>
 </tr>
 <tr class="odd">
 <td>5. Pathways share and next steps</td>
@@ -306,13 +301,24 @@ Artwork by <a href="https://twitter.com/allison_horst">Allison Horst</a>
 </tr>
 </tbody>
 </table>
-<p><br></p>
+<p>Between Cohort Calls, each team meets together for <a href="https://www.openscapes.org/blog/2019/03/10/seaside-chats/">Seaside Chats</a> - dedicated time for data/workflow discussions. This is where teams begin identifying and addressing shared needs, prompted by discussions as a cohort. Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen a culture of shared workflows and learning. Additionally, we support teams between Cohort Calls through Co-Working sessions.</p>
+</section>
+<section id="cohort-agendas" class="level3">
+<h3 class="anchored" data-anchor-id="cohort-agendas">Cohort Agendas</h3>
+<p>Cohort Call agendas and slides are all openly available in a <a href="https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g">Google Folder</a>, ready for reuse and remix. We end each lesson by learning hands-on efficiency tips (<a href="https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub">Doc</a> and <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml">Spreadsheet</a>) and inclusion tips.</p>
 </section>
 </section>
 <section id="about" class="level2">
 <h2 class="anchored" data-anchor-id="about">About</h2>
-<p>The Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it’s created with the same tools and practices we will be talking about: originally R and <a href="https://bookdown.org/yihui/bookdown/">bookdown</a> and now <a href="https://quarto.org">quarto</a>, and GitHub.</p>
-<p><a href="https://openscapes.org">Openscapes</a> is co-directed by Julia Stewart Lowndes and Erin Robinson. It is operated by the National Center for Ecological Analysis &amp; Synthesis (<a href="https://www.nceas.ucsb.edu/">NCEAS</a>) and was incubated by a <a href="https://foundation.mozilla.org/en/">Mozilla</a> Fellowship awarded to Lowndes in 2018.</p>
+<p><a href="https://openscapes.org">Openscapes</a> helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams.</p>
+<section id="openscapes-champions" class="level3">
+<h3 class="anchored" data-anchor-id="openscapes-champions">Openscapes Champions</h3>
+<p>Openscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis &amp; stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together. This is a remote-by-design program since its launch in 2019.</p>
+<p>Core lessons were originally developed from “Our path to better science in less time using open data science tools” <a href="https://www.nature.com/articles/s41559-017-0160">(Lowndes et al.&nbsp;2017)</a>. As we learn and iterate leading <a href="https://openscapes.org/cohorts">8+ Champions Cohorts</a>, the curriculum is iterating and growing as well.</p>
+</section>
+<section id="this-series-book" class="level3">
+<h3 class="anchored" data-anchor-id="this-series-book">This Series Book</h3>
+<p>The Series is written (and always improving) to be used as a reference, to teach, as self-paced learning, and for reuse and remix. And also, awesomely, it’s created with the same tools and practices we will be talking about: R/RStudio - originally <a href="https://bookdown.org/yihui/bookdown/">bookdown</a> and now <a href="https://quarto.org">quarto</a> - and GitHub.</p>
 <hr>
 <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>&nbsp;&nbsp;Openscapes is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
 <!---

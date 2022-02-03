@@ -10,7 +10,7 @@ To setup RStudio and GitHub, you will need four things:
 1. Git
 1. GitHub
 
-Follow the [UCSB MEDS Installation Guide](https://ucsb-meds.github.io/meds-install-guide.html) for detailed instructions on how to create accounts, download, install, and configure. (For an even more detailed walk-through, see [Allison Horst's ESM 206 Google Doc](https://docs.google.com/document/d/1zx2upJJqFZe94O3BQSMI56Z76s3haLXC0otKSpcZaJQ/edit)). Thanks for sharing Allison!
+Follow the [UCSB MEDS Installation Guide](https://ucsb-meds.github.io/meds-install-guide.html) for detailed instructions on how to create accounts, download, install, and configure on Mac and Windows. (For an even more detailed walk-through, see [Allison Horst's ESM 206 Google Doc](https://docs.google.com/document/d/1zx2upJJqFZe94O3BQSMI56Z76s3haLXC0otKSpcZaJQ/edit)). Thanks for sharing Allison!
 
 ## Practice
 

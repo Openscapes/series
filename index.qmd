@@ -1,55 +1,53 @@
 ---
 title: "Openscapes Champions Lesson Series"
-subtitle: "Open educational resources for the Openscapes Champions program" 
+subtitle: "Open educational resources for Openscapes Champions" 
 date: "February 1, 2022"
 author: "Openscapes team"
 citation_url: https://openscapes.github.io/series
 slug: index
 ---
 
-<br>
+## Welcome {#welcome}
 
-# Welcome {#welcome}
-
-Hello! This book is the lesson series for the [**Openscapes Champions program**](https://www.openscapes.org/champions/), an open data science mentorship program for science teams. 
-
-Openscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together. This is a remote-by-design program since its launch in 2019. 
+Hello! This is the lesson series for the [**Openscapes Champions program**](https://www.openscapes.org/champions/), an open data science mentorship program for science teams. We think about open science like a landscape, and we help researchers move from lonely science towards team science as they identify their common needs and start navigating the landscape together with a cohort of their peers. 
 
 <center>
   <img src="img/horst_openscapes_champions.jpg" width="600px"></a>
-   <figcaption>Artwork by [Allison Horst](https://twitter.com/allison_horst) </figcaption>
+   <figcaption>Artwork by [Allison Horst](https://www.openscapes.org/gallery/) </figcaption>
 </center>
 <br>
 
-This open curriculum is improved iteratively and the most recent version always available online for reuse and remix. It was originally developed from "Our path to better science in less time using open data science tools" [(Lowndes et al. 2017)](https://www.nature.com/articles/s41559-017-0160). As we have learn and iterate with Champions Cohorts, the curriculum is iterating and growing as well. 
+This open curriculum is improved iteratively and the most recent version always available online for reuse and remix. Each chapter in the Core Lesson Series introduces the concepts, tooling, and examples that we discuss during our Champions Program Cohort Calls. We're also organizing additional Champions Lessons, Community Lessons, and How To guides to support Champions teams that you can navigate to on the left.
 
-Each chapter in the Core Lesson Series introduces the concepts, tooling, and examples that we discuss during our Champions Program Cohort Calls, and the way lead and teach Cohort Calls is described more below. We're also organizing additional Champions Lessons, Community Lessons, and How To guides to support research teams.
+### Cohort Calls
 
-----
+Research teams participate as a Champions Cohort over 2 months, meeting twice-monthly for five 1.5-hour sessions we call Cohort Calls. 
 
-## Cohort Agendas
-
-Research teams participate as a cohort over several months, meeting twice-monthly for 1.5-hour sessions we call Cohort Calls. Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that . 
-
-Cohort Call agendas and slides are all openly available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g). As we continue to learn and iterate from working with different research groups, you can always review the [agenda archive](https://github.com/Openscapes/series/blob/master/agenda-archive.md) for specific cohorts. Additionally, we end each lesson by learning hands-on efficiency tips, compiled here as an [Efficiency Tips Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml).
-
-Between Cohort Calls, each team meets together for a [Seaside Chat](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) to begin identifying and addressing shared needs; Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen a culture of shared workflows and learning. Additionally, we coordinate skill-building Clinics and Co-Working sessions (which differ from "Office Hours" because participants come to work and learn together) between Cohort Calls.
-
-### Two-month
-
-The two-month Champions program includes 5 Cohort Calls. The core lesson series focuses on building an open science mindset, building efficiency and open culture within the team, and building sustained learning practices with broader communities. At the end of the program, each team describes their trailhead and pathways forward.
+Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that accompany each chapter of this book. Core lessons focus on building an open science mindset, efficiency and sharing culture within the team, and developing sustained learning practices with broader communities. At the end of the program, each team describes their work in progress and pathways forward.
 
 ```{.include}
 _agenda_2month.qmd
 ```
 
-<br>
+Between Cohort Calls, each team meets together for [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) - dedicated time for data/workflow discussions. This is where teams begin identifying and addressing shared needs, prompted by discussions as a cohort. Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen a culture of shared workflows and learning. Additionally, we support teams between Cohort Calls through Co-Working sessions.
+
+### Cohort Agendas
+
+Cohort Call agendas and slides are all openly available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), ready for reuse and remix. We end each lesson by learning hands-on efficiency tips ([Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml)) and inclusion tips.
 
 ## About
 
-The Series is written (and always improving) to be used as a reference, to teach, or as self-paced learning. And also, awesomely, it's created with the same tools and practices we will be talking about: originally R and [bookdown](https://bookdown.org/yihui/bookdown/) and now [quarto](https://quarto.org), and GitHub.
+[Openscapes](https://openscapes.org) helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams. 
 
-[Openscapes](https://openscapes.org) is co-directed by Julia Stewart Lowndes and Erin Robinson. It is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and was incubated by a [Mozilla](https://foundation.mozilla.org/en/) Fellowship awarded to Lowndes in 2018.
+### Openscapes Champions 
+
+Openscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together. This is a remote-by-design program since its launch in 2019. 
+
+Core lessons were originally developed from "Our path to better science in less time using open data science tools" [(Lowndes et al. 2017)](https://www.nature.com/articles/s41559-017-0160). As we learn and iterate leading [8+ Champions Cohorts](https://openscapes.org/cohorts), the curriculum is iterating and growing as well. 
+
+### This Series Book
+
+The Series is written (and always improving) to be used as a reference, to teach, as self-paced learning, and for reuse and remix. And also, awesomely, it's created with the same tools and practices we will be talking about: R/RStudio - originally [bookdown](https://bookdown.org/yihui/bookdown/) and now [quarto](https://quarto.org) - and GitHub.
 
 ----
 
