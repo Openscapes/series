@@ -86,12 +86,6 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770
 
 > I've come to use the term "the architecture of participation" to describe the nature of systems that are designed for user contribution.
 
-## The Cathedral and the Bazaar: Eric Raymond
-
-
-[The Cathedral and the Bazaar](https://www.oreilly.com/library/view/the-cathedral/0596001088/ch02.html#catbmain): one of the secrets of open source is "treating your users as co-developers"
-
-
 ## Systems Change: Donella Meadows 
 
 [Leverage points: places to intervene in a system](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/): (in increasing order of effectiveness)
