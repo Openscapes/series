@@ -44,39 +44,41 @@ website:
            text: Mindset
          - href: "bsilt.qmd"
            text: Better science in less time
+         - href: "github-pub.qmd"
+           text: GitHub for publishing
+         - href: "github-issues.qmd"
+           text: GitHub for project management
          - href: "team-culture.qmd"
            text: Team culture
-         - href: "code-of-conduct.qmd"
-           text: Code of conduct
          - href: "data-strategies.qmd"
            text: Data stategies
          - href: "coding-strategies.qmd"
            text: Coding strategies
          - href: "communities.qmd"
            text: Open communities
-         - href: "github-pub.qmd"
-           text: GitHub for publishing
-         - href: "github-issues.qmd"
-           text: GitHub for project management
-  #"case-studies.qmd", CREATE AND LINK
-  #"code-tour.qmd", 
-  #"study-groups.qmd",
-         - href: "r-for-scicomm.qmd"
-           text: R for scicomm
-         - href: "resources-that-influence.qmd"
-           text: Resources
+      - section: "Additional Lessons"
+        contents:
+         - href: "additional-lessons/code-of-conduct.qmd"
+           text: Code of Conduct
+         - href: "additional-lessons/r-for-scicomm.qmd"  
+           text: R for SciComm
       - section: "How To Guides"
         contents:        
          - href: "how-to/index.qmd"
            text: Overview
          - href: "how-to/setup-rstudio-github.qmd"   
            text: Setup RStudio & GitHub
-         - href: "how-to/publish-with-quarto.qmd"
-           text: Publish with Quarto
+  #       - href: "how-to/publish-with-quarto.qmd" # revisit
+  #         text: Publish with Quarto
       - section: "Community Lessons"
         contents:         
          - href: "community-lessons/index.qmd"
            text: Overview
+      - section: "Inspiration"
+        contents:
+         - href: "inspiration/resources-that-influence.qmd"
+           text: Resources that influence us
+
            
 format:
   html:

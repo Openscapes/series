@@ -2,9 +2,11 @@
 title: "Publish with Quarto"
 ---
 
-Quarto ([quarto.org](https://quarto.org)) is a powerful publishing system for scientific and technical writing. It's great for documentation for science teams; this website is made with Quarto. Quarto is really powerful for R and Python but that's not where you have to start - it's also possible to contribute to open documentation using the GitHub browser. 
+\*NOTE: this needs another round of experimentation and development; since the `_site` folder doesn't come with the GitHub Uploader it might require RStudio IDE, which is fine, but not what this says\*
 
-We'll get you setup with Quarto from the Browser using a template site that you'll then customize and make your own: **<https://openscapes.github.io/quarto-site-template>.**
+Quarto ([quarto.org](https://quarto.org)) is a powerful publishing system for scientific and technical writing. It's great for documentation for science teams; this website is made with Quarto. Quarto is really powerful for R and Python but that's not where you have to start - it's also possible to contribute to open documentation using the GitHub browser.
+
+We'll get you setup with Quarto from the Browser using a template site that you'll then customize and make your own: [**https://openscapes.github.io/quarto-site-template**](https://openscapes.github.io/quarto-site-template){.uri}**.**
 
 ## Setup from the Browser
 
@@ -55,8 +57,8 @@ jobs:
         publish_dir: ./_site
 ```
 
-1. Check that there is a second branch called `gh-pages` - all lowercase, with a hyphen - should be already made!
-2.  Settings \> Pages \> Source > make sure this is set to `gh-pages` > root
+1.  Check that there is a second branch called `gh-pages` - all lowercase, with a hyphen - should be already made!
+2.  Settings \> Pages \> Source \> make sure this is set to `gh-pages` \> root
 3.  Go into `_quarto.yml` and update the urls with your own urls, i.e. `https://your-username/your-repo-name.github.io`
 4.  Wait until orange dot turns green
 5.  Inspect: `https://your-username/your-repo-name.github.io`. For example: <https://openscapes.github.io/quarto-site-template>
@@ -68,7 +70,6 @@ Now you can start editing these files with what you want them to say! Start off 
 If you'd like to add a new chapter, you'll need to update the `_quarto.yml` file and create a new .md file; start by copying an existing one. *More details coming as we do this together.*
 
 Instead of editing from the browser, you can work locally with whatever software/editor you like (RStudio, JupyterLab, etc).
-
 
 ### Set up Quarto
 
