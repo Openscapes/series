@@ -37,7 +37,7 @@ Cohort Call agendas and slides are all openly available in a [Google Folder](htt
 
 ## About
 
-[Openscapes](https://openscapes.org) helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams. 
+[Openscapes](https://openscapes.org) helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams. Our work builds from many others in the open movement, and we are also documenting our process to onboard folks and scale Openscapes in our [Approach Guide](https://openscapes.github.io/approach-guide).
 
 ### Openscapes Champions 
 
