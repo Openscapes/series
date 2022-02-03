@@ -22,12 +22,19 @@ website:
     logo: "images/openscapes_hex.png"
     pinned: true
     align: center
+    tools: 
+      - icon: github
+        href: https://github.com/openscapes/series
+        text: "Openscapes Series GitHub"
+      - icon: twitter
+        href: https://twitter.com/openscapes
+        text: "Openscapes Twitter"        
 
     style: "docked"
     search: true
     collapse-level: 1
     contents:
-      - section: "Lesson Series"
+      - section: "Core Lesson Series"
         contents:        
          - href: "index.qmd"
            text: Welcome
@@ -58,8 +65,19 @@ website:
            text: R for scicomm
          - href: "resources-that-influence.qmd"
            text: Resources
-  
-
+      - section: "How To Guides"
+        contents:        
+         - href: "how-to/index.qmd"
+           text: Overview
+         - href: "how-to/setup-rstudio-github.qmd"   
+           text: Setup RStudio & GitHub
+         - href: "how-to/publish-with-quarto.qmd"
+           text: Publish with Quarto
+      - section: "Community Lessons"
+        contents:         
+         - href: "community-lessons/index.qmd"
+           text: Overview
+           
 format:
   html:
     theme:

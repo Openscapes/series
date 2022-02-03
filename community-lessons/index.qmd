@@ -1,0 +1,42 @@
+---
+title: Openscapes Community Lessons
+---
+
+There are growing resources developed by Openscapes teams! 
+
+This is the beginning of a growing list; please share others to add. You can suggest via GitHub on the right of this page - click "Edit this page" or "Report an Issue", or share your idea via Twitter (linked below the logo on the left) or email openscapes @ nceas.ucsb.edu. 
+
+## NASA Openscapes Cloud Tutorials
+
+The NASA Earthdata-Openscapes Mentors team and other contributors are creating open educational resources to help researchers migrate workflows to the Cloud - all available for reuse and remix.
+
+<https://nasa-openscapes.github.io/tutorials.html>
+
+Check out the 2021-Cloud-Hackathon materials!
+
+## NMFS Openscapes 
+
+The overarching vision of the NMFS Openscapes is to support scientific researchers within NOAA Fisheries by providing training in reproducible scientific workflows and platforms, facilitating collaboration across divisions in common scientific data science tasks, and providing shared "best practices" resources.
+
+<https://github.com/nmfs-openscapes>
+
+Check out the NMFS R UG (R Users Group) for upcoming events and Wiki for links to resources and examples of open science at NOAA Fisheries.
+
+## Fay Lab Manual
+
+This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.
+
+<https://thefaylab.github.io/lab-manual/> 
+
+Check out how they've organized this onboarding document that prospective students and postdocs have said stood out to them. Consider reusing/remixing for your own group!
+
+## R for Excel Users
+
+This course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.
+
+<https://rstudio-conf-2020.github.io/r-for-excel/>
+
+Check out the resources throughout as well - it's not only for Excel users, it's for everyone.
+
+
+

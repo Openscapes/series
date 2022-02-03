@@ -1,0 +1,5 @@
+---
+title: "How To Guides"
+---
+
+This is a collection of resources that complement what we cover in the Champions Lesson Series. Champions often screenshare and do these together during Seaside Chats and Co-Working sessions. In the spirit of reuse, we point to existing resources as much as possible. 

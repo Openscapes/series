@@ -1,0 +1,75 @@
+---
+title: "Publish with Quarto"
+---
+
+Quarto ([quarto.org](https://quarto.org)) is a powerful publishing system for scientific and technical writing. It's great for documentation for science teams; this website is made with Quarto. Quarto is really powerful for R and Python but that's not where you have to start - it's also possible to contribute to open documentation using the GitHub browser. 
+
+We'll get you setup with Quarto from the Browser using a template site that you'll then customize and make your own: **<https://openscapes.github.io/quarto-site-template>.**
+
+## Setup from the Browser
+
+This is an intro to setup and contribute to documentation with Quarto from the GitHub browser. This is a good way for getting started and for making small contributions. But is definitely limited. So when you feel ready you can also [setup RStudio and GitHub](/how-to/setup-rstudio-github.html) on your local computer and write in the visual editor in a way that feels like a Google/Word Doc.
+
+### Download template site
+
+1.  Download <https://github.com/Openscapes/quarto-site-template>
+2.  Green button \> Download ZIP
+3.  On your computer: unzip files
+
+### Create a GitHub repo
+
+Create a GitHub repository in your user account or in an organizaion account (don't worry too much about this, you can always move and rename later).
+
+If you need to create a GitHub account, follow instructions from [Happy Git with R](https://happygitwithr.com/github-acct.html).
+
+### Add template site files
+
+1.  Add file \> Upload files \> Select all the files in unzipped folder \> drag to GitHub
+2.  Commit
+
+### Set up GitHub publishing
+
+1.  Add file \> create new file \> name it exactly `.github/workflows/quarto-render.yml`
+2.  Paste inside:
+
+``` yaml
+name: Render and deploy quarto files
+on: 
+  push:
+  pull_request:
+
+jobs:
+  quarto-render-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: "Install Quarto and render project"
+      uses: nasa-openscapes/quarto-render@v0.3.79 
+
+    - name: "Deploy to gh-pages"
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/main'
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
+```
+
+1. Check that there is a second branch called `gh-pages` - all lowercase, with a hyphen - should be already made!
+2.  Settings \> Pages \> Source > make sure this is set to `gh-pages` > root
+3.  Go into `_quarto.yml` and update the urls with your own urls, i.e. `https://your-username/your-repo-name.github.io`
+4.  Wait until orange dot turns green
+5.  Inspect: `https://your-username/your-repo-name.github.io`. For example: <https://openscapes.github.io/quarto-site-template>
+
+## Develop content
+
+Now you can start editing these files with what you want them to say! Start off from the browser, using Markdown. *Add details here*.
+
+If you'd like to add a new chapter, you'll need to update the `_quarto.yml` file and create a new .md file; start by copying an existing one. *More details coming as we do this together.*
+
+Instead of editing from the browser, you can work locally with whatever software/editor you like (RStudio, JupyterLab, etc).
+
+
+### Set up Quarto
+
+Install Quarto from <https://quarto.org>. You will use your computer's install wizard to do this, and then you're set! There won't be a separate app or anything installed, but now this will be available to RStudio.
