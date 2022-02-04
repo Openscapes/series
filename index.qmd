@@ -29,7 +29,7 @@ Cohort Calls are designed to be engaging, requiring discussion and active partic
 _agenda_2month.qmd
 ```
 
-Between Cohort Calls, each team meets together for [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) - dedicated time for data/workflow discussions. This is where teams begin identifying and addressing shared needs, prompted by discussions as a cohort. Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen a culture of shared workflows and learning. Additionally, we support teams between Cohort Calls through Co-Working sessions.
+Between Cohort Calls, each team meets together for [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) - dedicated time for data/workflow discussions. This is where teams begin identifying and addressing shared needs, prompted by discussions as a cohort and using the [Pathways Doc](https://docs.google.com/spreadsheets/d/1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8/edit?usp=sharing). Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and culture of shared workflows and learning. Additionally, we support teams between Cohort Calls through Co-Working sessions and Slack.
 
 ### Cohort Agendas
 
