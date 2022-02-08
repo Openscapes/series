@@ -37,10 +37,10 @@ website:
     search: true
     collapse-level: 1
     contents:
+      - href: "index.qmd"
+        text: Welcome
       - section: "Core Lesson Series"
         contents:        
-         - href: "index.qmd"
-           text: Welcome
          - href: "overview.qmd"
            text: Overview
          - href: "mindset.qmd"
@@ -71,6 +71,8 @@ website:
            text: Overview
          - href: "how-to/setup-rstudio-github.qmd"   
            text: Setup RStudio & GitHub
+         - href: "how-to/reuse-openscapes-approach.qmd"   
+           text: Reuse Openscapes Approach           
   #       - href: "how-to/publish-with-quarto.qmd" # revisit
   #         text: Publish with Quarto
       - section: "Community Lessons"

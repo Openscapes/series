@@ -49,6 +49,17 @@ Core lessons were originally developed from "Our path to better science in less 
 
 The Series is written (and always improving) to be used as a reference, to teach, as self-paced learning, and for reuse and remix. And also, awesomely, it's created with the same tools and practices we will be talking about: R/RStudio - originally [bookdown](https://bookdown.org/yihui/bookdown/) and now [quarto](https://quarto.org) - and GitHub.
 
+### Citation
+All material in the Openscapes Approach Guide is available under a [CC-BY 4.0 licence](https://github.com/Openscapes/series/blob/main/LICENSE.md).
+
+Please cite this guide as:
+
+The Openscapes Core Team, Lowndes & Robinson (2021). Openscapes Champions Lesson Series (Version v0.0.1). <https://openscapes.org/series>.
+
+<!---
+acknowledgements - Thank you
+--->
+
 ----
 
 <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License' style='border-width:0' src='https://i.creativecommons.org/l/by/4.0/88x31.png' /></a>&nbsp;&nbsp;Openscapes is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>.

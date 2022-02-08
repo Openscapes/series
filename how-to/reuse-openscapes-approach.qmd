@@ -1,0 +1,12 @@
+---
+title: "Reuse the Openscapes Approach"
+---
+
+We designed, facilitate, and teach building from what has worked in many other programs and resources. In the open science world, this is often called "reuse and remix" - reusing parts and tailoring and building them out for your needs. We reuse/remix heavily from Mozilla Open Leaders, RStudio, RLadies, rOpenSci, and many others. 
+
+The [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) is where we're starting to document our approach so that others can lead their own Champions Cohorts. Even if you're not leading your own Cohort, there are many things we do that you can reuse. For example: 
+
+- Have Google Doc agenda with live notetaking during your meetings  (if this is a recurring meeting, organize it in a shared folder, either with one doc per meeting like our Cohort Call Agendas or many meetings in the same doc with the most recent at the top, like our Co-Working notes)
+- Begin a meeting with a Roll Call/Check in and Code of Conduct
+- Teach using other people's slides
+
