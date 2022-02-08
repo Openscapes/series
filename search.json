@@ -224,6 +224,13 @@
     "text": "Additional reading\n\nBiased by default: exploring discrimination in research code - Abby Cabunoc Mayes Bioinformatics Community Confference Keynote 2020"
   },
   {
+    "objectID": "how-to/do-fix-git-things.html#happy-git-with-r",
+    "href": "how-to/do-fix-git-things.html#happy-git-with-r",
+    "title": "Do and fix things in Git",
+    "section": "Happy Git With R",
+    "text": "Happy Git With R\n\n“Happy Git provides opinionated instructions on how to Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE; Develop a few key workflows that cover your most common tasks; Integrate Git and GitHub into your daily work with R and R Markdown.”\n\nhttps://happygitwithr.com/"
+  },
+  {
     "objectID": "how-to/do-fix-git-things.html#git-flight-rules",
     "href": "how-to/do-fix-git-things.html#git-flight-rules",
     "title": "Do and fix things in Git",
