@@ -224,6 +224,20 @@
     "text": "Additional reading\n\nBiased by default: exploring discrimination in research code - Abby Cabunoc Mayes Bioinformatics Community Confference Keynote 2020"
   },
   {
+    "objectID": "how-to/do-fix-git-things.html#git-flight-rules",
+    "href": "how-to/do-fix-git-things.html#git-flight-rules",
+    "title": "Do and fix things in Git",
+    "section": "Git Flight Rules",
+    "text": "Git Flight Rules\n“A guide for astronauts (now, programmers using Git) about what to do when things go wrong.”\nhttps://github.com/k88hudson/git-flight-rules\nThis is quite a comprehensive and maintained list of git commands, using the command line."
+  },
+  {
+    "objectID": "how-to/do-fix-git-things.html#github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes",
+    "href": "how-to/do-fix-git-things.html#github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes",
+    "title": "Do and fix things in Git",
+    "section": "GitHub: A beginner’s guide to going back in time (aka fixing mistakes)",
+    "text": "GitHub: A beginner’s guide to going back in time (aka fixing mistakes)\nhttps://ohi-science.org/news/github-going-back-in-time\nThis has screenshots and a workflow with RStudio and the command line."
+  },
+  {
     "objectID": "how-to/publish-with-quarto.html#setup-from-the-browser",
     "href": "how-to/publish-with-quarto.html#setup-from-the-browser",
     "title": "Publish with Quarto",
@@ -256,14 +270,14 @@
     "href": "how-to/reuse-openscapes-approach.html",
     "title": "Reuse the Openscapes Approach",
     "section": "",
-    "text": "We designed, facilitate, and teach building from what has worked in many other programs and resources. In the open science world, this is often called “reuse and remix” - reusing parts and tailoring and building them out for your needs. We reuse/remix heavily from Mozilla Open Leaders, RStudio, RLadies, rOpenSci, and many others.\nThe Openscapes Approach Guide is where we’re starting to document our approach so that others can lead their own Champions Cohorts. Even if you’re not leading your own Cohort, there are many things we do that you can reuse. For example:\n\nHave Google Doc agenda with live notetaking during your meetings (if this is a recurring meeting, organize it in a shared folder, either with one doc per meeting like our Cohort Call Agendas or many meetings in the same doc with the most recent at the top, like our Co-Working notes)\nBegin a meeting with a Roll Call/Check in and Code of Conduct\nTeach using other people’s slides"
+    "text": "We designed, facilitate, and teach building from what has worked in many other programs and resources. In the open science world, this is often called “reuse and remix” - reusing parts and tailoring and building them out for your needs. We reuse/remix heavily from Mozilla Open Leaders, RStudio, RLadies, rOpenSci, and many others.\nThe Openscapes Approach Guide is where we’re starting to document our approach so that others can lead their own Champions Cohorts. Even if you’re not leading your own Cohort, there are many things we do that you can reuse. For example:\n\nHave Google Doc agenda with live notetaking during your meetings (if this is a recurring meeting, organize it in a shared folder, either with one doc per meeting like our Cohort Call Agendas or many meetings in the same doc with the most recent at the top, like our Co-Working notes)\nBegin a meeting with a Roll Call/Check in and Code of Conduct\nShare slides before giving your talk so that folks can see them in high resolution and click on links\nTeach using other people’s slides"
   },
   {
     "objectID": "how-to/index.html",
     "href": "how-to/index.html",
     "title": "How To Guides",
     "section": "",
-    "text": "This is a collection of resources that complement what we cover in the Champions Lesson Series. Champions often screenshare and do these together during Seaside Chats and Co-Working sessions. In the spirit of reuse, we point to existing resources as much as possible."
+    "text": "This is a collection of resources that complement what we cover in the Champions Lesson Series - things that often come up as questions and that folks can screenshare and do together during Seaside Chats and Co-Working sessions. We point to existing resources as much as possible."
   },
   {
     "objectID": "additional-lessons/code-of-conduct.html#code-of-conduct-also-known-as",
