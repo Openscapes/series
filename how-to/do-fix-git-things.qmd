@@ -2,6 +2,14 @@
 title: "Do and fix things in Git"
 ---
 
+## Happy Git With R
+
+> "Happy Git provides opinionated instructions on how to Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE; Develop a few key workflows that cover your most common tasks; Integrate Git and GitHub into your daily work with R and R Markdown."
+
+
+<https://happygitwithr.com/>
+
+
 ## Git Flight Rules
 
 "A guide for astronauts (now, programmers using Git) about what to do when things go wrong." 
@@ -9,7 +17,6 @@ title: "Do and fix things in Git"
 <https://github.com/k88hudson/git-flight-rules> 
 
 This is quite a comprehensive and maintained list of git commands, using the command line.
-
 
 ## GitHub: A beginner's guide to going back in time (aka fixing mistakes)
 
