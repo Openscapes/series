@@ -600,5 +600,19 @@
     "title": "Openscapes Champions Lesson Series",
     "section": "Citation",
     "text": "Citation\nAll material in the Openscapes Approach Guide is available under a CC-BY 4.0 licence.\nPlease cite this guide as:\nThe Openscapes Core Team, Lowndes & Robinson (2021). Openscapes Champions Lesson Series (Version v0.0.1). https://openscapes.org/series.\n\n\n  Openscapes is licensed under a Creative Commons Attribution 4.0 International License."
+  },
+  {
+    "objectID": "how-to/do-fix-git-things.html#git-flight-rules",
+    "href": "how-to/do-fix-git-things.html#git-flight-rules",
+    "title": "Do and fix things in Git",
+    "section": "Git Flight Rules",
+    "text": "Git Flight Rules\n“A guide for astronauts (now, programmers using Git) about what to do when things go wrong.”\nhttps://github.com/k88hudson/git-flight-rules\nThis is quite a comprehensive and maintained list of git commands, using the command line."
+  },
+  {
+    "objectID": "how-to/do-fix-git-things.html#github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes",
+    "href": "how-to/do-fix-git-things.html#github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes",
+    "title": "Do and fix things in Git",
+    "section": "GitHub: A beginner’s guide to going back in time (aka fixing mistakes)",
+    "text": "GitHub: A beginner’s guide to going back in time (aka fixing mistakes)\nhttps://ohi-science.org/news/github-going-back-in-time\nThis has screenshots and a workflow with RStudio and the command line."
   }
 ]

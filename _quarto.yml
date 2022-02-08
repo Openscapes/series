@@ -71,7 +71,9 @@ website:
            text: Overview
          - href: "how-to/setup-rstudio-github.qmd"   
            text: Setup RStudio & GitHub
-         - href: "how-to/reuse-openscapes-approach.qmd"   
+         - href: "how-to/setup-rstudio-github.qmd"   
+           text: Do & fix git things            
+         - href: "how-to/do-fix-git-things.qmd"   
            text: Reuse Openscapes Approach           
   #       - href: "how-to/publish-with-quarto.qmd" # revisit
   #         text: Publish with Quarto

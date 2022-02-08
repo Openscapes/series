@@ -8,5 +8,6 @@ The [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) is
 
 - Have Google Doc agenda with live notetaking during your meetings  (if this is a recurring meeting, organize it in a shared folder, either with one doc per meeting like our Cohort Call Agendas or many meetings in the same doc with the most recent at the top, like our Co-Working notes)
 - Begin a meeting with a Roll Call/Check in and Code of Conduct
+- Share slides before giving your talk so that folks can see them in high resolution and click on links
 - Teach using other people's slides
 

@@ -1,0 +1,18 @@
+---
+title: "Do and fix things in Git"
+---
+
+## Git Flight Rules
+
+"A guide for astronauts (now, programmers using Git) about what to do when things go wrong." 
+
+<https://github.com/k88hudson/git-flight-rules> 
+
+This is quite a comprehensive and maintained list of git commands, using the command line.
+
+
+## GitHub: A beginner's guide to going back in time (aka fixing mistakes)
+
+<https://ohi-science.org/news/github-going-back-in-time>
+
+This has screenshots and a workflow with RStudio and the command line.
