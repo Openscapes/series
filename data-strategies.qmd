@@ -1,4 +1,6 @@
-# Data strategies for future us {#data-strategies}
+---
+title: Data strategies for future us
+---
 
 Data strategies are part of a shared workflow strategy: How do we structure data, where do we store and back up data, how do we create metadata, and keep the raw data raw...Here we will discuss personal and team habits for data management and sharing: data strategies for future us.
 
@@ -64,7 +66,8 @@ The publication also covers:
 - Tracking changes: record how various components of your project change over time.
 - Manuscripts: write manuscripts in a way that leaves an audit trail & minimizes manual merging of conflicts.
 
-## Make scientific data FAIR
+<!---
+Make scientific data FAIR
 
 This publication by [Stall et al 2019](https://www.nature.com/articles/d41586-019-01720-7) in *Nature*, says that all disciplines should follow the geosciences and demand best practice for publishing and sharing data. 
 
@@ -82,6 +85,8 @@ Read their paper for strategies and examples behind changing the culture: There 
 1. Make depositing open and FAIR data a priority for all.
 1. Recognize and incentivize FAIR data practices.
 1. Fund global infrastructure to support FAIR data and tools.
+
+--->
 
 ## Tidy data for efficiency, reproducibility, & collaboration
 
@@ -165,20 +170,14 @@ So for more efficient, reproducible, and collaborative analyses, make friends wi
 
 -----
 
-### Learn more about tidy data: 
+## Learning Resources
 
-
-
-
-
-## Further Reading
+- Grolemund, G & Wickham, H (2016). R for Data Science: <https://r4ds.had.co.nz>
+  - See Ch 12: Tidy Data 
 
 - Wickham, H (2014). _Tidy Data_. Journal of Statistical Software 58 (10). [jstatsoft.org/v59/i10/](http://www.jstatsoft.org/v59/i10/)
 
 - Broman, KW and KH Woo (2018). _Data Organization in Spreadsheets_. [The American Statistician 72 (1)](https://doi.org/10.1080/00031305.2017.1375989). Available open access as a [PeerJ preprint](https://peerj.com/preprints/3183/).
-
-- Grolemund, G & Wickham, H (2016). R for Data Science: Ch 12 (Tidy Data)
-<https://r4ds.had.co.nz>
 
 - Leek, J (2016). [How to share data with a statistician](https://github.com/jtleek/datasharing)
 

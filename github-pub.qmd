@@ -1,4 +1,6 @@
-# GitHub for Publishing {#github-pub} 
+---
+title: GitHub for Publishing
+---
 
 <!---
 

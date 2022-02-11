@@ -1,4 +1,6 @@
-# Coding strategies for future us {#coding-strategies} 
+---
+title: Coding strategies for future us {#coding-strategies} 
+---
 
 Coding strategies can blend with workflow strategies, and the idea is working in a way that is not just for you in this moment. Here we will discuss good coding practices for beginning and seasoned coders alike that make it easier to work with other people, times, and computers. 
 
