@@ -592,7 +592,7 @@
     "href": "community-lessons/index.html#fay-lab-manual",
     "title": "Openscapes Community Lessons",
     "section": "Fay Lab Manual",
-    "text": "Fay Lab Manual\nThis is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.\nhttps://thefaylab.github.io/lab-manual/\nCheck out how they’ve organized this onboarding document that prospective students and postdocs have said stood out to them. Consider reusing/remixing for your own group!"
+    "text": "Fay Lab Manual\nThis is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.\nhttps://thefaylab.github.io/lab-manual/\nCheck out how they’ve organized this onboarding document that prospective students and postdocs have said stood out to them. Consider reusing/remixing for your own group!\nSlides from Gavin Fay’s 2022 talk at NOAA Alaska Fisheries Science Center"
   },
   {
     "objectID": "community-lessons/index.html#r-for-excel-users",
@@ -607,5 +607,12 @@
     "title": "Data strategies for future us",
     "section": "Learning Resources",
     "text": "Learning Resources\n\nGrolemund, G & Wickham, H (2016). R for Data Science: https://r4ds.had.co.nz\n\nSee Ch 12: Tidy Data\n\nWickham, H (2014). Tidy Data. Journal of Statistical Software 58 (10). jstatsoft.org/v59/i10/\nBroman, KW and KH Woo (2018). Data Organization in Spreadsheets. The American Statistician 72 (1). Available open access as a PeerJ preprint.\nLeek, J (2016). How to share data with a statistician"
+  },
+  {
+    "objectID": "community-lessons/index.html#allison-horst---open-educational-resources",
+    "href": "community-lessons/index.html#allison-horst---open-educational-resources",
+    "title": "Openscapes Community Lessons",
+    "section": "Allison Horst - open educational resources",
+    "text": "Allison Horst - open educational resources\nAllison Horst shares many open educational resources, including workshops and slides, at https://www.allisonhorst.com/:\n\n“I actively work to contribute to open educational resources, including software for data science education (e.g. the palmerpenguins R dataset package), and artwork for data science & stats teachers and learners. From 2019 - 2020 I was RStudio’s first Artist-in-Residence. You can read more about my motivation in that role in this blog post, and you can find some of my R- and stats-related artwork in this repo.”\n\nAllison teaches environmental data science at UCSB (see her courses at https://ucsb-meds.github.io/)."
   }
 ]
