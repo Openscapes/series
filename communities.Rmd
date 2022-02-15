@@ -1,6 +1,5 @@
----
-title: Open communities
----
+## Open communities
+
 
 Open communities play a big role in advancing research, helping research feel less lonely and reducing the amount of time we all spend being stuck spend reinventing the wheel. This is a brief (incomplete) introduction to the idea of open communities. We will explore: What are open communities? Why engage with them? How to engage with them? And also how Twitter as a legit tool for coding and science.  Originally focusing on R communities, we are adding more examples beyond. 
 
