@@ -57,7 +57,7 @@ website:
            text: Data stategies
          - href: "coding-strategies.qmd"
            text: Coding strategies
-         - href: "communities.Rmd"
+         - href: "communities.qmd"
            text: Open communities
       - section: "Additional Lessons"
         contents:

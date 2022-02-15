@@ -394,28 +394,28 @@
   {
     "objectID": "communities.html#what-are-open-communities",
     "href": "communities.html#what-are-open-communities",
-    "title": "Openscapes Champions Series",
+    "title": "Open communities",
     "section": "What are open communities?",
     "text": "What are open communities?\nOpen communities are groups of people openly creating, sharing, teaching, collaborating. They are united around a shared interest: coding language, topic, discipline, etc.\nThey have a culture of shared & continued learning, prioritize diversity, equity, inclusion.\nThey have online and in-person activities.\nHere are some examples of communities. Read more & direct links: https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#r-communities\n\n\n\nSome #rstats communities with in-person and online events and channels\n\n\n\nThere are strategies for learning with both online and local communities."
   },
   {
     "objectID": "communities.html#why-engage-with-open-communities",
     "href": "communities.html#why-engage-with-open-communities",
-    "title": "Openscapes Champions Series",
+    "title": "Open communities",
     "section": "Why engage with open communities?",
     "text": "Why engage with open communities?\n\nSkillshare (teach & learn)\n\nCoding, software, workflows\nCollaboration, leadership, DEIJ\n\nMeet allies, grow friendships, career opportunities\nHelp improve science & scientific culture\n\nIncrease visibility & value of coding, data, collaboration skills\nDrive change: modern ways to contribute to science. Formally incentivize and teach! Include in promotion/tenure (we shouldn’t really have to teach ourselves on our own time and not be credited), create jobs\n\nCarry on & forward your experience from Openscapes"
   },
   {
     "objectID": "communities.html#how-to-get-started",
     "href": "communities.html#how-to-get-started",
-    "title": "Openscapes Champions Series",
+    "title": "Open communities",
     "section": "How to get started?",
     "text": "How to get started?\nGoogle your interests/needs. When you Google, include what you want to do PLUS r, rstats; python.\nStart by listening and learning. Be deliberate: curate who you follow.\nLike and share when you’re comfortable.\nThen, contribute – your ideas, your blogs, your papers, your code… Contributors are welcome in open communities! And know too that the R packages ggplot & knitr were created by students (Wickham & Xie) (see McBain 2019).\nFinally, Twitter is a legit tool for science. It’s a good way to learn what you need to learn and broadening your horizons while building community. Some places to start: #rstats, #rstatsES, #rspatial, #pydata, #BlackAndSTEM, #MeTooSTEM\nSeaside Chats are a great way to start exploring together."
   },
   {
     "objectID": "communities.html#examples-in-the-wild-campus-coding-clubs",
     "href": "communities.html#examples-in-the-wild-campus-coding-clubs",
-    "title": "Openscapes Champions Series",
+    "title": "Open communities",
     "section": "Examples in the wild: campus coding clubs",
     "text": "Examples in the wild: campus coding clubs\n\nEcoDataScience at UC Santa Barbara\nBioData Club at OHSU\nThe Bio-Data Club at Moffitt"
   },
@@ -620,6 +620,6 @@
     "href": "communities.html#open-communities",
     "title": "Openscapes Champions Series",
     "section": "Open communities",
-    "text": "Open communities\nOpen communities play a big role in advancing research, helping research feel less lonely and reducing the amount of time we all spend being stuck spend reinventing the wheel. This is a brief (incomplete) introduction to the idea of open communities. We will explore: What are open communities? Why engage with them? How to engage with them? And also how Twitter as a legit tool for coding and science. Originally focusing on R communities, we are adding more examples beyond.\nI’m making edits in text\n\n3+5\n\n[1] 8\n\n\nAs I add more stuff\nSlides that have been presented during Champions Program Cohort Calls:\n\nOpen Communities, which we go through in a Cohort Call\nDiscovering Community Tools, which teams review during a Seaside Chat"
+    "text": "Open communities\nOpen communities play a big role in advancing research, helping research feel less lonely and reducing the amount of time we all spend being stuck spend reinventing the wheel. This is a brief (incomplete) introduction to the idea of open communities. We will explore: What are open communities? Why engage with them? How to engage with them? And also how Twitter as a legit tool for coding and science. Originally focusing on R communities, we are adding more examples beyond.\nSlides that have been presented during Champions Program Cohort Calls:\n\nOpen Communities, which we go through in a Cohort Call\nDiscovering Community Tools, which teams review during a Seaside Chat"
   }
 ]
