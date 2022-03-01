@@ -35,6 +35,10 @@ Between Cohort Calls, each team meets together for [Seaside Chats](https://www.o
 
 Cohort Call agendas and slides are all openly available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), ready for reuse and remix. We end each lesson by learning hands-on efficiency tips ([Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml)) and inclusion tips.
 
+## Cohorts - past and upcoming
+
+We have led 8+ Champions Cohorts since 2019. Starting in 2021, each Cohort has an events page with links to their GitHub repository (with quick-links to their Cohort Call Agendas so teams can more easily review), blog posts and any additional resources. Explore more at [openscapes.org/cohorts](https://openscapes.org/cohorts).
+
 ## About
 
 [Openscapes](https://openscapes.org) helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams. Our work builds from many others in the open movement, and we are also documenting our process to onboard folks and scale Openscapes in our [Approach Guide](https://openscapes.github.io/approach-guide).
@@ -43,7 +47,7 @@ Cohort Call agendas and slides are all openly available in a [Google Folder](htt
 
 Openscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together. This is a remote-by-design program since its launch in 2019. 
 
-Core lessons were originally developed from "Our path to better science in less time using open data science tools" [(Lowndes et al. 2017)](https://www.nature.com/articles/s41559-017-0160). As we learn and iterate leading [8+ Champions Cohorts](https://openscapes.org/cohorts), the curriculum is iterating and growing as well. 
+Core lessons were originally developed from "Our path to better science in less time using open data science tools" [(Lowndes et al. 2017)](https://www.nature.com/articles/s41559-017-0160). As we learn and iterate leading Champions Cohorts, the curriculum is iterating and growing as well. 
 
 ### This Series Book
 

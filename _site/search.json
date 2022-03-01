@@ -154,13 +154,6 @@
     "text": "Good enough practices in scientific computing.\nThis publication by Wilson et al. 2017 in PLoS Computational Biology follows a previous publication by Wilson et al. 2014: Best practices for scientific computing.\nIn terms of data management recommendataion, they have 2 main themes:\n\nwork towards ready-to-analyze data incrementally, documenting both the intermediate data and the process\nembrace the idea of “tidy data”, which can be a powerful accelerator for analysis\n\nRead their paper for strategies behind their basic principles (Box 1):\n\nSave the raw data.\nEnsure that raw data are backed up in more than one location.\nCreate the data you wish to see in the world.\nCreate analysis-friendly data.\nRecord all the steps used to process data.\nAnticipate the need to use multiple tables, & use a unique identifier for every record.\nSubmit data to a reputable DOI-issuing repository so that others can access & cite.\n\nThe publication also covers:\n\nSoftware: write, organize, and share scripts and programs used in an analysis.\nCollaboration: make it easy for existing and new collaborators to understand & contribute to a project.\nProject organization: organize the digital artifacts of a project to ease discovery & understanding.\nTracking changes: record how various components of your project change over time.\nManuscripts: write manuscripts in a way that leaves an audit trail & minimizes manual merging of conflicts."
   },
   {
-    "objectID": "data-strategies.html#make-scientific-data-fair",
-    "href": "data-strategies.html#make-scientific-data-fair",
-    "title": "Data strategies for future us {#data-strategies}",
-    "section": "Make scientific data FAIR",
-    "text": "Make scientific data FAIR\nThis publication by Stall et al 2019 in Nature, says that all disciplines should follow the geosciences and demand best practice for publishing and sharing data.\nFAIR data means:\n\n‘Findable’ by anyone using common search tools\n‘Accessible’ so that the data and metadata can be examined\n‘Interoperable’ so that comparable data can be analysed and integrated through the use of common vocabulary and formats\n‘Reusable’ by others through robust metadata, provenance, usage licences\n\n\n“Changes in geosciences policy and practice elevate data to valuable research contributions rather than files that are shoved in as an afterthought.”\n\nRead their paper for strategies and examples behind changing the culture: There are three big changes are crucial to shift research culture across all disciplines:\n\nMake depositing open and FAIR data a priority for all.\nRecognize and incentivize FAIR data practices.\nFund global infrastructure to support FAIR data and tools."
-  },
-  {
     "objectID": "data-strategies.html#tidy-data-for-efficiency-reproducibility-collaboration",
     "href": "data-strategies.html#tidy-data-for-efficiency-reproducibility-collaboration",
     "title": "Data strategies for future us",
@@ -168,11 +161,11 @@
     "text": "Tidy data for efficiency, reproducibility, & collaboration\nBy Lowndes & Horst 2020, posted on the Openscapes blog: an illustrated series to tell a story about tidy data.\nTidy data has been mentioned in each of the above, as a way to organize data in spreadsheets, to prepare ready-to-analyze data, and for sharing with the FAIR principles.\nSo what is tidy data?\nFirst, a preamble:\n\nRaw data may not be stored in a tidy way\n“Wrangling” data into tidy structure should be done programmatically as part of the analytical process - keep the raw data raw\nTidy data is a philosophy\nThere are existing tools to help\n\nRemember that “tidying data (“data wrangling”) – up to 50–80% of a data scientist’s time” Lohr 2014, New York Times, so it’s important to leverage these existing philosophies and tools.\nWhen we talk about organizing data to help us work in an efficient, reproducible, and collaborative way, we are talking about TIDY DATA. We mean deliberately thinking about the shape and structure of data – something that might not seem super exciting but is truly game-changing.\nSo let’s talk about what tidy data is and why it is so empowering for your analytical life.\n\nWhat is tidy data?\nTidy data is a way to describe data that’s organized with a particular structure – a rectangular structure, where each variable has its own column, and each observation has its own row (Wickham 2014).\n\n\n\n\nThis standard structure of tidy data led Hadley Wickham to describe it the way Leo Tolstoy describes families. Leo says “Happy families are all alike; every unhappy family is unhappy in its own way”. Similarly, Hadley says “tidy datasets are all alike, but every messy dataset is messy in its own way”.\n\n\n\n\n\n\nTidy data for more efficient data science\nTidy data allows you to be more efficient by using existing tools deliberately built to do the things you need to do, from subsetting portions of your data to plotting maps of your study area. Using existing tools saves you from building from scratch each time you work with a new dataset (which can be time-consuming and demoralizing). And luckily, there are a lot of tools specifically built to wrangle untidy data into tidy data (for example, in the tidyr package). By being more equipped to wrangle your data into a tidy format, you can get to your analyses faster to start answering the questions you’re asking.\n\n\n\n\n\n\nTidy data for easier collaboration\nTidy data makes it easier to collaborate because our friends can use the same tools in a familiar way. Whether thinking about collaborators as current teammates, your future self, or future teammates, organizing and sharing data in a consistent and predictable way means less adjustment, time, and effort for all.\n\n\n\n\n\n\nTidy data for reproducibility and reuse\nTidy data also makes it easier to reproduce analyses because they are easier to understand, update, and reuse. By using tools together that all expect tidy data as inputs, you can build and iterate really powerful workflows. And, when you have additional data entries, it’s no problem to re-run your code!\n\n\n\n\n\n\nTidy data for the win!\nOnce you are empowered with tools to work with tidy data generally, it opens up a whole new world of datasets that feel more approachable because you can work using familiar tools. This transferrable confidence and ability to collaborate might be the best thing about tidy data.\n\n\n\n\nSo for more efficient, reproducible, and collaborative analyses, make friends with tidy data!"
   },
   {
-    "objectID": "data-strategies.html#further-reading",
-    "href": "data-strategies.html#further-reading",
-    "title": "Data strategies for future us {#data-strategies}",
-    "section": "Further Reading",
-    "text": "Further Reading\n\nWickham, H (2014). Tidy Data. Journal of Statistical Software 58 (10). jstatsoft.org/v59/i10/\nBroman, KW and KH Woo (2018). Data Organization in Spreadsheets. The American Statistician 72 (1). Available open access as a PeerJ preprint.\nGrolemund, G & Wickham, H (2016). R for Data Science: Ch 12 (Tidy Data) https://r4ds.had.co.nz\nLeek, J (2016). How to share data with a statistician"
+    "objectID": "data-strategies.html#learning-resources",
+    "href": "data-strategies.html#learning-resources",
+    "title": "Data strategies for future us",
+    "section": "Learning Resources",
+    "text": "Learning Resources\n\nGrolemund, G & Wickham, H (2016). R for Data Science: https://r4ds.had.co.nz\n\nSee Ch 12: Tidy Data\n\nWickham, H (2014). Tidy Data. Journal of Statistical Software 58 (10). jstatsoft.org/v59/i10/\nBroman, KW and KH Woo (2018). Data Organization in Spreadsheets. The American Statistician 72 (1). Available open access as a PeerJ preprint.\nLeek, J (2016). How to share data with a statistician"
   },
   {
     "objectID": "mindset.html#data-science-as-a-discipline",
@@ -277,7 +270,7 @@
     "href": "index.html#about",
     "title": "Openscapes Champions Lesson Series",
     "section": "About",
-    "text": "About\nOpenscapes helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams. Our work builds from many others in the open movement, and we are also documenting our process to onboard folks and scale Openscapes in our Approach Guide.\n\nOpenscapes Champions\nOpenscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together. This is a remote-by-design program since its launch in 2019.\nCore lessons were originally developed from “Our path to better science in less time using open data science tools” (Lowndes et al. 2017). As we learn and iterate leading 8+ Champions Cohorts, the curriculum is iterating and growing as well.\n\n\nThis Series Book\nThe Series is written (and always improving) to be used as a reference, to teach, as self-paced learning, and for reuse and remix. And also, awesomely, it’s created with the same tools and practices we will be talking about: R/RStudio - originally bookdown and now quarto - and GitHub.\n\n\nCitation\nAll material in the Openscapes Approach Guide is available under a CC-BY 4.0 licence.\nPlease cite this guide as:\nThe Openscapes Core Team, Lowndes & Robinson (2021). Openscapes Champions Lesson Series (Version v0.0.1). https://openscapes.org/series.\n\n\n  Openscapes is licensed under a Creative Commons Attribution 4.0 International License."
+    "text": "About\nOpenscapes helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams. Our work builds from many others in the open movement, and we are also documenting our process to onboard folks and scale Openscapes in our Approach Guide.\n\nOpenscapes Champions\nOpenscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together. This is a remote-by-design program since its launch in 2019.\nCore lessons were originally developed from “Our path to better science in less time using open data science tools” (Lowndes et al. 2017). As we learn and iterate leading Champions Cohorts, the curriculum is iterating and growing as well.\n\n\nThis Series Book\nThe Series is written (and always improving) to be used as a reference, to teach, as self-paced learning, and for reuse and remix. And also, awesomely, it’s created with the same tools and practices we will be talking about: R/RStudio - originally bookdown and now quarto - and GitHub.\n\n\nCitation\nAll material in the Openscapes Approach Guide is available under a CC-BY 4.0 licence.\nPlease cite this guide as:\nThe Openscapes Core Team, Lowndes & Robinson (2021). Openscapes Champions Lesson Series (Version v0.0.1). https://openscapes.org/series.\n\n\n  Openscapes is licensed under a Creative Commons Attribution 4.0 International License."
   },
   {
     "objectID": "github-pub.html#preamble",
@@ -585,7 +578,7 @@
     "href": "community-lessons/index.html#nmfs-openscapes",
     "title": "Openscapes Community Lessons",
     "section": "NMFS Openscapes",
-    "text": "NMFS Openscapes\nThe overarching vision of the NMFS Openscapes is to support scientific researchers within NOAA Fisheries by providing training in reproducible scientific workflows and platforms, facilitating collaboration across divisions in common scientific data science tasks, and providing shared “best practices” resources.\nhttps://github.com/nmfs-openscapes\nCheck out the NMFS R UG (R Users Group) for upcoming events and Wiki for links to resources and examples of open science at NOAA Fisheries."
+    "text": "NMFS Openscapes\nThe overarching vision of the NMFS Openscapes is to support scientific researchers within NOAA Fisheries by providing training in reproducible scientific workflows and platforms, facilitating collaboration across divisions in common scientific data science tasks, and providing shared “best practices” resources. Check out the NMFS R UG (R Users Group) for upcoming events and Wiki for links to resources and examples of open science at NOAA Fisheries.\nhttps://github.com/nmfs-openscapes\nHighlighting a few lessons by Eli Holmes and Em Markowitz:\n\nAdvanced GitHub Clinic\ngoogledrive R package\nPSAW 2022: Intro to R data packages, Intro to GitHub"
   },
   {
     "objectID": "community-lessons/index.html#fay-lab-manual",
@@ -602,13 +595,6 @@
     "text": "R for Excel Users\nThis course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.\nhttps://rstudio-conf-2020.github.io/r-for-excel/\nCheck out the resources throughout as well - it’s not only for Excel users, it’s for everyone."
   },
   {
-    "objectID": "data-strategies.html#learning-resources",
-    "href": "data-strategies.html#learning-resources",
-    "title": "Data strategies for future us",
-    "section": "Learning Resources",
-    "text": "Learning Resources\n\nGrolemund, G & Wickham, H (2016). R for Data Science: https://r4ds.had.co.nz\n\nSee Ch 12: Tidy Data\n\nWickham, H (2014). Tidy Data. Journal of Statistical Software 58 (10). jstatsoft.org/v59/i10/\nBroman, KW and KH Woo (2018). Data Organization in Spreadsheets. The American Statistician 72 (1). Available open access as a PeerJ preprint.\nLeek, J (2016). How to share data with a statistician"
-  },
-  {
     "objectID": "community-lessons/index.html#allison-horst---open-educational-resources",
     "href": "community-lessons/index.html#allison-horst---open-educational-resources",
     "title": "Openscapes Community Lessons",
@@ -616,10 +602,17 @@
     "text": "Allison Horst - open educational resources\nAllison Horst shares many open educational resources, including workshops and slides, at https://www.allisonhorst.com/:\n\n“I actively work to contribute to open educational resources, including software for data science education (e.g. the palmerpenguins R dataset package), and artwork for data science & stats teachers and learners. From 2019 - 2020 I was RStudio’s first Artist-in-Residence. You can read more about my motivation in that role in this blog post, and you can find some of my R- and stats-related artwork in this repo.”\n\nAllison teaches environmental data science at UCSB (see her courses at https://ucsb-meds.github.io/)."
   },
   {
-    "objectID": "communities.html#open-communities",
-    "href": "communities.html#open-communities",
-    "title": "Openscapes Champions Series",
-    "section": "Open communities",
-    "text": "Open communities\nOpen communities play a big role in advancing research, helping research feel less lonely and reducing the amount of time we all spend being stuck spend reinventing the wheel. This is a brief (incomplete) introduction to the idea of open communities. We will explore: What are open communities? Why engage with them? How to engage with them? And also how Twitter as a legit tool for coding and science. Originally focusing on R communities, we are adding more examples beyond.\nSlides that have been presented during Champions Program Cohort Calls:\n\nOpen Communities, which we go through in a Cohort Call\nDiscovering Community Tools, which teams review during a Seaside Chat"
+    "objectID": "index.html#cohorts---past-and-upcoming",
+    "href": "index.html#cohorts---past-and-upcoming",
+    "title": "Openscapes Champions Lesson Series",
+    "section": "Cohorts - past and upcoming",
+    "text": "Cohorts - past and upcoming\nWe have led 8+ Champions Cohorts since 2019. Starting in 2021, each Cohort has an events page with links to their GitHub repository (with quick-links to their Cohort Call Agendas so teams can more easily review), blog posts and any additional resources. Explore more at openscapes.org/cohorts."
+  },
+  {
+    "objectID": "how-to/create-publish-quarto.html",
+    "href": "how-to/create-publish-quarto.html",
+    "title": "Create & publish with Quarto",
+    "section": "",
+    "text": "We’ve created a tutorial on how to copy (fork or download) an existing Quarto website like this one and adapt it for your own uses. Please see: https://openscapes.github.io/quarto-website-tutorial/."
   }
 ]
