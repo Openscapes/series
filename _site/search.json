@@ -42,27 +42,6 @@
     "text": "Additional reading\n\nPractical Computing for Biologists. Introduction to the Terminal/command line, introduction to regular expressions. Chapter 2 alone is incredibly powerful\nVirtual meetings\n\nhttps://opensource.com/article/20/6/remote-meetings\nhttps://aspirationtech.org/blog/virtualmeetingpowerdynamics"
   },
   {
-    "objectID": "bsilt.html#ocean-health-index-behind-the-scenes",
-    "href": "bsilt.html#ocean-health-index-behind-the-scenes",
-    "title": "Openscapes Champions Series",
-    "section": "Ocean Health Index: behind the scenes",
-    "text": "Ocean Health Index: behind the scenes\nSome key points to discuss from Lowndes et al. 2017, Nature Ecology & Evolution: Our path to better science in less time using open data science tools:\n\nReproducibility & communication enabled by open tooling\nShared practices are useful beyond shared projects\n\nIf you’re interested in more overview of the OHI setup, see this 2017 talk (25 mins): OHI Better science in less time\n\nOHI pathway\n\nMotivated by necessity\nReimagined by possibility and community\nDone incrementally!\nYes: it’s an investment.\nAlso yes: huge, enduring payoff for (your) science\n\n\n\nReproducibility & communication enabled by open tooling\nRMarkdown to reimagine data analysis and communication. RMarkdown combines analyses & figures together, rendered to your reporting output of choice.\nAn example: http://ohi-science.org/betterscienceinlesstime/\n\nWebsite built with R/RMarkdown & Github\n\nYou can get started too: (1-hour tutorial)\n\n\n\nShared workflows not only useful for shared projects\n\nOHI team: we identified as a team & prioritized helping each other\n\nWe work on many different projects\nUse same workflows, share feedback, can think together across projects\n\nShared conventions reduce friction & cognitive load\n\nCommon ground, easier to talk about, easier to ask for help\nYou don’t need to design everything from scratch\n\n\nAnd, critically:\n\nIt’s about increasing efficiency and reproducibility and open science.\nBut it is also about increasing participation and inclusion.\nConsider diversity, equity, and inclusion in your daily practices.\nHow you work and onboard others to your projects is a DEI issue."
-  },
-  {
-    "objectID": "bsilt.html#examples-in-the-wild-environmental-science",
-    "href": "bsilt.html#examples-in-the-wild-environmental-science",
-    "title": "Openscapes Champions Series",
-    "section": "Examples in the wild: environmental science",
-    "text": "Examples in the wild: environmental science\n\nRegime Shifts in R & Data Science within the BC Public Service Observations from the field - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote\nNMFSReports: Easily write NOAA reports and tech memos in R Markdown! - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk\nAutomated reporting in Tampa Bay with open science - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog\n\nTBEP’s Data Management Workflow and open science cake"
-  },
-  {
-    "objectID": "bsilt.html#further-resources",
-    "href": "bsilt.html#further-resources",
-    "title": "Openscapes Champions Series",
-    "section": "Further resources",
-    "text": "Further resources\n\nNot so standard deviation podcast\nParker & Peng\nhttp://nssdeviations.com\nGreat discussions about data concepts and “in the wild”\nEpisode 9: Spreadsheet drama\n\n\nPractical computing for biologists\nHaddock & Dunn\nhttp://practicalcomputing.org/\nSoftware & computing concepts already on your computer\nChapter 2: Regular expressions"
-  },
-  {
     "objectID": "github-issues.html#preamble",
     "href": "github-issues.html#preamble",
     "title": "GitHub for Project Management",
@@ -600,5 +579,26 @@
     "title": "Openscapes Community Lessons",
     "section": "Allison Horst - open educational resources",
     "text": "Allison Horst - open educational resources\nAllison Horst shares many open educational resources, including workshops and slides, at https://www.allisonhorst.com/:\n\n“I actively work to contribute to open educational resources, including software for data science education (e.g. the palmerpenguins R dataset package), and artwork for data science & stats teachers and learners. From 2019 - 2020 I was RStudio’s first Artist-in-Residence. You can read more about my motivation in that role in this blog post, and you can find some of my R- and stats-related artwork in this repo.”\n\nAllison teaches environmental data science at UCSB (see her courses at https://ucsb-meds.github.io/)."
+  },
+  {
+    "objectID": "better-science.html#ocean-health-index-behind-the-scenes",
+    "href": "better-science.html#ocean-health-index-behind-the-scenes",
+    "title": "Better science in less time",
+    "section": "Ocean Health Index: behind the scenes",
+    "text": "Ocean Health Index: behind the scenes\nSome key points to discuss from Lowndes et al. 2017, Nature Ecology & Evolution: Our path to better science in less time using open data science tools:\n\nReproducibility & communication enabled by open tooling\nShared practices are useful beyond shared projects\n\nIf you’re interested in more overview of the OHI setup, see this 2017 talk (25 mins): OHI Better science in less time\n\nOHI pathway\n\nMotivated by necessity\nReimagined by possibility and community\nDone incrementally!\nYes: it’s an investment.\nAlso yes: huge, enduring payoff for (your) science\n\n\n\nReproducibility & communication enabled by open tooling\nRMarkdown to reimagine data analysis and communication. RMarkdown combines analyses & figures together, rendered to your reporting output of choice.\nAn example: http://ohi-science.org/betterscienceinlesstime/\n\nWebsite built with R/RMarkdown & Github\n\nYou can get started too: (1-hour tutorial)\n\n\n\nShared workflows not only useful for shared projects\n\nOHI team: we identified as a team & prioritized helping each other\n\nWe work on many different projects\nUse same workflows, share feedback, can think together across projects\n\nShared conventions reduce friction & cognitive load\n\nCommon ground, easier to talk about, easier to ask for help\nYou don’t need to design everything from scratch\n\n\nAnd, critically:\n\nIt’s about increasing efficiency and reproducibility and open science.\nBut it is also about increasing participation and inclusion.\nConsider diversity, equity, and inclusion in your daily practices.\nHow you work and onboard others to your projects is a DEI issue."
+  },
+  {
+    "objectID": "better-science.html#examples-in-the-wild-environmental-science",
+    "href": "better-science.html#examples-in-the-wild-environmental-science",
+    "title": "Better science in less time",
+    "section": "Examples in the wild: environmental science",
+    "text": "Examples in the wild: environmental science\n\nRegime Shifts in R & Data Science within the BC Public Service Observations from the field - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote\nNMFSReports: Easily write NOAA reports and tech memos in R Markdown! - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk\nAutomated reporting in Tampa Bay with open science - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog\n\nTBEP’s Data Management Workflow and open science cake"
+  },
+  {
+    "objectID": "better-science.html#further-resources",
+    "href": "better-science.html#further-resources",
+    "title": "Better science in less time",
+    "section": "Further resources",
+    "text": "Further resources\n\nNot so standard deviation podcast\nParker & Peng\nhttp://nssdeviations.com\nGreat discussions about data concepts and “in the wild”\nEpisode 9: Spreadsheet drama\n\n\nPractical computing for biologists\nHaddock & Dunn\nhttp://practicalcomputing.org/\nSoftware & computing concepts already on your computer\nChapter 2: Regular expressions"
   }
 ]

@@ -44,7 +44,7 @@ website:
            text: Overview
          - href: "mindset.qmd"
            text: Mindset
-         - href: "bsilt.qmd"
+         - href: "better-science.qmd"
            text: Better science in less time
          - href: "github-pub.qmd"
            text: GitHub for publishing
