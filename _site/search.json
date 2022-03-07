@@ -165,7 +165,7 @@
     "href": "mindset.html#open-data-science",
     "title": "Openscapes Mindset",
     "section": "Open data science",
-    "text": "Open data science\nWe define open data science as the tooling and people enabling reproducible, transparent, and inclusive practices for data-intensive science."
+    "text": "Open data science\nWe define open data science as the tooling and people enabling reproducible, transparent, and inclusive practices for data-intensive science.\n\nThis works as a beautiful feedback loop: Using similar tooling promotes and streamlines teamwork. And teamwork better equips you to learn new tooling. With this shared mindset, the idea of team becomes ever-broadening, along with your abilities to adapt to an evolving softwarescape.\n\nOpen data science feedback loop in action\nThere are innumerable examples of this feedback loop in action.\nOne great example is GitHub.\nAs a tool, GitHub can be used for collaborative version control that handles archiving, bookkeeping, and searching. It also has tools for project management, as well as publishing with Markdown.\nCommunity norms with GitHub include the way files are organized, how documentation looks, and the idea that READMEs displayed on the homepage are used to help onboard new folks to using or contributing to the project. Additionally, folks use the GitHub Issues and Projects feature to discuss and coordinate. Used these ways, GitHub is enabling a new era of #SciComm (Science Communication).\n\nGitHub enables collaboration by reducing both analysis_final_final_final.R and re: fwd: FWD: analysis_final_final_final.R"
   },
   {
     "objectID": "mindset.html#section",

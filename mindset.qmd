@@ -64,7 +64,7 @@ This means sharing imperfect work, create space, have empathy, learn together.
 
 We define open data science as **the tooling and people enabling reproducible, transparent, and inclusive practices for data-intensive science.**
 
-## ![](images/feedback-loop-tooling-people.png)
+![](images/feedback-loop-tooling-people.png)
 
 **This works as a beautiful feedback loop:** Using similar tooling promotes and streamlines teamwork. And teamwork better equips you to learn new tooling. With this shared mindset, the idea of team becomes ever-broadening, along with your abilities to adapt to an evolving softwarescape.
 
