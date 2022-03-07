@@ -1,4 +1,9 @@
-# Better science in less time {#bsilt}
+---
+title: "Better science in less time"
+aliases:
+  - bsilt.html
+---
+
 
 Better science is less time is science that is more efficient, reproducible, open, inclusive, and kind. There are growing examples of better science in less time in environmental and Earth science, and beyond. Here are a few examples to showcase what is possible and being done by the community.
 
