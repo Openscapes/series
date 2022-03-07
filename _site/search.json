@@ -214,7 +214,7 @@
     "href": "mindset.html#additional-reading",
     "title": "Openscapes Champions Series",
     "section": "Additional reading",
-    "text": "Additional reading\n\nBiased by default: exploring discrimination in research code - Abby Cabunoc Mayes Bioinformatics Community Confference Keynote 2020"
+    "text": "Additional reading\n\nBiased by default: exploring discrimination in research code - Abby Cabunoc Mayes Bioinformatics Community Confference Keynote 2020\n\n\n\n\n\nConsider for your next talk: \nCarpe Talk – Bryan & Averick"
   },
   {
     "objectID": "coding-strategies.html#software-considerations-for-coding",
@@ -264,6 +264,13 @@
     "title": "Openscapes Champions Lesson Series",
     "section": "Welcome",
     "text": "Welcome\nHello! This is the lesson series for the Openscapes Champions program, an open data science mentorship program for science teams. We think about open science like a landscape, and we help researchers move from lonely science towards team science as they identify their common needs and start navigating the landscape together with a cohort of their peers.\n\n\n\nArtwork by Allison Horst\n\n\n\nThis open curriculum is improved iteratively and the most recent version always available online for reuse and remix. Each chapter in the Core Lesson Series introduces the concepts, tooling, and examples that we discuss during our Champions Program Cohort Calls. We’re also organizing additional Champions Lessons, Community Lessons, and How To guides to support Champions teams that you can navigate to on the left.\n\nCohort Calls\nResearch teams participate as a Champions Cohort over 2 months, meeting twice-monthly for five 1.5-hour sessions we call Cohort Calls.\nCohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that accompany each chapter of this book. Core lessons focus on building an open science mindset, efficiency and sharing culture within the team, and developing sustained learning practices with broader communities. At the end of the program, each team describes their work in progress and pathways forward.\n\n\n\nCohort Call Topics\nSeries Chapters\nSeaside Chat Topics\n\n\n\n\n1. Openscapes mindset\nmindset, better science in less time\nPathway - where are you now\n\n\n2. GitHub Clinic: publishing & project management\npublishing, project management\nShared organizing with GitHub\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nOnboarding docs, code of conduct\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nPathway - next steps\n\n\n5. Pathways share and next steps\n\n\n\n\n\nBetween Cohort Calls, each team meets together for Seaside Chats - dedicated time for data/workflow discussions. This is where teams begin identifying and addressing shared needs, prompted by discussions as a cohort and using the Pathways Doc. Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and culture of shared workflows and learning. Additionally, we support teams between Cohort Calls through Co-Working sessions and Slack.\n\n\nCohort Agendas\nCohort Call agendas and slides are all openly available in a Google Folder, ready for reuse and remix. We end each lesson by learning hands-on efficiency tips (Doc and Spreadsheet) and inclusion tips."
+  },
+  {
+    "objectID": "index.html#cohorts---past-and-upcoming",
+    "href": "index.html#cohorts---past-and-upcoming",
+    "title": "Openscapes Champions Lesson Series",
+    "section": "Cohorts - past and upcoming",
+    "text": "Cohorts - past and upcoming\nWe have led 8+ Champions Cohorts since 2019. Starting in 2021, each Cohort has an events page with links to their GitHub repository (with quick-links to their Cohort Call Agendas so teams can more easily review), blog posts and any additional resources. Explore more at openscapes.org/cohorts."
   },
   {
     "objectID": "index.html#about",
@@ -322,6 +329,13 @@
     "text": "Further resources\n\nGit for Humans - Alice Bartlett, 2016"
   },
   {
+    "objectID": "how-to/create-publish-quarto.html",
+    "href": "how-to/create-publish-quarto.html",
+    "title": "Create & publish with Quarto",
+    "section": "",
+    "text": "We’ve created a tutorial on how to copy (fork or download) an existing Quarto website like this one and adapt it for your own uses. Please see: https://openscapes.github.io/quarto-website-tutorial/."
+  },
+  {
     "objectID": "how-to/setup-rstudio-github.html#installation",
     "href": "how-to/setup-rstudio-github.html#installation",
     "title": "Setup RStudio and GitHub",
@@ -334,20 +348,6 @@
     "title": "Setup RStudio and GitHub",
     "section": "Practice",
     "text": "Practice\nNow you’ll want to practice how to use RStudio and GitHub. Follow R for Excel Users’ GitHub Chapter to create a GitHub repository, clone it to RStudio, make edits, and practice syncing."
-  },
-  {
-    "objectID": "how-to/publish-with-quarto.html#setup-from-the-browser",
-    "href": "how-to/publish-with-quarto.html#setup-from-the-browser",
-    "title": "Publish with Quarto",
-    "section": "Setup from the Browser",
-    "text": "Setup from the Browser\nThis is an intro to setup and contribute to documentation with Quarto from the GitHub browser. This is a good way for getting started and for making small contributions. But is definitely limited. So when you feel ready you can also setup RStudio and GitHub on your local computer and write in the visual editor in a way that feels like a Google/Word Doc.\n\nDownload template site\n\nDownload https://github.com/Openscapes/quarto-site-template\nGreen button > Download ZIP\nOn your computer: unzip files\n\n\n\nCreate a GitHub repo\nCreate a GitHub repository in your user account or in an organizaion account (don’t worry too much about this, you can always move and rename later).\nIf you need to create a GitHub account, follow instructions from Happy Git with R.\n\n\nAdd template site files\n\nAdd file > Upload files > Select all the files in unzipped folder > drag to GitHub\nCommit\n\n\n\nSet up GitHub publishing\n\nAdd file > create new file > name it exactly .github/workflows/quarto-render.yml\nPaste inside:\n\nname: Render and deploy quarto files\non: \n  push:\n  pull_request:\n\njobs:\n  quarto-render-and-deploy:\n    runs-on: ubuntu-latest\n    steps:\n    - uses: actions/checkout@v2\n\n    - name: \"Install Quarto and render project\"\n      uses: nasa-openscapes/quarto-render@v0.3.79 \n\n    - name: \"Deploy to gh-pages\"\n      uses: peaceiris/actions-gh-pages@v3\n      if: github.ref == 'refs/heads/main'\n      with:\n        github_token: ${{ secrets.GITHUB_TOKEN }}\n        publish_dir: ./_site\n\nCheck that there is a second branch called gh-pages - all lowercase, with a hyphen - should be already made!\nSettings > Pages > Source > make sure this is set to gh-pages > root\nGo into _quarto.yml and update the urls with your own urls, i.e. https://your-username/your-repo-name.github.io\nWait until orange dot turns green\nInspect: https://your-username/your-repo-name.github.io. For example: https://openscapes.github.io/quarto-site-template"
-  },
-  {
-    "objectID": "how-to/publish-with-quarto.html#develop-content",
-    "href": "how-to/publish-with-quarto.html#develop-content",
-    "title": "Publish with Quarto",
-    "section": "Develop content",
-    "text": "Develop content\nNow you can start editing these files with what you want them to say! Start off from the browser, using Markdown. Add details here.\nIf you’d like to add a new chapter, you’ll need to update the _quarto.yml file and create a new .md file; start by copying an existing one. More details coming as we do this together.\nInstead of editing from the browser, you can work locally with whatever software/editor you like (RStudio, JupyterLab, etc).\n\nSet up Quarto\nInstall Quarto from https://quarto.org. You will use your computer’s install wizard to do this, and then you’re set! There won’t be a separate app or anything installed, but now this will be available to RStudio."
   },
   {
     "objectID": "how-to/index.html",
@@ -600,19 +600,5 @@
     "title": "Openscapes Community Lessons",
     "section": "Allison Horst - open educational resources",
     "text": "Allison Horst - open educational resources\nAllison Horst shares many open educational resources, including workshops and slides, at https://www.allisonhorst.com/:\n\n“I actively work to contribute to open educational resources, including software for data science education (e.g. the palmerpenguins R dataset package), and artwork for data science & stats teachers and learners. From 2019 - 2020 I was RStudio’s first Artist-in-Residence. You can read more about my motivation in that role in this blog post, and you can find some of my R- and stats-related artwork in this repo.”\n\nAllison teaches environmental data science at UCSB (see her courses at https://ucsb-meds.github.io/)."
-  },
-  {
-    "objectID": "index.html#cohorts---past-and-upcoming",
-    "href": "index.html#cohorts---past-and-upcoming",
-    "title": "Openscapes Champions Lesson Series",
-    "section": "Cohorts - past and upcoming",
-    "text": "Cohorts - past and upcoming\nWe have led 8+ Champions Cohorts since 2019. Starting in 2021, each Cohort has an events page with links to their GitHub repository (with quick-links to their Cohort Call Agendas so teams can more easily review), blog posts and any additional resources. Explore more at openscapes.org/cohorts."
-  },
-  {
-    "objectID": "how-to/create-publish-quarto.html",
-    "href": "how-to/create-publish-quarto.html",
-    "title": "Create & publish with Quarto",
-    "section": "",
-    "text": "We’ve created a tutorial on how to copy (fork or download) an existing Quarto website like this one and adapt it for your own uses. Please see: https://openscapes.github.io/quarto-website-tutorial/."
   }
 ]
