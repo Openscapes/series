@@ -11,16 +11,6 @@ GitHub is best known as a collaborative coding platform. But of course productiv
 
 - [GitHub Clinic](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing)
 
----
-
-<!---
-GH is there to make your life easier. And facilitate collaboration. But doesn't take away necessary to communicate
-
-Great way for teams to engage, whether or not 
-
-
---->
-
 ## Preamble
 
 <!---TODO:: collaboration importance
