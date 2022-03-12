@@ -17,13 +17,8 @@ https://bootswatch.com/
 
 [Jenny Bryan](https://twitter.com/jennybryan/) has an excellent summary of Issues in her article "Excuse Me, Do You Have a Moment to Talk About Version Control?" (open-access pre-print from [PeerJ](https://peerj.com/preprints/3159/), published in [The American Statistican](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1399928)): 
 
->The overall effect is that a directory that is a GitHub-synced Git repo can simultaneously
-be the code-heavy back end of a project and an outward-facing front end.
+>The overall effect is that a directory that is a GitHub-synced Git repo can simultaneously be the code-heavy back end of a project and an outward-facing front end.
 
->Collaboration is the most compelling reason to manage a project with Git and GitHub.
-My definition of collaboration includes hands-on participation by multiple people, including
-your past and future self, as well as an asymmetric model, in which some people are active
-makers and others only read or review.
 --->
 
 GitHub is a powerful tool for collaborative coding with version control, but in the next two chapters we are going to focus on some of its lesser-celebrated awesomeness: GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.
@@ -43,8 +38,6 @@ GitHub can reduce friction for open science: it gives us avenues for communicati
 ### Prerequisite
 
 You will need to create **GitHub** account at <http://github.com>, if you don't already have one. For username, I recommend all lower-case letters, short as you can. I recommend using your *.edu email*, since you can request free private repositories via [GitHub Education](https://education.github.com/) discount.
- 
-<!---TODO and if you are participating in an Openscapes cohort, you'll need to email...--->
 
 ## What is GitHub? — Traditional answer
 
@@ -69,10 +62,10 @@ My definition of collaboration includes hands-on participation by multiple peopl
 your past and future self, as well as an asymmetric model, in which some people are active
 makers and others only read or review. - *Jenny Bryan, "Excuse Me, Do You Have a Moment to Talk About Version Control?"*
 
-Next, to learn GitHub with R, the absolute best resource is Jenny Bryan's [Happy Git With R](https://happygitwithr.com/). This is a comprehensive, friendly step-by-step process of how to do so, and is an awesome reference for seasoned git/GitHub users as well. If you want a shorter-form resource, I'd recommend 2 tutorials from [OHI-Science’s data-science-training](http://ohi-science.org/data-science-training/). This also teaches you how to set up GitHub to sync directly through RStudio, so that you don't have to have any other software (including the command line) open to do so: 
+Next, to learn GitHub with R, the absolute best resource is Jenny Bryan's [Happy Git With R](https://happygitwithr.com/). This is a comprehensive, friendly step-by-step process of how to do so, and is an awesome reference for seasoned git/GitHub users as well. If you want a shorter-form resource, I'd recommend 2 tutorials from [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel). This also teaches you how to set up GitHub to sync directly through RStudio, so that you don't have to have any other software (including the command line) open to do so: 
 
-- [GitHub](http://ohi-science.org/data-science-training/github.html)
-- [Collaborating with GitHub](http://ohi-science.org/data-science-training/collaborating.html)
+- [GitHub](https://rstudio-conf-2020.github.io/r-for-excel/github.html)
+- [Collaborating with GitHub](https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#collaborating-with-github)
 
 On my local computer, I interact with GitHub through RStudio 99.9% of the time (use command line .1% of time). 
 *Upcoming: resources for setting up GitHub without RStudio*
