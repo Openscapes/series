@@ -25,9 +25,13 @@ Research teams participate as a Champions Cohort over 2 months, meeting twice-mo
 
 Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that accompany each chapter of this book. Core lessons focus on building an open science mindset, efficiency and sharing culture within the team, and developing sustained learning practices with broader communities. At the end of the program, each team describes their work in progress and pathways forward.
 
-```{.include}
-_agenda_2month.qmd
-```
+Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
+------------------|----------------------|---------------------------
+1. Openscapes mindset, better science in less time | [mindset](mindset.qmd), [better science in less time](better-science.qmd) | Pathway - where are you now
+2. GitHub Clinic: publishing & project management | [publishing](github-pub.qmd), [project management](github-issues.qmd) | Shared organizing with GitHub
+3. Team culture and data strategies for future us | [team culture](team-culture.qmd), [data strategies](data-strategies.qmd) | Onboarding docs, code of conduct
+4. Open communities and coding strategies for future us | [open communities](communities.qmd), [coding strategies](coding-strategies.qmd) | Pathway - next steps
+5. Pathways share and next steps |  | 
 
 Between Cohort Calls, each team meets together for [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) - dedicated time for data/workflow discussions. This is where teams begin identifying and addressing shared needs, prompted by discussions as a cohort and using the [Pathways Doc](https://docs.google.com/spreadsheets/d/1X_-qPdWDCpw2F3nZr6vZnq87guyUIGLvekm0XV2H-A8/edit?usp=sharing). Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and culture of shared workflows and learning. Additionally, we support teams between Cohort Calls through Co-Working sessions and Slack.
 

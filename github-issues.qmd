@@ -47,11 +47,7 @@ Every GitHub repository (shortened to "repo") has a feature called Issues. Issue
 
 [Jenny Bryan](https://twitter.com/jennybryan/) has an excellent summary of Issues in her article "Excuse Me, Do You Have a Moment to Talk About Version Control?" (open-access pre-print from [PeerJ](https://peerj.com/preprints/3159/), published in [The American Statistican](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1399928)): 
 
-> GitHub issues are another powerful feature of the platform.  Recall that we are repur-
-posing Git, a tool that facilitates software development.  Think of the issues for a project
-as  its  bug  tracker.   For  projects  that  are  not  pure  software  development,  we  co-opt  this
-machinery to organize our to-do list more generally.  The basic unit is an issue and you can
-interact with one in two ways.
+> GitHub issues are another powerful feature of the platform.  Recall that we are repurposing Git, a tool that facilitates software development.  Think of the issues for a project as  its  bug  tracker.   For  projects  that  are  not  pure  software  development,  we  co-opt  this machinery to organize our to-do list more generally.  The basic unit is an issue and you can interact with one in two ways.
 
 >First, issues are integrated into the project's web interface on GitHub, with a rich set
 of options for linking to project files and incremental changes. Second,  issues  and  their

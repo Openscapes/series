@@ -1,7 +1,1 @@
-Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
-------------------|----------------------|---------------------------
-1. Openscapes mindset | [mindset](#mindset), [better science in less time](#bsilt) | Pathway - where are you now
-2. GitHub Clinic: publishing & project management | [publishing](#github-pub), [project management](#github-issues) | Shared organizing with GitHub
-3. Team culture and data strategies for future us | [team culture](#team-culture), [data strategies](#data-strategies) | Onboarding docs, code of conduct
-4. Open communities and coding strategies for future us | [open communities](#communities), [coding strategies](#coding-strategies) | Pathway - next steps
-5. Pathways share and next steps |  | 
+
