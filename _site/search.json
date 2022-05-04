@@ -649,5 +649,54 @@
     "title": "Open communities",
     "section": "",
     "text": "Open communities play a big role in advancing research, helping research feel less lonely and reducing the amount of time we all spend being stuck spend reinventing the wheel. This is a brief (incomplete) introduction to the idea of open communities. We will explore: What are open communities? Why engage with them? How to engage with them? And also how Twitter as a legit tool for coding and science. Originally focusing on R communities, we are adding more examples beyond.\nSlides that have been presented during Champions Program Cohort Calls:"
+  },
+  {
+    "objectID": "core-lessons/pathways.html",
+    "href": "core-lessons/pathways.html",
+    "title": "Pathways",
+    "section": "",
+    "text": "Perhaps the most important part of Openscapes is helping teams identify their trailhead together, as in the Champions landscape illustration.\n\nThe Pathways Spreadsheet provides a structured way for your team to think how you work and find common approaches and needs.\nThis format has helped many groups think through their trailhead and identifying where they are now. It also might not work for your group, and that is okay; use whatever format makes sense for you."
+  },
+  {
+    "objectID": "core-lessons/pathways.html#presenting-guidance",
+    "href": "core-lessons/pathways.html#presenting-guidance",
+    "title": "Pathways",
+    "section": "Presenting guidance",
+    "text": "Presenting guidance\nOn the final Cohort Call, each team presents their Pathways. Each team has 3 minutes to share followed by 2 minutes for questions. We encourage leads not to present, and it’s great when we hear multiple voices from the teams.\nThis is informal sharing of unpolished work-in-progress. Everyone makes progress throughout the Cohort: in mindsets, planning and actions. This is an opportunity to reflect and talk about it, building on the reflection breakout rooms that began most Cohort Calls. We’ve been reflective each week and we’ve all made progress.\nNot a line-by-line or there’s no wrong way to talk about your progress. Whatever your group wants to create and share is great - could be a photo of a whiteboard, a slide, the Pathways spreadsheet, or a “screenshare and tell” live walk-through of your files/code/ideas.\nA few reflection prompts that can help frame the presentations:\n\nWhat are the practices we’ve covered during the Cohort that most compel you?\nWhat are the practices we’ve covered this semester that most confuse you?\nAre there practices that are new to you that you didn’t originally think would work with your own research interests? If so, which?\nWhat are your two biggest take-aways from the Cohort?\nWhat future revisions will you propose making for your pathway\nAny final questions you want to workshop with the Cohort?"
+  },
+  {
+    "objectID": "core-lessons/pathways.html#examples",
+    "href": "core-lessons/pathways.html#examples",
+    "title": "Pathways",
+    "section": "Examples",
+    "text": "Examples\nComing soon"
+  },
+  {
+    "objectID": "how-to/do-fix-git-things.html",
+    "href": "how-to/do-fix-git-things.html",
+    "title": "Do and fix things in Git",
+    "section": "",
+    "text": "These are our go-to resources about GitHub; they include philosophy, step-by-step guidance, and troubleshooting. Most examples are with R and RStudio, and are applicable more broadly."
+  },
+  {
+    "objectID": "how-to/do-fix-git-things.html#excuse-me-do-you-have-a-moment-to-talk-about-version-control",
+    "href": "how-to/do-fix-git-things.html#excuse-me-do-you-have-a-moment-to-talk-about-version-control",
+    "title": "Do and fix things in Git",
+    "section": "Excuse Me, Do You Have a Moment to Talk About Version Control?",
+    "text": "Excuse Me, Do You Have a Moment to Talk About Version Control?\n“Excuse Me, Do You Have a Moment to Talk About Version Control?” Bryan J, 2017, PeerJ"
+  },
+  {
+    "objectID": "how-to/do-fix-git-things.html#r-for-excel-users",
+    "href": "how-to/do-fix-git-things.html#r-for-excel-users",
+    "title": "Do and fix things in Git",
+    "section": "R for Excel Users",
+    "text": "R for Excel Users\nR for Excel Users. Lowndes J and Horst A, 2020. Chapter 4 and 8 focus on starting setup and collaboration with GitHub and RStudio"
+  },
+  {
+    "objectID": "how-to/do-fix-git-things.html#usethis",
+    "href": "how-to/do-fix-git-things.html#usethis",
+    "title": "Do and fix things in Git",
+    "section": "usethis",
+    "text": "usethis\nusethis. Wickham H and Bryan J.\n\nusethis is a workflow R package: it automates repetitive tasks that arise during project setup and development, both for R packages and non-package projects."
   }
 ]

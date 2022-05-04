@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Openscapes Champions Series - Do and fix things in Git</title>
+<title>Openscapes Champions Series - Pathways</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,8 +23,8 @@ ul.task-list{list-style: none;}
 <script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
-<link href="../how-to/reuse-openscapes-approach.html" rel="next">
-<link href="../how-to/setup-rstudio-github.html" rel="prev">
+<link href="../additional-lessons/code-of-conduct.html" rel="next">
+<link href="../communities.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -65,7 +65,7 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Do and fix things in Git</h1>
+      <h1 class="quarto-secondary-nav-title">Pathways</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -101,12 +101,12 @@ ul.task-list{list-style: none;}
 </li>
         <li class="sidebar-item sidebar-item-section">
     <div class="sidebar-item-container"> 
-        <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">Core Lessons</a>
-      <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
+        <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Core Lessons</a>
+      <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
         <i class="bi bi-chevron-right ms-2"></i>
       </a>
     </div>
-    <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
+    <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../overview.html" class="sidebar-item-text sidebar-link">Overview</a>
@@ -154,7 +154,7 @@ ul.task-list{list-style: none;}
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../core-lessons/pathways.html" class="sidebar-item-text sidebar-link">Pathways</a>
+  <a href="../core-lessons/pathways.html" class="sidebar-item-text sidebar-link active">Pathways</a>
   </div>
 </li>
     </ul>
@@ -196,12 +196,12 @@ ul.task-list{list-style: none;}
   </li>
         <li class="sidebar-item sidebar-item-section">
     <div class="sidebar-item-container"> 
-        <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">How To Guides</a>
-      <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
+        <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">How To Guides</a>
+      <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">
         <i class="bi bi-chevron-right ms-2"></i>
       </a>
     </div>
-    <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+    <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../how-to/index.html" class="sidebar-item-text sidebar-link">Overview</a>
@@ -214,7 +214,7 @@ ul.task-list{list-style: none;}
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../how-to/do-fix-git-things.html" class="sidebar-item-text sidebar-link active">Do &amp; fix git things</a>
+  <a href="../how-to/do-fix-git-things.html" class="sidebar-item-text sidebar-link">Do &amp; fix git things</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -253,21 +253,18 @@ ul.task-list{list-style: none;}
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#excuse-me-do-you-have-a-moment-to-talk-about-version-control" id="toc-excuse-me-do-you-have-a-moment-to-talk-about-version-control" class="nav-link active" data-scroll-target="#excuse-me-do-you-have-a-moment-to-talk-about-version-control">Excuse Me, Do You Have a Moment to Talk About Version Control?</a></li>
-  <li><a href="#happy-git-with-r" id="toc-happy-git-with-r" class="nav-link" data-scroll-target="#happy-git-with-r">Happy Git With R</a></li>
-  <li><a href="#r-for-excel-users" id="toc-r-for-excel-users" class="nav-link" data-scroll-target="#r-for-excel-users">R for Excel Users</a></li>
-  <li><a href="#usethis" id="toc-usethis" class="nav-link" data-scroll-target="#usethis"><code>usethis</code></a></li>
-  <li><a href="#git-flight-rules" id="toc-git-flight-rules" class="nav-link" data-scroll-target="#git-flight-rules">Git Flight Rules</a></li>
-  <li><a href="#github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes" id="toc-github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes" class="nav-link" data-scroll-target="#github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes">GitHub: A beginner’s guide to going back in time (aka fixing mistakes)</a></li>
+  <li><a href="#the-idea" id="toc-the-idea" class="nav-link active" data-scroll-target="#the-idea">The idea</a></li>
+  <li><a href="#presenting-guidance" id="toc-presenting-guidance" class="nav-link" data-scroll-target="#presenting-guidance">Presenting guidance</a></li>
+  <li><a href="#examples" id="toc-examples" class="nav-link" data-scroll-target="#examples">Examples</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/series/edit/main/how-to/do-fix-git-things.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/series/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/series/edit/main/core-lessons/pathways.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/series/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Do and fix things in Git</h1>
+<h1 class="title d-none d-lg-block">Pathways</h1>
 </div>
 
 
@@ -283,39 +280,38 @@ ul.task-list{list-style: none;}
 
 </header>
 
-<p>These are our go-to resources about GitHub; they include philosophy, step-by-step guidance, and troubleshooting. Most examples are with R and RStudio, and are applicable more broadly.</p>
-<section id="excuse-me-do-you-have-a-moment-to-talk-about-version-control" class="level2">
-<h2 class="anchored" data-anchor-id="excuse-me-do-you-have-a-moment-to-talk-about-version-control">Excuse Me, Do You Have a Moment to Talk About Version Control?</h2>
-<p>“<a href="https://peerj.com/preprints/3159/">Excuse Me, Do You Have a Moment to Talk About Version Control</a>?” Bryan J, 2017, PeerJ&nbsp;</p>
+<section id="the-idea" class="level2">
+<h2 class="anchored" data-anchor-id="the-idea">The idea</h2>
+<p>Perhaps the most important part of Openscapes is helping teams identify their trailhead together, as in the Champions <a href="../index.html#welcome">landscape illustration</a>.</p>
+<!---
+The purpose of the **Pathway Spreadsheet** is to deliberately identify data workflow practices in your group and next steps to facilitate efficiency and open culture. It will help create protocols for shared practices (important for onboarding). See Lowndes et al. 2017 Table 1. It's OK if you don't have ideas for each item Now; through the Champions Program we'll introduce ideas that can help shape your Next Steps. Please iterate so it's useful for you! This template was made by the Therkildsen Lab: openscapes.org/blog/2019/06/10/case-study-therkildsen-lab/, who introduced the "Status" column (can be green, orange, red)         
+--->
+<p>The Pathways Spreadsheet provides a structured way for your team to think how you work and find common approaches and needs.</p>
+<p>This format has helped many groups think through their trailhead and identifying where they are now. It also might not work for your group, and that is okay; use whatever format makes sense for you.</p>
 </section>
-<section id="happy-git-with-r" class="level2">
-<h2 class="anchored" data-anchor-id="happy-git-with-r">Happy Git With R</h2>
-<blockquote class="blockquote">
-<p>“Happy Git provides opinionated instructions on how to Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE; Develop a few key workflows that cover your most common tasks; Integrate Git and GitHub into your daily work with R and R Markdown.”</p>
-</blockquote>
-<p><a href="https://happygitwithr.com/" class="uri">https://happygitwithr.com/</a></p>
+<section id="presenting-guidance" class="level2">
+<h2 class="anchored" data-anchor-id="presenting-guidance">Presenting guidance</h2>
+<p>On the final Cohort Call, each team presents their Pathways. Each team has 3 minutes to share followed by 2 minutes for questions. We encourage leads not to present, and it’s great when we hear multiple voices from the teams.</p>
+<p><strong>This is informal sharing of unpolished work-in-progress.</strong> Everyone makes progress throughout the Cohort: in mindsets, planning and actions. This is an opportunity to reflect and talk about it, building on the reflection breakout rooms that began most Cohort Calls. We’ve been reflective each week and we’ve all made progress.</p>
+<p>Not a line-by-line or there’s no wrong way to talk about your progress. Whatever your group wants to create and share is great - could be a photo of a whiteboard, a slide, the Pathways spreadsheet, or a “screenshare and tell” live walk-through of your files/code/ideas.</p>
+<p>A few reflection prompts that can help frame the presentations:</p>
+<ul>
+<li>What are the practices we’ve covered during the Cohort that most compel you?</li>
+<li>What are the practices we’ve covered this semester that most confuse you?</li>
+<li>Are there practices that are new to you that you didn’t originally think would work with your own research interests? If so, which?</li>
+<li>What are your two biggest take-aways from the Cohort?</li>
+<li>What future revisions will you propose making for your pathway</li>
+<li>Any final questions you want to workshop with the Cohort?</li>
+</ul>
 </section>
-<section id="r-for-excel-users" class="level2">
-<h2 class="anchored" data-anchor-id="r-for-excel-users">R for Excel Users</h2>
-<p><a href="https://rstudio-conf-2020.github.io/r-for-excel/">R for Excel Users</a>. Lowndes J and Horst A, 2020. Chapter 4 and 8 focus on starting setup and collaboration with GitHub and RStudio</p>
-</section>
-<section id="usethis" class="level2">
-<h2 class="anchored" data-anchor-id="usethis"><code>usethis</code></h2>
-<p><a href="https://usethis.r-lib.org/">usethis</a>. Wickham H and Bryan J.</p>
-<blockquote class="blockquote">
-<p>usethis is a workflow R package: it automates repetitive tasks that arise during project setup and development, both for R packages and non-package projects.</p>
-</blockquote>
-</section>
-<section id="git-flight-rules" class="level2">
-<h2 class="anchored" data-anchor-id="git-flight-rules">Git Flight Rules</h2>
-<p>“A guide for astronauts (now, programmers using Git) about what to do when things go wrong.”</p>
-<p><a href="https://github.com/k88hudson/git-flight-rules" class="uri">https://github.com/k88hudson/git-flight-rules</a></p>
-<p>This is quite a comprehensive and maintained list of git commands, using the command line.</p>
-</section>
-<section id="github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes" class="level2">
-<h2 class="anchored" data-anchor-id="github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes">GitHub: A beginner’s guide to going back in time (aka fixing mistakes)</h2>
-<p><a href="https://ohi-science.org/news/github-going-back-in-time" class="uri">https://ohi-science.org/news/github-going-back-in-time</a></p>
-<p>This has screenshots and a workflow with RStudio and the command line.</p>
+<section id="examples" class="level2">
+<h2 class="anchored" data-anchor-id="examples">Examples</h2>
+<p><em>Coming soon</em></p>
+<!---
+EcoFOCI
+
+Nina - link to Cohort 1 "case study" blogs
+--->
 
 
 </section>
@@ -499,13 +495,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../how-to/setup-rstudio-github.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Setup RStudio &amp; GitHub</span>
+      <a href="../communities.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Open communities</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../how-to/reuse-openscapes-approach.html" class="pagination-link">
-        <span class="nav-page-text">Reuse Openscapes Approach</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../additional-lessons/code-of-conduct.html" class="pagination-link">
+        <span class="nav-page-text">Code of Conduct</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

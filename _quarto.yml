@@ -38,7 +38,7 @@ website:
     contents:
       - href: "index.qmd"
         text: Welcome
-      - section: "Core Lesson Series"
+      - section: "Core Lessons"
         contents:        
          - href: "overview.qmd"
            text: Overview
@@ -58,6 +58,8 @@ website:
            text: Coding strategies
          - href: "communities.qmd"
            text: Open communities
+         - href: "core-lessons/pathways.qmd"
+           text: Pathways
       - section: "Additional Lessons"
         contents:
          - href: "additional-lessons/code-of-conduct.qmd"
