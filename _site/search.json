@@ -88,7 +88,7 @@
     "href": "team-culture.html#why-talk-about-team-culture",
     "title": "Team culture",
     "section": "Why talk about team culture?",
-    "text": "Why talk about team culture?\nRole modeling sets a lot of team culture, and there is a lot we can learn and do to deliberately create a scientific culture that we want to be a part of.\n\nScience benefits from diversity\nAnd we need to be deliberate about welcoming and including people from diverse backgrounds.\nA few recent articles from Nature with many more links within:\n\nScience benefits from diversity\nWhat does it take to make an institution more diverse?\n\n\n\nSexual harassment is rife in the sciences\nSexual harassment is rife in the sciences, finds landmark US study. Existing policies to address the issue are ineffective, concludes a long-awaited report from the National Academies of Sciences, Engineering, and Medicine.\nMost common form is gender harassment: it’s the “put-downs as opposed to come-ons”.\n\n\nWe need to unlearn racism and build antiracist culture in science\n\nTen simple rules for building an antiracist lab - Chaudhary & Berhe, 2020. PLOS\nUnlearning Racism in Geoscience — URGE\n\n\n\nPut your values forward\nModel the behavior you want to see in your research group & beyond (lab, dept, campus, organization, online)\n\n\nBuilding trust\nHave to build trust and be intentional, don’t hope for organic.\n\nHow to build (and rebuild trust - Frances Frei\n\n\n\nSustain the culture\nOvertly showing kindness & a Code of Conduct can filter out people who don’t want to be subject to its enforcement – rOpenSci\nLabs have people coming and going all the time; how do you set the tone and have it be sustainable?"
+    "text": "Why talk about team culture?\nRole modeling sets a lot of team culture, and there is a lot we can learn and do to deliberately create a scientific culture that we want to be a part of."
   },
   {
     "objectID": "team-culture.html#deliberately-setting-the-tone",
@@ -655,21 +655,21 @@
     "href": "core-lessons/pathways.html",
     "title": "Pathways",
     "section": "",
-    "text": "Perhaps the most important part of Openscapes is helping teams identify their trailhead together, as in the Champions landscape illustration.\n\nThe Pathways Spreadsheet provides a structured way for your team to think how you work and find common approaches and needs.\nThis format has helped many groups think through their trailhead and identifying where they are now. It also might not work for your group, and that is okay; use whatever format makes sense for you."
+    "text": "Perhaps the most important part of Openscapes is helping teams identify their trailhead together, as illustrated in the Champions landscape illustration. We support individuals to “find their teams” by discussing approaches and software, so that they find they have common parts of how they work, whether they are working on the same or different projects.\nThe Pathways Spreadsheet provides a structured way for your team to think how you work and find common approaches and needs (template)\nThis format has helped many groups think through their trailhead and identifying where they are now. It also might not work for your group, and that is okay; use whatever format makes sense for you."
   },
   {
     "objectID": "core-lessons/pathways.html#presenting-guidance",
     "href": "core-lessons/pathways.html#presenting-guidance",
     "title": "Pathways",
     "section": "Presenting guidance",
-    "text": "Presenting guidance\nOn the final Cohort Call, each team presents their Pathways. Each team has 3 minutes to share followed by 2 minutes for questions. We encourage leads not to present, and it’s great when we hear multiple voices from the teams.\nThis is informal sharing of unpolished work-in-progress. Everyone makes progress throughout the Cohort: in mindsets, planning and actions. This is an opportunity to reflect and talk about it, building on the reflection breakout rooms that began most Cohort Calls. We’ve been reflective each week and we’ve all made progress.\nNot a line-by-line or there’s no wrong way to talk about your progress. Whatever your group wants to create and share is great - could be a photo of a whiteboard, a slide, the Pathways spreadsheet, or a “screenshare and tell” live walk-through of your files/code/ideas.\nA few reflection prompts that can help frame the presentations:\n\nWhat are the practices we’ve covered during the Cohort that most compel you?\nWhat are the practices we’ve covered this semester that most confuse you?\nAre there practices that are new to you that you didn’t originally think would work with your own research interests? If so, which?\nWhat are your two biggest take-aways from the Cohort?\nWhat future revisions will you propose making for your pathway\nAny final questions you want to workshop with the Cohort?"
+    "text": "Presenting guidance\nOn the final Cohort Call, each team presents their Pathways. Each team has 3 minutes to share followed by 2 minutes for questions. We encourage leads not to present, and it’s great when we hear multiple voices from the teams.\nThis is informal sharing of unpolished work-in-progress. Everyone makes progress throughout the Cohort: in mindsets, planning and actions. This is an opportunity to reflect and talk about it, building on the reflection breakout rooms that began most Cohort Calls. We’ve been reflective each week and we’ve all made progress.\nPresentations do not need be line-by-line of the Pathways Spreadsheet and there’s no wrong way to talk about your progress. Whatever your group wants to create and share is great - could be a photo of a whiteboard, a slide, the Pathways spreadsheet, or a “screenshare and tell” live walk-through of your files/code/ideas.\nA few reflection prompts that can help frame the presentations:\n\nWhat are the practices we’ve covered during the Cohort that most compel you?\nWhat are the practices we’ve covered this semester that most confuse you?\nAre there practices that are new to you that you didn’t originally think would work with your own research interests? If so, which?\nWhat are your two biggest take-aways from the Cohort?\nWhat future revisions will you propose making for your pathway\nAny final questions you want to workshop with the Cohort?"
   },
   {
     "objectID": "core-lessons/pathways.html#examples",
     "href": "core-lessons/pathways.html#examples",
     "title": "Pathways",
     "section": "Examples",
-    "text": "Examples\nComing soon"
+    "text": "Examples\n\n\n\nAn example of an Openscapes pathway written by the NOAA Alaska Fisheries Science Center EcoFOCI team. The diagram summarizes how they used to share code, data, and files, and what their ongoing plans are for streamlining these processes and creating a team culture of openness and psychological safety.\n\n\nSee more examples:\n\nA TL;DR Collection of Stories from Openscapes Champions and Mentors; these stories are largely from 3 months+ following Pathways presentations\nCase Studies from the inaugural Champions Cohort (2021)"
   },
   {
     "objectID": "how-to/do-fix-git-things.html",
@@ -698,5 +698,26 @@
     "title": "Do and fix things in Git",
     "section": "usethis",
     "text": "usethis\nusethis. Wickham H and Bryan J.\n\nusethis is a workflow R package: it automates repetitive tasks that arise during project setup and development, both for R packages and non-package projects."
+  },
+  {
+    "objectID": "team-culture.html#psychological-safety",
+    "href": "team-culture.html#psychological-safety",
+    "title": "Team culture",
+    "section": "Psychological safety",
+    "text": "Psychological safety\nAmy C. Edmondson is the Novartis Professor of Leadership and Management at Harvard Business School.\na shared belief that team members will not be rejected or embarrassed for speaking up with their ideas, questions, or concerns\nhttps://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety\nThey recommend three ways to build psychologically safe environments: framing, inquiry, and bridging boundaries.\nFrame meetings as opportunities for information-sharing. Frame differences as a source of value.\nOpen questions. Questions that build shared ownership and causality.\nListening -\nHopes and goals. What do you want to accomplish?\nResources and skills. What do you bring to the table?\nConcerns and obstacles. What are you up against? What are you worried about?\n\nScience benefits from diversity\nAnd we need to be deliberate about welcoming and including people from diverse backgrounds.\nA few recent articles from Nature with many more links within:\n\nScience benefits from diversity\nWhat does it take to make an institution more diverse?\n\n\n\nSexual harassment is rife in the sciences\nSexual harassment is rife in the sciences, finds landmark US study. Existing policies to address the issue are ineffective, concludes a long-awaited report from the National Academies of Sciences, Engineering, and Medicine.\nMost common form is gender harassment: it’s the “put-downs as opposed to come-ons”.\n\n\nWe need to unlearn racism and build antiracist culture in science\n\nTen simple rules for building an antiracist lab - Chaudhary & Berhe, 2020. PLOS\nUnlearning Racism in Geoscience — URGE\n\n\n\nPut your values forward\nModel the behavior you want to see in your research group & beyond (lab, dept, campus, organization, online)\n\n\nBuilding trust\nHave to build trust and be intentional, don’t hope for organic.\n\nHow to build (and rebuild trust - Frances Frei\n\n\n\nSustain the culture\nOvertly showing kindness & a Code of Conduct can filter out people who don’t want to be subject to its enforcement – rOpenSci\nLabs have people coming and going all the time; how do you set the tone and have it be sustainable?"
+  },
+  {
+    "objectID": "index.html#self-paced-learning",
+    "href": "index.html#self-paced-learning",
+    "title": "Openscapes Champions Lesson Series",
+    "section": "Self-paced learning",
+    "text": "Self-paced learning\nAll Champions Program resources are designed to also be a self-paced learning resource for teams. Additionally see Supercharge your research: a ten-week plan for open data science (Lowndes et al. 2019) and accompanying spreadsheet template that you can use to get organized with your team.\nSee also other publications and presentations at openscapes.org/media."
+  },
+  {
+    "objectID": "index.html#supercharge-your-research-self-paced-learning",
+    "href": "index.html#supercharge-your-research-self-paced-learning",
+    "title": "Openscapes Champions Lesson Series",
+    "section": "Supercharge your research: self-paced learning",
+    "text": "Supercharge your research: self-paced learning\nAll Champions Program resources are designed to also be a self-paced learning resource for teams. Additionally see Supercharge your research: a ten-week plan for open data science (Lowndes et al. 2019) and accompanying spreadsheet template that you can use to get organized with your team.\nSee also other publications and presentations at openscapes.org/media."
   }
 ]

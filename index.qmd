@@ -43,6 +43,12 @@ Cohort Call agendas and slides are all openly available in a [Google Folder](htt
 
 We have led 8+ Champions Cohorts since 2019. Starting in 2021, each Cohort has an events page with links to their GitHub repository (with quick-links to their Cohort Call Agendas so teams can more easily review), blog posts and any additional resources. Explore more at [openscapes.org/cohorts](https://openscapes.org/cohorts).
 
+## Supercharge your research: self-paced learning
+
+All Champions Program resources are designed to also be a self-paced learning resource for teams. Additionally see [Supercharge your research: a ten-week plan for open data science](Supercharge your research: a ten-week plan for open data science) (Lowndes et al. 2019) and accompanying [spreadsheet template](https://docs.google.com/spreadsheets/d/19vAD1QE_mHPH1SV_N61iI3J0MJwyGaHZ_yPRVEzCRb8/edit#gid=0) that you can use to get organized with your team. 
+
+See also other publications and presentations at [openscapes.org/media](https://openscapes.org/media).
+
 ## About
 
 [Openscapes](https://openscapes.org) helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams. Our work builds from many others in the open movement, and we are also documenting our process to onboard folks and scale Openscapes in our [Approach Guide](https://openscapes.github.io/approach-guide).
