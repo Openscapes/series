@@ -1,8 +1,5 @@
 ---
 title: GitHub for project management
-execute:
-  echo: false
-  warning: false
 aliases: 
   - github-issues.html  
 ---

@@ -1,5 +1,103 @@
 [
   {
+    "objectID": "how-do-i/create-publish-quarto.html",
+    "href": "how-do-i/create-publish-quarto.html",
+    "title": "Create & publish with Quarto",
+    "section": "",
+    "text": "We’ve created a tutorial on how to copy (fork or download) an existing Quarto website like this one and adapt it for your own uses. Please see: https://openscapes.github.io/quarto-website-tutorial/."
+  },
+  {
+    "objectID": "how-do-i/setup-rstudio-github.html",
+    "href": "how-do-i/setup-rstudio-github.html",
+    "title": "Setup RStudio and GitHub",
+    "section": "",
+    "text": "To setup RStudio and GitHub, you will need four things:\n\nR\nRStudio\nGit\nGitHub\n\nFollow the UCSB MEDS Installation Guide for detailed instructions on how to create accounts, download, install, and configure on Mac and Windows. (For an even more detailed walk-through, see Allison Horst’s ESM 206 Google Doc). Thanks for sharing Allison!"
+  },
+  {
+    "objectID": "how-do-i/setup-rstudio-github.html#practice",
+    "href": "how-do-i/setup-rstudio-github.html#practice",
+    "title": "Setup RStudio and GitHub",
+    "section": "Practice",
+    "text": "Practice\nNow you’ll want to practice how to use RStudio and GitHub. Follow R for Excel Users’ GitHub Chapter to create a GitHub repository, clone it to RStudio, make edits, and practice syncing."
+  },
+  {
+    "objectID": "how-do-i/index.html",
+    "href": "how-do-i/index.html",
+    "title": "How To Guides",
+    "section": "",
+    "text": "This is a collection of resources that complement what we cover in the Champions Lesson Series - things that often come up as questions and that folks can screenshare and do together during Seaside Chats and Co-Working sessions. We point to existing resources as much as possible."
+  },
+  {
+    "objectID": "how-do-i/reuse-openscapes-approach.html",
+    "href": "how-do-i/reuse-openscapes-approach.html",
+    "title": "Reuse the Openscapes Approach",
+    "section": "",
+    "text": "The Openscapes Approach Guide is where we’re starting to document our approach so that others can lead their own Champions Cohorts. Even if you’re not leading your own Cohort, there are many things we do that you can reuse. For example:\n\nHave Google Doc agenda with live notetaking during your meetings (if this is a recurring meeting, organize it in a shared folder, either with one doc per meeting like our Cohort Call Agendas or many meetings in the same doc with the most recent at the top, like our Co-Working notes)\nBegin a meeting with a Roll Call/Check in and Code of Conduct\nShare slides before giving your talk so that folks can see them in high resolution and click on links\nTeach using other people’s slides"
+  },
+  {
+    "objectID": "how-do-i/do-fix-git-things.html",
+    "href": "how-do-i/do-fix-git-things.html",
+    "title": "Do and fix things in Git",
+    "section": "",
+    "text": "These are our go-to resources about GitHub; they include philosophy, step-by-step guidance, and troubleshooting. Most examples are with R and RStudio, and are applicable more broadly."
+  },
+  {
+    "objectID": "how-do-i/do-fix-git-things.html#excuse-me-do-you-have-a-moment-to-talk-about-version-control",
+    "href": "how-do-i/do-fix-git-things.html#excuse-me-do-you-have-a-moment-to-talk-about-version-control",
+    "title": "Do and fix things in Git",
+    "section": "Excuse Me, Do You Have a Moment to Talk About Version Control?",
+    "text": "Excuse Me, Do You Have a Moment to Talk About Version Control?\n“Excuse Me, Do You Have a Moment to Talk About Version Control?” Bryan J, 2017, PeerJ"
+  },
+  {
+    "objectID": "how-do-i/do-fix-git-things.html#happy-git-with-r",
+    "href": "how-do-i/do-fix-git-things.html#happy-git-with-r",
+    "title": "Do and fix things in Git",
+    "section": "Happy Git With R",
+    "text": "Happy Git With R\n\n“Happy Git provides opinionated instructions on how to Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE; Develop a few key workflows that cover your most common tasks; Integrate Git and GitHub into your daily work with R and R Markdown.”\n\nhttps://happygitwithr.com/"
+  },
+  {
+    "objectID": "how-do-i/do-fix-git-things.html#r-for-excel-users",
+    "href": "how-do-i/do-fix-git-things.html#r-for-excel-users",
+    "title": "Do and fix things in Git",
+    "section": "R for Excel Users",
+    "text": "R for Excel Users\nR for Excel Users. Lowndes J and Horst A, 2020. Chapter 4 and 8 focus on starting setup and collaboration with GitHub and RStudio"
+  },
+  {
+    "objectID": "how-do-i/do-fix-git-things.html#usethis",
+    "href": "how-do-i/do-fix-git-things.html#usethis",
+    "title": "Do and fix things in Git",
+    "section": "usethis",
+    "text": "usethis\nusethis. Wickham H and Bryan J.\n\nusethis is a workflow R package: it automates repetitive tasks that arise during project setup and development, both for R packages and non-package projects."
+  },
+  {
+    "objectID": "how-do-i/do-fix-git-things.html#git-flight-rules",
+    "href": "how-do-i/do-fix-git-things.html#git-flight-rules",
+    "title": "Do and fix things in Git",
+    "section": "Git Flight Rules",
+    "text": "Git Flight Rules\n“A guide for astronauts (now, programmers using Git) about what to do when things go wrong.”\nhttps://github.com/k88hudson/git-flight-rules\nThis is quite a comprehensive and maintained list of git commands, using the command line."
+  },
+  {
+    "objectID": "how-do-i/do-fix-git-things.html#github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes",
+    "href": "how-do-i/do-fix-git-things.html#github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes",
+    "title": "Do and fix things in Git",
+    "section": "GitHub: A beginner’s guide to going back in time (aka fixing mistakes)",
+    "text": "GitHub: A beginner’s guide to going back in time (aka fixing mistakes)\nhttps://ohi-science.org/news/github-going-back-in-time\nThis has screenshots and a workflow with RStudio and the command line."
+  },
+  {
+    "objectID": "how-do-i/do-fix-git-things.html#practical-r-workflow-for-scientists",
+    "href": "how-do-i/do-fix-git-things.html#practical-r-workflow-for-scientists",
+    "title": "Do and fix things in Git",
+    "section": "Practical R Workflow for Scientists",
+    "text": "Practical R Workflow for Scientists\nBy Dr. Eli Holmes\nhttps://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/week1.html"
+  },
+  {
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Welcome.\nOur vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster.\nThis Series is going to be fun and empowering! We will talk about a lot of tools and practices to make your science more streamlined. This is really powerful, cool stuff, and not just for data: we made and published this book using the tools and workflows we’ll talk about.\nThe first half of the Series focuses on efficiency and open culture within your team, and the second half is about sustained learning and bringing these practices to your broader communities."
+  },
+  {
     "objectID": "overview.html#why-were-here",
     "href": "overview.html#why-were-here",
     "title": "Overview",
@@ -42,46 +140,11 @@
     "text": "Additional reading\n\nPractical Computing for Biologists. Introduction to the Terminal/command line, introduction to regular expressions. Chapter 2 alone is incredibly powerful\nVirtual meetings\n\nhttps://opensource.com/article/20/6/remote-meetings\nhttps://aspirationtech.org/blog/virtualmeetingpowerdynamics"
   },
   {
-    "objectID": "github-issues.html#preamble",
-    "href": "github-issues.html#preamble",
-    "title": "GitHub for project management",
-    "section": "Preamble",
-    "text": "Preamble\n\nWe are focusing on GitHub Issues here because they are a powerful way for team members to have active discussions about data and code, and therefore ways to participate in analyses even for those that are not involved in the day-to-day coding. I find Issues not only useful to discuss topics as a team, but I also treat it as my external memory: I write notes to myself, link to files and websites; I leave breadcrumbs for myself so that I am more easily able to remember my past thought processes and pick up projects where I left off.\nIn this way, GitHub Issues help actualize the mindset of Future You and Future Us. This means being deliberate now about communicating decisions and progress so that you or others can work in the future a little more smoothly. Using project management software is a strategy used by every software developer or people working on projects with many moving parts. It streamlines technical discussions with people who are coming/joining a group. It also helps organize and track projects that single or multiple & overlapping users can be a part of.\nWhile there are many options for project management software out there, I like using GitHub because it’s already managing my code and my work, and linked to my collaborators so it offers a streamlined way to communicate. It’s also one less account I need to have, which is a huge bonus in my mind.\nOne of the reason we talk about Issues in Openscapes is because they are an excellent way to develop habits for using GitHub for your analytical project more broadly."
-  },
-  {
-    "objectID": "github-issues.html#what-are-issues",
-    "href": "github-issues.html#what-are-issues",
-    "title": "GitHub for project management",
-    "section": "What are Issues?",
-    "text": "What are Issues?\nEvery GitHub repository (shortened to “repo”) has a feature called Issues. Issues is GitHub’s project management and task-tracking feature.\n\nIssues “track ideas, enhancements, tasks, or bugs for work on GitHub.” - GitHub\n\n\n\n\n\nJenny Bryan has an excellent summary of Issues in her article “Excuse Me, Do You Have a Moment to Talk About Version Control?” (open-access pre-print from PeerJ, published in The American Statistican):\n\nGitHub issues are another powerful feature of the platform. Recall that we are repurposing Git, a tool that facilitates software development. Think of the issues for a project as its bug tracker. For projects that are not pure software development, we co-opt this machinery to organize our to-do list more generally. The basic unit is an issue and you can interact with one in two ways.\n\n\nFirst, issues are integrated into the project’s web interface on GitHub, with a rich set of options for linking to project files and incremental changes. Second, issues and their associated comment threads appear in your email, just like regular messages (this can, of course, be configured). The result is that all correspondence about a project comes through your normal channels, but is also tracked inside the project itself, with excellent navigability and search capabilities. For software, issues are used to track bugs and feature requests. In a data analysis project, you might open an issue to flesh out a specific sub-analysis or to develop a complicated figure. In a course, we use them to manage homework submission, marking, and peer review.\n\n\nIssues can be assigned to specific people and they can be labelled, e.g. “bug”, “simulation- study”, or “final-exam”. Coupled with the ability to cross-link issues and the project files or file changes, you have extraordinary power to document why things have happened in the past and to organize what needs to happen in the future.\n\n\nYou create an Issue for a topic, and use it track progress or ask questions. You can provide links, describe updates, link to other Issues, and you can close the Issue when it is completed. You can also re-open previously-closed Issues.\nEvery GitHub repository has this Issues feature. This means that sometimes Issues are public and sometimes they are private.\n\nIn a public repo, anyone with a GitHub username can create and comment on issues.\nIn a private repo, only users with permission can create and comment on issues, or see them at all\n\nGitHub search is awesome – it will search all of your files and Issues!"
-  },
-  {
-    "objectID": "github-issues.html#issues-in-the-wild",
-    "href": "github-issues.html#issues-in-the-wild",
-    "title": "GitHub for project management",
-    "section": "Issues in the Wild",
-    "text": "Issues in the Wild\nHere are some examples of “traditional” and “non-traditional” use of issues.\nggplot2’s Issues is an example of what I think is the “traditional” use of Issues, which is in a pretty pure software development context. This is a public repository, and all topics are directly related to ggplot2. Issues are largely used to report bugs, troubleshoot and sometimes to request features. Note the “Filters” feature on the top-left: this by default will search through the Issues that are still open, but you can also change this if you wanted to search also for closed Issues (just below “Filters” you can see that there are over 2000 closed Issues, documenting the innovation that’s been ongoing in ggplot2).\n\n\n\nMozillaFestival’s Issues are an example of a less “traditional”, but increasingly common use of Issues: for project submissions, coordination, and community engagement. It is also an example of the use of labels: those colorful tags that help group and categorize the Issues. To the right of “Filters”, you’ll see a “Labels” button: clicking on this will give you a list of all the labels and how many Issues are tagged with each label.\n\n\n\nOHI-Science’s Issues: are also an example of less “traditional” use of Issues but perhaps also somewhat common. This is a private repository, which is why there is no link to these Issues. Here, Issues are used for private conversations and archiving ideas and discussions: the OHI-Science team uses issues instead of email to have private, archived, searchable conversations about scientific methods. We are diligent about having important science conversations in these Issues, rather than those conversations being lost in emails or Slack. This is more organized and also makes onboarding team members much smoother since we do not need to forward emails to new team members."
-  },
-  {
-    "objectID": "github-issues.html#how-to-use-issues",
-    "href": "github-issues.html#how-to-use-issues",
-    "title": "GitHub for project management",
-    "section": "How to use Issues",
-    "text": "How to use Issues\nLet’s do a demo with Issues.\n\nCreating a new Issue\nWhen you click on the green “New Issue” button”, you’re asked to give a Title and Leave a Comment. You can also attach files or images by dragging them into the Issue.\nThen you’ll be able to Submit the Issue. On the right side, you’ll see options to Assign someone to the Issue, add a Label, add it to a Project, or add it to a Milestone. We’ll explore these features a bit more in a moment.\n\n\n\nWhen you click Submit, your Issue gets a number, which is now written next to the title. This number is also part of the URL as well.\nOn the right of the Title, note that there is an “Edit” button if you ever need to change the title of the Issue as the conversation evolves. The Issue number will stay the same.\nWhat happens if you want to edit the text of your Comment after you’ve Submitted it? No problem. See that once you’ve submitted an Issue, there is a blue bar at the top of the Comment, attributing your username to this comment along with the date. At the very right of this blue bar, there are 3 dots. Clicking here will give you the option to edit.\n\n\nCommenting\nThe great thing about Issues is that they are for conversations with yourself and others. So once you’ve submitted an Issue, you can string together additional Comments within this comment. Maybe you asked a question, and someone else will respond with a solution or idea. They might link to an Issue with a related topic, or an external link that might be helpful.\nYou can also tag people in Issue Comments with the “@” symbol. As noted above, anyone who is part of the repository will automatically get email notifications when comments are submitted. But tagging specific users will also send them an email, and is a good way to bring folks into the conversation who might not already be “watching” the whole repository. In a public repository you can tag any GitHub user, and in a private repository they have to have permission.\nEach time there is a comment in the Issue thread, there will be a new date marked in the blue bar at the top of the Issue. This is a nice way to see how current conversations are.\nAnd something really great is that you can click on the date — and watch the URL change. This allows you to anchor to a specific comment within the Issue thread. This is really useful if, for example, you wanted to share a specific comment with someone else instead of having them scroll down themselves. (Note: you can also click on the three dots at the right of the blue Comment header to copy the anchored link).\n\n\n\n\n\nMarkdown\nIssues support Markdown. This means that you can add simple formatting to your text, such as headers, bold and italics, lists, images, links, and formatted code. To help you use Markdown formatting as you learn, GitHub Issues have built-in help: there are icons between the Title and the Comment of the Issue that will do the Markdown formatting for you, and help you learn along the way.\nThere is also a “Preview” tab between the Title and Comment (next to the “Write” tab, where you are by default) where you can preview what your Markdown formatting looks like before you Submit the Issue. Submitting the Issue will also render the Markdown formatting.\nGitHub enables you to also create Markdown check-lists by typing - [ ]. Once this is rendered, you can click it to check this box. Alternatively, in Markdown you check a box by typing - [x]. The number of checked and unchecked items will be visible in the Issue as well.\n\n\n\n\n\nLinking to files\nLinking to specific files or versions of files is good practice when you are discussing it in an Issue: reduce the work for the person reading the Issue (which might be Future You!). You can link to the file by opening it in the browser and copying its URL and placing it in Markdown formatting for hyperlinks: [text to hyperlink](URL).\nYou can also navigate to a specific version of that file, or a specific commit message, if you want to capture that file at a specific point in time.\nYou can also anchor to specific lines within a file, which is useful if you are requesting feedback on a specific part of an analysis or asking for help troubleshooting. I can send someone to a specific place within a file with the appropriate lines highlighted. For example [important code](https://github.com/Openscapes/issues-demo/blob/master/code-example.R#L12-L13) will render as important code.\n\n \n\n\nAssigning, Labels\nOn the right side of the Issue thread, there is the “metadata” for the Issue. You can assign the Issue to a specific user, or label it with a suite of labels that you can customize (when you click on labels, see all the way at the bottom the option to edit labels. And there are other ways to navigate there as well).\nIf you navigate back to the full list of Issue topics (which will have the URL github.com/username-or-organization/repo-name/issues), you’ll see these metadata categories listed at the top as well, which lets you filter or view based on these categories.\n\n \n\n\nProjects, Milestones\nProjects and Milestones are further ways to organize and track progress with your Issues.\nProjects are a way to organize and prioritize your issues. It uses the idea of a Kanban board, which Wikipedia says “visually depict work at various stages of a process using cards to represent work items and columns to represent each stage of the process. Cards are moved from left to right to show progress and to help coordinate teams performing the work.” The simplest have 3 columns labeled “to do”, “doing” and “done”.\nYou can use Projects for both Organization or personal projects. In fact, you can have multiple projects within the same repository, so different people can have different Projects organized within their shared repository, for example.\nYou have a lot of control over how you will manage your Projects; at this point I do not use all the features but have been playing around with using them for Openscapes planning:\n\n\n\nMilestones are a way to attach deadlines to your Project (although you do not need to identify a date if you don’t want to). Once you create a Milestone, you can add Issues to that Milestone to help track progress. For example, maybe you have a presentation coming up and there are several Issues that need to be addressed before then."
-  },
-  {
-    "objectID": "github-issues.html#strategies-for-issues",
-    "href": "github-issues.html#strategies-for-issues",
-    "title": "GitHub for project management",
-    "section": "Strategies for Issues",
-    "text": "Strategies for Issues\n\nEvery repo has Issues, but do you want to use Issues in every repo? It helps to consider the purpose for the Issues.\nUsing Issues for “traditional” bug/features for code, it makes sense to keep the repository public and have all Issues pertaining to that repo there within that repo.\nIf you’re using Issues for “non-traditional” laboratory research group and science conversations, there are other considerations. Maybe you do want a private repository, but even so you’ll want to think ahead. Will you eventually make that repo public when you publish your study? Changing a repo from private to public (or vice versa, both are possible in the repository’s Settings) will make not only the code and files of that repo public, but also all the Issues. Which is fine, but it might add considerations in terms of what is discussed in those Issues.\n\nOHI example\nHere is an example of the Ocean Health Index team’s thought process & strategy.\nOur team works within a GitHub Organization called “OHI-Science”. Within that Organization, we work in many repositories, with different combinations of people working primarily within different repositories. Sanity-wise, we didn’t want to have conversations in Issues within each of those repositories because it would make finding those conversations more difficult (although now GitHub can search all Issues/code across an Organization!).\nWe also wanted our repos to be public, but to have private conversations using the Issues feature.\nThese two needs led us to create a single private repository named “issues”, and we only use it for Issues. This works really well for us, especially since our team lead can engage in these discussions by receiving emails about the Issues in his inbox, and can respond without having to go to GitHub.com."
-  },
-  {
-    "objectID": "github-issues.html#your-turn-create-comment-on-issues",
-    "href": "github-issues.html#your-turn-create-comment-on-issues",
-    "title": "GitHub for project management",
-    "section": "Your Turn: Create & comment on issues",
-    "text": "Your Turn: Create & comment on issues\nWe will break into groups and you can explore some of these features in Issues. Here is what to do:\n\nGo to github.com/openscapes/demo/issues\nCreate an issue, tag people in your breakout group (ask for their username)\nBrowse issues, comment in other issues\nTry:\n\nLinking to the .md document you created in the previous chapter\nCreating a label and applying it, assigning people\nAdding Issues to a Project (create one if need be)\nClosing an Issue\n\n\nHave fun! And throughout the process, talk to your breakout group, and share what you learn.\nHere’s what your inbox will look like afterwards:\n\n \nThis is pretty rare to receive so many emails all at once. But you can always switch your setting to “Not Watch” this repository so that you only receive emails about Issues that you are tagged in."
+    "objectID": "team-culture.html",
+    "href": "team-culture.html",
+    "title": "Team culture",
+    "section": "",
+    "text": "We discuss team culture because while we know that diverse teams are more innovative, creating spaces where everyone can do their best work and feel safe to contribute takes intention; it does not happen by default. There is a lot of work to do to improve research culture, and we can lead by example in our own research groups and communities.\nSlides that have been presented during Champions Program Cohort Calls:\nSee also the following chapter on Codes of Conduct.\nhttps://twitter.com/Napaaqtuk/status/1528790732718452738"
   },
   {
     "objectID": "team-culture.html#why-talk-about-team-culture",
@@ -89,6 +152,13 @@
     "title": "Team culture",
     "section": "Why talk about team culture?",
     "text": "Why talk about team culture?\nRole modeling sets a lot of team culture, and there is a lot we can learn and do to deliberately create a scientific culture that we want to be a part of."
+  },
+  {
+    "objectID": "team-culture.html#psychological-safety",
+    "href": "team-culture.html#psychological-safety",
+    "title": "Team culture",
+    "section": "Psychological safety",
+    "text": "Psychological safety\nAmy C. Edmondson is the Novartis Professor of Leadership and Management at Harvard Business School.\na shared belief that team members will not be rejected or embarrassed for speaking up with their ideas, questions, or concerns\nhttps://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety\nThey recommend three ways to build psychologically safe environments: framing, inquiry, and bridging boundaries.\nFrame meetings as opportunities for information-sharing. Frame differences as a source of value.\nOpen questions. Questions that build shared ownership and causality.\nListening -\nHopes and goals. What do you want to accomplish?\nResources and skills. What do you bring to the table?\nConcerns and obstacles. What are you up against? What are you worried about?\n\nScience benefits from diversity\nAnd we need to be deliberate about welcoming and including people from diverse backgrounds.\nA few recent articles from Nature with many more links within:\n\nScience benefits from diversity\nWhat does it take to make an institution more diverse?\n\n\n\nSexual harassment is rife in the sciences\nSexual harassment is rife in the sciences, finds landmark US study. Existing policies to address the issue are ineffective, concludes a long-awaited report from the National Academies of Sciences, Engineering, and Medicine.\nMost common form is gender harassment: it’s the “put-downs as opposed to come-ons”.\n\n\nWe need to unlearn racism and build antiracist culture in science\n\nTen simple rules for building an antiracist lab - Chaudhary & Berhe, 2020. PLOS\nUnlearning Racism in Geoscience — URGE\n\n\n\nPut your values forward\nModel the behavior you want to see in your research group & beyond (lab, dept, campus, organization, online)\n\n\nBuilding trust\nHave to build trust and be intentional, don’t hope for organic.\n\nHow to build (and rebuild trust - Frances Frei\n\n\n\nSustain the culture\nOvertly showing kindness & a Code of Conduct can filter out people who don’t want to be subject to its enforcement – rOpenSci\nLabs have people coming and going all the time; how do you set the tone and have it be sustainable?"
   },
   {
     "objectID": "team-culture.html#deliberately-setting-the-tone",
@@ -119,6 +189,13 @@
     "text": "Further Resources\n\nA Practical Guide to Mentoring Across Intersections - Harriot 2020 VanguardSTEM Blog\nGet it wrong for me: What I need from allies - Carpenter 2020.\n\n“Now, when someone asks, ‘what do you need from me’, I say, ‘I need you to learn, I need you to care’. Somehow, we’ve all evolved to underestimate the power of learning and the power of seeking to understand. Knowing what things harm me is a sign that you value me. …Then I want an ally who works to change their individual behavior and change the system around us for the better. Not just one or the other. I want a bunch of people who are interested in becoming allies to me to get it wrong. Because I promise, you will get it wrong, likely more than once. But please get it wrong, for me. Be wrong on my behalf. Try stuff, learn stuff, make attempts, and fail. Embrace the discomfort of not knowing, of not being certain, of not understanding and then be motivated enough to learn and get better. I will give you grace if you give me effort. We are risking our lives; you can risk getting things wrong.”\n\nInclusivity in STEM: Interview with Dr Mica Estrada (video, 17 mins). “Dr. Mica Estrada is a social psychologist and faculty member at University of San Francisco. Her research explores the role of identity and values in influencing the persistence of historically underserved students in STEM.”\n\nPEERS\nmicro affirmations\n\nRecreating Wakanda by promoting Black excellence in ecology and evolution — Schell et al (2020)\nGet it wrong for me: What I need from allies — Carpenter (2020)\nA Practical Guide to Mentoring Across Intersections — Harriot (2020)\nFor Our White Friends Desiring to Be Allies — Ariel (2017)\n\nDr. Dori Tunstall on Respectful Design: Models for Diversity, Inclusion, & Decolonization — Tunstall (2020)\nSexual harassment is rife in the sciences, finds landmark US study — Witze (2018)\nAll We Can Save — Johnson & Wilkerson (2020)\nBraiding Sweetgrass — Kimmerer (2013)"
   },
   {
+    "objectID": "data-strategies.html",
+    "href": "data-strategies.html",
+    "title": "Data strategies for future us",
+    "section": "",
+    "text": "Data strategies are part of a shared workflow strategy: How do we structure data, where do we store and back up data, how do we create metadata, and keep the raw data raw…Here we will discuss personal and team habits for data management and sharing: data strategies for future us.\nSlides that have been presented during Champions Program Cohort Calls (with guest teachers indicated):"
+  },
+  {
     "objectID": "data-strategies.html#data-organization-in-spreadsheets",
     "href": "data-strategies.html#data-organization-in-spreadsheets",
     "title": "Data strategies for future us",
@@ -145,6 +222,13 @@
     "title": "Data strategies for future us",
     "section": "Learning Resources",
     "text": "Learning Resources\n\nGrolemund, G & Wickham, H (2016). R for Data Science: https://r4ds.had.co.nz\n\nSee Ch 12: Tidy Data\n\nWickham, H (2014). Tidy Data. Journal of Statistical Software 58 (10). jstatsoft.org/v59/i10/\nBroman, KW and KH Woo (2018). Data Organization in Spreadsheets. The American Statistician 72 (1). Available open access as a PeerJ preprint.\nLeek, J (2016). How to share data with a statistician"
+  },
+  {
+    "objectID": "mindset.html",
+    "href": "mindset.html",
+    "title": "Openscapes Mindset",
+    "section": "",
+    "text": "The Openscapes mindset is about better science for future us. It is about moving away from lonely and demoralizing individual science, and towards science that is more empowering, efficient, open, collaborative, inclusive and kind. It is the idea that open data science tooling & communities exist that are powerful and empowering, and that we can harness this power broadly to create the culture we want to be a part of.\nSlides that have been presented during Champions Program Cohort Calls:"
   },
   {
     "objectID": "mindset.html#better-science-for-future-us",
@@ -196,6 +280,13 @@
     "text": "Notes and resources\n\nBiased by default: exploring discrimination in research code - Abby Cabunoc Mayes Bioinformatics Community Conference Keynote 2020\nCarpe Talk — Bryan & Averick. Consider for your next talk!"
   },
   {
+    "objectID": "coding-strategies.html",
+    "href": "coding-strategies.html",
+    "title": "Coding strategies for future us",
+    "section": "",
+    "text": "Coding strategies can blend with workflow strategies, and the idea is working in a way that is not just for you in this moment. Here we will discuss good coding practices for beginning and seasoned coders alike that make it easier to work with other people, times, and computers.\nSlides that have been presented during Champions Program Cohort Calls (with guest teachers indicated):"
+  },
+  {
     "objectID": "coding-strategies.html#software-considerations-for-coding",
     "href": "coding-strategies.html#software-considerations-for-coding",
     "title": "Coding strategies for future us",
@@ -238,11 +329,11 @@
     "text": "Further reading\n\nTidyverse Skills for Data Science - Wright, Ellis, Hicks, & Peng\nPrinciples for data analysis workflows - Stoudt, Vasquez, and Martinez 2021, PLOS Computational Biology\nR Cookbook — JD Long"
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Openscapes Champions Lesson Series",
-    "section": "Welcome",
-    "text": "Welcome\nHello! This is the lesson series for the Openscapes Champions program, an open data science mentorship program for science teams. We think about open science like a landscape, and we help researchers move from lonely science towards team science as they identify their common needs and start navigating the landscape together with a cohort of their peers.\n\n\n\nArtwork by Allison Horst\n\n\n\nThis open curriculum is improved iteratively and the most recent version always available online for reuse and remix. Each chapter in the Core Lesson Series introduces the concepts, tooling, and examples that we discuss during our Champions Program Cohort Calls. We’re also organizing additional Champions Lessons, Community Lessons, and How To guides to support Champions teams that you can navigate to on the left.\n\nCohort Calls\nResearch teams participate as a Champions Cohort over 2 months, meeting twice-monthly for five 1.5-hour sessions we call Cohort Calls.\nCohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that accompany each chapter of this book. Core lessons focus on building an open science mindset, efficiency and sharing culture within the team, and developing sustained learning practices with broader communities. At the end of the program, each team describes their work in progress and pathways forward.\n\n\n\nCohort Call Topics\nSeries Chapters\nSeaside Chat Topics\n\n\n\n\n1. Openscapes mindset\nmindset, better science in less time\nPathway - where are you now\n\n\n2. GitHub Clinic: publishing & project management\npublishing, project management\nShared organizing with GitHub\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nOnboarding docs, code of conduct\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nPathway - next steps\n\n\n5. Pathways share and next steps\n\n\n\n\n\nBetween Cohort Calls, each team meets together for Seaside Chats - dedicated time for data/workflow discussions. This is where teams begin identifying and addressing shared needs, prompted by discussions as a cohort and using the Pathways Doc. Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and culture of shared workflows and learning. Additionally, we support teams between Cohort Calls through Co-Working sessions and Slack.\n\n\nCohort Agendas\nCohort Call agendas and slides are all openly available in a Google Folder, ready for reuse and remix. We end each lesson by learning hands-on efficiency tips (Doc and Spreadsheet) and inclusion tips."
+    "section": "",
+    "text": "Hello! This is the lesson series for the Openscapes Champions program, an open data science mentorship program for science teams. We think about open science like a landscape, and we help researchers move from lonely science towards team science as they identify their common needs and start navigating the landscape together with a cohort of their peers.\n\n\n\nArtwork by Allison Horst\n\n\n\nThis open curriculum is improved iteratively and the most recent version always available online for reuse and remix. Each chapter in the Core Lesson Series introduces the concepts, tooling, and examples that we discuss during our Champions Program Cohort Calls. We’re also organizing additional Champions Lessons, Community Lessons, and How To guides to support Champions teams that you can navigate to on the left.\n\n\nResearch teams participate as a Champions Cohort over 2 months, meeting twice-monthly for five 1.5-hour sessions we call Cohort Calls.\nCohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that accompany each chapter of this book. Core lessons focus on building an open science mindset, efficiency and sharing culture within the team, and developing sustained learning practices with broader communities. At the end of the program, each team describes their work in progress and pathways forward.\n\n\n\nCohort Call Topics\nSeries Chapters\nSeaside Chat Topics\n\n\n\n\n1. Openscapes mindset, better science in less time\nmindset, better science in less time\nPathway - where are you now\n\n\n2. GitHub Clinic: publishing & project management\npublishing, project management\nShared organizing with GitHub\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nOnboarding docs, code of conduct\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nPathway - next steps\n\n\n5. Pathways share and next steps\n\n\n\n\n\nBetween Cohort Calls, each team meets together for Seaside Chats - dedicated time for data/workflow discussions. This is where teams begin identifying and addressing shared needs, prompted by discussions as a cohort and using the Pathways Doc. Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and culture of shared workflows and learning. Additionally, we support teams between Cohort Calls through Co-Working sessions and Slack.\n\n\n\nCohort Call agendas and slides are all openly available in a Google Folder, ready for reuse and remix. We end each lesson by learning hands-on efficiency tips (Doc and Spreadsheet) and inclusion tips."
   },
   {
     "objectID": "index.html#cohorts---past-and-upcoming",
@@ -252,6 +343,13 @@
     "text": "Cohorts - past and upcoming\nWe have led 8+ Champions Cohorts since 2019. Starting in 2021, each Cohort has an events page with links to their GitHub repository (with quick-links to their Cohort Call Agendas so teams can more easily review), blog posts and any additional resources. Explore more at openscapes.org/cohorts."
   },
   {
+    "objectID": "index.html#supercharge-your-research-self-paced-learning",
+    "href": "index.html#supercharge-your-research-self-paced-learning",
+    "title": "Openscapes Champions Lesson Series",
+    "section": "Supercharge your research: self-paced learning",
+    "text": "Supercharge your research: self-paced learning\nAll Champions Program resources are designed to also be a self-paced learning resource for teams. Additionally see Supercharge your research: a ten-week plan for open data science (Lowndes et al. 2019) and accompanying spreadsheet template that you can use to get organized with your team.\nSee also other publications and presentations at openscapes.org/media."
+  },
+  {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Openscapes Champions Lesson Series",
@@ -259,109 +357,11 @@
     "text": "About\nOpenscapes helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams. Our work builds from many others in the open movement, and we are also documenting our process to onboard folks and scale Openscapes in our Approach Guide.\n\nOpenscapes Champions\nOpenscapes Champions is a professional development and leadership opportunity for teams to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Cohorts are ~7 research teams (~35 total participants including team leads and members) that convene remotely to explore open data science tooling and practices together. This is a remote-by-design program since its launch in 2019.\nCore lessons were originally developed from “Our path to better science in less time using open data science tools” (Lowndes et al. 2017). As we learn and iterate leading Champions Cohorts, the curriculum is iterating and growing as well.\n\n\nThis Series Book\nThe Series is written (and always improving) to be used as a reference, to teach, as self-paced learning, and for reuse and remix. And also, awesomely, it’s created with the same tools and practices we will be talking about: R/RStudio - originally bookdown and now quarto - and GitHub.\n\n\nCitation\nAll material in the Openscapes Approach Guide is available under a CC-BY 4.0 licence.\nPlease cite this guide as:\nThe Openscapes Core Team, Lowndes & Robinson (2021). Openscapes Champions Lesson Series (Version v0.0.1). https://openscapes.org/series.\n\n\n  Openscapes is licensed under a Creative Commons Attribution 4.0 International License."
   },
   {
-    "objectID": "github-pub.html#preamble",
-    "href": "github-pub.html#preamble",
-    "title": "GitHub for publishing",
-    "section": "Preamble",
-    "text": "Preamble\nWe are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good for new lab members or students to contribute to your lab as soon as possible.\nGitHub can reduce friction for open science: it gives us avenues for communicating and publishing methods, blogs, interactive graphics and more, without a lot of heavy lifting!\n\nPrerequisite\nYou will need to create GitHub account at http://github.com, if you don’t already have one. For username, I recommend all lower-case letters, short as you can. I recommend using your .edu email, since you can request free private repositories via GitHub Education discount."
-  },
-  {
-    "objectID": "github-pub.html#what-is-github-traditional-answer",
-    "href": "github-pub.html#what-is-github-traditional-answer",
-    "title": "GitHub for publishing",
-    "section": "What is GitHub? — Traditional answer",
-    "text": "What is GitHub? — Traditional answer\nGitHub means GitHub.com; it’s a company that is an online collaborative platform, with some features familiar to social media users.\nGitHub centers around git, which is powerful version control software for your local computer. This has been around for years, taking care of bookkeeping for you locally on your computer.\nGitHub makes git’s local bookkeeping collaborative through its powerful online platform. It will weave together all the version control from your local computer with other collaborators you work with.\nIt is used for code and files: organize, archive, bookkeeping, searchable, changes visualized, etc. In the figure below, notice the familiar red and green to denote deletions and additions line-by-line, with darker shading to identify specific text within a line. Also notice the differencing in the image’s color bar!\n\n \nWe aren’t going to teach traditional git/GitHub today, but here are some recommendations if you’d like to learn. First, read Jenny Bryan’s “Excuse Me, Do You Have a Moment to Talk About Version Control?” (open-access pre-print from PeerJ, published in The American Statistican). This provides an excellent overview. One quote I like in particular is\n\nCollaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review. - Jenny Bryan, “Excuse Me, Do You Have a Moment to Talk About Version Control?”\n\nNext, to learn GitHub with R, the absolute best resource is Jenny Bryan’s Happy Git With R. This is a comprehensive, friendly step-by-step process of how to do so, and is an awesome reference for seasoned git/GitHub users as well. If you want a shorter-form resource, I’d recommend 2 tutorials from R for Excel Users. This also teaches you how to set up GitHub to sync directly through RStudio, so that you don’t have to have any other software (including the command line) open to do so:\n\nGitHub\nCollaborating with GitHub\n\nOn my local computer, I interact with GitHub through RStudio 99.9% of the time (use command line .1% of time)."
-  },
-  {
-    "objectID": "github-pub.html#what-is-github-non-traditional-answer",
-    "href": "github-pub.html#what-is-github-non-traditional-answer",
-    "title": "GitHub for publishing",
-    "section": "What is GitHub? — Non-traditional answer",
-    "text": "What is GitHub? — Non-traditional answer\n\nPublishing platform\nIt’s for books like this one (openscapes.org/series), websites like openscapes.org, which was built with R’s blogdown package, and interactive dashboards.\n\n\nProject management system\nGitHub is also a project management system for short and long-term tasks. It is really powerful to have collaborative “todo”’s in the same software (and user accounts) as all the analysis and all the people that you’re already working with.\nWe will talk about “Issues” & “Projects” in the next chapter."
-  },
-  {
-    "objectID": "github-pub.html#github-framework-in-a-nutshell",
-    "href": "github-pub.html#github-framework-in-a-nutshell",
-    "title": "GitHub for publishing",
-    "section": "GitHub framework in a nutshell",
-    "text": "GitHub framework in a nutshell\n\nUsers vs. organizations\nExample: jules32 is a user account, openscapes is an organization group.\nYou can think of them like other social media accounts: I can be an individual or part of a group, and there are permissions associated with both.\n\n\nRepositories (“repos”)\nRepos are GitHub’s main unit. They are essentially a folder, and you’ll put files and folders in them. They are contained, with permissions specific to each one.\nIt makes it easier to navigate through and find stuff — so you are “not sifting through a zoo of files” as one Openscapes Champion has said.\n\n\n“Commits” & “commit messages”\nUnlike Dropbox or Google Drive that constantly and automatically sync to the cloud, you have to deliberately tell git/GitHub when you have an amount of work that you want to be versioned and synced. You have to commit to telling them. GitHub takes care of the backend bookkeeping involved, but you have to write a human-readable message to your future self and others. That is the commit message.\nThere is no absolute guidance for how often to commit, but I think of it as leaving breadcrumbs for yourself. How much work and on what things/in what combination would you like to be able to reverse? What kind of information will make it easier for Future You to work with?\n\n\nPublic vs private\nYou can have both public (the free default) and private repositories, and change these permissions later on. I mostly work in public repos, but if I work in private ones, I often have the expectation that they will be made public some day. So I practice good habits with commits and documentation, and keep conversations on-topic.\n\n\nThe search feature is awesome\nYou are able to search within a GitHub repository, across repositories in an organization, or across all GitHub public repositories. I find this helps me find things quickly if I’m looking for how I’ve used a function in the past, or if I remember a word that would stand out that I included in a commit message as a breadcrumb to myself. It will also search Issues within the repositories, so you can look for specific words in conversations as well.\n\n\nBranches & Forks\nWe’re not going to talk about branches and forks. These are a core feature of what makes GitHub super powerful for software development, and one of the first things you’ll see in GitHub tutorials geared towards software engineers. But I do not think that is the most relevant or smoothest entryway for those of us who are scientists fairly new to collaborative coding and version control."
-  },
-  {
-    "objectID": "github-pub.html#github-orientation",
-    "href": "github-pub.html#github-orientation",
-    "title": "GitHub for publishing",
-    "section": "GitHub Orientation",
-    "text": "GitHub Orientation\nThis is a demo details upcoming"
-  },
-  {
-    "objectID": "github-pub.html#editing-files-from-github.",
-    "href": "github-pub.html#editing-files-from-github.",
-    "title": "GitHub for publishing",
-    "section": "Editing files from GitHub.",
-    "text": "Editing files from GitHub.\nThis is also a demo details upcoming\nFirst a Disclaimer: you don’t want to edit from the browser for most things – you would want to “clone” the repo to your local computer and leverage more goodies & power. However, you will sometimes edit in the browser, and it’s a good entry point for us today, and maybe for onboarding folks in your lab in the future.\nWhy not edit in the browser? You don’t want to overwrite each other or forget yourself. Good for quick md editing, not script editing.\nIn the demo, the example .md was a deliberate example of sharing slides from a talk :)\nWhat to do: (you all have permissions)\n\nGo to https://github.com/openscapes/demo/yourname.md\nClick on the pencil to edit your file\nMake many edits & commits with commit messages\n\ngithub.com has a default message, but get into the habit of writing an actual message to yourself/others (breadcrumbs)\n\nThis is different from saving (cancel if you save!)"
-  },
-  {
-    "objectID": "github-pub.html#further-resources",
-    "href": "github-pub.html#further-resources",
-    "title": "GitHub for publishing",
-    "section": "Further resources",
-    "text": "Further resources\n\nGit for Humans - Alice Bartlett, 2016"
-  },
-  {
-    "objectID": "how-to/create-publish-quarto.html",
-    "href": "how-to/create-publish-quarto.html",
-    "title": "Create & publish with Quarto",
+    "objectID": "communities.html",
+    "href": "communities.html",
+    "title": "Open communities",
     "section": "",
-    "text": "We’ve created a tutorial on how to copy (fork or download) an existing Quarto website like this one and adapt it for your own uses. Please see: https://openscapes.github.io/quarto-website-tutorial/."
-  },
-  {
-    "objectID": "how-to/setup-rstudio-github.html#installation",
-    "href": "how-to/setup-rstudio-github.html#installation",
-    "title": "Setup RStudio and GitHub",
-    "section": "Installation",
-    "text": "Installation\nTo setup RStudio and GitHub, you will need four things:\n\nR\nRStudio\nGit\nGitHub\n\nFollow the UCSB MEDS Installation Guide for detailed instructions on how to create accounts, download, install, and configure on Mac and Windows. (For an even more detailed walk-through, see Allison Horst’s ESM 206 Google Doc). Thanks for sharing Allison!"
-  },
-  {
-    "objectID": "how-to/setup-rstudio-github.html#practice",
-    "href": "how-to/setup-rstudio-github.html#practice",
-    "title": "Setup RStudio and GitHub",
-    "section": "Practice",
-    "text": "Practice\nNow you’ll want to practice how to use RStudio and GitHub. Follow R for Excel Users’ GitHub Chapter to create a GitHub repository, clone it to RStudio, make edits, and practice syncing."
-  },
-  {
-    "objectID": "how-to/index.html",
-    "href": "how-to/index.html",
-    "title": "How To Guides",
-    "section": "",
-    "text": "This is a collection of resources that complement what we cover in the Champions Lesson Series - things that often come up as questions and that folks can screenshare and do together during Seaside Chats and Co-Working sessions. We point to existing resources as much as possible."
-  },
-  {
-    "objectID": "how-to/reuse-openscapes-approach.html",
-    "href": "how-to/reuse-openscapes-approach.html",
-    "title": "Reuse the Openscapes Approach",
-    "section": "",
-    "text": "The Openscapes Approach Guide is where we’re starting to document our approach so that others can lead their own Champions Cohorts. Even if you’re not leading your own Cohort, there are many things we do that you can reuse. For example:\n\nHave Google Doc agenda with live notetaking during your meetings (if this is a recurring meeting, organize it in a shared folder, either with one doc per meeting like our Cohort Call Agendas or many meetings in the same doc with the most recent at the top, like our Co-Working notes)\nBegin a meeting with a Roll Call/Check in and Code of Conduct\nShare slides before giving your talk so that folks can see them in high resolution and click on links\nTeach using other people’s slides"
-  },
-  {
-    "objectID": "how-to/do-fix-git-things.html#happy-git-with-r",
-    "href": "how-to/do-fix-git-things.html#happy-git-with-r",
-    "title": "Do and fix things in Git",
-    "section": "Happy Git With R",
-    "text": "Happy Git With R\n\n“Happy Git provides opinionated instructions on how to Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE; Develop a few key workflows that cover your most common tasks; Integrate Git and GitHub into your daily work with R and R Markdown.”\n\nhttps://happygitwithr.com/"
-  },
-  {
-    "objectID": "how-to/do-fix-git-things.html#git-flight-rules",
-    "href": "how-to/do-fix-git-things.html#git-flight-rules",
-    "title": "Do and fix things in Git",
-    "section": "Git Flight Rules",
-    "text": "Git Flight Rules\n“A guide for astronauts (now, programmers using Git) about what to do when things go wrong.”\nhttps://github.com/k88hudson/git-flight-rules\nThis is quite a comprehensive and maintained list of git commands, using the command line."
-  },
-  {
-    "objectID": "how-to/do-fix-git-things.html#github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes",
-    "href": "how-to/do-fix-git-things.html#github-a-beginners-guide-to-going-back-in-time-aka-fixing-mistakes",
-    "title": "Do and fix things in Git",
-    "section": "GitHub: A beginner’s guide to going back in time (aka fixing mistakes)",
-    "text": "GitHub: A beginner’s guide to going back in time (aka fixing mistakes)\nhttps://ohi-science.org/news/github-going-back-in-time\nThis has screenshots and a workflow with RStudio and the command line."
+    "text": "Open communities play a big role in advancing research, helping research feel less lonely and reducing the amount of time we all spend being stuck spend reinventing the wheel. This is a brief (incomplete) introduction to the idea of open communities. We will explore: What are open communities? Why engage with them? How to engage with them? And also how Twitter as a legit tool for coding and science. Originally focusing on R communities, we are adding more examples beyond.\nSlides that have been presented during Champions Program Cohort Calls:"
   },
   {
     "objectID": "communities.html#what-are-open-communities",
@@ -392,6 +392,13 @@
     "text": "Examples in the wild: campus coding clubs\n\nEcoDataScience at UC Santa Barbara\nBioData Club at OHSU\nThe Bio-Data Club at Moffitt"
   },
   {
+    "objectID": "additional-lessons/r-for-scicomm.html",
+    "href": "additional-lessons/r-for-scicomm.html",
+    "title": "RMarkdown for scicomm",
+    "section": "",
+    "text": "Coming soon. Slides are best until then. See also Data science as an entryway to open publishing - May 27, 2020: Fireside Chat co-presented with Dr. Nick Tierney at Open Publishing Fest\nSo much potential for public communication, lab protocols and documents, etc. with R.\nAll based on RMarkdown."
+  },
+  {
     "objectID": "additional-lessons/r-for-scicomm.html#books-with-bookdown",
     "href": "additional-lessons/r-for-scicomm.html#books-with-bookdown",
     "title": "RMarkdown for scicomm",
@@ -418,6 +425,13 @@
     "title": "RMarkdown for scicomm",
     "section": "Further resources",
     "text": "Further resources\n\nRMarkdown - RStudio (2021)\nHow I teach RMarkdown - Hill (2020)\nR Markdown for scientists - Tierney (2020)\nR for Excel Users - Lowndes & Horst (2020)\nRMarkdown website tutorial - Lowndes (2016)\nAcademic Publications with R Markdown- Ovando 2020"
+  },
+  {
+    "objectID": "additional-lessons/code-of-conduct.html",
+    "href": "additional-lessons/code-of-conduct.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "Please see accompanying slides until this chapter is built out more.\nPlease also refer to Openscapes’ Code of Conduct: https://openscapes.org/code-of-conduct\nImportant for:"
   },
   {
     "objectID": "additional-lessons/code-of-conduct.html#code-of-conduct-also-known-as",
@@ -455,284 +469,60 @@
     "text": "Further Reading\n\nHow Codes of Conduct Are Combatting Open Source’s Diversity Problem — Margaret Rhodes, AIGA Eye on Design"
   },
   {
-    "objectID": "inspiration/resources-that-influence.html#talking-about-data-science-hilary-parker-roger-peng",
-    "href": "inspiration/resources-that-influence.html#talking-about-data-science-hilary-parker-roger-peng",
+    "objectID": "inspiration/resources-that-influence.html",
+    "href": "inspiration/resources-that-influence.html",
     "title": "Openscapes Champions Series",
-    "section": "Talking about data science: Hilary Parker & Roger Peng",
-    "text": "Talking about data science: Hilary Parker & Roger Peng\nRStudio::conf(2020) keynote & NSSD podcast episode 100\n\nIf you want to write, you read a lot, music, you listen a lot. I’ts hard to do this with data analysis."
-  },
-  {
-    "objectID": "inspiration/resources-that-influence.html#opinionated-data-analysis",
-    "href": "inspiration/resources-that-influence.html#opinionated-data-analysis",
-    "title": "Openscapes Champions Series",
-    "section": "Opinionated data analysis",
-    "text": "Opinionated data analysis"
-  },
-  {
-    "objectID": "inspiration/resources-that-influence.html#principles-for-data-analysis-workflows",
-    "href": "inspiration/resources-that-influence.html#principles-for-data-analysis-workflows",
-    "title": "Openscapes Champions Series",
-    "section": "Principles for data analysis workflows",
-    "text": "Principles for data analysis workflows\nStoudt, Vásquez, Martinez, https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770\n\nworkflow describes what a researcher does to make advances on scientific ques- tions: developing hypotheses, wrangling data, writing code, and interpreting results. Workflow: The process that moves a scientific investigation from raw data to coherent research question to insightful contribution. This often involves a complex series of pro- cesses and includes a mixture of machine automation and human intervention. It is a nonlinear and iterative exercise.\n\n\nImportantly, the difficulties we encounter in this [Explore] phase help us build empathy for an eventual audience beyond ourselves. It is here that we experience firsthand the challenges of processing our data set, framing domain research questions appro- priate to it, and structuring the beginnings of a workflow. Documenting our trial and error helps our own work stay on track in addition to assisting future researchers facing similar challenges."
-  },
-  {
-    "objectID": "inspiration/resources-that-influence.html#vulnerability-brené-brown",
-    "href": "inspiration/resources-that-influence.html#vulnerability-brené-brown",
-    "title": "Openscapes Champions Series",
-    "section": "Vulnerability: Brené Brown",
-    "text": "Vulnerability: Brené Brown\nPower of Vulnerability: TED Talk\nDare To Lead Podcast\n\nHedgehog concept: Jim Collins\nHedgehog concept"
-  },
-  {
-    "objectID": "inspiration/resources-that-influence.html#all-we-can-save-ayana-johnson-katharine-wilkinson",
-    "href": "inspiration/resources-that-influence.html#all-we-can-save-ayana-johnson-katharine-wilkinson",
-    "title": "Openscapes Champions Series",
-    "section": "All We Can Save: Ayana Johnson & Katharine Wilkinson",
-    "text": "All We Can Save: Ayana Johnson & Katharine Wilkinson\nAll We Can Save Project\n\nThere is a renaissance blooming in the climate movement: leaderhip that is more characteristically feminine and more faithfully feminist, rooted in ompassion, connection, creativity, and collaboration. …To change everything, we need everyone — All We Can Save\n\n\nJohnson’s frustration with the climate movement isn’t about the current leaders doing a bad job—it’s just that we need more leaders. Her vision of the world includes people from every community in climate leadership roles. — The Marine Biologist Building an Inclusive Climate Movement, Vice\n\n\nAll We Can Save is basically a community bound between two covers, and a gift to any who wishes to join in. - Eric Roston, Bloomberg"
-  },
-  {
-    "objectID": "inspiration/resources-that-influence.html#the-power-of-welcome",
-    "href": "inspiration/resources-that-influence.html#the-power-of-welcome",
-    "title": "Openscapes Champions Series",
-    "section": "The Power of Welcome",
-    "text": "The Power of Welcome\nThe Value of Welcome — Stef Butland, rOpenSci"
-  },
-  {
-    "objectID": "inspiration/resources-that-influence.html#the-moment-of-lift-melinda-gates",
-    "href": "inspiration/resources-that-influence.html#the-moment-of-lift-melinda-gates",
-    "title": "Openscapes Champions Series",
-    "section": "The moment of lift: Melinda Gates",
-    "text": "The moment of lift: Melinda Gates"
-  },
-  {
-    "objectID": "inspiration/resources-that-influence.html#architecture-of-participation-tim-oreilly",
-    "href": "inspiration/resources-that-influence.html#architecture-of-participation-tim-oreilly",
-    "title": "Openscapes Champions Series",
-    "section": "Architecture of Participation: Tim O’Reilly",
-    "text": "Architecture of Participation: Tim O’Reilly\nIt’s Not About You: The Truth About Social Media Marketing (2012). Strategy on community building through modern channels\n\n“We tell big stories that matter to a community of users, and together we use those stories to amplify a message that we all care about…And once they start telling their story as part of the bigger story, it suddenly looks like a parade.”\n\nOpen source paradigm shift\n\nI’ve come to use the term “the architecture of participation” to describe the nature of systems that are designed for user contribution."
-  },
-  {
-    "objectID": "inspiration/resources-that-influence.html#systems-change-donella-meadows",
-    "href": "inspiration/resources-that-influence.html#systems-change-donella-meadows",
-    "title": "Openscapes Champions Series",
-    "section": "Systems Change: Donella Meadows",
-    "text": "Systems Change: Donella Meadows\nLeverage points: places to intervene in a system: (in increasing order of effectiveness)\n\nConstants, parameters, numbers (such as subsidies, taxes, standards).\nThe sizes of buffers and other stabilizing stocks, relative to their flows.\nThe structure of material stocks and flows (such as transport networks, population age structures).\nThe lengths of delays, relative to the rate of system change.\nThe strength of negative feedback loops, relative to the impacts they are trying to correct against.\nThe gain around driving positive feedback loops.\nThe structure of information flows (who does and does not have access to information).\nThe rules of the system (such as incentives, punishments, constraints).\nThe power to add, change, evolve, or self-organize system structure.\nThe goals of the system.\nThe mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.\nThe power to transcend paradigms.\n\n\nSo how do you change paradigms? Thomas Kuhn, who wrote the seminal book about the great paradigm shifts of science,7 has a lot to say about that. In a nutshell, you keep pointing at the anomalies and failures in the old paradigm, you keep coming yourself, and loudly and with assurance from the new one, you insert people with the new paradigm in places of public visibility and power. You don’t waste time with reactionaries; rather you work with active change agents and with the vast middle ground of people who are open-minded."
-  },
-  {
-    "objectID": "inspiration/resources-that-influence.html#organizational-architecture",
-    "href": "inspiration/resources-that-influence.html#organizational-architecture",
-    "title": "Openscapes Champions Series",
-    "section": "Organizational architecture",
-    "text": "Organizational architecture\nCautionary Tales Podcast Ep 6 – How Britain Invented, Then Ignored, Blitzkrieg.\nThis tale is about how the organizational architecture of existing entities - whether the British army, Sony, Kodak, or Xerox - cannot always support their own innovation because of the social structures they were built upon. Fascinating to think about in terms of how open science has not been embraced by scientific communities within the existing academic structure."
-  },
-  {
-    "objectID": "inspiration/resources-that-influence.html#disruption-can-feed-creativity",
-    "href": "inspiration/resources-that-influence.html#disruption-can-feed-creativity",
-    "title": "Openscapes Champions Series",
-    "section": "Disruption can feed creativity",
-    "text": "Disruption can feed creativity\nCautionary Tales Podcast Ep 7 – Bowie, jazz, and the unplayable piano.\nThis tale is about music: how Keith Jarrett reluctantly played on a broken piano and how David Bowie and Brian Eno’s take on collaboration led to brand new sounds and ideas. I think about this for science and openness - working out of your comfort zones and mixing up how you do it and who you do it with."
-  },
-  {
-    "objectID": "inspiration/resources-that-influence.html#kaitlyn-thaney",
-    "href": "inspiration/resources-that-influence.html#kaitlyn-thaney",
-    "title": "Openscapes Champions Series",
-    "section": "Kaitlyn Thaney",
-    "text": "Kaitlyn Thaney\nFunding research infrastructure\n\nthere’s also the fact that the current funding model has led to a perceived sense of scarcity, pushing open projects to compete rather than collaborate, to build new features instead of maintaining their work and deepening their level of service for their communities. An additional dimension to our work involves looking at the staffing and human infrastructure powering open technology development, maintenance, governance and stewardship. That volunteer labor and community engagement is often an invisible cost we gloss over in our estimations and recommendations, while also being a core pillar in this work."
-  },
-  {
-    "objectID": "inspiration/resources-that-influence.html#mentorship-vs-sponsorship",
-    "href": "inspiration/resources-that-influence.html#mentorship-vs-sponsorship",
-    "title": "Openscapes Champions Series",
-    "section": "Mentorship vs Sponsorship",
-    "text": "Mentorship vs Sponsorship\nhttps://larahogan.me/sponsors/"
-  },
-  {
-    "objectID": "community-lessons/index.html#nasa-openscapes-cloud-tutorials",
-    "href": "community-lessons/index.html#nasa-openscapes-cloud-tutorials",
-    "title": "Openscapes Community Lessons",
-    "section": "NASA Openscapes Cloud Tutorials",
-    "text": "NASA Openscapes Cloud Tutorials\nThe NASA Earthdata-Openscapes Mentors team and other contributors are creating open educational resources to help researchers migrate workflows to the Cloud - all available for reuse and remix.\nhttps://nasa-openscapes.github.io/tutorials.html\nCheck out the 2021-Cloud-Hackathon materials!"
-  },
-  {
-    "objectID": "community-lessons/index.html#nmfs-openscapes",
-    "href": "community-lessons/index.html#nmfs-openscapes",
-    "title": "Openscapes Community Lessons",
-    "section": "NMFS Openscapes",
-    "text": "NMFS Openscapes\nThe overarching vision of the NMFS Openscapes is to support scientific researchers within NOAA Fisheries by providing training in reproducible scientific workflows and platforms, facilitating collaboration across divisions in common scientific data science tasks, and providing shared “best practices” resources. Check out the NMFS R UG (R Users Group) for upcoming events and Wiki for links to resources and examples of open science at NOAA Fisheries.\nhttps://github.com/nmfs-openscapes\nHighlighting a few lessons by Eli Holmes and Em Markowitz:\n\nAdvanced GitHub Clinic\ngoogledrive R package\nPSAW 2022: Intro to R data packages, Intro to GitHub"
-  },
-  {
-    "objectID": "community-lessons/index.html#fay-lab-manual",
-    "href": "community-lessons/index.html#fay-lab-manual",
-    "title": "Openscapes Community Lessons",
-    "section": "Fay Lab Manual",
-    "text": "Fay Lab Manual\nThis is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.\nhttps://thefaylab.github.io/lab-manual/\nCheck out how they’ve organized this onboarding document that prospective students and postdocs have said stood out to them. Consider reusing/remixing for your own group!\nSlides from Gavin Fay’s 2022 talk at NOAA Alaska Fisheries Science Center"
-  },
-  {
-    "objectID": "community-lessons/index.html#r-for-excel-users",
-    "href": "community-lessons/index.html#r-for-excel-users",
-    "title": "Openscapes Community Lessons",
-    "section": "R for Excel Users",
-    "text": "R for Excel Users\nThis course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.\nhttps://rstudio-conf-2020.github.io/r-for-excel/\nCheck out the resources throughout as well - it’s not only for Excel users, it’s for everyone."
-  },
-  {
-    "objectID": "community-lessons/index.html#allison-horst---open-educational-resources",
-    "href": "community-lessons/index.html#allison-horst---open-educational-resources",
-    "title": "Openscapes Community Lessons",
-    "section": "Allison Horst - open educational resources",
-    "text": "Allison Horst - open educational resources\nAllison Horst shares many open educational resources, including workshops and slides, at https://www.allisonhorst.com/:\n\n“I actively work to contribute to open educational resources, including software for data science education (e.g. the palmerpenguins R dataset package), and artwork for data science & stats teachers and learners. From 2019 - 2020 I was RStudio’s first Artist-in-Residence. You can read more about my motivation in that role in this blog post, and you can find some of my R- and stats-related artwork in this repo.”\n\nAllison teaches environmental data science at UCSB (see her courses at https://ucsb-meds.github.io/)."
-  },
-  {
-    "objectID": "better-science.html#ocean-health-index-behind-the-scenes",
-    "href": "better-science.html#ocean-health-index-behind-the-scenes",
-    "title": "Better science in less time",
-    "section": "Ocean Health Index: behind the scenes",
-    "text": "Ocean Health Index: behind the scenes\nSome key points to discuss from Lowndes et al. 2017, Nature Ecology & Evolution: Our path to better science in less time using open data science tools:\n\nReproducibility & communication enabled by open tooling\nShared practices are useful beyond shared projects\n\nIf you’re interested in more overview of the OHI setup, see this 2017 talk (25 mins): OHI Better science in less time\n\nOHI pathway\n\nMotivated by necessity\nReimagined by possibility and community\nDone incrementally!\nYes: it’s an investment.\nAlso yes: huge, enduring payoff for (your) science\n\n\n\nReproducibility & communication enabled by open tooling\nRMarkdown to reimagine data analysis and communication. RMarkdown combines analyses & figures together, rendered to your reporting output of choice.\nAn example: http://ohi-science.org/betterscienceinlesstime/\n\nWebsite built with R/RMarkdown & Github\n\nYou can get started too: (1-hour tutorial)\n\n\n\nShared workflows not only useful for shared projects\n\nOHI team: we identified as a team & prioritized helping each other\n\nWe work on many different projects\nUse same workflows, share feedback, can think together across projects\n\nShared conventions reduce friction & cognitive load\n\nCommon ground, easier to talk about, easier to ask for help\nYou don’t need to design everything from scratch\n\n\nAnd, critically:\n\nIt’s about increasing efficiency and reproducibility and open science.\nBut it is also about increasing participation and inclusion.\nConsider diversity, equity, and inclusion in your daily practices.\nHow you work and onboard others to your projects is a DEI issue."
-  },
-  {
-    "objectID": "better-science.html#examples-in-the-wild-environmental-science",
-    "href": "better-science.html#examples-in-the-wild-environmental-science",
-    "title": "Better science in less time",
-    "section": "Examples in the wild: environmental science",
-    "text": "Examples in the wild: environmental science\n\nRegime Shifts in R & Data Science within the BC Public Service Observations from the field - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote\nNMFSReports: Easily write NOAA reports and tech memos in R Markdown! - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk\nAutomated reporting in Tampa Bay with open science - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog\n\nTBEP’s Data Management Workflow and open science cake"
-  },
-  {
-    "objectID": "better-science.html#further-resources",
-    "href": "better-science.html#further-resources",
-    "title": "Better science in less time",
-    "section": "Further resources",
-    "text": "Further resources\n\nNot so standard deviation podcast\nParker & Peng\nhttp://nssdeviations.com\nGreat discussions about data concepts and “in the wild”\nEpisode 9: Spreadsheet drama\n\n\nPractical computing for biologists\nHaddock & Dunn\nhttp://practicalcomputing.org/\nSoftware & computing concepts already on your computer\nChapter 2: Regular expressions"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Openscapes Champions Lesson Series",
     "section": "",
-    "text": "Hello! This is the lesson series for the Openscapes Champions program, an open data science mentorship program for science teams. We think about open science like a landscape, and we help researchers move from lonely science towards team science as they identify their common needs and start navigating the landscape together with a cohort of their peers.\n\n\n\nArtwork by Allison Horst\n\n\n\nThis open curriculum is improved iteratively and the most recent version always available online for reuse and remix. Each chapter in the Core Lesson Series introduces the concepts, tooling, and examples that we discuss during our Champions Program Cohort Calls. We’re also organizing additional Champions Lessons, Community Lessons, and How To guides to support Champions teams that you can navigate to on the left.\n\n\nResearch teams participate as a Champions Cohort over 2 months, meeting twice-monthly for five 1.5-hour sessions we call Cohort Calls.\nCohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that accompany each chapter of this book. Core lessons focus on building an open science mindset, efficiency and sharing culture within the team, and developing sustained learning practices with broader communities. At the end of the program, each team describes their work in progress and pathways forward.\n\n\n\nCohort Call Topics\nSeries Chapters\nSeaside Chat Topics\n\n\n\n\n1. Openscapes mindset, better science in less time\nmindset, better science in less time\nPathway - where are you now\n\n\n2. GitHub Clinic: publishing & project management\npublishing, project management\nShared organizing with GitHub\n\n\n3. Team culture and data strategies for future us\nteam culture, data strategies\nOnboarding docs, code of conduct\n\n\n4. Open communities and coding strategies for future us\nopen communities, coding strategies\nPathway - next steps\n\n\n5. Pathways share and next steps\n\n\n\n\n\nBetween Cohort Calls, each team meets together for Seaside Chats - dedicated time for data/workflow discussions. This is where teams begin identifying and addressing shared needs, prompted by discussions as a cohort and using the Pathways Doc. Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and culture of shared workflows and learning. Additionally, we support teams between Cohort Calls through Co-Working sessions and Slack.\n\n\n\nCohort Call agendas and slides are all openly available in a Google Folder, ready for reuse and remix. We end each lesson by learning hands-on efficiency tips (Doc and Spreadsheet) and inclusion tips."
+    "text": "Some resources that influence our thinking.\n\n\n\nRStudio::conf(2020) keynote & NSSD podcast episode 100\n\nIf you want to write, you read a lot, music, you listen a lot. I’ts hard to do this with data analysis.\n\n\n\n\n\n\n\nStoudt, Vásquez, Martinez, https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770\n\nworkflow describes what a researcher does to make advances on scientific ques- tions: developing hypotheses, wrangling data, writing code, and interpreting results. Workflow: The process that moves a scientific investigation from raw data to coherent research question to insightful contribution. This often involves a complex series of pro- cesses and includes a mixture of machine automation and human intervention. It is a nonlinear and iterative exercise.\n\n\nImportantly, the difficulties we encounter in this [Explore] phase help us build empathy for an eventual audience beyond ourselves. It is here that we experience firsthand the challenges of processing our data set, framing domain research questions appro- priate to it, and structuring the beginnings of a workflow. Documenting our trial and error helps our own work stay on track in addition to assisting future researchers facing similar challenges.\n\n\n\n\nPower of Vulnerability: TED Talk\nDare To Lead Podcast\n\n\nHedgehog concept\n\n\n\n\nAll We Can Save Project\n\nThere is a renaissance blooming in the climate movement: leaderhip that is more characteristically feminine and more faithfully feminist, rooted in ompassion, connection, creativity, and collaboration. …To change everything, we need everyone — All We Can Save\n\n\nJohnson’s frustration with the climate movement isn’t about the current leaders doing a bad job—it’s just that we need more leaders. Her vision of the world includes people from every community in climate leadership roles. — The Marine Biologist Building an Inclusive Climate Movement, Vice\n\n\nAll We Can Save is basically a community bound between two covers, and a gift to any who wishes to join in. - Eric Roston, Bloomberg\n\n\n\n\nThe Value of Welcome — Stef Butland, rOpenSci\n\n\n\n\n\n\nIt’s Not About You: The Truth About Social Media Marketing (2012). Strategy on community building through modern channels\n\n“We tell big stories that matter to a community of users, and together we use those stories to amplify a message that we all care about…And once they start telling their story as part of the bigger story, it suddenly looks like a parade.”\n\nOpen source paradigm shift\n\nI’ve come to use the term “the architecture of participation” to describe the nature of systems that are designed for user contribution.\n\n\n\n\nLeverage points: places to intervene in a system: (in increasing order of effectiveness)\n\nConstants, parameters, numbers (such as subsidies, taxes, standards).\nThe sizes of buffers and other stabilizing stocks, relative to their flows.\nThe structure of material stocks and flows (such as transport networks, population age structures).\nThe lengths of delays, relative to the rate of system change.\nThe strength of negative feedback loops, relative to the impacts they are trying to correct against.\nThe gain around driving positive feedback loops.\nThe structure of information flows (who does and does not have access to information).\nThe rules of the system (such as incentives, punishments, constraints).\nThe power to add, change, evolve, or self-organize system structure.\nThe goals of the system.\nThe mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.\nThe power to transcend paradigms.\n\n\nSo how do you change paradigms? Thomas Kuhn, who wrote the seminal book about the great paradigm shifts of science,7 has a lot to say about that. In a nutshell, you keep pointing at the anomalies and failures in the old paradigm, you keep coming yourself, and loudly and with assurance from the new one, you insert people with the new paradigm in places of public visibility and power. You don’t waste time with reactionaries; rather you work with active change agents and with the vast middle ground of people who are open-minded.\n\n\n\n\nCautionary Tales Podcast Ep 6 – How Britain Invented, Then Ignored, Blitzkrieg.\nThis tale is about how the organizational architecture of existing entities - whether the British army, Sony, Kodak, or Xerox - cannot always support their own innovation because of the social structures they were built upon. Fascinating to think about in terms of how open science has not been embraced by scientific communities within the existing academic structure.\n\n\n\nCautionary Tales Podcast Ep 7 – Bowie, jazz, and the unplayable piano.\nThis tale is about music: how Keith Jarrett reluctantly played on a broken piano and how David Bowie and Brian Eno’s take on collaboration led to brand new sounds and ideas. I think about this for science and openness - working out of your comfort zones and mixing up how you do it and who you do it with.\n\n\n\nFunding research infrastructure\n\nthere’s also the fact that the current funding model has led to a perceived sense of scarcity, pushing open projects to compete rather than collaborate, to build new features instead of maintaining their work and deepening their level of service for their communities. An additional dimension to our work involves looking at the staffing and human infrastructure powering open technology development, maintenance, governance and stewardship. That volunteer labor and community engagement is often an invisible cost we gloss over in our estimations and recommendations, while also being a core pillar in this work.\n\n\n\n\n\nhttps://larahogan.me/sponsors/"
   },
   {
-    "objectID": "github-issues.html",
-    "href": "github-issues.html",
+    "objectID": "core-lessons/github/github-issues.html",
+    "href": "core-lessons/github/github-issues.html",
     "title": "GitHub for project management",
     "section": "",
-    "text": "GitHub is best known as a collaborative coding platform. But of course productive collaboration requires communication, and GitHub has powerful features to support communication and project management through GitHub Issues. (Also see thee previous chapter about GitHub for publishing).\nSlides that have been presented during Champions Program Cohort Calls:"
+    "text": "GitHub is best known as a collaborative coding platform. But of course productive collaboration requires communication, and GitHub has powerful features to support communication and project management through GitHub Issues."
   },
   {
-    "objectID": "github-pub.html",
-    "href": "github-pub.html",
-    "title": "GitHub for publishing",
-    "section": "",
-    "text": "GitHub is a powerful tool for collaborative coding with version control, but in the next two chapters we are going to focus on some of its lesser-celebrated awesomeness: GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.\nSlides that have been presented during Champions Program Cohort Calls:"
+    "objectID": "core-lessons/github/github-issues.html#preamble",
+    "href": "core-lessons/github/github-issues.html#preamble",
+    "title": "GitHub for project management",
+    "section": "Preamble",
+    "text": "Preamble\n\nWe are focusing on GitHub Issues here because they are a powerful way for team members to have active discussions about data and code, and therefore ways to participate in analyses even for those that are not involved in the day-to-day coding. I find Issues not only useful to discuss topics as a team, but I also treat it as my external memory: I write notes to myself, link to files and websites; I leave breadcrumbs for myself so that I am more easily able to remember my past thought processes and pick up projects where I left off.\nIn this way, GitHub Issues help actualize the mindset of Future You and Future Us. This means being deliberate now about communicating decisions and progress so that you or others can work in the future a little more smoothly. Using project management software is a strategy used by every software developer or people working on projects with many moving parts. It streamlines technical discussions with people who are coming/joining a group. It also helps organize and track projects that single or multiple & overlapping users can be a part of.\nWhile there are many options for project management software out there, I like using GitHub because it’s already managing my code and my work, and linked to my collaborators so it offers a streamlined way to communicate. It’s also one less account I need to have, which is a huge bonus in my mind.\nOne of the reason we talk about Issues in Openscapes is because they are an excellent way to develop habits for using GitHub for your analytical project more broadly."
   },
   {
-    "objectID": "mindset.html",
-    "href": "mindset.html",
-    "title": "Openscapes Mindset",
-    "section": "",
-    "text": "The Openscapes mindset is about better science for future us. It is about moving away from lonely and demoralizing individual science, and towards science that is more empowering, efficient, open, collaborative, inclusive and kind. It is the idea that open data science tooling & communities exist that are powerful and empowering, and that we can harness this power broadly to create the culture we want to be a part of.\nSlides that have been presented during Champions Program Cohort Calls:"
+    "objectID": "core-lessons/github/github-issues.html#what-are-issues",
+    "href": "core-lessons/github/github-issues.html#what-are-issues",
+    "title": "GitHub for project management",
+    "section": "What are Issues?",
+    "text": "What are Issues?\nEvery GitHub repository (shortened to “repo”) has a feature called Issues. Issues is GitHub’s project management and task-tracking feature.\n\nIssues “track ideas, enhancements, tasks, or bugs for work on GitHub.” - GitHub\n\n\n\n\n\nJenny Bryan has an excellent summary of Issues in her article “Excuse Me, Do You Have a Moment to Talk About Version Control?” (open-access pre-print from PeerJ, published in The American Statistican):\n\nGitHub issues are another powerful feature of the platform. Recall that we are repurposing Git, a tool that facilitates software development. Think of the issues for a project as its bug tracker. For projects that are not pure software development, we co-opt this machinery to organize our to-do list more generally. The basic unit is an issue and you can interact with one in two ways.\n\n\nFirst, issues are integrated into the project’s web interface on GitHub, with a rich set of options for linking to project files and incremental changes. Second, issues and their associated comment threads appear in your email, just like regular messages (this can, of course, be configured). The result is that all correspondence about a project comes through your normal channels, but is also tracked inside the project itself, with excellent navigability and search capabilities. For software, issues are used to track bugs and feature requests. In a data analysis project, you might open an issue to flesh out a specific sub-analysis or to develop a complicated figure. In a course, we use them to manage homework submission, marking, and peer review.\n\n\nIssues can be assigned to specific people and they can be labelled, e.g. “bug”, “simulation- study”, or “final-exam”. Coupled with the ability to cross-link issues and the project files or file changes, you have extraordinary power to document why things have happened in the past and to organize what needs to happen in the future.\n\n\nYou create an Issue for a topic, and use it track progress or ask questions. You can provide links, describe updates, link to other Issues, and you can close the Issue when it is completed. You can also re-open previously-closed Issues.\nEvery GitHub repository has this Issues feature. This means that sometimes Issues are public and sometimes they are private.\n\nIn a public repo, anyone with a GitHub username can create and comment on issues.\nIn a private repo, only users with permission can create and comment on issues, or see them at all\n\nGitHub search is awesome – it will search all of your files and Issues!"
   },
   {
-    "objectID": "team-culture.html",
-    "href": "team-culture.html",
-    "title": "Team culture",
-    "section": "",
-    "text": "We discuss team culture because while we know that diverse teams are more innovative, creating spaces where everyone can do their best work and feel safe to contribute takes intention; it does not happen by default. There is a lot of work to do to improve research culture, and we can lead by example in our own research groups and communities.\nSlides that have been presented during Champions Program Cohort Calls:\nSee also the following chapter on Codes of Conduct.\nhttps://twitter.com/Napaaqtuk/status/1528790732718452738"
+    "objectID": "core-lessons/github/github-issues.html#issues-in-the-wild",
+    "href": "core-lessons/github/github-issues.html#issues-in-the-wild",
+    "title": "GitHub for project management",
+    "section": "Issues in the Wild",
+    "text": "Issues in the Wild\nHere are some examples of “traditional” and “non-traditional” use of issues.\nggplot2’s Issues is an example of what I think is the “traditional” use of Issues, which is in a pretty pure software development context. This is a public repository, and all topics are directly related to ggplot2. Issues are largely used to report bugs, troubleshoot and sometimes to request features. Note the “Filters” feature on the top-left: this by default will search through the Issues that are still open, but you can also change this if you wanted to search also for closed Issues (just below “Filters” you can see that there are over 2000 closed Issues, documenting the innovation that’s been ongoing in ggplot2).\n\n\n\nMozillaFestival’s Issues are an example of a less “traditional”, but increasingly common use of Issues: for project submissions, coordination, and community engagement. It is also an example of the use of labels: those colorful tags that help group and categorize the Issues. To the right of “Filters”, you’ll see a “Labels” button: clicking on this will give you a list of all the labels and how many Issues are tagged with each label.\n\n\n\nOHI-Science’s Issues: are also an example of less “traditional” use of Issues but perhaps also somewhat common. This is a private repository, which is why there is no link to these Issues. Here, Issues are used for private conversations and archiving ideas and discussions: the OHI-Science team uses issues instead of email to have private, archived, searchable conversations about scientific methods. We are diligent about having important science conversations in these Issues, rather than those conversations being lost in emails or Slack. This is more organized and also makes onboarding team members much smoother since we do not need to forward emails to new team members."
   },
   {
-    "objectID": "coding-strategies.html",
-    "href": "coding-strategies.html",
-    "title": "Coding strategies for future us",
-    "section": "",
-    "text": "Coding strategies can blend with workflow strategies, and the idea is working in a way that is not just for you in this moment. Here we will discuss good coding practices for beginning and seasoned coders alike that make it easier to work with other people, times, and computers.\nSlides that have been presented during Champions Program Cohort Calls (with guest teachers indicated):"
+    "objectID": "core-lessons/github/github-issues.html#how-to-use-issues",
+    "href": "core-lessons/github/github-issues.html#how-to-use-issues",
+    "title": "GitHub for project management",
+    "section": "How to use Issues",
+    "text": "How to use Issues\nLet’s do a demo with Issues.\n\nCreating a new Issue\nWhen you click on the green “New Issue” button”, you’re asked to give a Title and Leave a Comment. You can also attach files or images by dragging them into the Issue.\nThen you’ll be able to Submit the Issue. On the right side, you’ll see options to Assign someone to the Issue, add a Label, add it to a Project, or add it to a Milestone. We’ll explore these features a bit more in a moment.\n\n\n\nWhen you click Submit, your Issue gets a number, which is now written next to the title. This number is also part of the URL as well.\nOn the right of the Title, note that there is an “Edit” button if you ever need to change the title of the Issue as the conversation evolves. The Issue number will stay the same.\nWhat happens if you want to edit the text of your Comment after you’ve Submitted it? No problem. See that once you’ve submitted an Issue, there is a blue bar at the top of the Comment, attributing your username to this comment along with the date. At the very right of this blue bar, there are 3 dots. Clicking here will give you the option to edit.\n\n\nCommenting\nThe great thing about Issues is that they are for conversations with yourself and others. So once you’ve submitted an Issue, you can string together additional Comments within this comment. Maybe you asked a question, and someone else will respond with a solution or idea. They might link to an Issue with a related topic, or an external link that might be helpful.\nYou can also tag people in Issue Comments with the “@” symbol. As noted above, anyone who is part of the repository will automatically get email notifications when comments are submitted. But tagging specific users will also send them an email, and is a good way to bring folks into the conversation who might not already be “watching” the whole repository. In a public repository you can tag any GitHub user, and in a private repository they have to have permission.\nEach time there is a comment in the Issue thread, there will be a new date marked in the blue bar at the top of the Issue. This is a nice way to see how current conversations are.\nAnd something really great is that you can click on the date — and watch the URL change. This allows you to anchor to a specific comment within the Issue thread. This is really useful if, for example, you wanted to share a specific comment with someone else instead of having them scroll down themselves. (Note: you can also click on the three dots at the right of the blue Comment header to copy the anchored link).\n\n\n\n\n\nMarkdown\nIssues support Markdown. This means that you can add simple formatting to your text, such as headers, bold and italics, lists, images, links, and formatted code. To help you use Markdown formatting as you learn, GitHub Issues have built-in help: there are icons between the Title and the Comment of the Issue that will do the Markdown formatting for you, and help you learn along the way.\nThere is also a “Preview” tab between the Title and Comment (next to the “Write” tab, where you are by default) where you can preview what your Markdown formatting looks like before you Submit the Issue. Submitting the Issue will also render the Markdown formatting.\nGitHub enables you to also create Markdown check-lists by typing - [ ]. Once this is rendered, you can click it to check this box. Alternatively, in Markdown you check a box by typing - [x]. The number of checked and unchecked items will be visible in the Issue as well.\n\n\n\n\n\nLinking to files\nLinking to specific files or versions of files is good practice when you are discussing it in an Issue: reduce the work for the person reading the Issue (which might be Future You!). You can link to the file by opening it in the browser and copying its URL and placing it in Markdown formatting for hyperlinks: [text to hyperlink](URL).\nYou can also navigate to a specific version of that file, or a specific commit message, if you want to capture that file at a specific point in time.\nYou can also anchor to specific lines within a file, which is useful if you are requesting feedback on a specific part of an analysis or asking for help troubleshooting. I can send someone to a specific place within a file with the appropriate lines highlighted. For example [important code](https://github.com/Openscapes/issues-demo/blob/master/code-example.R#L12-L13) will render as important code.\n\n \n\n\nAssigning, Labels\nOn the right side of the Issue thread, there is the “metadata” for the Issue. You can assign the Issue to a specific user, or label it with a suite of labels that you can customize (when you click on labels, see all the way at the bottom the option to edit labels. And there are other ways to navigate there as well).\nIf you navigate back to the full list of Issue topics (which will have the URL github.com/username-or-organization/repo-name/issues), you’ll see these metadata categories listed at the top as well, which lets you filter or view based on these categories.\n\n \n\n\nProjects, Milestones\nProjects and Milestones are further ways to organize and track progress with your Issues.\nProjects are a way to organize and prioritize your issues. It uses the idea of a Kanban board, which Wikipedia says “visually depict work at various stages of a process using cards to represent work items and columns to represent each stage of the process. Cards are moved from left to right to show progress and to help coordinate teams performing the work.” The simplest have 3 columns labeled “to do”, “doing” and “done”.\nYou can use Projects for both Organization or personal projects. In fact, you can have multiple projects within the same repository, so different people can have different Projects organized within their shared repository, for example.\nYou have a lot of control over how you will manage your Projects; at this point I do not use all the features but have been playing around with using them for Openscapes planning:\n\n\n\nMilestones are a way to attach deadlines to your Project (although you do not need to identify a date if you don’t want to). Once you create a Milestone, you can add Issues to that Milestone to help track progress. For example, maybe you have a presentation coming up and there are several Issues that need to be addressed before then."
   },
   {
-    "objectID": "communities.html",
-    "href": "communities.html",
-    "title": "Open communities",
-    "section": "",
-    "text": "Open communities play a big role in advancing research, helping research feel less lonely and reducing the amount of time we all spend being stuck spend reinventing the wheel. This is a brief (incomplete) introduction to the idea of open communities. We will explore: What are open communities? Why engage with them? How to engage with them? And also how Twitter as a legit tool for coding and science. Originally focusing on R communities, we are adding more examples beyond.\nSlides that have been presented during Champions Program Cohort Calls:"
+    "objectID": "core-lessons/github/github-issues.html#strategies-for-issues",
+    "href": "core-lessons/github/github-issues.html#strategies-for-issues",
+    "title": "GitHub for project management",
+    "section": "Strategies for Issues",
+    "text": "Strategies for Issues\n\nEvery repo has Issues, but do you want to use Issues in every repo? It helps to consider the purpose for the Issues.\nUsing Issues for “traditional” bug/features for code, it makes sense to keep the repository public and have all Issues pertaining to that repo there within that repo.\nIf you’re using Issues for “non-traditional” laboratory research group and science conversations, there are other considerations. Maybe you do want a private repository, but even so you’ll want to think ahead. Will you eventually make that repo public when you publish your study? Changing a repo from private to public (or vice versa, both are possible in the repository’s Settings) will make not only the code and files of that repo public, but also all the Issues. Which is fine, but it might add considerations in terms of what is discussed in those Issues.\n\nOHI example\nHere is an example of the Ocean Health Index team’s thought process & strategy.\nOur team works within a GitHub Organization called “OHI-Science”. Within that Organization, we work in many repositories, with different combinations of people working primarily within different repositories. Sanity-wise, we didn’t want to have conversations in Issues within each of those repositories because it would make finding those conversations more difficult (although now GitHub can search all Issues/code across an Organization!).\nWe also wanted our repos to be public, but to have private conversations using the Issues feature.\nThese two needs led us to create a single private repository named “issues”, and we only use it for Issues. This works really well for us, especially since our team lead can engage in these discussions by receiving emails about the Issues in his inbox, and can respond without having to go to GitHub.com."
   },
   {
-    "objectID": "core-lessons/pathways.html",
-    "href": "core-lessons/pathways.html",
-    "title": "Pathways",
-    "section": "",
-    "text": "Perhaps the most important part of Openscapes is helping teams identify their trailhead together, as illustrated in the Champions landscape illustration. We support individuals to “find their teams” by discussing approaches and software, so that they find they have common parts of how they work, whether they are working on the same or different projects.\nThe Pathways Spreadsheet provides a structured way for your team to think how you work and find common approaches and needs (template).\n\n\n\nExample Pathway Spreadsheet documenting how the team is working now and ideas for next steps\n\n\nThis format has helped many groups think through their trailhead and identifying where they are now. It also might not work for your group, and that is okay; use whatever format makes sense for you."
-  },
-  {
-    "objectID": "core-lessons/pathways.html#presenting-guidance",
-    "href": "core-lessons/pathways.html#presenting-guidance",
-    "title": "Pathways",
-    "section": "Presenting guidance",
-    "text": "Presenting guidance\nOn the final Cohort Call, each team presents their Pathways. Each team has 3 minutes to share followed by 2 minutes for questions. We encourage leads not to present, and it’s great when we hear multiple voices from the teams.\nThis is informal sharing of unpolished work-in-progress. Everyone makes progress throughout the Cohort: in mindsets, planning and actions. This is an opportunity to reflect and talk about it, building on the reflection breakout rooms that began most Cohort Calls. We’ve been reflective each week and we’ve all made progress.\nPresentations do not need be line-by-line of the Pathways Spreadsheet and there’s no wrong way to talk about your progress. Whatever your group wants to create and share is great - could be a photo of a whiteboard, a slide, the Pathways spreadsheet, or a “screenshare and tell” live walk-through of your files/code/ideas.\nA few reflection prompts that can help frame the presentations:\n\nWhat are the practices we’ve covered during the Cohort that most compel you?\nWhat are the practices we’ve covered this semester that most confuse you?\nAre there practices that are new to you that you didn’t originally think would work with your own research interests? If so, which?\nWhat are your two biggest take-aways from the Cohort?\nWhat future revisions will you propose making for your pathway\nAny final questions you want to workshop with the Cohort?"
-  },
-  {
-    "objectID": "core-lessons/pathways.html#examples",
-    "href": "core-lessons/pathways.html#examples",
-    "title": "Pathways",
-    "section": "Examples",
-    "text": "Examples\n\n\n\nAn example of an Openscapes pathway written by the NOAA Alaska Fisheries Science Center EcoFOCI team. The diagram summarizes how they used to share code, data, and files, and what their ongoing plans are for streamlining these processes and creating a team culture of openness and psychological safety.\n\n\nSee more examples:\n\nA TL;DR Collection of Stories from Openscapes Champions and Mentors; these stories are largely from 3 months+ following Pathways presentations\nCase Studies from the inaugural Champions Cohort (2021)"
-  },
-  {
-    "objectID": "how-to/do-fix-git-things.html",
-    "href": "how-to/do-fix-git-things.html",
-    "title": "Do and fix things in Git",
-    "section": "",
-    "text": "These are our go-to resources about GitHub; they include philosophy, step-by-step guidance, and troubleshooting. Most examples are with R and RStudio, and are applicable more broadly."
-  },
-  {
-    "objectID": "how-to/do-fix-git-things.html#excuse-me-do-you-have-a-moment-to-talk-about-version-control",
-    "href": "how-to/do-fix-git-things.html#excuse-me-do-you-have-a-moment-to-talk-about-version-control",
-    "title": "Do and fix things in Git",
-    "section": "Excuse Me, Do You Have a Moment to Talk About Version Control?",
-    "text": "Excuse Me, Do You Have a Moment to Talk About Version Control?\n“Excuse Me, Do You Have a Moment to Talk About Version Control?” Bryan J, 2017, PeerJ"
-  },
-  {
-    "objectID": "how-to/do-fix-git-things.html#r-for-excel-users",
-    "href": "how-to/do-fix-git-things.html#r-for-excel-users",
-    "title": "Do and fix things in Git",
-    "section": "R for Excel Users",
-    "text": "R for Excel Users\nR for Excel Users. Lowndes J and Horst A, 2020. Chapter 4 and 8 focus on starting setup and collaboration with GitHub and RStudio"
-  },
-  {
-    "objectID": "how-to/do-fix-git-things.html#usethis",
-    "href": "how-to/do-fix-git-things.html#usethis",
-    "title": "Do and fix things in Git",
-    "section": "usethis",
-    "text": "usethis\nusethis. Wickham H and Bryan J.\n\nusethis is a workflow R package: it automates repetitive tasks that arise during project setup and development, both for R packages and non-package projects."
-  },
-  {
-    "objectID": "team-culture.html#psychological-safety",
-    "href": "team-culture.html#psychological-safety",
-    "title": "Team culture",
-    "section": "Psychological safety",
-    "text": "Psychological safety\nAmy C. Edmondson is the Novartis Professor of Leadership and Management at Harvard Business School.\na shared belief that team members will not be rejected or embarrassed for speaking up with their ideas, questions, or concerns\nhttps://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety\nThey recommend three ways to build psychologically safe environments: framing, inquiry, and bridging boundaries.\nFrame meetings as opportunities for information-sharing. Frame differences as a source of value.\nOpen questions. Questions that build shared ownership and causality.\nListening -\nHopes and goals. What do you want to accomplish?\nResources and skills. What do you bring to the table?\nConcerns and obstacles. What are you up against? What are you worried about?\n\nScience benefits from diversity\nAnd we need to be deliberate about welcoming and including people from diverse backgrounds.\nA few recent articles from Nature with many more links within:\n\nScience benefits from diversity\nWhat does it take to make an institution more diverse?\n\n\n\nSexual harassment is rife in the sciences\nSexual harassment is rife in the sciences, finds landmark US study. Existing policies to address the issue are ineffective, concludes a long-awaited report from the National Academies of Sciences, Engineering, and Medicine.\nMost common form is gender harassment: it’s the “put-downs as opposed to come-ons”.\n\n\nWe need to unlearn racism and build antiracist culture in science\n\nTen simple rules for building an antiracist lab - Chaudhary & Berhe, 2020. PLOS\nUnlearning Racism in Geoscience — URGE\n\n\n\nPut your values forward\nModel the behavior you want to see in your research group & beyond (lab, dept, campus, organization, online)\n\n\nBuilding trust\nHave to build trust and be intentional, don’t hope for organic.\n\nHow to build (and rebuild trust - Frances Frei\n\n\n\nSustain the culture\nOvertly showing kindness & a Code of Conduct can filter out people who don’t want to be subject to its enforcement – rOpenSci\nLabs have people coming and going all the time; how do you set the tone and have it be sustainable?"
-  },
-  {
-    "objectID": "index.html#self-paced-learning",
-    "href": "index.html#self-paced-learning",
-    "title": "Openscapes Champions Lesson Series",
-    "section": "Self-paced learning",
-    "text": "Self-paced learning\nAll Champions Program resources are designed to also be a self-paced learning resource for teams. Additionally see Supercharge your research: a ten-week plan for open data science (Lowndes et al. 2019) and accompanying spreadsheet template that you can use to get organized with your team.\nSee also other publications and presentations at openscapes.org/media."
-  },
-  {
-    "objectID": "index.html#supercharge-your-research-self-paced-learning",
-    "href": "index.html#supercharge-your-research-self-paced-learning",
-    "title": "Openscapes Champions Lesson Series",
-    "section": "Supercharge your research: self-paced learning",
-    "text": "Supercharge your research: self-paced learning\nAll Champions Program resources are designed to also be a self-paced learning resource for teams. Additionally see Supercharge your research: a ten-week plan for open data science (Lowndes et al. 2019) and accompanying spreadsheet template that you can use to get organized with your team.\nSee also other publications and presentations at openscapes.org/media."
-  },
-  {
-    "objectID": "how-to/do-fix-git-things.html#practical-r-workflow-for-scientists",
-    "href": "how-to/do-fix-git-things.html#practical-r-workflow-for-scientists",
-    "title": "Do and fix things in Git",
-    "section": "Practical R Workflow for Scientists",
-    "text": "Practical R Workflow for Scientists\nBy Dr. Eli Holmes\nhttps://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/week1.html"
-  },
-  {
-    "objectID": "overview.html",
-    "href": "overview.html",
-    "title": "Overview",
-    "section": "",
-    "text": "Welcome.\nOur vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster.\nThis Series is going to be fun and empowering! We will talk about a lot of tools and practices to make your science more streamlined. This is really powerful, cool stuff, and not just for data: we made and published this book using the tools and workflows we’ll talk about.\nThe first half of the Series focuses on efficiency and open culture within your team, and the second half is about sustained learning and bringing these practices to your broader communities."
+    "objectID": "core-lessons/github/github-issues.html#your-turn-create-comment-on-issues",
+    "href": "core-lessons/github/github-issues.html#your-turn-create-comment-on-issues",
+    "title": "GitHub for project management",
+    "section": "Your Turn: Create & comment on issues",
+    "text": "Your Turn: Create & comment on issues\nWe will break into groups and you can explore some of these features in Issues. Here is what to do:\n\nGo to github.com/openscapes/demo/issues\nCreate an issue, tag people in your breakout group (ask for their username)\nBrowse issues, comment in other issues\nTry:\n\nLinking to the .md document you created in the previous chapter\nCreating a label and applying it, assigning people\nAdding Issues to a Project (create one if need be)\nClosing an Issue\n\n\nHave fun! And throughout the process, talk to your breakout group, and share what you learn.\nHere’s what your inbox will look like afterwards:\n\n \nThis is pretty rare to receive so many emails all at once. But you can always switch your setting to “Not Watch” this repository so that you only receive emails about Issues that you are tagged in."
   },
   {
     "objectID": "core-lessons/github/index.html",
@@ -740,6 +530,13 @@
     "title": "GitHub strategies",
     "section": "",
     "text": "What is GitHub, and what are GitHub strategies for Future Us?\nGitHub is a powerful tool for collaborative coding with version control, but here and in our GitHub Clinic we are going to focus on some of its lesser-celebrated awesomeness. We’ll talk about GitHub for supporting, reusing, contributing, and failing safely, as well as GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.\nSlides that have been presented during Champions Program Cohort Calls:"
+  },
+  {
+    "objectID": "core-lessons/github/index.html#github-for-supporting-reusing-contributing-and-failing-safely",
+    "href": "core-lessons/github/index.html#github-for-supporting-reusing-contributing-and-failing-safely",
+    "title": "GitHub strategies",
+    "section": "GitHub for supporting, reusing, contributing, and failing safely",
+    "text": "GitHub for supporting, reusing, contributing, and failing safely\nThis introduction was developed with Allison Horst in the GitHub Illustrated Series (Horst & Lowndes 2022):\nWhen we talk about managing projects to help us contribute, reuse, collaborate, and fail safely, we are talking about GitHub*. We mean using modern collaborative software designed to organize otherwise unwieldy interrelated files and to track changes by potentially different people through time – something that is for everyone, whether or not we identify as “coders”. People do use GitHub for code- and data-intensive projects, but we are not limited to that use. GitHub is a powerful approach for any project that we want to organize and communicate about; it’s a way we can be open with ourselves and our teams, and also work more publicly as we feel comfortable.\nSo let’s talk about why GitHub is so empowering for our project-oriented and collaborative lives.\n*From Bryan 2017: “we’re targeting GitHub - not Bitbucket or GitLab - for the sake of specificity. However, all the big-picture principles and even some mechanics will carry over to these alternative hosting platforms. We are advocating for the use of hosted version control as a general concept, with GitHub being the best and most common provider today.”\n\n\n\n\n\nSee the GitHub Illustrated Series (Horst & Lowndes 2022) for the full series!"
   },
   {
     "objectID": "core-lessons/github/github-pub.html",
@@ -798,73 +595,94 @@
     "text": "Further resources\n\nGit for Humans - Alice Bartlett, 2016"
   },
   {
-    "objectID": "core-lessons/github/github-issues.html",
-    "href": "core-lessons/github/github-issues.html",
-    "title": "GitHub for project management",
+    "objectID": "core-lessons/pathways.html",
+    "href": "core-lessons/pathways.html",
+    "title": "Pathways",
     "section": "",
-    "text": "GitHub is best known as a collaborative coding platform. But of course productive collaboration requires communication, and GitHub has powerful features to support communication and project management through GitHub Issues."
+    "text": "Perhaps the most important part of Openscapes is helping teams identify their trailhead together, as illustrated in the Champions landscape illustration. We support individuals to “find their teams” by discussing approaches and software, so that they find they have common parts of how they work, whether they are working on the same or different projects.\nThe Pathways Spreadsheet provides a structured way for your team to think how you work and find common approaches and needs (template).\n\n\n\nExample Pathway Spreadsheet documenting how the team is working now and ideas for next steps\n\n\nThis format has helped many groups think through their trailhead and identifying where they are now. It also might not work for your group, and that is okay; use whatever format makes sense for you."
   },
   {
-    "objectID": "core-lessons/github/github-issues.html#preamble",
-    "href": "core-lessons/github/github-issues.html#preamble",
-    "title": "GitHub for project management",
-    "section": "Preamble",
-    "text": "Preamble\n\nWe are focusing on GitHub Issues here because they are a powerful way for team members to have active discussions about data and code, and therefore ways to participate in analyses even for those that are not involved in the day-to-day coding. I find Issues not only useful to discuss topics as a team, but I also treat it as my external memory: I write notes to myself, link to files and websites; I leave breadcrumbs for myself so that I am more easily able to remember my past thought processes and pick up projects where I left off.\nIn this way, GitHub Issues help actualize the mindset of Future You and Future Us. This means being deliberate now about communicating decisions and progress so that you or others can work in the future a little more smoothly. Using project management software is a strategy used by every software developer or people working on projects with many moving parts. It streamlines technical discussions with people who are coming/joining a group. It also helps organize and track projects that single or multiple & overlapping users can be a part of.\nWhile there are many options for project management software out there, I like using GitHub because it’s already managing my code and my work, and linked to my collaborators so it offers a streamlined way to communicate. It’s also one less account I need to have, which is a huge bonus in my mind.\nOne of the reason we talk about Issues in Openscapes is because they are an excellent way to develop habits for using GitHub for your analytical project more broadly."
+    "objectID": "core-lessons/pathways.html#presenting-guidance",
+    "href": "core-lessons/pathways.html#presenting-guidance",
+    "title": "Pathways",
+    "section": "Presenting guidance",
+    "text": "Presenting guidance\nOn the final Cohort Call, each team presents their Pathways. Each team has 3 minutes to share followed by 2 minutes for questions. We encourage leads not to present, and it’s great when we hear multiple voices from the teams.\nThis is informal sharing of unpolished work-in-progress. Everyone makes progress throughout the Cohort: in mindsets, planning and actions. This is an opportunity to reflect and talk about it, building on the reflection breakout rooms that began most Cohort Calls. We’ve been reflective each week and we’ve all made progress.\nPresentations do not need be line-by-line of the Pathways Spreadsheet and there’s no wrong way to talk about your progress. Whatever your group wants to create and share is great - could be a photo of a whiteboard, a slide, the Pathways spreadsheet, or a “screenshare and tell” live walk-through of your files/code/ideas.\nA few reflection prompts that can help frame the presentations:\n\nWhat are the practices we’ve covered during the Cohort that most compel you?\nWhat are the practices we’ve covered this semester that most confuse you?\nAre there practices that are new to you that you didn’t originally think would work with your own research interests? If so, which?\nWhat are your two biggest take-aways from the Cohort?\nWhat future revisions will you propose making for your pathway\nAny final questions you want to workshop with the Cohort?"
   },
   {
-    "objectID": "core-lessons/github/github-issues.html#what-are-issues",
-    "href": "core-lessons/github/github-issues.html#what-are-issues",
-    "title": "GitHub for project management",
-    "section": "What are Issues?",
-    "text": "What are Issues?\nEvery GitHub repository (shortened to “repo”) has a feature called Issues. Issues is GitHub’s project management and task-tracking feature.\n\nIssues “track ideas, enhancements, tasks, or bugs for work on GitHub.” - GitHub\n\n\n\n\n\nJenny Bryan has an excellent summary of Issues in her article “Excuse Me, Do You Have a Moment to Talk About Version Control?” (open-access pre-print from PeerJ, published in The American Statistican):\n\nGitHub issues are another powerful feature of the platform. Recall that we are repurposing Git, a tool that facilitates software development. Think of the issues for a project as its bug tracker. For projects that are not pure software development, we co-opt this machinery to organize our to-do list more generally. The basic unit is an issue and you can interact with one in two ways.\n\n\nFirst, issues are integrated into the project’s web interface on GitHub, with a rich set of options for linking to project files and incremental changes. Second, issues and their associated comment threads appear in your email, just like regular messages (this can, of course, be configured). The result is that all correspondence about a project comes through your normal channels, but is also tracked inside the project itself, with excellent navigability and search capabilities. For software, issues are used to track bugs and feature requests. In a data analysis project, you might open an issue to flesh out a specific sub-analysis or to develop a complicated figure. In a course, we use them to manage homework submission, marking, and peer review.\n\n\nIssues can be assigned to specific people and they can be labelled, e.g. “bug”, “simulation- study”, or “final-exam”. Coupled with the ability to cross-link issues and the project files or file changes, you have extraordinary power to document why things have happened in the past and to organize what needs to happen in the future.\n\n\nYou create an Issue for a topic, and use it track progress or ask questions. You can provide links, describe updates, link to other Issues, and you can close the Issue when it is completed. You can also re-open previously-closed Issues.\nEvery GitHub repository has this Issues feature. This means that sometimes Issues are public and sometimes they are private.\n\nIn a public repo, anyone with a GitHub username can create and comment on issues.\nIn a private repo, only users with permission can create and comment on issues, or see them at all\n\nGitHub search is awesome – it will search all of your files and Issues!"
+    "objectID": "core-lessons/pathways.html#examples",
+    "href": "core-lessons/pathways.html#examples",
+    "title": "Pathways",
+    "section": "Examples",
+    "text": "Examples\n\n\n\nAn example of an Openscapes pathway written by the NOAA Alaska Fisheries Science Center EcoFOCI team. The diagram summarizes how they used to share code, data, and files, and what their ongoing plans are for streamlining these processes and creating a team culture of openness and psychological safety.\n\n\nSee more examples:\n\nA TL;DR Collection of Stories from Openscapes Champions and Mentors; these stories are largely from 3 months+ following Pathways presentations\nCase Studies from the inaugural Champions Cohort (2021)"
   },
   {
-    "objectID": "core-lessons/github/github-issues.html#issues-in-the-wild",
-    "href": "core-lessons/github/github-issues.html#issues-in-the-wild",
-    "title": "GitHub for project management",
-    "section": "Issues in the Wild",
-    "text": "Issues in the Wild\nHere are some examples of “traditional” and “non-traditional” use of issues.\nggplot2’s Issues is an example of what I think is the “traditional” use of Issues, which is in a pretty pure software development context. This is a public repository, and all topics are directly related to ggplot2. Issues are largely used to report bugs, troubleshoot and sometimes to request features. Note the “Filters” feature on the top-left: this by default will search through the Issues that are still open, but you can also change this if you wanted to search also for closed Issues (just below “Filters” you can see that there are over 2000 closed Issues, documenting the innovation that’s been ongoing in ggplot2).\n\n\n\nMozillaFestival’s Issues are an example of a less “traditional”, but increasingly common use of Issues: for project submissions, coordination, and community engagement. It is also an example of the use of labels: those colorful tags that help group and categorize the Issues. To the right of “Filters”, you’ll see a “Labels” button: clicking on this will give you a list of all the labels and how many Issues are tagged with each label.\n\n\n\nOHI-Science’s Issues: are also an example of less “traditional” use of Issues but perhaps also somewhat common. This is a private repository, which is why there is no link to these Issues. Here, Issues are used for private conversations and archiving ideas and discussions: the OHI-Science team uses issues instead of email to have private, archived, searchable conversations about scientific methods. We are diligent about having important science conversations in these Issues, rather than those conversations being lost in emails or Slack. This is more organized and also makes onboarding team members much smoother since we do not need to forward emails to new team members."
-  },
-  {
-    "objectID": "core-lessons/github/github-issues.html#how-to-use-issues",
-    "href": "core-lessons/github/github-issues.html#how-to-use-issues",
-    "title": "GitHub for project management",
-    "section": "How to use Issues",
-    "text": "How to use Issues\nLet’s do a demo with Issues.\n\nCreating a new Issue\nWhen you click on the green “New Issue” button”, you’re asked to give a Title and Leave a Comment. You can also attach files or images by dragging them into the Issue.\nThen you’ll be able to Submit the Issue. On the right side, you’ll see options to Assign someone to the Issue, add a Label, add it to a Project, or add it to a Milestone. We’ll explore these features a bit more in a moment.\n\n\n\nWhen you click Submit, your Issue gets a number, which is now written next to the title. This number is also part of the URL as well.\nOn the right of the Title, note that there is an “Edit” button if you ever need to change the title of the Issue as the conversation evolves. The Issue number will stay the same.\nWhat happens if you want to edit the text of your Comment after you’ve Submitted it? No problem. See that once you’ve submitted an Issue, there is a blue bar at the top of the Comment, attributing your username to this comment along with the date. At the very right of this blue bar, there are 3 dots. Clicking here will give you the option to edit.\n\n\nCommenting\nThe great thing about Issues is that they are for conversations with yourself and others. So once you’ve submitted an Issue, you can string together additional Comments within this comment. Maybe you asked a question, and someone else will respond with a solution or idea. They might link to an Issue with a related topic, or an external link that might be helpful.\nYou can also tag people in Issue Comments with the “@” symbol. As noted above, anyone who is part of the repository will automatically get email notifications when comments are submitted. But tagging specific users will also send them an email, and is a good way to bring folks into the conversation who might not already be “watching” the whole repository. In a public repository you can tag any GitHub user, and in a private repository they have to have permission.\nEach time there is a comment in the Issue thread, there will be a new date marked in the blue bar at the top of the Issue. This is a nice way to see how current conversations are.\nAnd something really great is that you can click on the date — and watch the URL change. This allows you to anchor to a specific comment within the Issue thread. This is really useful if, for example, you wanted to share a specific comment with someone else instead of having them scroll down themselves. (Note: you can also click on the three dots at the right of the blue Comment header to copy the anchored link).\n\n\n\n\n\nMarkdown\nIssues support Markdown. This means that you can add simple formatting to your text, such as headers, bold and italics, lists, images, links, and formatted code. To help you use Markdown formatting as you learn, GitHub Issues have built-in help: there are icons between the Title and the Comment of the Issue that will do the Markdown formatting for you, and help you learn along the way.\nThere is also a “Preview” tab between the Title and Comment (next to the “Write” tab, where you are by default) where you can preview what your Markdown formatting looks like before you Submit the Issue. Submitting the Issue will also render the Markdown formatting.\nGitHub enables you to also create Markdown check-lists by typing - [ ]. Once this is rendered, you can click it to check this box. Alternatively, in Markdown you check a box by typing - [x]. The number of checked and unchecked items will be visible in the Issue as well.\n\n\n\n\n\nLinking to files\nLinking to specific files or versions of files is good practice when you are discussing it in an Issue: reduce the work for the person reading the Issue (which might be Future You!). You can link to the file by opening it in the browser and copying its URL and placing it in Markdown formatting for hyperlinks: [text to hyperlink](URL).\nYou can also navigate to a specific version of that file, or a specific commit message, if you want to capture that file at a specific point in time.\nYou can also anchor to specific lines within a file, which is useful if you are requesting feedback on a specific part of an analysis or asking for help troubleshooting. I can send someone to a specific place within a file with the appropriate lines highlighted. For example [important code](https://github.com/Openscapes/issues-demo/blob/master/code-example.R#L12-L13) will render as important code.\n\n \n\n\nAssigning, Labels\nOn the right side of the Issue thread, there is the “metadata” for the Issue. You can assign the Issue to a specific user, or label it with a suite of labels that you can customize (when you click on labels, see all the way at the bottom the option to edit labels. And there are other ways to navigate there as well).\nIf you navigate back to the full list of Issue topics (which will have the URL github.com/username-or-organization/repo-name/issues), you’ll see these metadata categories listed at the top as well, which lets you filter or view based on these categories.\n\n \n\n\nProjects, Milestones\nProjects and Milestones are further ways to organize and track progress with your Issues.\nProjects are a way to organize and prioritize your issues. It uses the idea of a Kanban board, which Wikipedia says “visually depict work at various stages of a process using cards to represent work items and columns to represent each stage of the process. Cards are moved from left to right to show progress and to help coordinate teams performing the work.” The simplest have 3 columns labeled “to do”, “doing” and “done”.\nYou can use Projects for both Organization or personal projects. In fact, you can have multiple projects within the same repository, so different people can have different Projects organized within their shared repository, for example.\nYou have a lot of control over how you will manage your Projects; at this point I do not use all the features but have been playing around with using them for Openscapes planning:\n\n\n\nMilestones are a way to attach deadlines to your Project (although you do not need to identify a date if you don’t want to). Once you create a Milestone, you can add Issues to that Milestone to help track progress. For example, maybe you have a presentation coming up and there are several Issues that need to be addressed before then."
-  },
-  {
-    "objectID": "core-lessons/github/github-issues.html#strategies-for-issues",
-    "href": "core-lessons/github/github-issues.html#strategies-for-issues",
-    "title": "GitHub for project management",
-    "section": "Strategies for Issues",
-    "text": "Strategies for Issues\n\nEvery repo has Issues, but do you want to use Issues in every repo? It helps to consider the purpose for the Issues.\nUsing Issues for “traditional” bug/features for code, it makes sense to keep the repository public and have all Issues pertaining to that repo there within that repo.\nIf you’re using Issues for “non-traditional” laboratory research group and science conversations, there are other considerations. Maybe you do want a private repository, but even so you’ll want to think ahead. Will you eventually make that repo public when you publish your study? Changing a repo from private to public (or vice versa, both are possible in the repository’s Settings) will make not only the code and files of that repo public, but also all the Issues. Which is fine, but it might add considerations in terms of what is discussed in those Issues.\n\nOHI example\nHere is an example of the Ocean Health Index team’s thought process & strategy.\nOur team works within a GitHub Organization called “OHI-Science”. Within that Organization, we work in many repositories, with different combinations of people working primarily within different repositories. Sanity-wise, we didn’t want to have conversations in Issues within each of those repositories because it would make finding those conversations more difficult (although now GitHub can search all Issues/code across an Organization!).\nWe also wanted our repos to be public, but to have private conversations using the Issues feature.\nThese two needs led us to create a single private repository named “issues”, and we only use it for Issues. This works really well for us, especially since our team lead can engage in these discussions by receiving emails about the Issues in his inbox, and can respond without having to go to GitHub.com."
-  },
-  {
-    "objectID": "core-lessons/github/github-issues.html#your-turn-create-comment-on-issues",
-    "href": "core-lessons/github/github-issues.html#your-turn-create-comment-on-issues",
-    "title": "GitHub for project management",
-    "section": "Your Turn: Create & comment on issues",
-    "text": "Your Turn: Create & comment on issues\nWe will break into groups and you can explore some of these features in Issues. Here is what to do:\n\nGo to github.com/openscapes/demo/issues\nCreate an issue, tag people in your breakout group (ask for their username)\nBrowse issues, comment in other issues\nTry:\n\nLinking to the .md document you created in the previous chapter\nCreating a label and applying it, assigning people\nAdding Issues to a Project (create one if need be)\nClosing an Issue\n\n\nHave fun! And throughout the process, talk to your breakout group, and share what you learn.\nHere’s what your inbox will look like afterwards:\n\n \nThis is pretty rare to receive so many emails all at once. But you can always switch your setting to “Not Watch” this repository so that you only receive emails about Issues that you are tagged in."
-  },
-  {
-    "objectID": "core-lessons/github/index.html#collaboration-organization-and-sharing",
-    "href": "core-lessons/github/index.html#collaboration-organization-and-sharing",
-    "title": "GitHub strategies",
-    "section": "Collaboration, organization, and sharing",
-    "text": "Collaboration, organization, and sharing\nStrategies about collaboration, organization, and sharing - what does that really mean for your daily life?"
-  },
-  {
-    "objectID": "core-lessons/github/index.html#github-for-supporting-reusing-contributing-and-failing-safely",
-    "href": "core-lessons/github/index.html#github-for-supporting-reusing-contributing-and-failing-safely",
-    "title": "GitHub strategies",
-    "section": "GitHub for supporting, reusing, contributing, and failing safely",
-    "text": "GitHub for supporting, reusing, contributing, and failing safely\nThis introduction was developed with Allison Horst in the GitHub Illustrated Series (Horst & Lowndes 2022):\nWhen we talk about managing projects to help us contribute, reuse, collaborate, and fail safely, we are talking about GitHub*. We mean using modern collaborative software designed to organize otherwise unwieldy interrelated files and to track changes by potentially different people through time – something that is for everyone, whether or not we identify as “coders”. People do use GitHub for code- and data-intensive projects, but we are not limited to that use. GitHub is a powerful approach for any project that we want to organize and communicate about; it’s a way we can be open with ourselves and our teams, and also work more publicly as we feel comfortable.\nSo let’s talk about why GitHub is so empowering for our project-oriented and collaborative lives.\n*From Bryan 2017: “we’re targeting GitHub - not Bitbucket or GitLab - for the sake of specificity. However, all the big-picture principles and even some mechanics will carry over to these alternative hosting platforms. We are advocating for the use of hosted version control as a general concept, with GitHub being the best and most common provider today.”\n\n\n\n\n\nSee the GitHub Illustrated Series (Horst & Lowndes 2022) for the full series!"
-  },
-  {
-    "objectID": "data-strategies.html",
-    "href": "data-strategies.html",
-    "title": "Data strategies for future us",
+    "objectID": "community-lessons/index.html",
+    "href": "community-lessons/index.html",
+    "title": "Openscapes Community Lessons",
     "section": "",
-    "text": "Data strategies are part of a shared workflow strategy: How do we structure data, where do we store and back up data, how do we create metadata, and keep the raw data raw…Here we will discuss personal and team habits for data management and sharing: data strategies for future us.\nSlides that have been presented during Champions Program Cohort Calls (with guest teachers indicated):"
+    "text": "There are growing resources developed by Openscapes teams!\nThis is the beginning of a growing list; please share others to add. You can suggest via GitHub on the right of this page - click “Edit this page” or “Report an Issue”, or share your idea via Twitter (linked below the logo on the left) or email openscapes @ nceas.ucsb.edu."
+  },
+  {
+    "objectID": "community-lessons/index.html#nasa-openscapes-cloud-tutorials",
+    "href": "community-lessons/index.html#nasa-openscapes-cloud-tutorials",
+    "title": "Openscapes Community Lessons",
+    "section": "NASA Openscapes Cloud Tutorials",
+    "text": "NASA Openscapes Cloud Tutorials\nThe NASA Earthdata-Openscapes Mentors team and other contributors are creating open educational resources to help researchers migrate workflows to the Cloud - all available for reuse and remix.\nhttps://nasa-openscapes.github.io/tutorials.html\nCheck out the 2021-Cloud-Hackathon materials!"
+  },
+  {
+    "objectID": "community-lessons/index.html#nmfs-openscapes",
+    "href": "community-lessons/index.html#nmfs-openscapes",
+    "title": "Openscapes Community Lessons",
+    "section": "NMFS Openscapes",
+    "text": "NMFS Openscapes\nThe overarching vision of the NMFS Openscapes is to support scientific researchers within NOAA Fisheries by providing training in reproducible scientific workflows and platforms, facilitating collaboration across divisions in common scientific data science tasks, and providing shared “best practices” resources. Check out the NMFS R UG (R Users Group) for upcoming events and Wiki for links to resources and examples of open science at NOAA Fisheries.\nhttps://github.com/nmfs-openscapes\nHighlighting a few lessons by Eli Holmes and Em Markowitz:\n\nAdvanced GitHub Clinic\ngoogledrive R package\nPSAW 2022: Intro to R data packages, Intro to GitHub"
+  },
+  {
+    "objectID": "community-lessons/index.html#fay-lab-manual",
+    "href": "community-lessons/index.html#fay-lab-manual",
+    "title": "Openscapes Community Lessons",
+    "section": "Fay Lab Manual",
+    "text": "Fay Lab Manual\nThis is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.\nhttps://thefaylab.github.io/lab-manual/\nCheck out how they’ve organized this onboarding document that prospective students and postdocs have said stood out to them. Consider reusing/remixing for your own group!\nSlides from Gavin Fay’s 2022 talk at NOAA Alaska Fisheries Science Center"
+  },
+  {
+    "objectID": "community-lessons/index.html#r-for-excel-users",
+    "href": "community-lessons/index.html#r-for-excel-users",
+    "title": "Openscapes Community Lessons",
+    "section": "R for Excel Users",
+    "text": "R for Excel Users\nThis course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.\nhttps://rstudio-conf-2020.github.io/r-for-excel/\nCheck out the resources throughout as well - it’s not only for Excel users, it’s for everyone."
+  },
+  {
+    "objectID": "community-lessons/index.html#allison-horst---open-educational-resources",
+    "href": "community-lessons/index.html#allison-horst---open-educational-resources",
+    "title": "Openscapes Community Lessons",
+    "section": "Allison Horst - open educational resources",
+    "text": "Allison Horst - open educational resources\nAllison Horst shares many open educational resources, including workshops and slides, at https://www.allisonhorst.com/:\n\n“I actively work to contribute to open educational resources, including software for data science education (e.g. the palmerpenguins R dataset package), and artwork for data science & stats teachers and learners. From 2019 - 2020 I was RStudio’s first Artist-in-Residence. You can read more about my motivation in that role in this blog post, and you can find some of my R- and stats-related artwork in this repo.”\n\nAllison teaches environmental data science at UCSB (see her courses at https://ucsb-meds.github.io/)."
+  },
+  {
+    "objectID": "better-science.html",
+    "href": "better-science.html",
+    "title": "Better science in less time",
+    "section": "",
+    "text": "Better science is less time is science that is more efficient, reproducible, open, inclusive, and kind. There are growing examples of better science in less time in environmental and Earth science, and beyond. Here are a few examples to showcase what is possible and being done by the community.\nSlides that have been presented during Champions Program Cohort Calls:\nHere we also introduce the Pathway document that teams will develop throughout the Champions program. The Pathway is based on Table 1 in Lowndes et al. 2017, and helps teams deliberately identify data workflow practices and next steps to facilitate efficiency and open culture in terms of reproduciblity, collaboration, communication, and culture."
+  },
+  {
+    "objectID": "better-science.html#ocean-health-index-behind-the-scenes",
+    "href": "better-science.html#ocean-health-index-behind-the-scenes",
+    "title": "Better science in less time",
+    "section": "Ocean Health Index: behind the scenes",
+    "text": "Ocean Health Index: behind the scenes\nSome key points to discuss from Lowndes et al. 2017, Nature Ecology & Evolution: Our path to better science in less time using open data science tools:\n\nReproducibility & communication enabled by open tooling\nShared practices are useful beyond shared projects\n\nIf you’re interested in more overview of the OHI setup, see this 2017 talk (25 mins): OHI Better science in less time\n\nOHI pathway\n\nMotivated by necessity\nReimagined by possibility and community\nDone incrementally!\nYes: it’s an investment.\nAlso yes: huge, enduring payoff for (your) science\n\n\n\nReproducibility & communication enabled by open tooling\nRMarkdown to reimagine data analysis and communication. RMarkdown combines analyses & figures together, rendered to your reporting output of choice.\nAn example: http://ohi-science.org/betterscienceinlesstime/\n\nWebsite built with R/RMarkdown & Github\n\nYou can get started too: (1-hour tutorial)\n\n\n\nShared workflows not only useful for shared projects\n\nOHI team: we identified as a team & prioritized helping each other\n\nWe work on many different projects\nUse same workflows, share feedback, can think together across projects\n\nShared conventions reduce friction & cognitive load\n\nCommon ground, easier to talk about, easier to ask for help\nYou don’t need to design everything from scratch\n\n\nAnd, critically:\n\nIt’s about increasing efficiency and reproducibility and open science.\nBut it is also about increasing participation and inclusion.\nConsider diversity, equity, and inclusion in your daily practices.\nHow you work and onboard others to your projects is a DEI issue."
+  },
+  {
+    "objectID": "better-science.html#examples-in-the-wild-environmental-science",
+    "href": "better-science.html#examples-in-the-wild-environmental-science",
+    "title": "Better science in less time",
+    "section": "Examples in the wild: environmental science",
+    "text": "Examples in the wild: environmental science\n\nRegime Shifts in R & Data Science within the BC Public Service Observations from the field - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote\nNMFSReports: Easily write NOAA reports and tech memos in R Markdown! - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk\nAutomated reporting in Tampa Bay with open science - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog\n\nTBEP’s Data Management Workflow and open science cake"
+  },
+  {
+    "objectID": "better-science.html#further-resources",
+    "href": "better-science.html#further-resources",
+    "title": "Better science in less time",
+    "section": "Further resources",
+    "text": "Further resources\n\nNot so standard deviation podcast\nParker & Peng\nhttp://nssdeviations.com\nGreat discussions about data concepts and “in the wild”\nEpisode 9: Spreadsheet drama\n\n\nPractical computing for biologists\nHaddock & Dunn\nhttp://practicalcomputing.org/\nSoftware & computing concepts already on your computer\nChapter 2: Regular expressions"
   }
 ]

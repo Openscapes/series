@@ -70,17 +70,15 @@ website:
         contents:         
          - href: "community-lessons/index.qmd"
            text: Overview
-      - section: "How To Guides"
+      - section: how-do-i/index.qmd
         contents:        
-         - href: "how-to/index.qmd"
-           text: Overview
-         - href: "how-to/setup-rstudio-github.qmd"   
+         - href: "how-do-i/setup-rstudio-github.qmd"   
            text: Setup RStudio & GitHub
-         - href: "how-to/do-fix-git-things.qmd"    
+         - href: "how-do-i/do-fix-git-things.qmd"    
            text: Do & fix git things            
-         - href: "how-to/reuse-openscapes-approach.qmd"   
+         - href: "how-do-i/reuse-openscapes-approach.qmd"   
            text: Reuse Openscapes Approach           
-         - href: "how-to/create-publish-quarto.qmd" 
+         - href: "how-do-i/create-publish-quarto.qmd" 
            text: Create & Publish with Quarto
       - section: "Inspiration"
         contents:
