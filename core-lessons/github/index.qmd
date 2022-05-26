@@ -1,0 +1,27 @@
+---
+title: GitHub strategies
+---
+
+What is GitHub, and what are GitHub strategies for Future Us?
+
+GitHub is a powerful tool for collaborative coding with version control, but here and in our GitHub Clinic we are going to focus on some of its lesser-celebrated awesomeness. We'll talk about GitHub for supporting, reusing, contributing, and failing safely, as well as GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.
+
+**Slides** that have been presented during Champions Program Cohort Calls: 
+
+- [GitHub Clinic](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing)
+
+## GitHub for supporting, reusing, contributing, and failing safely
+
+This introduction was developed with Allison Horst in the **GitHub Illustrated Series** ([Horst & Lowndes 2022](https://openscapes.org/blog/2022/05/27/github-illustrated-series/)):
+
+**When we talk about managing projects to help us contribute, reuse, collaborate, and fail safely, we are talking about GitHub**\*. We mean using modern collaborative software designed to organize otherwise unwieldy interrelated files and to track changes by potentially different people through time -- something that is for everyone, whether or not we identify as "coders". People do use GitHub for code- and data-intensive projects, but we are not limited to that use. GitHub is a powerful approach for any project that we want to organize and communicate about; it's a way we can be open with ourselves and our teams, and also work more publicly as we feel comfortable.
+
+So let's talk about why GitHub is so empowering for our project-oriented and collaborative lives.
+
+\*From [Bryan 2017](https://peerj.com/preprints/3159/): "we're targeting GitHub - not Bitbucket or GitLab - for the sake of specificity. However, all the big-picture principles and even some mechanics will carry over to these alternative hosting platforms. We are advocating for the use of hosted version control as a general concept, with GitHub being the best and most common provider today."
+
+![](images/github_friends.png){fig-alt="A row of 6 cute smiling monsters celebrating using GitHub. The first, wearing a climbing harness labeled \"Me\" is high-fiving another whose harness says \"Future Me\". Others hold a box of snacks (tacos!), a map, a rope. Text above the monsters quotes Jenny Bryan: \\\"Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review" fig-align="center"}
+
+
+
+See the **GitHub Illustrated Series** ([Horst & Lowndes 2022](https://openscapes.org/blog/2022/05/27/github-illustrated-series/)) for the full series!

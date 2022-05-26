@@ -1,5 +1,7 @@
 ---
-title: GitHub for Publishing
+title: GitHub for publishing
+aliases: 
+  - github-pub.html
 ---
 
 <!---
@@ -21,12 +23,7 @@ https://bootswatch.com/
 
 --->
 
-GitHub is a powerful tool for collaborative coding with version control, but in the next two chapters we are going to focus on some of its lesser-celebrated awesomeness: GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.
-
-**Slides** that have been presented during Champions Program Cohort Calls: 
-
-- [GitHub Clinic](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing)
-
+GitHub is known as a place to store code, but it's also a powerful publishing system. It is a way to help you share about your project on the open web, which lets you share about your science earlier. 
 
 ## Preamble
 
@@ -50,7 +47,7 @@ It is used for code and files: organize,  archive, bookkeeping, searchable, chan
 
 <br> 
 
-![](img/github-differencing.png){width="80%"}
+![](images/github-differencing.png){width="80%"}
 <br> 
 
 
@@ -118,7 +115,7 @@ This is a demo *details upcoming*
 
 <br> 
 
-![](img/github-orientation.png){width="80%"} 
+![](images/github-orientation.png){width="80%"} 
 <br> 
 
 

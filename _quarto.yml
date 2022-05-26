@@ -46,10 +46,10 @@ website:
            text: Mindset
          - href: "better-science.qmd"
            text: Better science in less time
-         - href: "github-pub.qmd"
-           text: GitHub for publishing
-         - href: "github-issues.qmd"
-           text: GitHub for project management
+         - section: core-lessons/github/index.qmd
+           contents:
+            - core-lessons/github/github-pub.qmd
+            - core-lessons/github/github-issues.qmd
          - href: "team-culture.qmd"
            text: Team culture
          - href: "data-strategies.qmd"

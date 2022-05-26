@@ -1,15 +1,13 @@
 ---
-title: GitHub for Project Management
+title: GitHub for project management
 execute:
   echo: false
   warning: false
+aliases: 
+  - github-issues.html  
 ---
 
-GitHub is best known as a collaborative coding platform. But of course productive collaboration requires communication, and GitHub has powerful features to support communication and project management through GitHub Issues. (Also see thee previous chapter about GitHub for publishing).
-
-**Slides** that have been presented during Champions Program Cohort Calls: 
-
-- [GitHub Clinic](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing)
+GitHub is best known as a collaborative coding platform. But of course productive collaboration requires communication, and GitHub has powerful features to support communication and project management through GitHub Issues. 
 
 ## Preamble
 
@@ -35,7 +33,7 @@ Every GitHub repository (shortened to "repo") has a feature called Issues. Issue
 
 <br> 
 
-![](img/issues-intro.png){width="80%"} 
+![](images/issues-intro.png){width="80%"} 
 
 <!---
 # https://blog.revolutionanalytics.com/2017/06/rmarkdown-tricks.html
@@ -83,7 +81,7 @@ Here are some examples of "traditional" and "non-traditional" use of issues.
 
 <br> 
 
-![](img/issues-ggplot2.png){width="80%"} 
+![](images/issues-ggplot2.png){width="80%"} 
 
 <br> 
 
@@ -91,7 +89,7 @@ Here are some examples of "traditional" and "non-traditional" use of issues.
 
 <br> 
 
-![](img/issues-mozfest.png){width="80%"} 
+![](images/issues-mozfest.png){width="80%"} 
 
 <br> 
 
@@ -99,7 +97,7 @@ OHI-Science's Issues: are also an example of less "traditional" use of Issues bu
 
 <br> 
 
-![](img/issues-ohiscience.png){width="80%"} 
+![](images/issues-ohiscience.png){width="80%"} 
 
 <br> 
 
@@ -116,7 +114,7 @@ Then you'll be able to Submit the Issue. On the right side, you'll see options t
 
 <br> 
 
-![](img/issues-create.png){width="80%"} 
+![](images/issues-create.png){width="80%"} 
 
 <br> 
 
@@ -138,7 +136,7 @@ And something really great is that you can click on the date — and watch the U
 
 <br> 
 
-![](img/issues-comment.png){width="80%"} 
+![](images/issues-comment.png){width="80%"} 
 
 <br> 
 
@@ -152,7 +150,7 @@ GitHub enables you to also create Markdown check-lists by typing `- [ ]`. Once t
 
 <br> 
 
-![](img/issues-checklist.png){width="80%"} 
+![](images/issues-checklist.png){width="80%"} 
 
 <br> 
 
@@ -166,7 +164,7 @@ You can also anchor to specific lines within a file, which is useful if you are 
 
 <br> 
 
-![](img/github-anchor-lines.png){width="80%"} 
+![](images/github-anchor-lines.png){width="80%"} 
 <br> 
 
 
@@ -178,7 +176,7 @@ If you navigate back to the full list of Issue topics (which will have the URL g
 
 <br> 
 
-![](img/issues-labels.png){width="80%"} 
+![](images/issues-labels.png){width="80%"} 
 <br> 
 
 ### Projects, Milestones
@@ -193,7 +191,7 @@ You have a lot of control over how you will manage your Projects; at this point 
 
 <br> 
 
-![](img/issues-projects.png){width="80%"} 
+![](images/issues-projects.png){width="80%"} 
 
 <br> 
 
@@ -238,7 +236,7 @@ Here's what your inbox will look like afterwards:
 
 <br> 
 
-![](img/issues-inbox-crop.png){width="80%"} 
+![](images/issues-inbox-crop.png){width="70%"} 
 <br> 
  
 This is pretty rare to receive so many emails all at once. But you can always switch your setting to "Not Watch" this repository so that you only receive emails about Issues that you are tagged in. 

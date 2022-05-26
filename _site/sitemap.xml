@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://openscapes.github.io/series/overview.html</loc>
-    <lastmod>2022-03-07T15:12:21.423Z</lastmod>
+    <lastmod>2022-05-26T22:32:10.475Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/github-issues.html</loc>
-    <lastmod>2022-04-13T20:53:40.318Z</lastmod>
+    <lastmod>2022-05-26T21:28:30.645Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/team-culture.html</loc>
-    <lastmod>2022-05-18T21:30:36.363Z</lastmod>
+    <lastmod>2022-05-26T22:16:52.871Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/data-strategies.html</loc>
-    <lastmod>2022-03-07T15:12:23.055Z</lastmod>
+    <lastmod>2022-05-26T21:56:06.793Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/mindset.html</loc>
@@ -22,15 +22,15 @@
   </url>
   <url>
     <loc>https://openscapes.github.io/series/coding-strategies.html</loc>
-    <lastmod>2022-04-22T16:06:08.150Z</lastmod>
+    <lastmod>2022-05-26T21:56:07.574Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/index.html</loc>
-    <lastmod>2022-05-19T16:36:46.928Z</lastmod>
+    <lastmod>2022-05-26T22:32:09.432Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/github-pub.html</loc>
-    <lastmod>2022-04-13T20:53:40.782Z</lastmod>
+    <lastmod>2022-05-26T21:29:50.737Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/how-to/create-publish-quarto.html</loc>
@@ -46,11 +46,11 @@
   </url>
   <url>
     <loc>https://openscapes.github.io/series/how-to/reuse-openscapes-approach.html</loc>
-    <lastmod>2022-03-07T15:12:26.441Z</lastmod>
+    <lastmod>2022-05-26T22:39:30.924Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/how-to/do-fix-git-things.html</loc>
-    <lastmod>2022-05-04T12:55:04.487Z</lastmod>
+    <lastmod>2022-05-26T22:39:30.219Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/communities.html</loc>
@@ -78,6 +78,18 @@
   </url>
   <url>
     <loc>https://openscapes.github.io/series/core-lessons/pathways.html</loc>
-    <lastmod>2022-05-19T16:42:31.620Z</lastmod>
+    <lastmod>2022-05-26T21:15:34.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/core-lessons/github/index.html</loc>
+    <lastmod>2022-05-26T22:32:26.249Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/core-lessons/github/github-pub.html</loc>
+    <lastmod>2022-05-26T22:32:08.534Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/core-lessons/github/github-issues.html</loc>
+    <lastmod>2022-05-26T22:32:28.903Z</lastmod>
   </url>
 </urlset>

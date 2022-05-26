@@ -37,3 +37,9 @@ This is quite a comprehensive and maintained list of git commands, using the com
 <https://ohi-science.org/news/github-going-back-in-time>
 
 This has screenshots and a workflow with RStudio and the command line.
+
+## Practical R Workflow for Scientists
+
+By Dr. Eli Holmes
+
+<https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/week1.html>
