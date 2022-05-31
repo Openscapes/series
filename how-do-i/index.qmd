@@ -1,5 +1,5 @@
 ---
-title: "How To Guides"
+title: "How Do I..."
 ---
 
 This is a collection of resources that complement what we cover in the Champions Lesson Series - things that often come up as questions and that folks can screenshare and do together during Seaside Chats and Co-Working sessions. We point to existing resources as much as possible. 
