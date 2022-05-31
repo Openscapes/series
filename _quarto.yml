@@ -38,14 +38,12 @@ website:
     contents:
       - href: "index.qmd"
         text: Welcome
-      - section: "Core Lessons"
+      - section: core-lessons/index.qmd
         contents:        
-         - href: "overview.qmd"
-           text: Overview
          - href: "mindset.qmd"
            text: Mindset
          - href: "better-science.qmd"
-           text: Better science in less time
+           text: Better science
          - section: core-lessons/github/index.qmd
            contents:
             - core-lessons/github/github-pub.qmd
@@ -66,10 +64,7 @@ website:
            text: Code of Conduct
          - href: "additional-lessons/r-for-scicomm.qmd"  
            text: R for SciComm
-      - section: "Community Lessons"
-        contents:         
-         - href: "community-lessons/index.qmd"
-           text: Overview
+      - community-lessons/index.qmd
       - section: how-do-i/index.qmd
         contents:        
          - href: "how-do-i/setup-rstudio-github.qmd"   

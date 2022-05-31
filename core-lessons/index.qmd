@@ -1,8 +1,10 @@
 ---
-title: Overview
+title: Core Lessons
 ---
 
-Welcome. 
+## Better Science for Future Us 
+
+“Better science” means science that is more open, reproducible, efficient, and also more diverse, equitable, inclusive, kind. And “future us” is ourselves, teams, communities in the next hour, week, decades – with a focus on onboarding ourselves and others to ongoing work.
 
 Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster.
 
