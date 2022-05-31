@@ -399,6 +399,13 @@
     "text": "GitHub for supporting, reusing, contributing, and failing safely\nThis introduction was developed with Allison Horst in the GitHub Illustrated Series (Horst & Lowndes 2022):\nWhen we talk about managing projects to help us contribute, reuse, collaborate, and fail safely, we are talking about GitHub. We mean using modern collaborative software designed to organize otherwise unwieldy interrelated files and to track changes by potentially different people through time – something that is for everyone, whether or not we identify as “coders”. People do use GitHub for code- and data-intensive projects, but we are not limited to that use. GitHub is a powerful approach for any project that we want to organize and communicate about; it’s a way we can be open with ourselves and our teams, and also work more publicly as we feel comfortable.\nSo let’s talk about why GitHub is so empowering for our project-oriented and collaborative lives.\n\n\n\n\n\nSee the GitHub Illustrated Series (Horst & Lowndes 2022) for the full series!"
   },
   {
+    "objectID": "core-lessons/github/index.html#growth-mindset",
+    "href": "core-lessons/github/index.html#growth-mindset",
+    "title": "GitHub strategies",
+    "section": "Growth Mindset",
+    "text": "Growth Mindset\nWhen we teach GitHub, we find it’s useful to say explicitly that we should go in with a Growth Mindset - the idea that we don’t know something yet but we are able to learn. Growth Mindset is work by Dr. Carol Dweck - see her book, TED Talk (10 min); illustrated video (2 min).\nAs part of this, we like how Jenny Bryan (Code Smells and Feels) thinks about this - that your tastes develops faster than your abilities.\n\n\n\nSlide from Jenny Bryan (Code Smells and Feels)"
+  },
+  {
     "objectID": "core-lessons/github/index.html#github-for-research-groups",
     "href": "core-lessons/github/index.html#github-for-research-groups",
     "title": "GitHub strategies",
