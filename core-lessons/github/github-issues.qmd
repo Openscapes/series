@@ -1,7 +1,7 @@
 ---
 title: GitHub for project management
 aliases: 
-  - github-issues.html  
+  - /github-issues.html  
 ---
 
 GitHub is best known as a collaborative coding platform. But of course productive collaboration requires communication, and GitHub has powerful features to support communication and project management through GitHub Issues. 

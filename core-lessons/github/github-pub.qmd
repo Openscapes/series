@@ -1,7 +1,7 @@
 ---
 title: GitHub for publishing
 aliases: 
-  - github-pub.html
+  - /github-pub.html
 ---
 
 <!---
