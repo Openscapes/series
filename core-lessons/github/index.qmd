@@ -47,6 +47,9 @@ Many Champions teams create GitHub Organizations for their research group. This 
 
 You can explore other Champions teams' GitHub organizations they've created:
 
+[NOAA NEFSC](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/)
+- Gavin Fay Lab https://github.com/thefaylab
+
 [2021 NOAA NMFS Cohort](https://github.com/Openscapes/2021-noaa-nmfs)
 - NWFSC Fisheries Engineering and Acoustic Technologies (FEAT) team https://github.com/NOAA-FEAT
 - NWFSC Protected Salmonids Team https://github.com/nwfsc-math-bio
