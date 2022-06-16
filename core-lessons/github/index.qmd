@@ -34,14 +34,56 @@ As part of this, we like how Jenny Bryan ([Code Smells and Feels](https://github
 
 ## GitHub for research groups
 
-As you get a better hands-on sense of GitHub's capabilities, you'll be thinking about how to get organized and use this for your own research group. You can explore other Champions teams' GitHub organizations they've created:
-
--   https://github.com/Openscapes/how_we_work#how-we-work
--   https://github.com/nmfs-openscapes
+As you get a better hands-on sense of GitHub's capabilities, you'll be thinking about how to get organized and use this for your own research group. 
 
 ### Organizations
 
-Many Champions teams create GitHub Organizations for their research group. This is a way for all the work that happens in the research group to be organized in one place, but also clearly attributed and credited by each user who contributes.
+Here are two examples of GitHub Organizations created as part of Openscapes Champions Cohorts where the content is now developed and maintained to support a broader range of researchers.
+
+-   NASA Openscapes <https://github.com/NASA-Openscapes>
+-   NMFS Openscapes for NOAA Fisheries <https://github.com/nmfs-openscapes>
+
+Many Champions teams create GitHub Organizations for their research group. This is a way for all the work that happens in the research group to be organized in one place, but also clearly attributed and credited by each user who contributes. 
+
+You can explore other Champions teams' GitHub organizations they've created:
+
+[NOAA NEFSC](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/)
+- Gavin Fay Lab <https://github.com/thefaylab>
+
+[2021 NOAA NMFS Cohort](https://github.com/Openscapes/2021-noaa-nmfs)
+- NWFSC Fisheries Engineering and Acoustic Technologies (FEAT) team <https://github.com/NOAA-FEAT>
+- NWFSC Protected Salmonids Team <https://github.com/nwfsc-math-bio>
+- AFSC GAP Survey Data Products <https://github.com/afsc-gap-products>
+
+[CS&S Cohort](https://github.com/Openscapes/css-cohort)
+-   Kenai Watershed Forum <https://github.com/Kenai-Watershed-Forum>
+-   WildCo Lab <https://github.com/WildCoLab> 
+
+[CSU-COAST Cohort](https://github.com/Openscapes/csu-coast-cohort)
+- <https://github.com/loganlabcsumb>
+- <https://github.com/ecoocelab-csun>
+- The Claisse Lab @ Cal Poly Pomona <https://github.com/ClaisseLab>
+- Coastal Ecosystems Lab <https://github.com/coastal-ecosystems-lab>
+
+<!--
+Look at the Cohort READMEs to find links to Team GitHub Organizations.
+
+Upcoming Cohorts  
+[2022 NOAA Southeast Fisheries Science Center (Summer)](https://github.com/Openscapes/2022-noaa-sefsc-summer)
+
+[2022 California State Water Resources Control Board](https://github.com/Openscapes/2022-swrcb)
+
+-->
+
+<!--
+inactive or possibly created prior to Openscapes Cohort
+
+[SASI Cohort](https://github.com/Openscapes/2021-sasi)
+- Gladfelter Lab <https://github.com/GladLab>
+
+[Fisheries Dependent Data users FDD Cohort](https://github.com/Openscapes/2021-fdd)
+- <https://github.com/khyde>
+-->
 
 #### Should my students create repos in our lab organization?
 
@@ -49,7 +91,7 @@ While there are many different approaches that could make sense for your group, 
 
 ### Issues
 
-Issues and Projects are a great way to keep organized. See a few examples in the [NOAA Fisheries wiki](https://github.com/nmfs-openscapes/.github/wiki/11-GitHub-Project-Boards#gallery).
+Issues and Projects are a great way to keep organized. See a few examples in the [NOAA Fisheries wiki](https://github.com/nmfs-openscapes/.github/wiki/11-GitHub-Project-Boards#gallery) and Openscapes [How We Work](https://github.com/Openscapes/how_we_work) issues and [Planning](https://github.com/orgs/Openscapes/projects/5) project.
 
 #### How much should I write in a single Issue?
 
