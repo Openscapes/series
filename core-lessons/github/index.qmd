@@ -45,7 +45,7 @@ Here are two examples of GitHub Organizations created as part of Openscapes Cham
 
 Many Champions teams create GitHub Organizations for their research group. This is a way for all the work that happens in the research group to be organized in one place, but also clearly attributed and credited by each user who contributes. 
 
-You can explore other Champions teams' GitHub organizations they've created. They're listed under the Cohorts in which they particpated:
+You can explore other Champions teams' GitHub organizations they've created. They're listed under the Cohorts in which they participated:
 
 [NOAA NEFSC](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/)
 
