@@ -45,24 +45,28 @@ Here are two examples of GitHub Organizations created as part of Openscapes Cham
 
 Many Champions teams create GitHub Organizations for their research group. This is a way for all the work that happens in the research group to be organized in one place, but also clearly attributed and credited by each user who contributes. 
 
-You can explore other Champions teams' GitHub organizations they've created:
+You can explore other Champions teams' GitHub organizations they've created. They're listed under the Cohorts in which they particpated:
 
 [NOAA NEFSC](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/)
+
 - Gavin Fay Lab <https://github.com/thefaylab>
 
-[2021 NOAA NMFS Cohort](https://github.com/Openscapes/2021-noaa-nmfs)
+[2021 NOAA NMFS Cohort](https://openscapes.github.io/2021-noaa-nmfs/)
+
 - NWFSC Fisheries Engineering and Acoustic Technologies (FEAT) team <https://github.com/NOAA-FEAT>
 - NWFSC Protected Salmonids Team <https://github.com/nwfsc-math-bio>
 - AFSC GAP Survey Data Products <https://github.com/afsc-gap-products>
 
-[CS&S Cohort](https://github.com/Openscapes/css-cohort)
--   Kenai Watershed Forum <https://github.com/Kenai-Watershed-Forum>
--   WildCo Lab <https://github.com/WildCoLab> 
+CS&S Cohort [blog post](https://www.openscapes.org/blog/2021/07/13/css-cohort/); [Cohort repo](https://github.com/Openscapes/css-cohort)
 
-[CSU-COAST Cohort](https://github.com/Openscapes/csu-coast-cohort)
-- <https://github.com/loganlabcsumb>
-- <https://github.com/ecoocelab-csun>
-- The Claisse Lab @ Cal Poly Pomona <https://github.com/ClaisseLab>
+- Kenai Watershed Forum <https://github.com/Kenai-Watershed-Forum>
+- WildCo Lab <https://github.com/WildCoLab> 
+
+CSU-COAST Cohort [blog post](https://www.openscapes.org/blog/2021/07/08/csu-coast-cohort/); [Cohort repo](https://github.com/Openscapes/csu-coast-cohort)
+
+- Logan Lab <https://github.com/loganlabcsumb>
+- Ecological Oceanography Lab at CSUN <https://github.com/ecoocelab-csun>
+- Claisse Lab @ Cal Poly Pomona <https://github.com/ClaisseLab>
 - Coastal Ecosystems Lab <https://github.com/coastal-ecosystems-lab>
 
 <!--
@@ -79,9 +83,11 @@ Upcoming Cohorts
 inactive or possibly created prior to Openscapes Cohort
 
 [SASI Cohort](https://github.com/Openscapes/2021-sasi)
+
 - Gladfelter Lab <https://github.com/GladLab>
 
 [Fisheries Dependent Data users FDD Cohort](https://github.com/Openscapes/2021-fdd)
+
 - <https://github.com/khyde>
 -->
 
