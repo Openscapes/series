@@ -54,3 +54,11 @@ Allison Horst shares many open educational resources, including workshops and sl
 
 Allison teaches environmental data science at UCSB (see her courses at <https://ucsb-meds.github.io/>).
 
+
+## Tidy Tuesday
+
+https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/
+
+From Nyssa: 
+
+For our group we had 2 hour sessions (1 hour is a bit too short for more novices and 2 hours gives the more advanced students time to try really new cool things). And we have a facilitator (usually me) that just checks in with the crew every few minutes and helps when students get stuck. But, it is very informal in that everyone just shows up and codes and chats. I have done this both in a conference room and at a bar. I also usually have people put some of their works in progress or final plots on the screen to show everyone else and share their "coding wins" or ask for help from the audience. And, yes, we use the Tidy Tuesday data because then they can also share their plots and code on twitter with the community and see the awesome creativity of the broader R community as well.
