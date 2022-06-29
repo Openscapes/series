@@ -1,0 +1,99 @@
+project: 
+  type: website
+  
+website: 
+  page-navigation: true
+  title: "Openscapes Champions Series"
+  site-url: "https://openscapes.github.io/series"
+ 
+  repo-url: https://github.com/openscapes/series
+  repo-actions: [edit, issue]
+  
+  # sharing: [twitter] come back to https://github.com/sta210-s22/website/blob/main/_quarto.yml#L13
+  
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-By Openscapes, 2022"
+    background: "#D9E3E4"
+    
+  sidebar:
+    background: "#D9E3E4"
+    logo: "images/openscapes_hex.png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://openscapes.org
+        text: "Openscapes.org"
+      - icon: github
+        href: https://github.com/openscapes/series
+        text: "Openscapes Series GitHub"
+      - icon: twitter
+        href: https://twitter.com/openscapes
+        text: "Openscapes Twitter"        
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: "index.qmd"
+        text: Welcome
+      - section: core-lessons/index.qmd
+        contents:        
+         - href: "mindset.qmd"
+           text: Mindset
+         - href: "better-science.qmd"
+           text: Better science
+         - section: core-lessons/github/index.qmd
+           contents:
+            - core-lessons/github/github-pub.qmd
+            - core-lessons/github/github-issues.qmd
+         - href: "team-culture.qmd"
+           text: Team culture
+         - href: "data-strategies.qmd"
+           text: Data stategies
+         - href: "coding-strategies.qmd"
+           text: Coding strategies
+         - href: "communities.qmd"
+           text: Open communities
+         - href: "core-lessons/pathways.qmd"
+           text: Pathways
+      - section: "Additional Lessons"
+        contents:
+         - href: "additional-lessons/code-of-conduct.qmd"
+           text: Code of Conduct
+         - href: "additional-lessons/r-for-scicomm.qmd"  
+           text: R for SciComm
+      - community-lessons/index.qmd
+      - section: how-do-i/index.qmd
+        contents:        
+         - href: "how-do-i/setup-rstudio-github.qmd"   
+           text: Setup RStudio & GitHub
+         - href: "how-do-i/do-fix-git-things.qmd"    
+           text: Do & fix git things            
+         - href: "how-do-i/reuse-openscapes-approach.qmd"   
+           text: Reuse Openscapes Approach           
+         - href: "how-do-i/create-publish-quarto.qmd" 
+           text: Create & Publish with Quarto
+      - section: "Inspiration"
+        contents:
+         - href: "inspiration/resources-that-influence.qmd"
+           text: Resources that influence us
+
+           
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+
+filters:
+  - include-files.lua
+  - quarto
+
+  

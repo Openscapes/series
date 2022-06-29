@@ -1,0 +1,31 @@
+{
+    "id": "C894EF38",
+    "path": "~/github/openscapes/series/mindset.qmd",
+    "project_path": "mindset.qmd",
+    "type": "quarto_markdown",
+    "hash": "411990380",
+    "contents": "",
+    "dirty": false,
+    "created": 1651668855350.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "67,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "17110:7442.72705078125"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1646623210,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1646623210,
+    "read_only": false,
+    "read_only_alternatives": []
+}
