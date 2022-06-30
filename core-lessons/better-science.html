@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Openscapes Champions Series - How Do I…</title>
+<title>Openscapes Champions Series - Better science in less time</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,8 +24,8 @@ ul.task-list{list-style: none;}
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../how-do-i/setup-rstudio-github.html" rel="next">
-<link href="../community-lessons/index.html" rel="prev">
+<link href="../core-lessons/github/index.html" rel="next">
+<link href="../mindset.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,7 +66,7 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">How Do I…</h1>
+      <h1 class="quarto-secondary-nav-title">Better science in less time</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -103,11 +103,11 @@ ul.task-list{list-style: none;}
         <li class="sidebar-item sidebar-item-section">
     <div class="sidebar-item-container"> 
         <a href="../core-lessons/index.html" class="sidebar-item-text sidebar-link">Core Lessons</a>
-      <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
+      <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
         <i class="bi bi-chevron-right ms-2"></i>
       </a>
     </div>
-    <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
+    <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../mindset.html" class="sidebar-item-text sidebar-link">Mindset</a>
@@ -115,7 +115,7 @@ ul.task-list{list-style: none;}
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../core-lessons/better-science.html" class="sidebar-item-text sidebar-link">Better science</a>
+  <a href="../core-lessons/better-science.html" class="sidebar-item-text sidebar-link active">Better science</a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -192,12 +192,12 @@ ul.task-list{list-style: none;}
 </li>
         <li class="sidebar-item sidebar-item-section">
     <div class="sidebar-item-container"> 
-        <a href="../how-do-i/index.html" class="sidebar-item-text sidebar-link active">How Do I...</a>
-      <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
+        <a href="../how-do-i/index.html" class="sidebar-item-text sidebar-link">How Do I...</a>
+      <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">
         <i class="bi bi-chevron-right ms-2"></i>
       </a>
     </div>
-    <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+    <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../how-do-i/setup-rstudio-github.html" class="sidebar-item-text sidebar-link">Setup RStudio &amp; GitHub</a>
@@ -240,14 +240,38 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#pathways-better-science" id="toc-pathways-better-science" class="nav-link active" data-scroll-target="#pathways-better-science">Pathways to better science in less time</a>
+  <ul class="collapse">
+  <li><a href="#create-space" id="toc-create-space" class="nav-link" data-scroll-target="#create-space">Create space</a></li>
+  <li><a href="#create-place" id="toc-create-place" class="nav-link" data-scroll-target="#create-place">Create place</a></li>
+  <li><a href="#find-the-common" id="toc-find-the-common" class="nav-link" data-scroll-target="#find-the-common">Find the common</a></li>
+  <li><a href="#what-was-it-really-like-transition-to-github" id="toc-what-was-it-really-like-transition-to-github" class="nav-link" data-scroll-target="#what-was-it-really-like-transition-to-github">What was it really like? Transition to GitHub</a></li>
+  </ul></li>
+  <li><a href="#ocean-health-index-behind-the-scenes" id="toc-ocean-health-index-behind-the-scenes" class="nav-link" data-scroll-target="#ocean-health-index-behind-the-scenes">Ocean Health Index: behind the scenes</a>
+  <ul class="collapse">
+  <li><a href="#ohi-pathway" id="toc-ohi-pathway" class="nav-link" data-scroll-target="#ohi-pathway">OHI pathway</a></li>
+  <li><a href="#reproducibility-communication-enabled-by-open-tooling" id="toc-reproducibility-communication-enabled-by-open-tooling" class="nav-link" data-scroll-target="#reproducibility-communication-enabled-by-open-tooling">Reproducibility &amp; communication enabled by open tooling</a></li>
+  <li><a href="#shared-workflows-not-only-useful-for-shared-projects" id="toc-shared-workflows-not-only-useful-for-shared-projects" class="nav-link" data-scroll-target="#shared-workflows-not-only-useful-for-shared-projects">Shared workflows not only useful for shared projects</a></li>
+  </ul></li>
+  <li><a href="#examples-environmental-science" id="toc-examples-environmental-science" class="nav-link" data-scroll-target="#examples-environmental-science">Examples: environmental science</a></li>
+  <li><a href="#further-resources" id="toc-further-resources" class="nav-link" data-scroll-target="#further-resources">Further resources</a>
+  <ul class="collapse">
+  <li><a href="#not-so-standard-deviation-podcast" id="toc-not-so-standard-deviation-podcast" class="nav-link" data-scroll-target="#not-so-standard-deviation-podcast">Not so standard deviation podcast</a></li>
+  <li><a href="#practical-computing-for-biologists" id="toc-practical-computing-for-biologists" class="nav-link" data-scroll-target="#practical-computing-for-biologists">Practical computing for biologists</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/series/edit/main/core-lessons/better-science.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/series/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">How Do I…</h1>
+<h1 class="title d-none d-lg-block">Better science in less time</h1>
 </div>
 
 
@@ -261,9 +285,141 @@ ul.task-list{list-style: none;}
 
 </header>
 
-<p>This is a collection of resources that complement what we cover in the Champions Lesson Series - things that often come up as questions and that folks can screenshare and do together during Seaside Chats and Co-Working sessions. We point to existing resources as much as possible.</p>
+<p>Better science is less time is science that is more efficient, reproducible, open, inclusive, and kind. There are growing examples of better science in less time in environmental and Earth science, and beyond, including <a href="https://www.nature.com/articles/s41559-017-0160">Our path to better science in less time using open data science tools</a> (Lowndes et al.&nbsp;2017).</p>
+<p><strong>Slides</strong> that have been presented during Champions Program Cohort Calls:</p>
+<ul>
+<li><a href="https://docs.google.com/presentation/d/1GmuTa1sUO_boH-2TonC875pD5xvXaIMHRKIoO3vUrdY/edit?usp=sharing">Better science in less time</a></li>
+<li><a href="https://docs.google.com/presentation/d/1SUMiQg0HhD19H-D6DDzTrFQVzub0kOINwJBG59uQCTw/edit#slide=id.p1">Empowering transformational science</a> - <a href="https://twitter.com/ChelleGentemann">Dr.&nbsp;Chelle Gentemann</a></li>
+</ul>
+<p>Here we also introduce the <a href="../core-lessons/pathways.html"><strong>Pathways concept</strong></a> that teams will develop throughout the Champions program. The Pathway is based on Table 1 in Lowndes et al.&nbsp;2017, and helps teams deliberately identify data workflow practices and next steps to facilitate efficiency and open culture in terms of reproduciblity, collaboration, communication, and culture.</p>
+<hr>
+<section id="pathways-better-science" class="level2">
+<h2 class="anchored" data-anchor-id="pathways-better-science">Pathways to better science in less time</h2>
+<p><a href="https://www.nature.com/articles/s41559-017-0160">Figure 1</a> of Lowndes et al.&nbsp;2017 shows that open data science tools increased the ease of reproducibility and the ease of collaboration for the Ocean Health Index (OHI) team. But it was not the tools alone - it was the process the team co-created and prioritized.</p>
+<section id="create-space" class="level3">
+<h3 class="anchored" data-anchor-id="create-space">Create space</h3>
+<p>The OHI team created space for synchronous collaboration: convenings to learn and teach each other together.</p>
+<p>A critical first part of this was prioritizing time (which included getting buy-in, lobbying, showcasing). Then, this meant that the team could focus time on:</p>
+<ul>
+<li>Getting comfortable talking about data/workflows</li>
+<li>Building trust (to share imperfect work)</li>
+<li>Recognizing that what we invest incrementally will have large dividends in the future</li>
+</ul>
+<p>The OHI team started having “Seaside Chats”: 1x/week where they discussed filenaming, code review, standard operating procedures and documentation, and much more.</p>
+</section>
+<section id="create-place" class="level3">
+<h3 class="anchored" data-anchor-id="create-place">Create place</h3>
+<p>Creating place is critical for asynchronous collaboration. This includes GitHub Organizations, Repositories, Issues; Google Drive Folders, Docs, Spreadsheets, and Slides; Slack Organizations and Channels; JupyterHubs, etc.</p>
+<p>It is a place for code, shared practices, resources, conversations. Critically, this involves making sure that everyone on the team is comfortable contributing through these channels. This means both with the technology, and the culture of the team.</p>
+</section>
+<section id="find-the-common" class="level3">
+<h3 class="anchored" data-anchor-id="find-the-common">Find the common</h3>
+<p>Through creating space and place, teams will find the common workflows, tools, skills that they already have and need to do their work.</p>
+<p>For the OHI team, we asked how to make sure everyone can participate as they need to? We introduced new software sparingly, and helped each other learn. This included initial setup as well as follow up and practice. We leveraged existing habits &amp; resources - within and beyond our team. <a href="../communities.html">Open communities</a> were a big part of this learning. Through this we were able to distinguish data preparation (tidying) as distinct from our science, and make this actionable by shifting to smaller modular code to combine for different reports/audiences.</p>
+<p><strong>Documentation was a key part of this</strong>. And, writing documentation “for nobody” is very hard, and it’s a huge task. We prioritized documentation based on Onboarding and Offboarding: for our future selves first, and then future us.</p>
+</section>
+<section id="what-was-it-really-like-transition-to-github" class="level3">
+<h3 class="anchored" data-anchor-id="what-was-it-really-like-transition-to-github">What was it really like? Transition to GitHub</h3>
+<p>Changing behavior/habits takes time, and is messy. Here is part of the story:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/ohi-transition-github.png" class="img-fluid figure-img" width="376"></p>
+</figure>
+</div>
+</section>
+</section>
+<section id="ocean-health-index-behind-the-scenes" class="level2">
+<h2 class="anchored" data-anchor-id="ocean-health-index-behind-the-scenes">Ocean Health Index: behind the scenes</h2>
+<p>Some key points to discuss from <a href="https://www.nature.com/articles/s41559-017-0160">Lowndes <em>et al.&nbsp;2017, Nature Ecology &amp; Evolution</em>: Our path to better science in less time using open data science tools</a>:</p>
+<ul>
+<li>Reproducibility &amp; communication enabled by open tooling</li>
+<li>Shared practices are useful beyond shared projects</li>
+</ul>
+<p>If you’re interested in more overview of the OHI setup, see this 2017 talk (25 mins): <a href="https://www.youtube.com/watch?v=x4uzVAZvFCA">OHI Better science in less time</a></p>
+<section id="ohi-pathway" class="level3">
+<h3 class="anchored" data-anchor-id="ohi-pathway">OHI pathway</h3>
+<ul>
+<li>Motivated by necessity</li>
+<li>Reimagined by possibility and community</li>
+<li>Done incrementally!</li>
+<li>Yes: it’s an investment.</li>
+<li>Also yes: huge, enduring payoff for (your) science</li>
+</ul>
+</section>
+<section id="reproducibility-communication-enabled-by-open-tooling" class="level3">
+<h3 class="anchored" data-anchor-id="reproducibility-communication-enabled-by-open-tooling">Reproducibility &amp; communication enabled by open tooling</h3>
+<p>RMarkdown to reimagine data analysis and communication. RMarkdown combines analyses &amp; figures together, rendered to your reporting output of choice.</p>
+<p>An example: <a href="http://ohi-science.org/betterscienceinlesstime/" class="uri">http://ohi-science.org/betterscienceinlesstime/</a></p>
+<ul>
+<li>Website built with R/RMarkdown &amp; Github<br>
+</li>
+<li>You can get started too: (<a href="https://jules32.github.io/rmarkdown-website-tutorial/">1-hour tutorial</a>)</li>
+</ul>
+</section>
+<section id="shared-workflows-not-only-useful-for-shared-projects" class="level3">
+<h3 class="anchored" data-anchor-id="shared-workflows-not-only-useful-for-shared-projects">Shared workflows not only useful for shared projects</h3>
+<ul>
+<li>OHI team: we identified as a team &amp; prioritized helping each other
+<ul>
+<li>We work on many different projects</li>
+<li>Use same workflows, share feedback, can think together across projects</li>
+</ul></li>
+<li>Shared conventions reduce friction &amp; cognitive load
+<ul>
+<li>Common ground, easier to talk about, easier to ask for help</li>
+<li>You don’t need to design everything from scratch</li>
+</ul></li>
+</ul>
+<p>And, critically:</p>
+<ul>
+<li>It’s about increasing efficiency and reproducibility and open science.</li>
+<li>But it is also about increasing participation and inclusion.</li>
+<li>Consider diversity, equity, and inclusion in your daily practices.</li>
+<li>How you work and onboard others to your projects is a DEI issue.</li>
+</ul>
+</section>
+</section>
+<section id="examples-environmental-science" class="level2">
+<h2 class="anchored" data-anchor-id="examples-environmental-science">Examples: environmental science</h2>
+<p>Here are a few examples to showcase what is possible and being done by the community.</p>
+<ul>
+<li><a href="https://stephhazlitt.github.io/regime-shifts/slides#1">Regime Shifts in R &amp; Data Science within the BC Public Service Observations from the field</a> - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote</li>
+<li><a href="https://github.com/EmilyMarkowitz-NOAA/NMFSReports/blob/main/presentations/2021-06-05%20NMFSReports%20-%20R%20Cascadia%20Conf.pdf">NMFSReports: Easily write NOAA reports and tech memos in R Markdown!</a> - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk</li>
+<li><a href="https://www.openscapes.org/blog/2020/11/16/tampa-bay-reporting/">Automated reporting in Tampa Bay with open science</a> - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog
+<ul>
+<li><a href="https://tbep-tech.github.io/data-management-sop/workflow.html">TBEP’s Data Management Workflow</a> and open science cake</li>
+</ul></li>
+<li><a href="https://stephhazlitt.github.io/regime-shifts/slides#1">Regime Shifts in R &amp; Data Science within the BC Public Service</a> - Steph Hazlitt CascadiaR keynote (<a href="https://twitter.com/stephhazlitt/status/1401222464156299266">tweet</a>)</li>
+</ul>
+</section>
+<section id="further-resources" class="level2">
+<h2 class="anchored" data-anchor-id="further-resources">Further resources</h2>
+<section id="not-so-standard-deviation-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="not-so-standard-deviation-podcast">Not so standard deviation podcast</h3>
+<p>Parker &amp; Peng<br>
+<a href="http://nssdeviations.com" class="uri">http://nssdeviations.com</a><br>
+Great discussions about data concepts and “in the wild”<br>
+<a href="http://nssdeviations.com/episode-9-spreadsheet-drama">Episode 9: Spreadsheet drama</a></p>
+</section>
+<section id="practical-computing-for-biologists" class="level3">
+<h3 class="anchored" data-anchor-id="practical-computing-for-biologists">Practical computing for biologists</h3>
+<p>Haddock &amp; Dunn<br>
+<a href="http://practicalcomputing.org/" class="uri">http://practicalcomputing.org/</a><br>
+Software &amp; computing concepts already on your computer<br>
+Chapter 2: Regular expressions</p>
+<!---
+
+Broman, K. Initial steps toward reproducible research. http://kbroman.org/steps2rr/ (2016).
+
+Carly Strasser
+
+Fischetti, T. How dplyr replaced my most common r idioms. StatsBlogs http://www.onthelambda.com/2014/02/10/how-dplyr-replaced-my-most-common-r-idioms/ (10 February 2014).
+
+--->
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -444,13 +600,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../community-lessons/index.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Community Lessons</span>
+      <a href="../mindset.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Mindset</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../how-do-i/setup-rstudio-github.html" class="pagination-link">
-        <span class="nav-page-text">Setup RStudio &amp; GitHub</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../core-lessons/github/index.html" class="pagination-link">
+        <span class="nav-page-text">GitHub strategies</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
