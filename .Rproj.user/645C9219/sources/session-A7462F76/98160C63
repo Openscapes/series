@@ -13,6 +13,7 @@
         "source_window_id": "",
         "Source": "Source",
         "cursorPosition": "46,21",
+<<<<<<< HEAD
         "scrollLine": "36"
     },
     "folds": "",
@@ -21,6 +22,16 @@
     "collab_server": "",
     "source_window": "",
     "last_content_update": 1656552745,
+=======
+        "scrollLine": "30"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1656547595,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1656547595628,
+>>>>>>> 6591b7086c22ce1b5f7803704b60a6a7d48cd6b6
     "read_only": false,
     "read_only_alternatives": []
 }
