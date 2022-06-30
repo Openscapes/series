@@ -3,7 +3,7 @@
     "path": "~/github/openscapes/series/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "967661955",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1656545168845.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "53,676",
-        "scrollLine": "50",
+        "cursorPosition": "40,0",
+        "scrollLine": "34",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "0",
@@ -21,11 +21,11 @@
         "rmdVisualModeLocation": "3265:1804.54541015625"
     },
     "folds": "",
-    "lastKnownWriteTime": 1656547337,
+    "lastKnownWriteTime": 1656552621,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1656547337601,
+    "last_content_update": 1656552621140,
     "read_only": false,
     "read_only_alternatives": []
 }
