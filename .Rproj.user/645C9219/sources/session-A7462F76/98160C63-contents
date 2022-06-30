@@ -42,7 +42,7 @@ website:
         contents:        
          - href: "mindset.qmd"
            text: Mindset
-         - href: "better-science.qmd"
+         - href: core-lessons/better-science.qmd
            text: Better science
          - section: core-lessons/github/index.qmd
            contents:
