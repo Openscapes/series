@@ -24,8 +24,8 @@ Highlighting a few lessons by Eli Holmes and Em Markowitz:
 
 - [Advanced GitHub Clinic](https://github.com/Openscapes/2021-noaa-nmfs/blob/main/adv-github-clinic/agenda2.md)
 - [googledrive R package](https://github.com/nmfs-openscapes/GoogleDrive1#overview)
-- [PSAW 2022: Intro to R data packages, Intro to GitHub](https://rverse-tutorials.github.io/PSAW-2022/index.html)
-
+- [RVerse Tutorials](https://rverse-tutorials.github.io/), particularly [Practical R+Git Workflow for Scientists May-July 2022](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/) by Eli Holmes
+  - RVerse Tutorials is a collection of teaching materials on R and R Workflow by the Mathematical Biology Program and the Northwest Fisheries Science Center.
 
 ## Fay Lab Manual
 
