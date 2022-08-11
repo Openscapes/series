@@ -10,7 +10,7 @@ This is the beginning of a growing list; please share others to add. You can sug
 
 The NASA Earthdata-Openscapes Mentors team and other contributors are creating open educational resources to help researchers migrate workflows to the Cloud - all available for reuse and remix.
 
-<https://nasa-openscapes.github.io/tutorials.html>
+[NASA Openscapes Cloud Tutorials](https://nasa-openscapes.github.io/cookbook-navbar-page.html)
 
 Check out the 2021-Cloud-Hackathon materials!
 
