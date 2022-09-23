@@ -55,6 +55,15 @@ Our [POP](https://suzannehawkes.com/2010/04/09/pop-everything/), a planning tool
 
 **Process** is: Cohort Calls: Twice-monthly with full Cohort; discussion-based and requires active engagement; Seaside Chats: Alternating weeks with your research group; we'll provide task suggestions but main purpose is to build the habit of strengthening shared workflows with your broader group. Team leads optional; Co-working: Alternating weeks (optional); come to focus on something workflow related - could be quiet work, requests for feedback or questions, or screensharing to problem solve; Slack: asynchronous way to ask questions, get help, and get to know other Openscapes folks; Twitter: asynchronous way to connect with broader open science community - check out [#rstats](https://twitter.com/search?q=%23rstats&src=typed_query), [#openscience](https://twitter.com/search?q=%23openscience&src=typed_query&f=top), [\@openscapes](https://twitter.com/openscapes)
 
+### What is a team?
+
+There is a lot of flexibility in choosing your team for the Openscapes Champions program.
+
+> How you define "team" is completely up to you and having one person be in the cohort and using in-between session "seaside chats" to bring back the information to another group is 100% fine. That is common in the cohorts. 
+> In my first Openscapes cohort, I was the only person from my project. My personal goal was to use the Openscapes structure to help a team that I am on figure out how to tackle some off-boarding tasks due to a retirement. During my second cohort, there were 2 team members in the cohort and 2 not in the cohort. We focused on standardizing our data to get ready for our GitHub served data package. For the 3rd cohort I am doing, 2/3 of our team is in the cohort as we start to get organized for a major revamp of our report into a reproducible workflow. - Eli Holmes (NOAA NWFSC, NMFS-Openscapes)
+
+Learn more: [FAQs: What is a team/How do I choose my team?](https://www.openscapes.org/faq/). 
+
 ## Cohorts - past and upcoming
 
 We have led 8+ Champions Cohorts since 2019. Starting in 2021, each Cohort has an events page with links to their GitHub repository (with quick-links to their Cohort Call Agendas so teams can more easily review), blog posts and any additional resources. Explore more at [openscapes.org/cohorts](https://openscapes.org/cohorts).
