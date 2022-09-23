@@ -2,15 +2,27 @@
 title: GitHub strategies
 ---
 
-What is GitHub\*, and what are GitHub strategies for Future Us?
+What is GitHub[^1], and what are GitHub strategies for Future Us?
+
+[^1]: From [Bryan 2017](https://peerj.com/preprints/3159/): "we're targeting GitHub - not Bitbucket or GitLab - for the sake of specificity. However, all the big-picture principles and even some mechanics will carry over to these alternative hosting platforms. We are advocating for the use of hosted version control as a general concept, with GitHub being the best and most common provider today."
 
 GitHub is a powerful tool for collaborative coding with version control, but here and in our GitHub Clinic we are going to focus on some of its lesser-celebrated awesomeness. We'll talk about GitHub for supporting, reusing, contributing, and failing safely, as well as GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.
 
+## GitHub Clinic
+
+Openscapes GitHub Clinic introduces GitHub with the motivation of
+collaboration and open science. It is designed for both new and seasoned
+learners, focused on how develop workflows with diverse teams.
+
 **Slides** that have been presented during Champions Program Cohort Calls:
 
--   [GitHub Clinic](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing)
+-   [**GitHub Clinic Slides**](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing)
 
-\*From [Bryan 2017](https://peerj.com/preprints/3159/): "we're targeting GitHub - not Bitbucket or GitLab - for the sake of specificity. However, all the big-picture principles and even some mechanics will carry over to these alternative hosting platforms. We are advocating for the use of hosted version control as a general concept, with GitHub being the best and most common provider today."
+**Video recordings**
+
+-   [**Part 1: Publishing**](https://youtu.be/anrZwE3pIwQ), recorded as 19 minutes of lesson, cut for participants hands-on in breakout rooms, and 5 minutes of followup lesson.
+
+-   [**Part 2: Project Management**](https://youtu.be/dDRDma-5_ww), recorded as 9 minutes of lesson, cut for participants hands-on in breakout rooms, and 5 minutes of followup lesson.
 
 ## GitHub for supporting, reusing, contributing, and failing safely
 
@@ -34,7 +46,7 @@ As part of this, we like how Jenny Bryan ([Code Smells and Feels](https://github
 
 ## GitHub for research groups
 
-As you get a better hands-on sense of GitHub's capabilities, you'll be thinking about how to get organized and use this for your own research group. 
+As you get a better hands-on sense of GitHub's capabilities, you'll be thinking about how to get organized and use this for your own research group.
 
 ### Organizations
 
@@ -43,32 +55,33 @@ Here are two examples of GitHub Organizations created as part of Openscapes Cham
 -   NASA Openscapes <https://github.com/NASA-Openscapes>
 -   NMFS Openscapes for NOAA Fisheries <https://github.com/nmfs-openscapes>
 
-Many Champions teams create GitHub Organizations for their research group. This is a way for all the work that happens in the research group to be organized in one place, but also clearly attributed and credited by each user who contributes. 
+Many Champions teams create GitHub Organizations for their research group. This is a way for all the work that happens in the research group to be organized in one place, but also clearly attributed and credited by each user who contributes.
 
 You can explore other Champions teams' GitHub organizations they've created. They're listed under the Cohorts in which they participated:
 
 [NOAA NEFSC](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/)
 
-- Gavin Fay Lab <https://github.com/thefaylab>
+-   Gavin Fay Lab <https://github.com/thefaylab>
 
 [2021 NOAA NMFS Cohort](https://openscapes.github.io/2021-noaa-nmfs/)
 
-- NWFSC Fisheries Engineering and Acoustic Technologies (FEAT) team <https://github.com/NOAA-FEAT>
-- NWFSC Protected Salmonids Team <https://github.com/nwfsc-math-bio>
-- AFSC GAP Survey Data Products <https://github.com/afsc-gap-products>
+-   NWFSC Fisheries Engineering and Acoustic Technologies (FEAT) team <https://github.com/NOAA-FEAT>
+-   NWFSC Protected Salmonids Team <https://github.com/nwfsc-math-bio>
+-   AFSC GAP Survey Data Products <https://github.com/afsc-gap-products>
 
 CS&S Cohort [blog post](https://www.openscapes.org/blog/2021/07/13/css-cohort/); [Cohort repo](https://github.com/Openscapes/css-cohort)
 
-- Kenai Watershed Forum <https://github.com/Kenai-Watershed-Forum>
-- WildCo Lab <https://github.com/WildCoLab> 
+-   Kenai Watershed Forum <https://github.com/Kenai-Watershed-Forum>
+-   WildCo Lab <https://github.com/WildCoLab>
 
 CSU-COAST Cohort [blog post](https://www.openscapes.org/blog/2021/07/08/csu-coast-cohort/); [Cohort repo](https://github.com/Openscapes/csu-coast-cohort)
 
-- Logan Lab <https://github.com/loganlabcsumb>
-- Ecological Oceanography Lab at CSUN <https://github.com/ecoocelab-csun>
-- Claisse Lab @ Cal Poly Pomona <https://github.com/ClaisseLab>
-- Coastal Ecosystems Lab <https://github.com/coastal-ecosystems-lab>
+-   Logan Lab <https://github.com/loganlabcsumb>
+-   Ecological Oceanography Lab at CSUN <https://github.com/ecoocelab-csun>
+-   Claisse Lab \@ Cal Poly Pomona <https://github.com/ClaisseLab>
+-   Coastal Ecosystems Lab <https://github.com/coastal-ecosystems-lab>
 
+```{=html}
 <!--
 Look at the Cohort READMEs to find links to Team GitHub Organizations.
 
@@ -78,7 +91,8 @@ Upcoming Cohorts
 [2022 California State Water Resources Control Board](https://github.com/Openscapes/2022-swrcb)
 
 -->
-
+```
+```{=html}
 <!--
 inactive or possibly created prior to Openscapes Cohort
 
@@ -90,7 +104,7 @@ inactive or possibly created prior to Openscapes Cohort
 
 - <https://github.com/khyde>
 -->
-
+```
 #### Should my students create repos in our lab organization?
 
 While there are many different approaches that could make sense for your group, our starting recommendation would be that any project happening in the research group gets its own repository, and that repository is in the research group's Organization. This is then clearly part of the research group's work and more findable by past/current/future members. And it can be forked to other accounts at any time.
