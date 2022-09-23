@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.38">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,10 +13,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -241,7 +246,7 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
@@ -251,6 +256,7 @@ ul.task-list{list-style: none;}
   <li><a href="#seaside-chats-pathways" id="toc-seaside-chats-pathways" class="nav-link" data-scroll-target="#seaside-chats-pathways">Seaside Chats &amp; Pathways</a></li>
   <li><a href="#cohort-agendas" id="toc-cohort-agendas" class="nav-link" data-scroll-target="#cohort-agendas">Cohort Agendas</a></li>
   <li><a href="#champions-program-pop" id="toc-champions-program-pop" class="nav-link" data-scroll-target="#champions-program-pop">Champions Program POP</a></li>
+  <li><a href="#what-is-a-team" id="toc-what-is-a-team" class="nav-link" data-scroll-target="#what-is-a-team">What is a team?</a></li>
   </ul></li>
   <li><a href="#cohorts---past-and-upcoming" id="toc-cohorts---past-and-upcoming" class="nav-link" data-scroll-target="#cohorts---past-and-upcoming">Cohorts - past and upcoming</a></li>
   <li><a href="#supercharge-your-research-self-paced-learning" id="toc-supercharge-your-research-self-paced-learning" class="nav-link" data-scroll-target="#supercharge-your-research-self-paced-learning">Supercharge your research: self-paced learning</a></li>
@@ -361,6 +367,14 @@ Artwork by <a href="https://www.openscapes.org/gallery/">Allison Horst</a>
 <p><strong>Purpose</strong> is to: Reimagine data analysis and stewardship through exploring open tools and practices; Develop modern skills and habits that are of immediate value to you, including confidence and agency as leaders; Cultivate collaborative and inclusive research communities: Future Us, starting with your team.</p>
 <p><strong>Outcomes</strong> are: Different for everybody - this is about changing habits to improve your work and teamwork so you shape where you invest based on what you need; A practice of talking and collaborating about data workflows with your team and community; A pathway you’ve identified with your team to help prioritize next steps - You’ll share your work-in-progress on our last Cohort Call</p>
 <p><strong>Process</strong> is: Cohort Calls: Twice-monthly with full Cohort; discussion-based and requires active engagement; Seaside Chats: Alternating weeks with your research group; we’ll provide task suggestions but main purpose is to build the habit of strengthening shared workflows with your broader group. Team leads optional; Co-working: Alternating weeks (optional); come to focus on something workflow related - could be quiet work, requests for feedback or questions, or screensharing to problem solve; Slack: asynchronous way to ask questions, get help, and get to know other Openscapes folks; Twitter: asynchronous way to connect with broader open science community - check out <a href="https://twitter.com/search?q=%23rstats&amp;src=typed_query">#rstats</a>, <a href="https://twitter.com/search?q=%23openscience&amp;src=typed_query&amp;f=top">#openscience</a>, <a href="https://twitter.com/openscapes">@openscapes</a></p>
+</section>
+<section id="what-is-a-team" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-a-team">What is a team?</h3>
+<p>There is a lot of flexibility in choosing your team for the Openscapes Champions program.</p>
+<blockquote class="blockquote">
+<p>How you define “team” is completely up to you and having one person be in the cohort and using in-between session “seaside chats” to bring back the information to another group is 100% fine. That is common in the cohorts. In my first Openscapes cohort, I was the only person from my project. My personal goal was to use the Openscapes structure to help a team that I am on figure out how to tackle some off-boarding tasks due to a retirement. During my second cohort, there were 2 team members in the cohort and 2 not in the cohort. We focused on standardizing our data to get ready for our GitHub served data package. For the 3rd cohort I am doing, 2/3 of our team is in the cohort as we start to get organized for a major revamp of our report into a reproducible workflow. - Eli Holmes (NOAA NWFSC, NMFS-Openscapes)</p>
+</blockquote>
+<p>Learn more: <a href="https://www.openscapes.org/faq/">FAQs: What is a team/How do I choose my team?</a>.</p>
 </section>
 </section>
 <section id="cohorts---past-and-upcoming" class="level2">
@@ -518,6 +532,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         }
       }
     }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
   }
   const isFileUrl = () => { 
     return window.location.protocol === 'file:';
@@ -619,7 +643,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
