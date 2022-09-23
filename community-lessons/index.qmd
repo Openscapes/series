@@ -18,6 +18,10 @@ Check out the 2021-Cloud-Hackathon materials!
 
 The overarching vision of the NMFS Openscapes is to support scientific researchers within NOAA Fisheries by providing training in reproducible scientific workflows and platforms, facilitating collaboration across divisions in common scientific data science tasks, and providing shared "best practices" resources. Check out the NMFS R UG (R Users Group) for upcoming events and Wiki for links to resources and examples of open science at NOAA Fisheries.
 
+[NMFS-OpenSci](https://nmfs-opensci.github.io/) ([github](https://github.com/nmfs-opensci))
+
+[NMFS-OpenSci Resource Book](https://nmfs-opensci.github.io/ResourceBook)
+
 <https://github.com/nmfs-openscapes>
 
 Highlighting a few lessons by Eli Holmes and Em Markowitz:
@@ -36,6 +40,10 @@ This is the lab manual for the Fay Lab at the University of Massachusetts Dartmo
 Check out how they've organized this onboarding document that prospective students and postdocs have said stood out to them. Consider reusing/remixing for your own group!
 
 [Slides from Gavin Fay's 2022 talk at NOAA Alaska Fisheries Science Center](https://docs.google.com/presentation/d/1c624mH3md8pQHiP6rJ7HPuhxDLgNB7xvONDZlUM3f64/edit#slide=id.gb6050dd30d_0_0)
+
+## California Water Board Data Center
+
+<https://github.com/CAWaterBoardDataCenter>
 
 ## R for Excel Users
 
