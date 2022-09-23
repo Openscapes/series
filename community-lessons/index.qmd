@@ -22,7 +22,7 @@ The overarching vision of the NMFS Openscapes is to support scientific researche
 
 [NMFS-OpenSci Resource Book](https://nmfs-opensci.github.io/ResourceBook)
 
-<https://github.com/nmfs-openscapes>
+[NMFS-Openscapes](https://nmfs-openscapes.github.io) ([github](https://github.com/nmfs-openscapes))
 
 Highlighting a few lessons by Eli Holmes and Em Markowitz:
 
