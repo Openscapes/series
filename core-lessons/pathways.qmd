@@ -48,4 +48,13 @@ A few reflection prompts that can help frame the presentations:
 See more examples:
 
 -   [A TL;DR Collection of Stories from Openscapes Champions and Mentors](https://docs.google.com/presentation/d/1YAnaRFsKX3H6cSTXoOl-GksH-eebifQ6vzN7UwfoXUY/edit?usp=sharing); these stories are largely from 3 months+ following Pathways presentations
--   [**Case Studies**](https://www.openscapes.org/tags/case-study/) from the inaugural Champions Cohort (2021)
+-   [**Case Studies**](https://www.openscapes.org/tags/case-study/) from the inaugural Champions Cohort (2019)
+
+<!---
+
+Standard Operating Procedures
+- [Tampa Bay](https://tbep-tech.github.io/data-management-sop/)
+- SFG
+- https://indigenous-data-envs-2022.netlify.app/index.html
+
+--->
