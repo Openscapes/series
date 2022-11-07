@@ -35,10 +35,10 @@ Presentations do not need be line-by-line of the Pathways Spreadsheet and there'
 A few reflection prompts that can help frame the presentations:
 
 -   What are the practices we've covered during the Cohort that most compel you?
--   What are the practices we've covered this semester that most confuse you?
+-   What are the practices we've covered during the Cohort that most confuse you?
 -   Are there practices that are new to you that you didn't originally think would work with your own research interests? If so, which?
 -   What are your two biggest take-aways from the Cohort?
--   What future revisions will you propose making for your pathway
+-   What future revisions will you propose making for your pathway?
 -   Any final questions you want to workshop with the Cohort?
 
 ## Examples
@@ -48,6 +48,7 @@ A few reflection prompts that can help frame the presentations:
 See more examples:
 
 -   [A TL;DR Collection of Stories from Openscapes Champions and Mentors](https://docs.google.com/presentation/d/1YAnaRFsKX3H6cSTXoOl-GksH-eebifQ6vzN7UwfoXUY/edit?usp=sharing); these stories are largely from 3 months+ following Pathways presentations
+-   [Champions Program blog posts](https://www.openscapes.org/categories/champions/)
 -   [**Case Studies**](https://www.openscapes.org/tags/case-study/) from the inaugural Champions Cohort (2019)
 
 <!---
