@@ -43,3 +43,12 @@ This has screenshots and a workflow with RStudio and the command line.
 By Dr. Eli Holmes
 
 <https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/week1.html>
+
+## Oh Sh*t, Git!?!
+
+[Oh Sh*t, Git!?!](https://ohshitgit.com/). Swear-free version: [Dangit, Git!?!](https://dangitgit.com/)
+
+> Git is hard: screwing up is easy, and figuring out how to fix your mistakes is [nearly] impossible. Git documentation has this chicken and egg problem where you can't search for how to get yourself out of a mess, unless you already know the name of the thing you need to know about in order to fix your problem.
+
+> So here are some bad situations I've gotten myself into, and how I eventually got myself out of them in plain english.
+
