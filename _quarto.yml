@@ -74,7 +74,9 @@ website:
          - href: "how-do-i/reuse-openscapes-approach.qmd"   
            text: Reuse Openscapes Approach           
          - href: "how-do-i/create-publish-quarto.qmd" 
-           text: Create & Publish with Quarto
+           text: Create & Publish with Quarto           
+         - href: "how-do-i/ask-questions.qmd" 
+           text: Ask questions
       - section: "Inspiration"
         contents:
          - href: "inspiration/resources-that-influence.qmd"
