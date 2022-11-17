@@ -588,6 +588,13 @@
     "text": "Practical R Workflow for Scientists\nBy Dr. Eli Holmes\nhttps://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/week1.html"
   },
   {
+    "objectID": "how-do-i/do-fix-git-things.html#oh-sht-git",
+    "href": "how-do-i/do-fix-git-things.html#oh-sht-git",
+    "title": "Do and fix things in Git",
+    "section": "Oh Sh*t, Git!?!",
+    "text": "Oh Sh*t, Git!?!\nOh Sh*t, Git!?!. Swear-free version: Dangit, Git!?!\n\nGit is hard: screwing up is easy, and figuring out how to fix your mistakes is [nearly] impossible. Git documentation has this chicken and egg problem where you can’t search for how to get yourself out of a mess, unless you already know the name of the thing you need to know about in order to fix your problem.\n\n\nSo here are some bad situations I’ve gotten myself into, and how I eventually got myself out of them in plain english."
+  },
+  {
     "objectID": "how-do-i/index.html",
     "href": "how-do-i/index.html",
     "title": "How Do I…",
