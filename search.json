@@ -599,7 +599,42 @@
     "href": "how-do-i/reuse-openscapes-approach.html",
     "title": "Reuse the Openscapes Approach",
     "section": "",
-    "text": "The Openscapes Approach Guide is where we’re starting to document our approach so that others can lead their own Champions Cohorts. Even if you’re not leading your own Cohort, there are many things we do that you can reuse. For example:\n\nHave Google Doc agenda with live notetaking during your meetings (if this is a recurring meeting, organize it in a shared folder, either with one doc per meeting like our Cohort Call Agendas or many meetings in the same doc with the most recent at the top, like our Co-Working notes)\nBegin a meeting with a Roll Call/Check in and Code of Conduct\nShare slides before giving your talk so that folks can see them in high resolution and click on links\nTeach using other people’s slides"
+    "text": "We designed, facilitate, and teach building from what has worked in many other programs and resources. In the open science world, this is often called “reuse and remix” - reusing parts and tailoring and building them out for your needs. We reuse/remix heavily from Mozilla Open Leaders, RStudio, RLadies, rOpenSci, and many others.\nThe Openscapes Approach Guide is where we’re starting to document our approach so that others can lead their own Champions Cohorts. Even if you’re not leading your own Cohort, there are many things we do that you can reuse. For example:\n\nHave Google Doc agenda with live notetaking during your meetings (if this is a recurring meeting, organize it in a shared folder, either with one doc per meeting like our Cohort Call Agendas or many meetings in the same doc with the most recent at the top, like our Co-Working notes)\nBegin a meeting with a Roll Call/Check in and Code of Conduct\nShare slides before giving your talk so that folks can see them in high resolution and click on links\nTeach using other people’s slides"
+  },
+  {
+    "objectID": "how-do-i/ask-questions.html",
+    "href": "how-do-i/ask-questions.html",
+    "title": "Ask questions",
+    "section": "",
+    "text": "Where do I go when I need to get unblocked? Where do I go when I want to learn how to unblock myself? Here are some resources. Most examples are with R, but the principles of how and where to ask questions apply broadly."
+  },
+  {
+    "objectID": "how-do-i/ask-questions.html#how-to-get-help-in-r",
+    "href": "how-do-i/ask-questions.html#how-to-get-help-in-r",
+    "title": "Ask questions",
+    "section": "How to get help in R",
+    "text": "How to get help in R\nHow to get help in R, a presentation for R-Ladies Coventry, by Ella Kaye, 2021.\n\nIn the session, Ella will talk us through different ways to get help when you get stuck on a problem in R. We’ll cover how and where to look for answers and how to ask and post good questions that make it easy for others to help you, including a demo of the excellent reprex and datapasta packages. So whether you’re an R novice or more experienced R user, hopefully there’ll be some useful tips for you!"
+  },
+  {
+    "objectID": "how-do-i/ask-questions.html#how-to-ask-questions-so-they-get-answered-possibly-by-yourself",
+    "href": "how-do-i/ask-questions.html#how-to-ask-questions-so-they-get-answered-possibly-by-yourself",
+    "title": "Ask questions",
+    "section": "How to ask questions so they get answered! Possibly by yourself!",
+    "text": "How to ask questions so they get answered! Possibly by yourself!\nHow to ask questions so they get answered! Possibly by yourself! 2017, an rOpenSci Community Call with Jenny Bryan, JD Long, Scott Chamberlain."
+  },
+  {
+    "objectID": "how-do-i/ask-questions.html#where-to-get-help-with-your-r-question",
+    "href": "how-do-i/ask-questions.html#where-to-get-help-with-your-r-question",
+    "title": "Ask questions",
+    "section": "Where to get help with your R question?",
+    "text": "Where to get help with your R question?\nWhere to get help with your R question?, Maëlle Salmon blog post 2018 (good general approach)"
+  },
+  {
+    "objectID": "how-do-i/ask-questions.html#the-reprex-r-package",
+    "href": "how-do-i/ask-questions.html#the-reprex-r-package",
+    "title": "Ask questions",
+    "section": "The reprex R package",
+    "text": "The reprex R package\nThe reprex R package. What is a reprex? It’s a reproducible example. This package helps you prepare reprexes for posting to GitHub issues, StackOverflow, in Slack messages or snippets, or even to paste into PowerPoint or Keynote slides."
   },
   {
     "objectID": "how-do-i/setup-rstudio-github.html",
