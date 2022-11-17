@@ -1,0 +1,25 @@
+---
+title: "Ask questions"
+---
+
+Where do I go when I need to get unblocked? Where do I go when I want to learn how to unblock myself? Here are some resources. Most examples are with R, but the principles of how and where to ask questions apply broadly.
+
+## How to get help in R
+
+[How to get help in R](https://ellakaye.rbind.io/talks/2020-10-29_how-to-get-help-in-r/), a presentation for R-Ladies Coventry, by Ella Kaye, 2021. 
+
+> In the session, Ella will talk us through different ways to get help when you get stuck on a problem in R. We’ll cover how and where to look for answers and how to ask and post good questions that make it easy for others to help you, including a demo of the excellent [reprex](https://reprex.tidyverse.org/) and [datapasta](https://milesmcbain.github.io/datapasta/) packages. So whether you’re an R novice or more experienced R user, hopefully there’ll be some useful tips for you!
+
+## How to ask questions so they get answered! Possibly by yourself!
+
+[How to ask questions so they get answered! Possibly by yourself!](https://ropensci.org/commcalls/2017-03-07/) 2017, an rOpenSci Community Call with Jenny Bryan, JD Long, Scott Chamberlain.
+
+## Where to get help with your R question?
+
+[Where to get help with your R question?](https://masalmon.eu/2018/07/22/wheretogethelp/), Maëlle Salmon blog post 2018 (good general approach)
+
+## The reprex R package
+
+The [reprex](https://reprex.tidyverse.org/) R package. What is a reprex? It’s a **rep**roducible **ex**ample. This package helps you prepare reprexes for posting to GitHub issues, StackOverflow, in Slack messages or snippets, or even to paste into PowerPoint or Keynote slides. 
+
+
