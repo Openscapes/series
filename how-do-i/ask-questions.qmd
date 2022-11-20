@@ -23,3 +23,8 @@ Where do I go when I need to get unblocked? Where do I go when I want to learn h
 The [reprex](https://reprex.tidyverse.org/) R package. What is a reprex? It’s a **rep**roducible **ex**ample. This package helps you prepare reprexes for posting to GitHub issues, StackOverflow, in Slack messages or snippets, or even to paste into PowerPoint or Keynote slides. 
 
 
+## Teach me how to Google 
+
+[Teach me how to Google](https://samanthacsik.github.io/teach-me-how-to-google/slides/RLadiesSTL-2022-02-22.html#1) by Sam Csik of the National Center for Ecological Analysis & Synthesis and RLadies Santa Barbara. 
+
+- Original talk developed for the Master of Environmental Data Science Program (MEDS) at UC Santa Barbara's Bren School of Environmental Science and Management.
