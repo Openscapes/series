@@ -644,6 +644,13 @@
     "text": "The reprex R package\nThe reprex R package. What is a reprex? It’s a reproducible example. This package helps you prepare reprexes for posting to GitHub issues, StackOverflow, in Slack messages or snippets, or even to paste into PowerPoint or Keynote slides."
   },
   {
+    "objectID": "how-do-i/ask-questions.html#teach-me-how-to-google",
+    "href": "how-do-i/ask-questions.html#teach-me-how-to-google",
+    "title": "Ask questions",
+    "section": "Teach me how to Google",
+    "text": "Teach me how to Google\nTeach me how to Google by Sam Csik of the National Center for Ecological Analysis & Synthesis and RLadies Santa Barbara.\n\nOriginal talk developed for the Master of Environmental Data Science Program (MEDS) at UC Santa Barbara’s Bren School of Environmental Science and Management."
+  },
+  {
     "objectID": "how-do-i/setup-rstudio-github.html",
     "href": "how-do-i/setup-rstudio-github.html",
     "title": "Setup RStudio and GitHub",
