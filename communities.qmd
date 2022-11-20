@@ -62,7 +62,16 @@ Finally, Twitter is a legit tool for science. It's a good way to learn what you 
 
 [Seaside Chats](https://github.com/Openscapes/seaside-chats#seaside-chats) are a great way to start exploring together.
 
-## Examples in the wild: campus coding clubs
+## Open community examples 
+
+### Government peer-learning groups
+
+- [NMFS Open Sci (NOAA Fisheries)](https://nmfs-opensci.github.io/)
+    - see also <https://openscapes.github.io/series/community-lessons/#nmfs-openscapes>
+- [Interagency Ecological Program](https://interagencyecologicalprogram.github.io/DataScience/)
+- [USGS-R](https://owi.usgs.gov/R/index.html)
+
+### Campus coding clubs
 
 -   [EcoDataScience](http://eco-data-science.github.io/) at UC Santa Barbara
 -   [BioData Club](https://biodata-club.github.io) at OHSU
