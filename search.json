@@ -77,11 +77,11 @@
     "text": "How to get started?\nGoogle your interests/needs. When you Google, include what you want to do PLUS r, rstats; python.\nStart by listening and learning. Be deliberate: curate who you follow.\nLike and share when you’re comfortable.\nThen, contribute – your ideas, your blogs, your papers, your code… Contributors are welcome in open communities! And know too that the R packages ggplot & knitr were created by students (Wickham & Xie) (see McBain 2019).\nFinally, Twitter is a legit tool for science. It’s a good way to learn what you need to learn and broadening your horizons while building community. Some places to start: #rstats, #rstatsES, #rspatial, #pydata, #BlackAndSTEM, #MeTooSTEM\nSeaside Chats are a great way to start exploring together."
   },
   {
-    "objectID": "communities.html#examples-in-the-wild-campus-coding-clubs",
-    "href": "communities.html#examples-in-the-wild-campus-coding-clubs",
+    "objectID": "communities.html#open-community-examples",
+    "href": "communities.html#open-community-examples",
     "title": "Open communities",
-    "section": "Examples in the wild: campus coding clubs",
-    "text": "Examples in the wild: campus coding clubs\n\nEcoDataScience at UC Santa Barbara\nBioData Club at OHSU\nThe Bio-Data Club at Moffitt"
+    "section": "Open community examples",
+    "text": "Open community examples\n\nGovernment peer-learning groups\n\nNMFS Open Sci (NOAA Fisheries)\n\nsee also https://openscapes.github.io/series/community-lessons/#nmfs-openscapes\n\nInteragency Ecological Program\nUSGS-R\n\n\n\nCampus coding clubs\n\nEcoDataScience at UC Santa Barbara\nBioData Club at OHSU\nThe Bio-Data Club at Moffitt"
   },
   {
     "objectID": "additional-lessons/code-of-conduct.html",
