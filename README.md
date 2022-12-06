@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/161954279.svg)](https://zenodo.org/badge/latestdoi/161954279)
+[![](https://img.shields.io/badge/Art%20By-Allison%20Horst-blue)](https://twitter.com/allison_horst)
 
 
 # Openscapes Lesson Series
