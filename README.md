@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/161954279.svg)](https://zenodo.org/badge/latestdoi/161954279)
+
+
 # Openscapes Lesson Series
 Lesson series for the Openscapes Champions program. 
 
