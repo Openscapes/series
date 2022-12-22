@@ -70,7 +70,7 @@ We have led 8+ Champions Cohorts since 2019. Starting in 2021, each Cohort has a
 
 ## Supercharge your research: self-paced learning
 
-All Champions Program resources are designed to also be a self-paced learning resource for teams. Additionally see [Supercharge your research: a ten-week plan for open data science](Supercharge%20your%20research:%20a%20ten-week%20plan%20for%20open%20data%20science) (Lowndes et al. 2019) and accompanying [spreadsheet template](https://docs.google.com/spreadsheets/d/19vAD1QE_mHPH1SV_N61iI3J0MJwyGaHZ_yPRVEzCRb8/edit#gid=0) that you can use to get organized with your team.
+All Champions Program resources are designed to also be a self-paced learning resource for teams. Additionally see [Supercharge your research: a ten-week plan for open data science](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019) and accompanying [spreadsheet template](https://docs.google.com/spreadsheets/d/19vAD1QE_mHPH1SV_N61iI3J0MJwyGaHZ_yPRVEzCRb8/edit#gid=0) that you can use to get organized with your team.
 
 See also other publications and presentations at [openscapes.org/media](https://openscapes.org/media).
 
