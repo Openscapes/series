@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "8db986d3"
+  },
+  "core-lessons/pathways.qmd": {
+    "pathways.html": "50c1f0a2"
+  },
+  "community-lessons/index.qmd": {
+    "index.html": "6f348247"
+  },
+  "core-lessons/index.qmd": {
+    "index.html": "a355d26b"
+  },
+  "team-culture.qmd": {
+    "team-culture.html": "3f5d2e25"
+  },
+  "data-strategies.qmd": {
+    "data-strategies.html": "92acff6e"
+  },
+  "core-lessons/github/index.qmd": {
+    "index.html": "682f6fc9"
+  },
+  "additional-lessons/code-of-conduct.qmd": {
+    "code-of-conduct.html": "4eb84638"
+  }
+}
