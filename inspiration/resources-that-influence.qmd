@@ -30,14 +30,16 @@ Jai: Electricity the cultural adaptation took a long time
 Self-Organising System - Extinction Rebellion
 
 --->
+
 ## Talking about data science: Hilary Parker & Roger Peng
 
 [RStudio::conf(2020) keynote](https://rstudio.com/resources/rstudioconf-2020/not-so-standard-deviations-episode-100/) & [NSSD podcast episode 100]( http://nssdeviations.com/100-live-from-rstudio-conf-2020)
 
 > If you want to write, you read a lot, music, you listen a lot. I'ts hard to do this with data analysis.
 
-## Opinionated data analysis
+## Opinionated analysis development
 
+[Parker 2017, PeerJ](https://peerj.com/preprints/3210/)
 
 ## Principles for data analysis workflows
 Stoudt, Vásquez, Martinez, 
