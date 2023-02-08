@@ -14,7 +14,7 @@ Openscapes GitHub Clinic introduces GitHub with the motivation of collaboration 
 
 **Slides** that have been presented during Champions Program Cohort Calls:
 
--   [**GitHub Clinic**](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit#slide=id.p) **(slides)**
+-   [**GitHub Clinic**](https://docs.google.com/presentation/d/1geUN-dv-NMx6IgeCwMRVmTO8nZaauIl26tZDOrkLW_E/) **(slides)**
 
 **Video recordings**
 

@@ -9,7 +9,7 @@ Better science is less time is science that is more efficient, reproducible, ope
 
 **Slides** that have been presented during Champions Program Cohort Calls:
 
--   [Better science for future us](https://docs.google.com/presentation/d/162tpUZEFkpTUI4K3Yl_mF6HLxsgwO_d7bvF5F4igxfk/edit#slide=id.g162563544b6_0_133)
+-   [Better science for future us](https://docs.google.com/presentation/d/1tE3pQ2ObNU68iG4uTIlMuSN4dguvn-cOvwtoM-c9L-w/)
 -   [Empowering transformational science](https://docs.google.com/presentation/d/1SUMiQg0HhD19H-D6DDzTrFQVzub0kOINwJBG59uQCTw/edit#slide=id.p1) - [Dr. Chelle Gentemann](https://twitter.com/ChelleGentemann)
 
 Here we also introduce the [**Pathways concept**](/core-lessons/pathways.qmd) that teams will develop throughout the Champions program. The Pathway is based on Table 1 in Lowndes et al. 2017, and helps teams deliberately identify data workflow practices and next steps to facilitate efficiency and open culture in terms of reproduciblity, collaboration, communication, and culture.
