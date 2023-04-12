@@ -6,7 +6,7 @@ We discuss team culture because while we know that [diverse teams are more innov
 
 **Slides** that have been presented during Champions Program Cohort Calls: 
 
-- [Team culture](https://docs.google.com/presentation/d/1QlzV7wjP20GoLwpwUmEfBb_y4AuZnJgU_foI564FhXo/edit?usp=sharing)
+- [Team culture](https://docs.google.com/presentation/d/1uuGt-suXbuBFf5gNSnB4muQCakjx7tKqPh9BnyITSTQ/)
 - [Psychological safety](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing), contributed by [Tara Robertson](https://tararobertson.ca/)
 
 See also the following chapter on [Codes of Conduct](additional-lessons/code-of-conduct.qmd).
