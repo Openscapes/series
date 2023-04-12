@@ -64,5 +64,11 @@
   },
   "core-lessons/better-science.qmd": {
     "better-science.html": "489c7656"
+  },
+  "additional-lessons/index.qmd": {
+    "index.html": "38fc9591"
+  },
+  "additional-lessons/documentation.qmd": {
+    "documentation.html": "3e57cfaf"
   }
 }
