@@ -2,7 +2,7 @@
 title: Code of Conduct
 ---
 
-*Please see accompanying [slides](https://docs.google.com/presentation/d/1eydm6NcrR_T2NwoMWYBWM682OW-qr755iYemVWL8cJg/edit?usp=sharing) until this chapter is built out more.*
+*Please see accompanying [slides](https://docs.google.com/presentation/d/11816HbwRCvnr8dFXkk8UqfSy_0O4svEoFFFyHOZ0IBE/) until this chapter is built out more.*
 
 Please also refer to Openscapes' Code of Conduct: <https://openscapes.org/code-of-conduct>
 
