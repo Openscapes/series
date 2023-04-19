@@ -40,7 +40,7 @@ website:
         text: Welcome
       - section: core-lessons/index.qmd
         contents:        
-         - href: "mindset.qmd"
+         - href: "core-lessons/mindset.qmd"
            text: Mindset
          - href: core-lessons/better-science.qmd
            text: Better science
