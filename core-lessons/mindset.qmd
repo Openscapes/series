@@ -1,5 +1,7 @@
 ---
 title: Openscapes Mindset
+aliases: 
+  - mindset.html
 ---
 
 **The Openscapes mindset is about better science for future us**. It is about moving away from lonely and demoralizing individual science, and towards science that is more empowering, efficient, open, collaborative, inclusive and kind. It is the idea that open data science tooling & communities exist that are powerful and empowering, and that we can harness this power broadly to create the culture we want to be a part of.
@@ -7,6 +9,8 @@ title: Openscapes Mindset
 **Slides** that have been presented during Champions Program Cohort Calls:
 
 -   [Openscapes mindset](https://docs.google.com/presentation/d/1fXgrWU5AMrZwgvpjs2J0dRT9x1Tc-IZyQIn8yPZSGM8/)
+
+- [Openscapes Mindset - NASA Champions](https://docs.google.com/presentation/d/1vUA1Af_gqgFdmyWoIuDAv2TfCT5mQmYVjXU0E7Sbxko/edit?usp=sharing)
 
 ## Better science for future us
 
@@ -90,7 +94,7 @@ There are concepts, theory, and tools for thinking about and working with data. 
 
 An alternative title to this section would be "data science is a thing": no matter what your study system or your question, there are discernible steps involved that when you embrace will make you more efficient. These steps are illustrated in this figure from Wickham & Grolemund: you will need to import/get your data into analytical software, wrangle it (tidy and transform), and THEN you can start understanding your data and asking your science questions by making sense of it visually and with models.
 
-![Image from R for Data Science by Wickham & Grolemund](img/r4ds_data-science.png)
+![Image from R for Data Science by Wickham & Grolemund](images/r4ds_data-science.png)
 
 **Tidying your data before asking your science questions is a critical point here**. Don't build your whole analysis around whatever weird format your data may have come in. Data tidying ("data wrangling", "data prep") can take up to 50--80% of a data scientist's time ([Lohr 2014](https://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html), New York Times).
 
