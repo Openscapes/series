@@ -11,13 +11,7 @@ See <https://openscapes.org/champions> for more information.
 ----
 
 
-### Research notice
-Please note that this repository is participating in a study into sustainability
- of open source projects. Data will be gathered about this repository for
- approximately the next 12 months, starting from July 2021.
+### Funding support
 
-Data collected will include number of contributors, number of PRs, time taken to close/merge these PRs, and issues closed.
-
-For more information, please visit
-[this informational page](https://sustainable-open-science-and-software.github.io/) or download the [participant information sheet](https://sustainable-open-science-and-software.github.io/assets/PIS_sustainable_software.pdf).
-
+This work was supported in part by the Better Scientific Software Fellowship Program, funded by the Exascale Computing Project (17-SC-20-SC), a
+collaborative effort of the U.S. Department of Energy (DOE) Office of Science and the National Nuclear Security Administration; and by the National Science Foundation (NSF) under Grant No. 2154495.
