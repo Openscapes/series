@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Openscapes Champions Series - Community Lessons</title>
+<title>Openscapes Champions Series - Refactor &amp; modularize code</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../how-do-i/index.html" rel="next">
-<link href="../additional-lessons/documentation.html" rel="prev">
+<link href="../how-do-i/create-publish-quarto.html" rel="next">
+<link href="../how-do-i/do-fix-git-things.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -74,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../community-lessons/index.html">Community Lessons</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../how-do-i/index.html">How Do I…</a></li><li class="breadcrumb-item"><a href="../how-do-i/refactor-modularize-code.html">Refactor &amp; modularize code</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -218,7 +218,7 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../community-lessons/index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../community-lessons/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Community Lessons</span></a>
   </div>
 </li>
@@ -226,11 +226,11 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../how-do-i/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">How Do I...</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../how-do-i/setup-rstudio-github.html" class="sidebar-item-text sidebar-link">
@@ -245,7 +245,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../how-do-i/refactor-modularize-code.html" class="sidebar-item-text sidebar-link">
+  <a href="../how-do-i/refactor-modularize-code.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Refactor &amp; modularize code</span></a>
   </div>
 </li>
@@ -296,22 +296,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#nasa-openscapes-cloud-tutorials" id="toc-nasa-openscapes-cloud-tutorials" class="nav-link active" data-scroll-target="#nasa-openscapes-cloud-tutorials">NASA Openscapes Cloud Tutorials</a></li>
-  <li><a href="#nmfs-openscapes" id="toc-nmfs-openscapes" class="nav-link" data-scroll-target="#nmfs-openscapes">NMFS Openscapes</a></li>
-  <li><a href="#fay-lab-manual" id="toc-fay-lab-manual" class="nav-link" data-scroll-target="#fay-lab-manual">Fay Lab Manual</a></li>
-  <li><a href="#california-water-board-data-center" id="toc-california-water-board-data-center" class="nav-link" data-scroll-target="#california-water-board-data-center">California Water Board Data Center</a></li>
-  <li><a href="#r-for-excel-users" id="toc-r-for-excel-users" class="nav-link" data-scroll-target="#r-for-excel-users">R for Excel Users</a></li>
-  <li><a href="#allison-horst---open-educational-resources" id="toc-allison-horst---open-educational-resources" class="nav-link" data-scroll-target="#allison-horst---open-educational-resources">Allison Horst - open educational resources</a></li>
-  <li><a href="#tidy-tuesday" id="toc-tidy-tuesday" class="nav-link" data-scroll-target="#tidy-tuesday">Tidy Tuesday</a></li>
+  <li><a href="#code-smells-feels" id="toc-code-smells-feels" class="nav-link active" data-scroll-target="#code-smells-feels">Code Smells &amp; Feels</a></li>
+  <li><a href="#joy-of-functional-programming" id="toc-joy-of-functional-programming" class="nav-link" data-scroll-target="#joy-of-functional-programming">Joy of Functional Programming</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/series/edit/main/community-lessons/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/series/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/series/edit/main/how-do-i/refactor-modularize-code.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/series/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Community Lessons</h1>
+<h1 class="title">Refactor &amp; modularize code</h1>
 </div>
 
 
@@ -326,60 +321,25 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>There are growing resources developed by Openscapes teams!</p>
-<p>This is the beginning of a growing list; please share others to add. You can suggest via GitHub on the right of this page - click “Edit this page” or “Report an Issue”, or share your idea via Twitter (linked below the logo on the left) or email openscapes @ nceas.ucsb.edu.</p>
-<section id="nasa-openscapes-cloud-tutorials" class="level2">
-<h2 class="anchored" data-anchor-id="nasa-openscapes-cloud-tutorials">NASA Openscapes Cloud Tutorials</h2>
-<p>The NASA Earthdata-Openscapes Mentors team and other contributors are creating open educational resources to help researchers migrate workflows to the Cloud - all available for reuse and remix.</p>
-<p><a href="https://nasa-openscapes.github.io/cookbook-navbar-page.html">NASA Openscapes Cloud Tutorials</a></p>
-<p>Check out the 2021-Cloud-Hackathon materials!</p>
-</section>
-<section id="nmfs-openscapes" class="level2">
-<h2 class="anchored" data-anchor-id="nmfs-openscapes">NMFS Openscapes</h2>
-<p>The overarching vision of the NMFS Openscapes is to support scientific researchers within NOAA Fisheries by providing training in reproducible scientific workflows and platforms, facilitating collaboration across divisions in common scientific data science tasks, and providing shared “best practices” resources. Check out the NMFS R UG (R Users Group) for upcoming events and Wiki for links to resources and examples of open science at NOAA Fisheries.</p>
-<p><a href="https://nmfs-opensci.github.io/">NMFS-OpenSci</a> (<a href="https://github.com/nmfs-opensci">github</a>)</p>
-<p><a href="https://nmfs-opensci.github.io/ResourceBook">NMFS-OpenSci Resource Book</a></p>
-<p><a href="https://nmfs-openscapes.github.io">NMFS-Openscapes</a> (<a href="https://github.com/nmfs-openscapes">github</a>)</p>
-<p>Highlighting a few lessons by Eli Holmes and Em Markowitz:</p>
-<ul>
-<li><a href="https://github.com/Openscapes/2021-noaa-nmfs/blob/main/adv-github-clinic/agenda2.md">Advanced GitHub Clinic</a></li>
-<li><a href="https://github.com/nmfs-openscapes/GoogleDrive1#overview">googledrive R package</a></li>
-<li><a href="https://rverse-tutorials.github.io/">RVerse Tutorials</a>, particularly <a href="https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/">Practical R+Git Workflow for Scientists May-July 2022</a> by Eli Holmes
-<ul>
-<li>RVerse Tutorials is a collection of teaching materials on R and R Workflow by the Mathematical Biology Program and the Northwest Fisheries Science Center.</li>
-</ul></li>
-</ul>
-</section>
-<section id="fay-lab-manual" class="level2">
-<h2 class="anchored" data-anchor-id="fay-lab-manual">Fay Lab Manual</h2>
-<p>This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.</p>
-<p><a href="https://thefaylab.github.io/lab-manual/" class="uri">https://thefaylab.github.io/lab-manual/</a></p>
-<p>Check out how they’ve organized this onboarding document that prospective students and postdocs have said stood out to them. Consider reusing/remixing for your own group!</p>
-<p><a href="https://docs.google.com/presentation/d/1c624mH3md8pQHiP6rJ7HPuhxDLgNB7xvONDZlUM3f64/edit#slide=id.gb6050dd30d_0_0">Slides from Gavin Fay’s 2022 talk at NOAA Alaska Fisheries Science Center</a></p>
-</section>
-<section id="california-water-board-data-center" class="level2">
-<h2 class="anchored" data-anchor-id="california-water-board-data-center">California Water Board Data Center</h2>
-<p><a href="https://github.com/CAWaterBoardDataCenter" class="uri">https://github.com/CAWaterBoardDataCenter</a></p>
-</section>
-<section id="r-for-excel-users" class="level2">
-<h2 class="anchored" data-anchor-id="r-for-excel-users">R for Excel Users</h2>
-<p>This course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration &amp; reproducibility.</p>
-<p><a href="https://rstudio-conf-2020.github.io/r-for-excel/" class="uri">https://rstudio-conf-2020.github.io/r-for-excel/</a></p>
-<p>Check out the resources throughout as well - it’s not only for Excel users, it’s for everyone.</p>
-</section>
-<section id="allison-horst---open-educational-resources" class="level2">
-<h2 class="anchored" data-anchor-id="allison-horst---open-educational-resources">Allison Horst - open educational resources</h2>
-<p>Allison Horst shares many open educational resources, including workshops and slides, at <a href="https://www.allisonhorst.com/" class="uri">https://www.allisonhorst.com/</a>:</p>
+<p>Shifting to collaborative and portable code often means rewriting code, not to change what it does, but how it does it. This is often called “refactoring”, “modularlizing” or “mapping”.</p>
+<p>Refactoring can include better commenting and documentation and removing hard-coded filepaths. It can also mean moving away from long for-loops and towards smaller functions that are called to repeat operations. Refactoring makes your code more portable between people and computers. It can also make it faster, if you refactor so that pipelines can be run in parallel rather than sequentially.</p>
+<section id="code-smells-feels" class="level2">
+<h2 class="anchored" data-anchor-id="code-smells-feels">Code Smells &amp; Feels</h2>
+<p>Jenny Bryan’s 2018 UseR! Keynote “Code Smells &amp; Feels”</p>
+<p><a href="https://speakerdeck.com/jennybc/code-smells-and-feels">slides</a> and <a href="https://www.youtube.com/watch?v=7oyiPBjLAWY&amp;t=4s">video</a>.</p>
+<p>Abstract:</p>
 <blockquote class="blockquote">
-<p>“I actively work to contribute to open educational resources, including software for data science education (e.g.&nbsp;the <a href="https://allisonhorst.github.io/palmerpenguins/">palmerpenguins</a> R dataset package), and artwork for data science &amp; stats teachers and learners. From 2019 - 2020 I was RStudio’s first Artist-in-Residence. You can read more about my motivation in that role in <a href="https://www.rstudio.com/blog/artist-in-residence/">this blog post</a>, and you can find some of my R- and stats-related artwork <a href="https://github.com/allisonhorst/stats-illustrations">in this repo</a>.”</p>
+<p>“Code smell” is an evocative term for that vague feeling of unease we get when reading certain bits of code. It’s not necessarily wrong, but neither is it obviously correct. We may be reluctant to work on such code, because past experience suggests it’s going to be fiddly and bug-prone. In contrast, there’s another type of code that just feels good to read and work on. What’s the difference? If we can be more precise about code smells and feels, we can be intentional about writing code that is easier and more pleasant to work on. I’ve been fortunate to spend the last couple years embedded in a group of developers working on the tidyverse and r-lib packages. Based on this experience, I’ll talk about specific code smells and deodorizing strategies for R.</p>
 </blockquote>
-<p>Allison teaches environmental data science at UCSB (see her courses at <a href="https://ucsb-meds.github.io/" class="uri">https://ucsb-meds.github.io/</a>).</p>
 </section>
-<section id="tidy-tuesday" class="level2">
-<h2 class="anchored" data-anchor-id="tidy-tuesday">Tidy Tuesday</h2>
-<p>https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/</p>
-<p>From Nyssa:</p>
-<p>For our group we had 2 hour sessions (1 hour is a bit too short for more novices and 2 hours gives the more advanced students time to try really new cool things). And we have a facilitator (usually me) that just checks in with the crew every few minutes and helps when students get stuck. But, it is very informal in that everyone just shows up and codes and chats. I have done this both in a conference room and at a bar. I also usually have people put some of their works in progress or final plots on the screen to show everyone else and share their “coding wins” or ask for help from the audience. And, yes, we use the Tidy Tuesday data because then they can also share their plots and code on twitter with the community and see the awesome creativity of the broader R community as well.</p>
+<section id="joy-of-functional-programming" class="level2">
+<h2 class="anchored" data-anchor-id="joy-of-functional-programming">Joy of Functional Programming</h2>
+<p>Hadley Wickham’s 2019 ACM talk “Joy of Functional Programming for Data Science”</p>
+<p><a href="https://speakerdeck.com/hadley/the-joy-of-functional-programming">slides</a> and <a href="https://www.youtube.com/watch?v=bzUmK0Y07ck">video</a></p>
+<p>Abstract:</p>
+<blockquote class="blockquote">
+<p>Functional programming (FP) provides a rich set of tools for reducing duplication in your code. The goal of FP is to make it easy to express repeated actions using high-level verbs. I think that learning a little about FP is really important for data scientists, because it’s a really good fit for many problems that you’ll encounter in practice. In this talk, I’ll introduce you to the basics of functional programming in R, using the purrr package. I’ll begin by briefly dissecting the for loop that you’re already familiar with, then continue to show why functional programming provides elegant alternatives. I’ll next dive into two examples showing where FP is particularly useful in data science: when ingesting unruly datasets spread across multiple files, and producing multiple reports for different stakeholders. You’ll get the most out of this talk if you’re familiar with R, or you’ve done data science in other languages like Python.</p>
+</blockquote>
 
 
 </section>
@@ -735,13 +695,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../additional-lessons/documentation.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Documentation</span>
+      <a href="../how-do-i/do-fix-git-things.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Do &amp; fix git things</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../how-do-i/index.html" class="pagination-link">
-        <span class="nav-page-text">How Do I…</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../how-do-i/create-publish-quarto.html" class="pagination-link">
+        <span class="nav-page-text">Create &amp; Publish with Quarto</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
