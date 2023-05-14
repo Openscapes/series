@@ -73,12 +73,14 @@ website:
            text: Setup RStudio & GitHub
          - href: "how-do-i/do-fix-git-things.qmd"    
            text: Do & fix git things            
-         - href: "how-do-i/reuse-openscapes-approach.qmd"   
-           text: Reuse Openscapes Approach           
-         - href: "how-do-i/create-publish-quarto.qmd" 
+         - href: "how-do-i/refactor-modularize-code.qmd" 
+           text: Refactor & modularize code           
+         - href: "how-do-i/create-publish-quarto.qmd"  
            text: Create & Publish with Quarto           
          - href: "how-do-i/ask-questions.qmd" 
            text: Ask questions
+         - href: "how-do-i/reuse-openscapes-approach.qmd"           
+           text: Reuse Openscapes Approach                   
       - section: "Inspiration"
         contents:
          - href: "inspiration/resources-that-influence.qmd"

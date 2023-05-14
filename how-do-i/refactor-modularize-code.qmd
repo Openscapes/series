@@ -1,0 +1,29 @@
+---
+title: "Refactor & modularize code"
+---
+
+Shifting to collaborative and portable code often means rewriting code, not to change what it does, but how it does it. This is often called "refactoring", "modularlizing" or "mapping". 
+
+Refactoring can include better commenting and documentation and removing hard-coded filepaths. It can also mean moving away from long for-loops and towards smaller functions that are called to repeat operations. Refactoring makes your code more portable between people and computers. It can also make it faster, if you refactor so that pipelines can be run in parallel rather than sequentially.
+
+## Code Smells & Feels
+
+Jenny Bryan's 2018 UseR! Keynote "Code Smells & Feels"
+
+[slides](https://speakerdeck.com/jennybc/code-smells-and-feels) and [video](https://www.youtube.com/watch?v=7oyiPBjLAWY&t=4s). 
+
+Abstract: 
+
+> "Code smell" is an evocative term for that vague feeling of unease we get when reading certain bits of code. It's not necessarily wrong, but neither is it obviously correct. We may be reluctant to work on such code, because past experience suggests it's going to be fiddly and bug-prone. In contrast, there's another type of code that just feels good to read and work on. What's the difference? If we can be more precise about code smells and feels, we can be intentional about writing code that is easier and more pleasant to work on. I've been fortunate to spend the last couple years embedded in a group of developers working on the tidyverse and r-lib packages. Based on this experience, I'll talk about specific code smells and deodorizing strategies for R.
+
+## Joy of Functional Programming 
+
+Hadley Wickham's 2019 ACM talk "Joy of Functional Programming for Data Science"
+
+[slides](https://speakerdeck.com/hadley/the-joy-of-functional-programming) and [video](https://www.youtube.com/watch?v=bzUmK0Y07ck)
+
+Abstract: 
+
+> Functional programming (FP) provides a rich set of tools for reducing duplication in your code. The goal of FP is to make it easy to express repeated actions using high-level verbs. I think that learning a little about FP is really important for data scientists, because it's a really good fit for many problems that you'll encounter in practice.
+In this talk, I'll introduce you to the basics of functional programming in R, using the purrr package. I'll begin by briefly dissecting the for loop that you're already familiar with, then continue to show why functional programming provides elegant alternatives. I'll next dive into two examples showing where FP is particularly useful in data science: when ingesting unruly datasets spread across multiple files, and producing multiple reports for different stakeholders.
+You'll get the most out of this talk if you're familiar with R, or you've done data science in other languages like Python.
