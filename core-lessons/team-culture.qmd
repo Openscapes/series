@@ -1,5 +1,7 @@
 ---
 title: Team culture
+aliases:
+  - team-culture.html
 ---
 
 We discuss team culture because while we know that [diverse teams are more innovative](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/), creating spaces where everyone can do their best work and feel safe to contribute takes intention; it does not happen by default. There is a lot of work to do to improve research culture, and we can lead by example in our own research groups and communities.
