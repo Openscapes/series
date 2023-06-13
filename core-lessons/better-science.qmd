@@ -2,7 +2,7 @@
 title: "Better science in less time"
 aliases:
   - bsilt.html
-  - /better-science.html    
+  - ../better-science.html    
 ---
 
 Better science is less time is science that is more efficient, reproducible, open, inclusive, and kind. There are growing examples of better science in less time in environmental and Earth science, and beyond, including [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) (Lowndes et al. 2017).
