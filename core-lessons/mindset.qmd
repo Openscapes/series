@@ -1,7 +1,7 @@
 ---
 title: Openscapes Mindset
 aliases: 
-  - mindset.html
+  - ../mindset.html
 ---
 
 **The Openscapes mindset is about better science for future us**. It is about moving away from lonely and demoralizing individual science, and towards science that is more empowering, efficient, open, collaborative, inclusive and kind. It is the idea that open data science tooling & communities exist that are powerful and empowering, and that we can harness this power broadly to create the culture we want to be a part of.
