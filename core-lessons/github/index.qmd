@@ -12,17 +12,21 @@ GitHub is a powerful tool for collaborative coding with version control, but her
 
 Openscapes GitHub Clinic introduces GitHub with the motivation of collaboration and open science. It is designed for both new and seasoned learners, focused on how develop workflows with diverse teams.
 
-**Slides** that have been presented during Champions Program Cohort Calls:
+::: {.callout-warning icon="false"}
+## Slides
 
--   [**GitHub Clinic**](https://docs.google.com/presentation/d/1geUN-dv-NMx6IgeCwMRVmTO8nZaauIl26tZDOrkLW_E/) **(slides)**
+[GitHub Clinic](https://docs.google.com/presentation/d/1geUN-dv-NMx6IgeCwMRVmTO8nZaauIl26tZDOrkLW_E/)
+:::
 
-**Video recordings**
+::: {.callout-warning icon="false"}
+## Video recordings
 
--   [**Part 1: Publishing**](https://youtu.be/anrZwE3pIwQ) **(video)**, recorded as 19 minutes of lesson, cut for participants hands-on in breakout rooms, and 5 minutes of followup lesson.
+[Part 1: Publishing](https://youtu.be/anrZwE3pIwQ), recorded as 19 minutes of lesson, cut for participants hands-on in breakout rooms, and 5 minutes of followup lesson.
 
--   [**Part 2: Project Management**](https://youtu.be/dDRDma-5_ww) **(video)**, recorded as 9 minutes of lesson, cut for participants hands-on in breakout rooms, and 5 minutes of followup lesson.
+[Part 2: Project Management](https://youtu.be/dDRDma-5_ww), recorded as 9 minutes of lesson, cut for participants hands-on in breakout rooms, and 5 minutes of followup lesson.
 
--   [**Part 3: 2i2c JupyterHub**](https://youtu.be/Lum7irkP6k8) **(video)** introduces a beginning GitHub workflow from our 2i2c JupyterHub (part of [NASA-Openscapes](https://nasa-openscapes.github.io)). It is recorded as 9 minutes of lesson.
+[Part 3: 2i2c JupyterHub](https://youtu.be/Lum7irkP6k8), introduces a beginning GitHub workflow from our 2i2c JupyterHub (part of [NASA-Openscapes](https://nasa-openscapes.github.io)). It is recorded as 9 minutes of lesson.
+:::
 
 ## GitHub for supporting, reusing, contributing, and failing safely
 

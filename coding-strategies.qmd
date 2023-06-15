@@ -4,12 +4,20 @@ title: Coding strategies for future us
 
 Coding strategies can blend with workflow strategies, and the idea is working in a way that is not just for you in this moment. Here we will discuss good coding practices for beginning and seasoned coders alike that make it easier to work with other people, times, and computers. 
 
-**Slides** that have been presented during Champions Program Cohort Calls (with guest teachers indicated): 
+::: {.callout-warning icon="false"}
+## Slides
 
-- [Coding strategies for future us](https://docs.google.com/presentation/d/1krzD4lt0k7Zu-_lfIFSubABXMLBvTpmg3Ab2GrdbnpU/)
-  - See previous iterations: [Filepaths](https://docs.google.com/presentation/d/1HbxQ9Lg-ySEhmvH01PnMX0BDuquQezru73GI3PV-Ibo/edit?usp=sharing) and [Project-oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing)
-- [Expanding ouR community!](https://docs.google.com/presentation/d/1a620vM5OkOgcUi0I-mQPV5ZTQglRfwSnAb6O41g8tv0/edit#slide=id.p1), contributed by [Dr. Chanté Davis](https://twitter.com/DrFintastic)
-- [State of the Ecosystem Product Development Workflow](https://noaa-edab.github.io/presentations/20211015_Openscapes_Bastille.html), contributed by Kim Bastille
+[Coding strategies for future us](https://docs.google.com/presentation/d/1krzD4lt0k7Zu-_lfIFSubABXMLBvTpmg3Ab2GrdbnpU/)
+:::
+
+::: {.callout-warning icon="false" collapse="true"}
+## Additional slides
+Previous iterations of Coding strategies for future us: [Filepaths](https://docs.google.com/presentation/d/1HbxQ9Lg-ySEhmvH01PnMX0BDuquQezru73GI3PV-Ibo/edit?usp=sharing) and [Project-oriented workflows](https://docs.google.com/presentation/d/1hiSjMjTFhdDO5lLCM4uiU3D8nLFPt8eOEdDPVoaG5UQ/edit?usp=sharing)
+
+[Expanding ouR community!](https://docs.google.com/presentation/d/1a620vM5OkOgcUi0I-mQPV5ZTQglRfwSnAb6O41g8tv0/edit#slide=id.p1), contributed by [Dr. Chanté Davis](https://twitter.com/DrFintastic)
+
+[State of the Ecosystem Product Development Workflow](https://noaa-edab.github.io/presentations/20211015_Openscapes_Bastille.html), contributed by Kim Bastille
+:::
 
 ---
 

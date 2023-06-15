@@ -6,11 +6,13 @@ aliases:
 
 **The Openscapes mindset is about better science for future us**. It is about moving away from lonely and demoralizing individual science, and towards science that is more empowering, efficient, open, collaborative, inclusive and kind. It is the idea that open data science tooling & communities exist that are powerful and empowering, and that we can harness this power broadly to create the culture we want to be a part of.
 
-**Slides** that have been presented during Champions Program Cohort Calls:
+::: {.callout-warning icon="false"}
+## Slides
 
--   [Openscapes mindset](https://docs.google.com/presentation/d/1fXgrWU5AMrZwgvpjs2J0dRT9x1Tc-IZyQIn8yPZSGM8/)
+[Openscapes mindset](https://docs.google.com/presentation/d/1fXgrWU5AMrZwgvpjs2J0dRT9x1Tc-IZyQIn8yPZSGM8/)
 
-- [Openscapes Mindset - NASA Champions](https://docs.google.com/presentation/d/1vUA1Af_gqgFdmyWoIuDAv2TfCT5mQmYVjXU0E7Sbxko/edit?usp=sharing)
+[Openscapes Mindset - NASA Champions](https://docs.google.com/presentation/d/1vUA1Af_gqgFdmyWoIuDAv2TfCT5mQmYVjXU0E7Sbxko/edit?usp=sharing)
+:::
 
 ## Better science for future us
 
