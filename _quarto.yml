@@ -48,7 +48,7 @@ website:
            contents:
             - core-lessons/github/github-pub.qmd
             - core-lessons/github/github-issues.qmd
-         - href: "team-culture.qmd"
+         - href: "core-lessons/team-culture.qmd"
            text: Team culture
          - href: "data-strategies.qmd"
            text: Data stategies

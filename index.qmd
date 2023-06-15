@@ -33,7 +33,7 @@ Cohort Calls are designed to be engaging, requiring discussion and active partic
 |--------------------|------------------------|-----------------------------|
 | 1\. Openscapes mindset, better science in less time      | [mindset](core-lessons/mindset.qmd), [better science in less time](core-lessons/better-science.qmd)                                     | Pathway - where are you now      |
 | 2\. GitHub Clinic: publishing & project management       | [publishing](core-lessons/github/github-pub.qmd), [project management](core-lessons/github/github-issues.qmd) | Shared organizing with GitHub    |
-| 3\. Team culture and data strategies for future us       | [team culture](team-culture.qmd), [data strategies](data-strategies.qmd)                                      | Onboarding docs, code of conduct |
+| 3\. Team culture and data strategies for future us       | [team culture](core-lessons/team-culture.qmd), [data strategies](data-strategies.qmd)                                      | Onboarding docs, code of conduct |
 | 4\. Open communities and coding strategies for future us | [open communities](communities.qmd), [coding strategies](coding-strategies.qmd)                               | Pathway - next steps             |
 | 5\. Pathways share and next steps                        |                                                                                                               |                                  |
 
