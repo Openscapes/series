@@ -6,8 +6,10 @@ Work culture exists whether or not you talk about it or write it down.
 
 Corey Clatterbuck and Anna Holder, co-leads of Openscapes Champions Cohorts at the California Water Boards / CalEPA created this lesson on Documentation. Corey brought a new perspective to documentation starting with "why document and what to document" and Anna Holder introduced thinking about your Pathway.
 
-**Slides** that have been presented during Champions Program Cohort Calls:
+::: {.callout-warning icon="false"}
+## Slides 
 
--   [Documentation & the Pathway](https://docs.google.com/presentation/d/1vuZVu7YXyKAgCAM65hjdalvUyimIqnL94BDDsoM-uxI/)
+[Documentation & the Pathway](https://docs.google.com/presentation/d/1vuZVu7YXyKAgCAM65hjdalvUyimIqnL94BDDsoM-uxI/)
+:::
 
 [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) is the home for the California Water Boards "fork" of the Openscapes Champions Program.
