@@ -32,7 +32,7 @@ Here are some examples of communities. Read more & direct links: <https://rstudi
 
 <center>
 
-<img src="img/rstats-communities.png" width="600px"/></a>
+<img src="core-lessons/images/rstats-communities.png" width="600px"/></a>
 
 <figcaption>
 
