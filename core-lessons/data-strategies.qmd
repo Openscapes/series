@@ -1,5 +1,7 @@
 ---
 title: Data strategies for future us
+aliases: 
+  - ../data-strategies.html
 ---
 
 Data strategies are part of a shared workflow strategy: How do we structure data, where do we store and back up data, how do we create metadata, and the mantra of "keep the raw data raw" and distinct from your analysis. Here we will discuss personal and team habits for data management and sharing: data strategies for future us.

@@ -50,11 +50,11 @@ website:
             - core-lessons/github/github-issues.qmd
          - href: "core-lessons/team-culture.qmd"
            text: Team culture
-         - href: "data-strategies.qmd"
+         - href: "core-lessons/data-strategies.qmd"
            text: Data stategies
-         - href: "coding-strategies.qmd"
+         - href: "core-lessons/coding-strategies.qmd"
            text: Coding strategies
-         - href: "communities.qmd"
+         - href: "core-lessons/communities.qmd"
            text: Open communities
          - href: "core-lessons/pathways.qmd"
            text: Pathways
