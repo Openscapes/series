@@ -1,5 +1,7 @@
 ---
 title: Code of Conduct
+aliases: 
+  - ../additional-lessons/code-of-conduct.html
 ---
 
 *Please see accompanying [slides](https://docs.google.com/presentation/d/11816HbwRCvnr8dFXkk8UqfSy_0O4svEoFFFyHOZ0IBE/) until this chapter is built out more.*
