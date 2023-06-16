@@ -18,7 +18,7 @@ These slides were contributed by guest instructors.
 [Psychological safety](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing), contributed by [Tara Robertson](https://tararobertson.ca/)
 :::
 
-See also the chapter on [Codes of Conduct](code-of-conduct.qmd).
+See also the chapter on [Codes of Conduct](../additional-lessons/code-of-conduct.qmd).
 
 
 <!---https://twitter.com/Napaaqtuk/status/1528790732718452738 --->
