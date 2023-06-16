@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "data-strategies.html",
-    "href": "data-strategies.html",
-    "title": "Data strategies for future us",
-    "section": "",
-    "text": "Data strategies are part of a shared workflow strategy: How do we structure data, where do we store and back up data, how do we create metadata, and the mantra of “keep the raw data raw” and distinct from your analysis. Here we will discuss personal and team habits for data management and sharing: data strategies for future us."
-  },
-  {
-    "objectID": "data-strategies.html#data-organization-in-spreadsheets",
-    "href": "data-strategies.html#data-organization-in-spreadsheets",
-    "title": "Data strategies for future us",
-    "section": "Data organization in spreadsheets",
-    "text": "Data organization in spreadsheets\nThis publication by Broman & Woo, 2018 appears in the “Practical Data Science for Stats” collection in PeerJ & American Statistician.\nIt is a delightful read, from the first opening sentences:\n\n“Spreadsheets, for all of their mundane rectangularness, have been the subject of angst and controversy for decades…. Amid this debate, spreadsheets have continued to play a significant role in researchers’ workflows. The dangers of spreadsheets are real, however – so much so that the European Spreadsheet Risks Interest Group keeps a public archive of spreadsheet ‘horror stories’…”\n\nBroman & Woo share practical tips to make spreadsheets less error-prone, easier for computers to process, and easier to share. And something incredibly cool, it’s the 3rd most downloaded stats paper in the American Statistician, behind 2 papers about p-values (twitter thread).\nRead their paper for strategies behind their basic principles:\n\nBe consistent\nWrite dates like YYYY-MM-DD\nDon’t leave any cells empty\nPut just one thing in a cell\nOrganize data as a rectangle (“Tidy data”)\nCreate a data dictionary\nDon’t include calculations in the raw data files\nDon’t use font color or highlighting as data\nChoose good names for things\nMake backups\nUse data validation to avoid data entry errors\nSave the data in plain text files"
-  },
-  {
-    "objectID": "data-strategies.html#good-enough-practices-in-scientific-computing.",
-    "href": "data-strategies.html#good-enough-practices-in-scientific-computing.",
-    "title": "Data strategies for future us",
-    "section": "Good enough practices in scientific computing.",
-    "text": "Good enough practices in scientific computing.\nThis publication by Wilson et al. 2017 in PLoS Computational Biology follows a previous publication by Wilson et al. 2014: Best practices for scientific computing.\nIn terms of data management recommendataion, they have 2 main themes:\n\nwork towards ready-to-analyze data incrementally, documenting both the intermediate data and the process\nembrace the idea of “tidy data”, which can be a powerful accelerator for analysis\n\nRead their paper for strategies behind their basic principles (Box 1):\n\nSave the raw data.\nEnsure that raw data are backed up in more than one location.\nCreate the data you wish to see in the world.\nCreate analysis-friendly data.\nRecord all the steps used to process data.\nAnticipate the need to use multiple tables, & use a unique identifier for every record.\nSubmit data to a reputable DOI-issuing repository so that others can access & cite.\n\nThe publication also covers:\n\nSoftware: write, organize, and share scripts and programs used in an analysis.\nCollaboration: make it easy for existing and new collaborators to understand & contribute to a project.\nProject organization: organize the digital artifacts of a project to ease discovery & understanding.\nTracking changes: record how various components of your project change over time.\nManuscripts: write manuscripts in a way that leaves an audit trail & minimizes manual merging of conflicts."
-  },
-  {
-    "objectID": "data-strategies.html#tidy-data-for-efficiency-reproducibility-collaboration",
-    "href": "data-strategies.html#tidy-data-for-efficiency-reproducibility-collaboration",
-    "title": "Data strategies for future us",
-    "section": "Tidy data for efficiency, reproducibility, & collaboration",
-    "text": "Tidy data for efficiency, reproducibility, & collaboration\nBy Lowndes & Horst 2020, posted on the Openscapes blog: an illustrated series to tell a story about tidy data.\nTidy data has been mentioned in each of the above, as a way to organize data in spreadsheets, to prepare ready-to-analyze data, and for sharing with the FAIR principles.\nSo what is tidy data?\nFirst, a preamble:\n\nRaw data may not be stored in a tidy way\n“Wrangling” data into tidy structure should be done programmatically as part of the analytical process - keep the raw data raw\nTidy data is a philosophy\nThere are existing tools to help\n\nRemember that “tidying data (”data wrangling”) – up to 50–80% of a data scientist’s time” Lohr 2014, New York Times, so it’s important to leverage these existing philosophies and tools.\nWhen we talk about organizing data to help us work in an efficient, reproducible, and collaborative way, we are talking about TIDY DATA. We mean deliberately thinking about the shape and structure of data – something that might not seem super exciting but is truly game-changing.\nSo let’s talk about what tidy data is and why it is so empowering for your analytical life.\n\nWhat is tidy data?\nTidy data is a way to describe data that’s organized with a particular structure – a rectangular structure, where each variable has its own column, and each observation has its own row (Wickham 2014).\n\n\n\n\nThis standard structure of tidy data led Hadley Wickham to describe it the way Leo Tolstoy describes families. Leo says “Happy families are all alike; every unhappy family is unhappy in its own way”. Similarly, Hadley says “tidy datasets are all alike, but every messy dataset is messy in its own way”.\n\n\n\n\n\n\nTidy data for more efficient data science\nTidy data allows you to be more efficient by using existing tools deliberately built to do the things you need to do, from subsetting portions of your data to plotting maps of your study area. Using existing tools saves you from building from scratch each time you work with a new dataset (which can be time-consuming and demoralizing). And luckily, there are a lot of tools specifically built to wrangle untidy data into tidy data (for example, in the tidyr package). By being more equipped to wrangle your data into a tidy format, you can get to your analyses faster to start answering the questions you’re asking.\n\n\n\n\n\n\nTidy data for easier collaboration\nTidy data makes it easier to collaborate because our friends can use the same tools in a familiar way. Whether thinking about collaborators as current teammates, your future self, or future teammates, organizing and sharing data in a consistent and predictable way means less adjustment, time, and effort for all.\n\n\n\n\n\n\nTidy data for reproducibility and reuse\nTidy data also makes it easier to reproduce analyses because they are easier to understand, update, and reuse. By using tools together that all expect tidy data as inputs, you can build and iterate really powerful workflows. And, when you have additional data entries, it’s no problem to re-run your code!\n\n\n\n\n\n\nTidy data for the win!\nOnce you are empowered with tools to work with tidy data generally, it opens up a whole new world of datasets that feel more approachable because you can work using familiar tools. This transferrable confidence and ability to collaborate might be the best thing about tidy data.\n\n\n\n\nSo for more efficient, reproducible, and collaborative analyses, make friends with tidy data!"
-  },
-  {
-    "objectID": "data-strategies.html#learning-resources",
-    "href": "data-strategies.html#learning-resources",
-    "title": "Data strategies for future us",
-    "section": "Learning Resources",
-    "text": "Learning Resources\n\nGrolemund, G & Wickham, H (2016). R for Data Science: https://r4ds.had.co.nz\n\nSee Ch 12: Tidy Data\n\nWickham, H (2014). Tidy Data. Journal of Statistical Software 58 (10). jstatsoft.org/v59/i10/\nBroman, KW and KH Woo (2018). Data Organization in Spreadsheets. The American Statistician 72 (1). Available open access as a PeerJ preprint.\nLeek, J (2016). How to share data with a statistician"
-  },
-  {
     "objectID": "community-lessons/index.html",
     "href": "community-lessons/index.html",
     "title": "Community Lessons",
@@ -217,55 +182,6 @@
     "text": "https://larahogan.me/sponsors/"
   },
   {
-    "objectID": "coding-strategies.html",
-    "href": "coding-strategies.html",
-    "title": "Coding strategies for future us",
-    "section": "",
-    "text": "Coding strategies can blend with workflow strategies, and the idea is working in a way that is not just for you in this moment. Here we will discuss good coding practices for beginning and seasoned coders alike that make it easier to work with other people, times, and computers."
-  },
-  {
-    "objectID": "coding-strategies.html#software-considerations-for-coding",
-    "href": "coding-strategies.html#software-considerations-for-coding",
-    "title": "Coding strategies for future us",
-    "section": "Software considerations for coding",
-    "text": "Software considerations for coding\nThe following advice is from Tiffany Timbers, UBC Data Science, Intro to Reticulate:\nYou will need these software tools:\n\nProgramming language (R, python)\nCode editor (RStudio IDE, Jupyter)\nVersion control software (git, GitHub/bitbucket)\n\nHow to choose the “best” tool for the job:\n\nReproducible and auditable\nAccurate\nCollaborative (and portable)\n\nIf you’re choosing between R, Python, and other modern languages, they will aready be reproducible, auditable, and accurate. That leaves collaboration – what do your collaborators use? What do folks in your lab, or field use? What is mentioned in the papers you read? There is increasing interoperability between languages (e.g. see reticulate to run python code from R) so when you have some idea it’s best to get started!\nSee also: Opinionated analysis development (Parker 2017). Tools like RStudio are already doing this to help you. Reserve your mental energy for the fun part of the analysis!"
-  },
-  {
-    "objectID": "coding-strategies.html#wtf-what-they-forgot-to-teach-you",
-    "href": "coding-strategies.html#wtf-what-they-forgot-to-teach-you",
-    "title": "Coding strategies for future us",
-    "section": "WTF: What They Forgot to teach you",
-    "text": "WTF: What They Forgot to teach you\nMost of this advice comes directly from Jenny Bryan & Jim Hester’s awesome course What they Forgot to Teach You About R. I highly recommend reading Chapters 1-4 that go into much better detail than the notes here. The advice here is solid coding practices for any language, with examples from R.\n\nWorkflow versus product\nDistinction between things you do because of personal taste & habits (“workflow”) versus the logic and output that is the essence of your project (“product”).\nWorkflow:\n\nEditor you use to write code.\nName of your home directory.\nR code you ran before lunch.\n\nClearly product: - Raw data. - R code someone needs to run on your raw data to get your results, including the explicit library() calls to load necessary packages. (script, notebook)\nIdeally, you don’t hardwire anything about your workflow into your product."
-  },
-  {
-    "objectID": "coding-strategies.html#source-files",
-    "href": "coding-strategies.html#source-files",
-    "title": "Coding strategies for future us",
-    "section": "Source files",
-    "text": "Source files\nWhat are they and why?\nCode that creates objects is “source code”. Source code is essentially text files you edit in a text editor that is then executed in the console.\nExamples:\n\n.R, .Rmd\n.py\n.m\n\n\nSave the source, not the workspace\nSave the source code; do not save the R object itself.\nSave your commands as “scripts” (.R, .py) or “notebooks” (.Rmd, ipynb). It doesn’t have to be polished. Just save it!\nEverything that really matters should be achieved through code that you save – including objects and figures The contrast is storing them implicitly or explicitly, as part of an entire workspace, or clicking via the mouse.\nLoad libraries/packages at the top. Just like a recipe: tell us the ingredients need before we get going!\n\n\nAlways start R with a blank slate\nSaving code is an absolute requirement for reproducibility.\nWhen you quit, do not save the workspace to an .Rdata file. When you launch, do not reload the workspace from an .Rdata file.\nIn RStudio, set this via Tools &gt; Global Options.\n\n\nRestart R often during development\n\n“Have you tried turning it off and then on again?” – timeless troubleshooting wisdom, applies to everything\n\nIf you use RStudio, use the menu item Session &gt; Restart R\nAdditional ways to restart development where you left off, i.e. “re-run all the code up to HERE”\n\n\nAvoid rm(list = ls())\nIt’s common to see scripts begin with this object-nuking command: rm(list = ls())\nThis is highly suggestive of a non-reproducible workflow.\nThe problem with rm(list = ls()) is that, given the intent, it does not go far enough.\nIt only deletes user-created objects from the global workspace.\nInstead, Restart R with a clean slate OFTEN (e.g. many times/day), and write every script assuming it will be run in a fresh R process"
-  },
-  {
-    "objectID": "coding-strategies.html#filepaths",
-    "href": "coding-strategies.html#filepaths",
-    "title": "Coding strategies for future us",
-    "section": "Filepaths",
-    "text": "Filepaths\nEvery saved thing gets a unique path.\nYour code needs to run from somewhere specific. And when it interacts with other things (data or other code), you need to tell your code where things are.\nThe more deliberate you are about where things live,\n\nThe easier it will be for you and future you\nThe easier it will be for other people\nThe easier it will be on another computer\n\n\nsetwd(“path/that/only/works/on/my/machine”)\nThe chance of setwd() having the desired effect – making the file paths work – for anyone besides its author is 0%.\nIt’s also unlikely to work for the author one or two years or computers from now.\nHard-wired, absolute paths, especially when sprinkled throughout the code, make a project brittle. Such code does not travel well across time or space.\n\n\nsetwd()\nBUT, if you still decide to use setwd() in your scripts, you should at least be very disciplined about it:\nOnly use setwd() at the very start of a file, i.e. in an obvious and predictable place.\nAlways set working directory to the same thing, namely to the top-level of the project. Always build subsequent paths relative to that.\n\n\nR users: use the here package\nhere() identifies your project’s files, based on the current working directory at the time when the package is loaded.\nlibrary(here)\nhere()"
-  },
-  {
-    "objectID": "coding-strategies.html#project-oriented-workflows",
-    "href": "coding-strategies.html#project-oriented-workflows",
-    "title": "Coding strategies for future us",
-    "section": "Project oriented workflows",
-    "text": "Project oriented workflows\n\nDilemma and Solution\nProblem statement:\nWe want to work on project A with the working directory set to path/to/projectA (my data analysis) and on project B with the working directory set to path/to/projectB (my teaching material).\nBut we also want to keep code like setwd(“path/to/projectA”) out of our scripts.\nSolution:\nSolution: use an IDE that supports a project-based workflow.\nAn integrated development environment (IDE) offers:\n\na powerful, R-aware code editor\nmany ways to send your code to a running R process\nother modern conveniences\n\nAnd it eliminates:\n\ntemptation to develop code directly in the Console. (instead:.R!)\ntension between development convenience and portability of the code.\n\n\n\nOrganize your work into projects\nHere’s what I mean by “work in a project”:\n\nFile system discipline: put all files related to a project in a designated folder.\n\nThis applies to data, code, figures, notes, etc.\nDepending on project complexity, you might enforce further organization into subfolders.\n\nWorking directory intentionality: when working on project A, make sure working directory is set to project A’s folder.\n\nIdeally, this is achieved via the development workflow and tooling, not by baking absolute paths into the code.\n\nFile path discipline: all paths are relative — relative to the project’s folder.\n\nSynergistic habits: you’ll get the biggest payoff if you practice all of them together.\nPortability: the project can be moved around on your computer or onto other computers and will still “just work”. is the only practical convention that creates reliable, polite behavior across different computers/users/time. This convention is neither new, nor unique to R.\nIt’s like agreeing that we will all drive on the left or the right. A hallmark of civilization is following conventions that constrain your behavior a little, in the name of public safety.\n\n\nRStudio Projects\nThe RStudio IDE has a notion of a (capital “P”) Project, which is a very effective implementation of (small “p”) projects.\nProject have an.Rproj file in the folder, which is used to store settings specific to that project. Use File &gt; New Project … to get started.\nAllows for multiple projects\nno danger of crosstalk: each has own R process, global workspace & working directory\nSame “unit” as a GitHub repo!\n\n\nTips for RStudio Projects\nOne suggestion for organizing:\nHave a dedicated folder for your Projects. - If you have One Main Place for Projects, then go there in Finder/File Explorer to launch any specific project with .Rproj. - Mine is called “~/github/”.\nSwitching Projects: RStudio knows about recent Projects.\n\n\nName files deliberately\nJenny Bryan’s 3 rules for Naming Things:\n\nmachine readable\nhuman readable\nplays well with default ordering\n\nAvailable from Speakerdeck"
-  },
-  {
-    "objectID": "coding-strategies.html#further-reading",
-    "href": "coding-strategies.html#further-reading",
-    "title": "Coding strategies for future us",
-    "section": "Further reading",
-    "text": "Further reading\n\nTidyverse Skills for Data Science - Wright, Ellis, Hicks, & Peng\nPrinciples for data analysis workflows - Stoudt, Vasquez, and Martinez 2021, PLOS Computational Biology\nR Cookbook — JD Long"
-  },
-  {
     "objectID": "how-do-i/ask-questions.html",
     "href": "how-do-i/ask-questions.html",
     "title": "Ask questions",
@@ -432,6 +348,41 @@
     "title": "Reuse the Openscapes Approach",
     "section": "",
     "text": "We designed, facilitate, and teach building from what has worked in many other programs and resources. In the open science world, this is often called “reuse and remix” - reusing parts and tailoring and building them out for your needs. We reuse/remix heavily from Mozilla Open Leaders, RStudio, RLadies, rOpenSci, and many others.\nThe Openscapes Approach Guide is where we’re starting to document our approach so that others can lead their own Champions Cohorts. Even if you’re not leading your own Cohort, there are many things we do that you can reuse. For example:\n\nHave Google Doc agenda with live notetaking during your meetings (if this is a recurring meeting, organize it in a shared folder, either with one doc per meeting like our Cohort Call Agendas or many meetings in the same doc with the most recent at the top, like our Co-Working notes)\nBegin a meeting with a Roll Call/Check in and Code of Conduct\nShare slides before giving your talk so that folks can see them in high resolution and click on links\nTeach using other people’s slides"
+  },
+  {
+    "objectID": "core-lessons/data-strategies.html",
+    "href": "core-lessons/data-strategies.html",
+    "title": "Data strategies for future us",
+    "section": "",
+    "text": "Data strategies are part of a shared workflow strategy: How do we structure data, where do we store and back up data, how do we create metadata, and the mantra of “keep the raw data raw” and distinct from your analysis. Here we will discuss personal and team habits for data management and sharing: data strategies for future us."
+  },
+  {
+    "objectID": "core-lessons/data-strategies.html#data-organization-in-spreadsheets",
+    "href": "core-lessons/data-strategies.html#data-organization-in-spreadsheets",
+    "title": "Data strategies for future us",
+    "section": "Data organization in spreadsheets",
+    "text": "Data organization in spreadsheets\nThis publication by Broman & Woo, 2018 appears in the “Practical Data Science for Stats” collection in PeerJ & American Statistician.\nIt is a delightful read, from the first opening sentences:\n\n“Spreadsheets, for all of their mundane rectangularness, have been the subject of angst and controversy for decades…. Amid this debate, spreadsheets have continued to play a significant role in researchers’ workflows. The dangers of spreadsheets are real, however – so much so that the European Spreadsheet Risks Interest Group keeps a public archive of spreadsheet ‘horror stories’…”\n\nBroman & Woo share practical tips to make spreadsheets less error-prone, easier for computers to process, and easier to share. And something incredibly cool, it’s the 3rd most downloaded stats paper in the American Statistician, behind 2 papers about p-values (twitter thread).\nRead their paper for strategies behind their basic principles:\n\nBe consistent\nWrite dates like YYYY-MM-DD\nDon’t leave any cells empty\nPut just one thing in a cell\nOrganize data as a rectangle (“Tidy data”)\nCreate a data dictionary\nDon’t include calculations in the raw data files\nDon’t use font color or highlighting as data\nChoose good names for things\nMake backups\nUse data validation to avoid data entry errors\nSave the data in plain text files"
+  },
+  {
+    "objectID": "core-lessons/data-strategies.html#good-enough-practices-in-scientific-computing.",
+    "href": "core-lessons/data-strategies.html#good-enough-practices-in-scientific-computing.",
+    "title": "Data strategies for future us",
+    "section": "Good enough practices in scientific computing.",
+    "text": "Good enough practices in scientific computing.\nThis publication by Wilson et al. 2017 in PLoS Computational Biology follows a previous publication by Wilson et al. 2014: Best practices for scientific computing.\nIn terms of data management recommendataion, they have 2 main themes:\n\nwork towards ready-to-analyze data incrementally, documenting both the intermediate data and the process\nembrace the idea of “tidy data”, which can be a powerful accelerator for analysis\n\nRead their paper for strategies behind their basic principles (Box 1):\n\nSave the raw data.\nEnsure that raw data are backed up in more than one location.\nCreate the data you wish to see in the world.\nCreate analysis-friendly data.\nRecord all the steps used to process data.\nAnticipate the need to use multiple tables, & use a unique identifier for every record.\nSubmit data to a reputable DOI-issuing repository so that others can access & cite.\n\nThe publication also covers:\n\nSoftware: write, organize, and share scripts and programs used in an analysis.\nCollaboration: make it easy for existing and new collaborators to understand & contribute to a project.\nProject organization: organize the digital artifacts of a project to ease discovery & understanding.\nTracking changes: record how various components of your project change over time.\nManuscripts: write manuscripts in a way that leaves an audit trail & minimizes manual merging of conflicts."
+  },
+  {
+    "objectID": "core-lessons/data-strategies.html#tidy-data-for-efficiency-reproducibility-collaboration",
+    "href": "core-lessons/data-strategies.html#tidy-data-for-efficiency-reproducibility-collaboration",
+    "title": "Data strategies for future us",
+    "section": "Tidy data for efficiency, reproducibility, & collaboration",
+    "text": "Tidy data for efficiency, reproducibility, & collaboration\nBy Lowndes & Horst 2020, posted on the Openscapes blog: an illustrated series to tell a story about tidy data.\nTidy data has been mentioned in each of the above, as a way to organize data in spreadsheets, to prepare ready-to-analyze data, and for sharing with the FAIR principles.\nSo what is tidy data?\nFirst, a preamble:\n\nRaw data may not be stored in a tidy way\n“Wrangling” data into tidy structure should be done programmatically as part of the analytical process - keep the raw data raw\nTidy data is a philosophy\nThere are existing tools to help\n\nRemember that “tidying data (”data wrangling”) – up to 50–80% of a data scientist’s time” Lohr 2014, New York Times, so it’s important to leverage these existing philosophies and tools.\nWhen we talk about organizing data to help us work in an efficient, reproducible, and collaborative way, we are talking about TIDY DATA. We mean deliberately thinking about the shape and structure of data – something that might not seem super exciting but is truly game-changing.\nSo let’s talk about what tidy data is and why it is so empowering for your analytical life.\n\nWhat is tidy data?\nTidy data is a way to describe data that’s organized with a particular structure – a rectangular structure, where each variable has its own column, and each observation has its own row (Wickham 2014).\n\n\n\n\nThis standard structure of tidy data led Hadley Wickham to describe it the way Leo Tolstoy describes families. Leo says “Happy families are all alike; every unhappy family is unhappy in its own way”. Similarly, Hadley says “tidy datasets are all alike, but every messy dataset is messy in its own way”.\n\n\n\n\n\n\nTidy data for more efficient data science\nTidy data allows you to be more efficient by using existing tools deliberately built to do the things you need to do, from subsetting portions of your data to plotting maps of your study area. Using existing tools saves you from building from scratch each time you work with a new dataset (which can be time-consuming and demoralizing). And luckily, there are a lot of tools specifically built to wrangle untidy data into tidy data (for example, in the tidyr package). By being more equipped to wrangle your data into a tidy format, you can get to your analyses faster to start answering the questions you’re asking.\n\n\n\n\n\n\nTidy data for easier collaboration\nTidy data makes it easier to collaborate because our friends can use the same tools in a familiar way. Whether thinking about collaborators as current teammates, your future self, or future teammates, organizing and sharing data in a consistent and predictable way means less adjustment, time, and effort for all.\n\n\n\n\n\n\nTidy data for reproducibility and reuse\nTidy data also makes it easier to reproduce analyses because they are easier to understand, update, and reuse. By using tools together that all expect tidy data as inputs, you can build and iterate really powerful workflows. And, when you have additional data entries, it’s no problem to re-run your code!\n\n\n\n\n\n\nTidy data for the win!\nOnce you are empowered with tools to work with tidy data generally, it opens up a whole new world of datasets that feel more approachable because you can work using familiar tools. This transferrable confidence and ability to collaborate might be the best thing about tidy data.\n\n\n\n\nSo for more efficient, reproducible, and collaborative analyses, make friends with tidy data!"
+  },
+  {
+    "objectID": "core-lessons/data-strategies.html#learning-resources",
+    "href": "core-lessons/data-strategies.html#learning-resources",
+    "title": "Data strategies for future us",
+    "section": "Learning Resources",
+    "text": "Learning Resources\n\nGrolemund, G & Wickham, H (2016). R for Data Science: https://r4ds.had.co.nz\n\nSee Ch 12: Tidy Data\n\nWickham, H (2014). Tidy Data. Journal of Statistical Software 58 (10). jstatsoft.org/v59/i10/\nBroman, KW and KH Woo (2018). Data Organization in Spreadsheets. The American Statistician 72 (1). Available open access as a PeerJ preprint.\nLeek, J (2016). How to share data with a statistician"
   },
   {
     "objectID": "core-lessons/github/github-pub.html",
@@ -672,6 +623,55 @@
     "text": "Pathways stories\nHere are a few one-slide pictures of Pathways presented by Champions teams in their final sessions:\n\n\n\nAn example of an Openscapes pathway written by the NOAA Alaska Fisheries Science Center EcoFOCI team. The diagram summarizes how they used to share code, data, and files, and what their ongoing plans are for streamlining these processes and creating a team culture of openness and psychological safety. Source: A supportive forum for continued learning and collaboration at NOAA Fisheries Alaska\n\n\n\n\n\nNOAA Northwest Fisheries Science Center Ecosystem Status Report Automation team was united by working on reports with many contributors of maps, time series data that must be compiled into 20-page reports. Source: Nationwide Openscapes Training at NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-sharing, and Open Science\n\n\n\n\n\n\nThe NOAA Southeast Fisheries Science Center Trawl and Plankton Branch team focused on “Where are we going and how do we get there”, and plans to do better documentation, use GitHub, which in the near-term involves setting up discussions to include more team members and set up collaborative processes. Source: Nationwide Openscapes Training at NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-sharing, and Open Science\n\n\n\n\n\nScreenshot from the ADRIFT Field Methods website created through the Openscapes Program. This is a living document where we can outline our methodology and update/archive specific components of our methods and hardware as changes are made. Credit: NOAA Fisheries / Kourtney Burger. Source: Sound Bytes: Championing Open Science\n\n\n\nRead more\n\nChampions Program blog posts; you’ll find more Pathways shared as slides and stories following the 2-month cohort\nA TL;DR Collection of Stories from Openscapes Champions and Mentors; these stories are largely from 3 months+ following Pathways presentations\nCase Studies from the inaugural Champions Cohort (2019)"
   },
   {
+    "objectID": "core-lessons/coding-strategies.html",
+    "href": "core-lessons/coding-strategies.html",
+    "title": "Coding strategies for future us",
+    "section": "",
+    "text": "Coding strategies can blend with workflow strategies, and the idea is working in a way that is not just for you in this moment. Here we will discuss good coding practices for beginning and seasoned coders alike that make it easier to work with other people, times, and computers."
+  },
+  {
+    "objectID": "core-lessons/coding-strategies.html#software-considerations-for-coding",
+    "href": "core-lessons/coding-strategies.html#software-considerations-for-coding",
+    "title": "Coding strategies for future us",
+    "section": "Software considerations for coding",
+    "text": "Software considerations for coding\nThe following advice is from Tiffany Timbers, UBC Data Science, Intro to Reticulate:\nYou will need these software tools:\n\nProgramming language (R, python)\nCode editor (RStudio IDE, Jupyter)\nVersion control software (git, GitHub/bitbucket)\n\nHow to choose the “best” tool for the job:\n\nReproducible and auditable\nAccurate\nCollaborative (and portable)\n\nIf you’re choosing between R, Python, and other modern languages, they will aready be reproducible, auditable, and accurate. That leaves collaboration – what do your collaborators use? What do folks in your lab, or field use? What is mentioned in the papers you read? There is increasing interoperability between languages (e.g. see reticulate to run python code from R) so when you have some idea it’s best to get started!\nSee also: Opinionated analysis development (Parker 2017). Tools like RStudio are already doing this to help you. Reserve your mental energy for the fun part of the analysis!"
+  },
+  {
+    "objectID": "core-lessons/coding-strategies.html#wtf-what-they-forgot-to-teach-you",
+    "href": "core-lessons/coding-strategies.html#wtf-what-they-forgot-to-teach-you",
+    "title": "Coding strategies for future us",
+    "section": "WTF: What They Forgot to teach you",
+    "text": "WTF: What They Forgot to teach you\nMost of this advice comes directly from Jenny Bryan & Jim Hester’s awesome course What they Forgot to Teach You About R. I highly recommend reading Chapters 1-4 that go into much better detail than the notes here. The advice here is solid coding practices for any language, with examples from R.\n\nWorkflow versus product\nDistinction between things you do because of personal taste & habits (“workflow”) versus the logic and output that is the essence of your project (“product”).\nWorkflow:\n\nEditor you use to write code.\nName of your home directory.\nR code you ran before lunch.\n\nClearly product: - Raw data. - R code someone needs to run on your raw data to get your results, including the explicit library() calls to load necessary packages. (script, notebook)\nIdeally, you don’t hardwire anything about your workflow into your product."
+  },
+  {
+    "objectID": "core-lessons/coding-strategies.html#source-files",
+    "href": "core-lessons/coding-strategies.html#source-files",
+    "title": "Coding strategies for future us",
+    "section": "Source files",
+    "text": "Source files\nWhat are they and why?\nCode that creates objects is “source code”. Source code is essentially text files you edit in a text editor that is then executed in the console.\nExamples:\n\n.R, .Rmd\n.py\n.m\n\n\nSave the source, not the workspace\nSave the source code; do not save the R object itself.\nSave your commands as “scripts” (.R, .py) or “notebooks” (.Rmd, ipynb). It doesn’t have to be polished. Just save it!\nEverything that really matters should be achieved through code that you save – including objects and figures The contrast is storing them implicitly or explicitly, as part of an entire workspace, or clicking via the mouse.\nLoad libraries/packages at the top. Just like a recipe: tell us the ingredients need before we get going!\n\n\nAlways start R with a blank slate\nSaving code is an absolute requirement for reproducibility.\nWhen you quit, do not save the workspace to an .Rdata file. When you launch, do not reload the workspace from an .Rdata file.\nIn RStudio, set this via Tools &gt; Global Options.\n\n\nRestart R often during development\n\n“Have you tried turning it off and then on again?” – timeless troubleshooting wisdom, applies to everything\n\nIf you use RStudio, use the menu item Session &gt; Restart R\nAdditional ways to restart development where you left off, i.e. “re-run all the code up to HERE”\n\n\nAvoid rm(list = ls())\nIt’s common to see scripts begin with this object-nuking command: rm(list = ls())\nThis is highly suggestive of a non-reproducible workflow.\nThe problem with rm(list = ls()) is that, given the intent, it does not go far enough.\nIt only deletes user-created objects from the global workspace.\nInstead, Restart R with a clean slate OFTEN (e.g. many times/day), and write every script assuming it will be run in a fresh R process"
+  },
+  {
+    "objectID": "core-lessons/coding-strategies.html#filepaths",
+    "href": "core-lessons/coding-strategies.html#filepaths",
+    "title": "Coding strategies for future us",
+    "section": "Filepaths",
+    "text": "Filepaths\nEvery saved thing gets a unique path.\nYour code needs to run from somewhere specific. And when it interacts with other things (data or other code), you need to tell your code where things are.\nThe more deliberate you are about where things live,\n\nThe easier it will be for you and future you\nThe easier it will be for other people\nThe easier it will be on another computer\n\n\nsetwd(“path/that/only/works/on/my/machine”)\nThe chance of setwd() having the desired effect – making the file paths work – for anyone besides its author is 0%.\nIt’s also unlikely to work for the author one or two years or computers from now.\nHard-wired, absolute paths, especially when sprinkled throughout the code, make a project brittle. Such code does not travel well across time or space.\n\n\nsetwd()\nBUT, if you still decide to use setwd() in your scripts, you should at least be very disciplined about it:\nOnly use setwd() at the very start of a file, i.e. in an obvious and predictable place.\nAlways set working directory to the same thing, namely to the top-level of the project. Always build subsequent paths relative to that.\n\n\nR users: use the here package\nhere() identifies your project’s files, based on the current working directory at the time when the package is loaded.\nlibrary(here)\nhere()"
+  },
+  {
+    "objectID": "core-lessons/coding-strategies.html#project-oriented-workflows",
+    "href": "core-lessons/coding-strategies.html#project-oriented-workflows",
+    "title": "Coding strategies for future us",
+    "section": "Project oriented workflows",
+    "text": "Project oriented workflows\n\nDilemma and Solution\nProblem statement:\nWe want to work on project A with the working directory set to path/to/projectA (my data analysis) and on project B with the working directory set to path/to/projectB (my teaching material).\nBut we also want to keep code like setwd(“path/to/projectA”) out of our scripts.\nSolution:\nSolution: use an IDE that supports a project-based workflow.\nAn integrated development environment (IDE) offers:\n\na powerful, R-aware code editor\nmany ways to send your code to a running R process\nother modern conveniences\n\nAnd it eliminates:\n\ntemptation to develop code directly in the Console. (instead:.R!)\ntension between development convenience and portability of the code.\n\n\n\nOrganize your work into projects\nHere’s what I mean by “work in a project”:\n\nFile system discipline: put all files related to a project in a designated folder.\n\nThis applies to data, code, figures, notes, etc.\nDepending on project complexity, you might enforce further organization into subfolders.\n\nWorking directory intentionality: when working on project A, make sure working directory is set to project A’s folder.\n\nIdeally, this is achieved via the development workflow and tooling, not by baking absolute paths into the code.\n\nFile path discipline: all paths are relative — relative to the project’s folder.\n\nSynergistic habits: you’ll get the biggest payoff if you practice all of them together.\nPortability: the project can be moved around on your computer or onto other computers and will still “just work”. is the only practical convention that creates reliable, polite behavior across different computers/users/time. This convention is neither new, nor unique to R.\nIt’s like agreeing that we will all drive on the left or the right. A hallmark of civilization is following conventions that constrain your behavior a little, in the name of public safety.\n\n\nRStudio Projects\nThe RStudio IDE has a notion of a (capital “P”) Project, which is a very effective implementation of (small “p”) projects.\nProject have an.Rproj file in the folder, which is used to store settings specific to that project. Use File &gt; New Project … to get started.\nAllows for multiple projects\nno danger of crosstalk: each has own R process, global workspace & working directory\nSame “unit” as a GitHub repo!\n\n\nTips for RStudio Projects\nOne suggestion for organizing:\nHave a dedicated folder for your Projects. - If you have One Main Place for Projects, then go there in Finder/File Explorer to launch any specific project with .Rproj. - Mine is called “~/github/”.\nSwitching Projects: RStudio knows about recent Projects.\n\n\nName files deliberately\nJenny Bryan’s 3 rules for Naming Things:\n\nmachine readable\nhuman readable\nplays well with default ordering\n\nAvailable from Speakerdeck"
+  },
+  {
+    "objectID": "core-lessons/coding-strategies.html#further-reading",
+    "href": "core-lessons/coding-strategies.html#further-reading",
+    "title": "Coding strategies for future us",
+    "section": "Further reading",
+    "text": "Further reading\n\nTidyverse Skills for Data Science - Wright, Ellis, Hicks, & Peng\nPrinciples for data analysis workflows - Stoudt, Vasquez, and Martinez 2021, PLOS Computational Biology\nR Cookbook — JD Long"
+  },
+  {
     "objectID": "core-lessons/mindset.html",
     "href": "core-lessons/mindset.html",
     "title": "Openscapes Mindset",
@@ -732,7 +732,7 @@
     "href": "core-lessons/team-culture.html",
     "title": "Team culture",
     "section": "",
-    "text": "We discuss team culture because while we know that diverse teams are more innovative, creating spaces where everyone can do their best work and feel safe to contribute takes intention; it does not happen by default. There is a lot of work to do to improve research culture, and we can lead by example in our own research groups and communities.\nSee also the following chapter on Codes of Conduct."
+    "text": "We discuss team culture because while we know that diverse teams are more innovative, creating spaces where everyone can do their best work and feel safe to contribute takes intention; it does not happen by default. There is a lot of work to do to improve research culture, and we can lead by example in our own research groups and communities.\nSee also the chapter on Codes of Conduct."
   },
   {
     "objectID": "core-lessons/team-culture.html#why-talk-about-team-culture",
@@ -812,36 +812,36 @@
     "text": "Further resources\n\nNot so standard deviation podcast\nParker & Peng\nhttp://nssdeviations.com\nGreat discussions about data concepts and “in the wild”\nEpisode 9: Spreadsheet drama\n\n\nPractical computing for biologists\nHaddock & Dunn\nhttp://practicalcomputing.org/\nSoftware & computing concepts already on your computer\nChapter 2: Regular expressions"
   },
   {
-    "objectID": "communities.html",
-    "href": "communities.html",
+    "objectID": "core-lessons/communities.html",
+    "href": "core-lessons/communities.html",
     "title": "Open communities",
     "section": "",
     "text": "Open communities play a big role in advancing research, helping research feel less lonely and reducing the amount of time we all spend being stuck spend reinventing the wheel. This is a brief (incomplete) introduction to the idea of open communities. We will explore: What are open communities? Why engage with them? How to engage with them? And also how Twitter as a legit tool for coding and science. Originally focusing on R communities, we are adding more examples beyond."
   },
   {
-    "objectID": "communities.html#what-are-open-communities",
-    "href": "communities.html#what-are-open-communities",
+    "objectID": "core-lessons/communities.html#what-are-open-communities",
+    "href": "core-lessons/communities.html#what-are-open-communities",
     "title": "Open communities",
     "section": "What are open communities?",
     "text": "What are open communities?\nOpen communities are groups of people openly creating, sharing, teaching, collaborating. They are united around a shared interest: coding language, topic, discipline, etc.\nThey have a culture of shared & continued learning, prioritize diversity, equity, inclusion.\nThey have online and in-person activities.\nHere are some examples of communities. Read more & direct links: https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#r-communities\n\n\n\nSome #rstats communities with in-person and online events and channels\n\n\n\nThere are strategies for learning with both online and local communities."
   },
   {
-    "objectID": "communities.html#why-engage-with-open-communities",
-    "href": "communities.html#why-engage-with-open-communities",
+    "objectID": "core-lessons/communities.html#why-engage-with-open-communities",
+    "href": "core-lessons/communities.html#why-engage-with-open-communities",
     "title": "Open communities",
     "section": "Why engage with open communities?",
     "text": "Why engage with open communities?\n\nSkillshare (teach & learn)\n\nCoding, software, workflows\nCollaboration, leadership, DEIJ\n\nMeet allies, grow friendships, career opportunities\nHelp improve science & scientific culture\n\nIncrease visibility & value of coding, data, collaboration skills\nDrive change: modern ways to contribute to science. Formally incentivize and teach! Include in promotion/tenure (we shouldn’t really have to teach ourselves on our own time and not be credited), create jobs\n\nCarry on & forward your experience from Openscapes"
   },
   {
-    "objectID": "communities.html#how-to-get-started",
-    "href": "communities.html#how-to-get-started",
+    "objectID": "core-lessons/communities.html#how-to-get-started",
+    "href": "core-lessons/communities.html#how-to-get-started",
     "title": "Open communities",
     "section": "How to get started?",
     "text": "How to get started?\nGoogle your interests/needs. When you Google, include what you want to do PLUS r, rstats; python.\nStart by listening and learning. Be deliberate: curate who you follow.\nLike and share when you’re comfortable.\nThen, contribute – your ideas, your blogs, your papers, your code… Contributors are welcome in open communities! And know too that the R packages ggplot & knitr were created by students (Wickham & Xie) (see McBain 2019).\nFinally, Twitter is a legit tool for science. It’s a good way to learn what you need to learn and broadening your horizons while building community. Some places to start: #rstats, #rstatsES, #rspatial, #pydata, #BlackAndSTEM, #MeTooSTEM\nSeaside Chats are a great way to start exploring together."
   },
   {
-    "objectID": "communities.html#open-community-examples",
-    "href": "communities.html#open-community-examples",
+    "objectID": "core-lessons/communities.html#open-community-examples",
+    "href": "core-lessons/communities.html#open-community-examples",
     "title": "Open communities",
     "section": "Open community examples",
     "text": "Open community examples\n\nGovernment peer-learning groups\n\nNMFS Open Sci (NOAA Fisheries)\n\nsee also https://openscapes.github.io/series/community-lessons/#nmfs-openscapes\n\nInteragency Ecological Program\nUSGS-R\n\n\n\nCampus coding clubs\n\nEcoDataScience at UC Santa Barbara\nBioData Club at OHSU\nThe Bio-Data Club at Moffitt"
