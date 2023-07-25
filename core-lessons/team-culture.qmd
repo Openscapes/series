@@ -8,14 +8,15 @@ We discuss team culture because while we know that [diverse teams are more innov
 
 ::: {.callout-warning icon="false"}
 ## Slides
-[Team culture](https://docs.google.com/presentation/d/1uuGt-suXbuBFf5gNSnB4muQCakjx7tKqPh9BnyITSTQ/)
+[Psychological safety](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing), contributed by [Tara Robertson](https://tararobertson.ca/)
 :::
 
 ::: {.callout-warning icon="false" collapse="true"}
 ## Additional slides
-These slides were contributed by guest instructors.
+These slides were developed in 2019, before we updated to the above Psychological safety slides in 2021.
 
-[Psychological safety](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing), contributed by [Tara Robertson](https://tararobertson.ca/)
+[Team culture](https://docs.google.com/presentation/d/1uuGt-suXbuBFf5gNSnB4muQCakjx7tKqPh9BnyITSTQ/)
+
 :::
 
 See also the chapter on [Codes of Conduct](../additional-lessons/code-of-conduct.qmd).
