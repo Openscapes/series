@@ -7,7 +7,7 @@ aliases:
 Open communities play a big role in advancing research, helping research feel less lonely and reducing the amount of time we all spend being stuck spend reinventing the wheel. This is a brief (incomplete) introduction to the idea of open communities. We will explore: What are open communities? Why engage with them? How to engage with them? And also how Twitter as a legit tool for coding and science. Originally focusing on R communities, we are adding more examples beyond.
 
 ::: {.callout-warning icon="false"}
-## Slides 
+## Slides
 
 [Open Communities](https://docs.google.com/presentation/d/1u6AjCCKniDsuX10M-qAU2O1HLJqupDYhWWKZYfeCpK4/)
 :::
@@ -18,7 +18,7 @@ Open communities play a big role in advancing research, helping research feel le
 [Discovering Community Tools](https://docs.google.com/presentation/d/1czvMz7a84jkaYDwHlG1cuKyf9B0mciQJVOFcc7hZtpU/edit?usp=sharing)
 :::
 
----
+------------------------------------------------------------------------
 
 ## What are open communities?
 
@@ -30,17 +30,7 @@ They have online and in-person activities.
 
 Here are some examples of communities. Read more & direct links: <https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#r-communities>
 
-```{r}
-#| eval: true
-#| echo: false
-#| out-width: "70%"
-#| fig-align: "center"
-#| fig-alt: "screenshot showing logos from some open communities including a purple R for RLadies, a green and white logo for Pangeo and a blue and black logo for Black in Marine Science"
-knitr::include_graphics("images/open-communities.png")
-```
-::: {.caption-text .center-text}
-*Some open communities with in-person and online engagement opportunities. The slides linked above have links and full details.*
-:::
+![Some open communities with in-person and online engagement opportunities. The slides linked above have links and full details](images/open-communities.png){fig-alt="screenshot showing logos from some open communities including a purple R for RLadies, a green and white logo for Pangeo and a blue and black logo for Black in Marine Science" fig-align="center"}
 
 <br>
 
@@ -71,14 +61,14 @@ Finally, Twitter is a legit tool for science. It's a good way to learn what you 
 
 [Seaside Chats](https://github.com/Openscapes/seaside-chats#seaside-chats) are a great way to start exploring together.
 
-## Open community examples 
+## Open community examples
 
 ### Government peer-learning groups
 
-- [NMFS Open Sci (NOAA Fisheries)](https://nmfs-opensci.github.io/)
-    - see also <https://openscapes.github.io/series/community-lessons/#nmfs-openscapes>
-- [Interagency Ecological Program](https://iep.ca.gov/Science-Synthesis-Service/Project-Work-Teams/Data-Science)
-- [USGS-R](https://owi.usgs.gov/R/index.html)
+-   [NMFS Open Sci (NOAA Fisheries)](https://nmfs-opensci.github.io/)
+    -   see also <https://openscapes.github.io/series/community-lessons/#nmfs-openscapes>
+-   [Interagency Ecological Program](https://iep.ca.gov/Science-Synthesis-Service/Project-Work-Teams/Data-Science)
+-   [USGS-R](https://owi.usgs.gov/R/index.html)
 
 ### Campus coding clubs
 
