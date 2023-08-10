@@ -20,10 +20,11 @@ jobs:
           # version: 0.9.600
       
       # add software dependencies here
-      - name: Setup R
-      - uses: r-lib/actions/setup-r@v1
-      - name: Install rmarkdown
-        run: Rscript -e 'install.packages("rmarkdown")'        
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages:
+            any::knitr
+            any::rmarkdown
       
       - name: Publish to GitHub Pages (and render)
         uses: quarto-dev/quarto-actions/publish@v2
