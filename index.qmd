@@ -1,7 +1,7 @@
 ---
 title: "Openscapes Champions Lesson Series"
 subtitle: "Open educational resources for Openscapes Champions" 
-date: "February 1, 2022"
+date: "August 2023"
 author: "Openscapes team"
 citation_url: https://openscapes.github.io/series
 slug: index
@@ -11,17 +11,9 @@ slug: index
 
 Hello! This is the lesson series for the [**Openscapes Champions program**](https://www.openscapes.org/champions/), an open data science mentorship program for science teams. We think about open science like a landscape, and we help researchers move from lonely science towards team science as they identify their common needs and start navigating the landscape together with a cohort of their peers.
 
-<center>
+![Artwork by Allison Horst](images/horst_openscapes_champions.jpg){fig-alt="A landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky" fig-align="center" width="553"}
 
-<img src="img/horst_openscapes_champions.jpg" width="600px"/></a>
-
-<figcaption>Artwork by [Allison Horst](https://www.openscapes.org/gallery/)</figcaption>
-
-</center>
-
-<br>
-
-This open curriculum is improved iteratively and the most recent version always available online for reuse and remix. Each chapter in the Core Lesson Series introduces the concepts, tooling, and examples that we discuss during our Champions Program Cohort Calls. We're also organizing additional Champions Lessons, Community Lessons, and How To guides to support Champions teams that you can navigate to on the left.
+This open curriculum is improved iteratively and the most recent version always available online for reuse and remix. Each chapter in the Core Lesson Series introduces the concepts, tooling, and examples that we discuss during our Champions Cohort Calls. We're also organizing additional Lessons, Community Lessons, and How do I... guides to support Champions teams that you can navigate to on the left. See the [program webpage ](https://www.openscapes.org/champions/) for information about the program itself, including frequently asked questions about [what is a team](https://www.openscapes.org/faq/).
 
 ### Cohort Calls
 
@@ -30,16 +22,16 @@ Research teams participate as a Champions Cohort over 2 months, meeting twice-mo
 Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that accompany each chapter of this book. Core lessons focus on building an open science mindset, efficiency and sharing culture within the team, and developing sustained learning practices with broader communities. At the end of the program, each team describes their work in progress and pathways forward.
 
 | Cohort Call Topics                                       | Series Chapters                                                                                               | Seaside Chat Topics              |
-|--------------------|------------------------|-----------------------------|
-| 1\. Openscapes mindset, better science in less time      | [mindset](core-lessons/mindset.qmd), [better science in less time](core-lessons/better-science.qmd)                                     | Pathway - where are you now      |
+|--------------------|------------------------|----------------------------|
+| 1\. Openscapes mindset, better science in less time      | [mindset](core-lessons/mindset.qmd), [better science in less time](core-lessons/better-science.qmd)           | Pathway - where are you now      |
 | 2\. GitHub Clinic: publishing & project management       | [publishing](core-lessons/github/github-pub.qmd), [project management](core-lessons/github/github-issues.qmd) | Shared organizing with GitHub    |
-| 3\. Team culture and data strategies for future us       | [team culture](core-lessons/team-culture.qmd), [data strategies](core-lessons/data-strategies.qmd)                                      | Onboarding docs, code of conduct |
-| 4\. Open communities and coding strategies for future us | [open communities](core-lessons/communities.qmd), [coding strategies](core-lessons/coding-strategies.qmd)                               | Pathway - next steps             |
+| 3\. Team culture and data strategies for future us       | [team culture](core-lessons/team-culture.qmd), [data strategies](core-lessons/data-strategies.qmd)            | Onboarding docs, code of conduct |
+| 4\. Open communities and coding strategies for future us | [open communities](core-lessons/communities.qmd), [coding strategies](core-lessons/coding-strategies.qmd)     | Pathways - next steps            |
 | 5\. Pathways share and next steps                        |                                                                                                               |                                  |
 
 ### Seaside Chats & Pathways
 
-Between Cohort Calls, each team meets together for [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) - dedicated time for data/workflow discussions. This is where teams begin identifying and addressing shared needs, prompted by discussions as a cohort and using the [Pathways Concept](/core-lessons/pathways.qmd). Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and culture of shared workflows and learning. Additionally, we support teams between Cohort Calls through Co-Working sessions and Slack.
+Between Cohort Calls, each team meets together for [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) - dedicated time for data/workflow discussions. This is where teams begin identifying and addressing shared needs, prompted by discussions as a cohort and using the [Pathways Concept](/core-lessons/pathways.qmd). Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and culture of shared workflows and learning. Additionally, we support teams between Cohort Calls through synchronous Coworking sessions and asyncronously via Slack.
 
 ### Cohort Agendas
 
@@ -49,20 +41,11 @@ Cohort Call agendas and slides are all openly available in a [Google Folder](htt
 
 Our [POP](https://suzannehawkes.com/2010/04/09/pop-everything/), a planning tool that we learned from Mozilla, describes the Purpose, Outcomes, and Purpose.
 
-**Purpose** is to: Reimagine data analysis and stewardship through exploring open tools and practices; Develop modern skills and habits that are of immediate value to you, including confidence and agency as leaders; Cultivate collaborative and inclusive research communities: Future Us, starting with your team. 
+**Purpose** is to: Reimagine data analysis and stewardship through exploring open tools and practices; Develop modern skills and habits that are of immediate value to you, including confidence and agency as leaders; Cultivate collaborative and inclusive research communities: Future Us, starting with your team.
 
 **Outcomes** are: Different for everybody - this is about changing habits to improve your work and teamwork so you shape where you invest based on what you need; A practice of talking and collaborating about data workflows with your team and community; A pathway you've identified with your team to help prioritize next steps - You'll share your work-in-progress on our last Cohort Call
 
 **Process** is: Cohort Calls: Twice-monthly with full Cohort; discussion-based and requires active engagement; Seaside Chats: Alternating weeks with your research group; we'll provide task suggestions but main purpose is to build the habit of strengthening shared workflows with your broader group. Team leads optional; Co-working: Alternating weeks (optional); come to focus on something workflow related - could be quiet work, requests for feedback or questions, or screensharing to problem solve; Slack: asynchronous way to ask questions, get help, and get to know other Openscapes folks; Twitter: asynchronous way to connect with broader open science community - check out [#rstats](https://twitter.com/search?q=%23rstats&src=typed_query), [#openscience](https://twitter.com/search?q=%23openscience&src=typed_query&f=top), [\@openscapes](https://twitter.com/openscapes)
-
-### What is a team?
-
-There is a lot of flexibility in choosing your team for the Openscapes Champions program.
-
-> How you define "team" is completely up to you and having one person be in the cohort and using in-between session "seaside chats" to bring back the information to another group is 100% fine. That is common in the cohorts. 
-> In my first Openscapes cohort, I was the only person from my project. My personal goal was to use the Openscapes structure to help a team that I am on figure out how to tackle some off-boarding tasks due to a retirement. During my second cohort, there were 2 team members in the cohort and 2 not in the cohort. We focused on standardizing our data to get ready for our GitHub served data package. For the 3rd cohort I am doing, 2/3 of our team is in the cohort as we start to get organized for a major revamp of our report into a reproducible workflow. - Eli Holmes (NOAA NWFSC, NMFS-Openscapes)
-
-Learn more: [FAQs: What is a team/How do I choose my team?](https://www.openscapes.org/faq/). 
 
 ## Cohorts - past and upcoming
 
