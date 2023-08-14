@@ -15,11 +15,21 @@ Hello! This is the lesson series for the [**Openscapes Champions program**](http
 
 This open curriculum is improved iteratively and the most recent version always available online for reuse and remix. Each chapter in the Core Lesson Series introduces the concepts, tooling, and examples that we discuss during our Champions Cohort Calls. We're also organizing additional Lessons, Community Lessons, and How do I... guides to support Champions teams that you can navigate to via the navigation bar. See the [Champions Program webpage ](https://www.openscapes.org/champions/) for programmatic details (including frequently asked questions about [what is a team](https://www.openscapes.org/faq/)) and explore the more than 18 [cohorts since 2019]((https://openscapes.org/events#category=champions)).
 
-### Cohort Calls
+## Purpose, Outcomes, Process (POP)
 
-Research teams participate as a Champions Cohort over 2 months, meeting twice-monthly for five 1.5-hour sessions we call Cohort Calls.
+This is the Champions Program [POP](https://suzannehawkes.com/2010/04/09/pop-everything/), a planning tool that we learned from Mozilla.
 
-Cohort Calls are designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that accompany each chapter of this book. Core lessons focus on building an open science mindset, efficiency and sharing culture within the team, and developing sustained learning practices with broader communities. At the end of the program, each team describes their work in progress and pathways forward.
+**Purpose** is to Reimagine data analysis and stewardship through exploring open tools and practices; Develop modern skills and habits that are of immediate value to you, including confidence and agency as leaders; Cultivate collaborative and inclusive research communities with a Future Us mindset, starting with your team.
+
+**Outcomes** are: Different for everybody - this is about changing habits to improve your work and teamwork so you shape where you invest based on what you need; A practice of talking and collaborating about data workflows with your team and community; A pathway you've identified with your team to help prioritize next steps that your team will share as work-in-progress on our last Cohort Call.
+
+**Process** is: through facilitated Cohort Calls, team-driven Seaside Chats & Coworking, and tech & cultural norms via our Flywheel. 
+
+## Cohort Calls
+
+Research teams participate as a Champions Cohort with ~7 total teams over 2 months, meeting twice-monthly for five 1.5-hour sessions we call Cohort Calls.
+
+Cohort Calls are highly-structured and designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that accompany each chapter of this book. Core lessons focus on building an open science mindset, efficiency and sharing culture within the team, and developing sustained learning practices with broader communities. At the end of the program, each team describes their work in progress and pathways forward.
 
 | Cohort Call Topics                                       | Series Chapters                                                                                               | Seaside Chat Topics              |
 |--------------------|------------------------|----------------------------|
@@ -29,25 +39,70 @@ Cohort Calls are designed to be engaging, requiring discussion and active partic
 | 4\. Open communities and coding strategies for future us | [open communities](core-lessons/communities.qmd), [coding strategies](core-lessons/coding-strategies.qmd)     | Pathways - next steps            |
 | 5\. Pathways share and next steps                        |                                                                                                               |                                  |
 
-### Seaside Chats & Pathways
+## Seaside Chats & Coworking
 
-Between Cohort Calls, each team meets together for [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) - dedicated time for data/workflow discussions. This is where teams begin identifying and addressing shared needs, prompted by discussions as a cohort and using the [Pathways Concept](/core-lessons/pathways.qmd). Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and culture of shared workflows and learning. Additionally, we support teams between Cohort Calls through synchronous Coworking sessions and asyncronously via Slack.
+Between Cohort Calls, teams have synchronous (Seaside Chats and Coworking) and asyncronous (Slack) spaces to meet, ask questions, and exchange knowledge.
 
-### Cohort Agendas
+Each team meets together independently for [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) - dedicated time for data/workflow discussions. This is where teams talk and screenshare to begin identifying and addressing shared needs, prompted by discussions as a cohort and using the [Pathways Concept](/core-lessons/pathways.qmd). We'll provide task suggestions but main purpose is to build the habit of talking about and strengthening shared workflows with your broader group. Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and culture of shared workflows and learning. 
+
+Further, we facilitate optional Coworking sessions. Coworking comes in different flavors. For Champions Cohorts, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively. Some teams join Coworking together, meeting for their Seaside Chat in a breakout room with the option of talking to others in the Cohort.
+
+## Tech & Cultural Norms
+
+Our technical and cultural norms during the Champions Cohort are aligned with our [Openscapes Flywheel](https://openscapes.org/approach#openscapes-flywheel).
+
+### Welcome
+
+You are all welcome here. We are creating a a positive learning space where everyone is welcome to ask questions and participate. We'll start off each call with a reminder of our [Code of Conduct](https://www.openscapes.org/code-of-conduct/).
+
+We are all responsible for being aware of [positionality](https://indigenousinitiatives.ctlt.ubc.ca/classroom-climate/positionality-and-intersectionality/) & power dynamics - how differences in social position and power shape identities and access in society. We want to be mindful of how hierarchy can get in the way of our learning. Here, we’ll work to flatten that hierarchy.
+
+### Space & Place
+
+Together we will be creating space and place to learn, collaborate, and create shared workflows so that we aren't all responsible for this alone. 
+
+Our Cohort will have a single **shared folder** (via Google Drive/ Microsoft Teams). Each Cohort Call will have a highly-structured **agenda document** so you can know what is planned — and so you can easily catch up if your internet cuts out. We use headers so that you can navigate via the Table of Contents view. Further, these agendas are for live-note taking throughout the Cohort Call. It is our shared responsibility to contribute & record; this is the main place for nonverbal contribution, side conversations, and to reinforce ideas. 
+    
+During Cohort Calls, we encourage videos on (“faces on”) – but it is okay if this is not possible for any reason. We ask you to mute liberally/quickly – but please unmute to speak up at any point. You'll interact in small groups via breakout groups – this will help you reflect on your work and get to know each other. 
+
+
+TODO We flip screensharing. We screenshare to show tips, how we work, and troubleshoot, not to advance slides.
+
+- no slides
+- yes troubleshoot
+
+We start and end on time. 
+
+### Learning & Trust
+
+We know there is a range of technical experience – by design! We are all here because we want to improve our work around data-intensive science, get a sense of new software and approaches, reduce friction when collaborating with others, promote inclusion, and develop leadership skills. We’re all imperfect and learning together – Openscapes team included. 
+We’re all accountable to each other. 
+
+### Work Openly
+
+TODO 
+- sharing ideas, code, 
+- facilitation agendas cross out timing
+
+### Common Workflows
+
+- Reuse agendas, coworking idea
+- "fork" ideas
+
+### Inspire
+
+- Share what works
+
+<!---
+TODO: revisit https://github.com/Openscapes/series/issues/32
 
 Cohort Call agendas and slides are all openly available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), ready for reuse and remix. We end each lesson by learning hands-on efficiency tips ([Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml)) and inclusion tips.
 
-### Champions Program POP
+--->
 
-Our [POP](https://suzannehawkes.com/2010/04/09/pop-everything/), a planning tool that we learned from Mozilla, describes the Purpose, Outcomes, and Purpose.
+## Preparing for your Cohort
 
-**Purpose** is to: Reimagine data analysis and stewardship through exploring open tools and practices; Develop modern skills and habits that are of immediate value to you, including confidence and agency as leaders; Cultivate collaborative and inclusive research communities: Future Us, starting with your team.
-
-**Outcomes** are: Different for everybody - this is about changing habits to improve your work and teamwork so you shape where you invest based on what you need; A practice of talking and collaborating about data workflows with your team and community; A pathway you've identified with your team to help prioritize next steps - You'll share your work-in-progress on our last Cohort Call
-
-**Process** is: Cohort Calls: Twice-monthly with full Cohort; discussion-based and requires active engagement; Seaside Chats: Alternating weeks with your research group; we'll provide task suggestions but main purpose is to build the habit of strengthening shared workflows with your broader group. Team leads optional; Co-working: Alternating weeks (optional); come to focus on something workflow related - could be quiet work, requests for feedback or questions, or screensharing to problem solve; Slack: asynchronous way to ask questions, get help, and get to know other Openscapes folks; Twitter: asynchronous way to connect with broader open science community - check out [#rstats](https://twitter.com/search?q=%23rstats&src=typed_query), [#openscience](https://twitter.com/search?q=%23openscience&src=typed_query&f=top), [\@openscapes](https://twitter.com/openscapes)
-
-## Supercharge your research: self-paced learning
+TODO:: Supercharge your research: self-paced learning
 
 All Champions Program resources are designed to also be a self-paced learning resource for teams. Additionally see [Supercharge your research: a ten-week plan for open data science](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019) and accompanying [spreadsheet template](https://docs.google.com/spreadsheets/d/19vAD1QE_mHPH1SV_N61iI3J0MJwyGaHZ_yPRVEzCRb8/edit#gid=0) that you can use to get organized with your team.
 
@@ -55,7 +110,7 @@ See also other publications and presentations at [openscapes.org/media](https://
 
 ## About
 
-[Openscapes](https://openscapes.org) helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams. Our work builds from many others in the open movement, and we are also documenting our process to onboard folks and scale Openscapes in our [Approach Guide](https://openscapes.github.io/approach-guide).
+[Openscapes](https://openscapes.org) helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science. Our work builds from many others in the open movement, and we are also documenting our process to onboard folks and scale Openscapes in our [Approach Guide](https://openscapes.github.io/approach-guide).
 
 ### Openscapes Champions
 
