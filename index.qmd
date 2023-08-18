@@ -46,7 +46,7 @@ TODO: https://github.com/Openscapes/series/issues/32
 
 ## Seaside Chats & Coworking
 
-Between Cohort Calls, teams have synchronous (Seaside Chats and Coworking) and asyncronous (Slack) spaces to meet, ask questions, and exchange knowledge.
+Between Cohort Calls, teams have synchronous spaces via Seaside Chats and Coworking to meet, ask questions, and exchange knowledge.
 
 Each team meets together independently for [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) - dedicated time for data/workflow discussions. This is where teams talk and screenshare to begin identifying and addressing shared needs, prompted by discussions as a cohort and using the [Pathways Concept](/core-lessons/pathways.qmd). We'll provide task suggestions but main purpose is to build the habit of talking about and strengthening shared workflows with your broader group. Seaside Chats have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and culture of shared workflows and learning. 
 
