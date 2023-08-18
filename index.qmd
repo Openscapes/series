@@ -13,23 +13,25 @@ Hello! This is the lesson series for the [**Openscapes Champions program**](http
 
 ![Artwork by Allison Horst](images/horst_openscapes_champions.jpg){fig-alt="A landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky" fig-align="center" width="70%"}
 
-This open curriculum is improved iteratively and the most recent version always available online for reuse and remix. Each chapter in the Core Lesson Series introduces the concepts, tooling, and examples that we discuss during our Champions Cohort Calls. We're also organizing additional Lessons, Community Lessons, and How do I... guides to support Champions teams that you can navigate to via the navigation bar. See the [Champions Program webpage ](https://www.openscapes.org/champions/) for programmatic details (including frequently asked questions about [what is a team](https://www.openscapes.org/faq/)) and explore the more than 18 [cohorts since 2019]((https://openscapes.org/events#category=champions)).
+
+<br>
+This Champions Lesson Series is improved openly and iteratively, and the most recent version always available online for reuse and remix. Each chapter in our **Core Lessons** focus on building a mindset and skillset for collaborative, reproducible workflows and culture within teams, while developing sustained learning practices connected with broader communities. See the [Champions Program webpage ](https://www.openscapes.org/champions/) for programmatic details (including frequently asked questions about [what is a team](https://www.openscapes.org/faq/)) and explore [stories from previous cohorts](https://openscapes.org/events#category=champions) - over 18 cohorts since 2019.
 
 ## Purpose, Outcomes, Process (POP)
 
-This is the Champions Program [POP](https://suzannehawkes.com/2010/04/09/pop-everything/), a planning tool that we learned from Mozilla.
+This is the Champions Program [POP](https://suzannehawkes.com/2010/04/09/pop-everything/), a planning tool that we learned from the open science team at Mozilla.
 
-**Purpose** is to Reimagine data analysis and stewardship through exploring open tools and practices; Develop modern skills and habits that are of immediate value to you, including confidence and agency as leaders; Cultivate collaborative and inclusive research communities with a Future Us mindset, starting with your team.
+**Purpose:** to reimagine data analysis and stewardship through exploring open tools and practices; develop modern skills and habits that are of immediate value to you, including confidence and agency as leaders; cultivate collaborative and inclusive research communities with a Future Us mindset, starting with your team.
 
-**Outcomes** are: Different for everybody - this is about changing habits to improve your work and teamwork so you shape where you invest based on what you need; A practice of talking and collaborating about data workflows with your team and community; A pathway you've identified with your team to help prioritize next steps that your team will share as work-in-progress on our last Cohort Call.
+**Outcomes:** different for everybody - this is about getting your own work done. Together we'll work on changing habits to improve your work and teamwork so you shape where you invest based on what you need. We'll also develop a practice of talking and collaborating about data workflows with your team and community, and have a tangible pathway that you identify with your team to help prioritize next steps that your team will share as work-in-progress on our last Cohort Call. This pathway is a planning document that folks have found valuable to share with supervisors as a concrete outcome.
 
-**Process** is: through facilitated Cohort Calls, team-driven Seaside Chats & Coworking, and tech & cultural norms via our Flywheel. 
+**Process:** through facilitated Cohort Calls, team-driven Seaside Chats & Coworking, and How We Work — which is how we describe the tech & cultural norms we practice, described in our Flywheel. Read on to learn more about these below.
 
 ## Cohort Calls
 
-Research teams participate as a Champions Cohort with ~7 total teams over 2 months, meeting twice-monthly for five 1.5-hour sessions we call Cohort Calls.
+Research teams participate as a Champions Cohort with ~7 total teams over 2 months, meeting twice-monthly for five 1.5-hour sessions we call Cohort Calls. Teams will focus on their own work, with Cohort Calls introducing concepts, tooling, and examples from their peers with time to reflect as individuals, small groups, and across teams. 
 
-Cohort Calls are highly-structured and designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions. We explore open data science concepts, tooling, and examples together through slides that accompany each chapter of this book. Core lessons focus on building an open science mindset, efficiency and sharing culture within the team, and developing sustained learning practices with broader communities. At the end of the program, each team describes their work in progress and pathways forward.
+Cohort Calls are highly-structured and designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions.  At the end of the program, each team describes their work in progress and pathways forward.
 
 | Cohort Call Topics                                       | Series Chapters                                                                                               | Seaside Chat Topics              |
 |--------------------|------------------------|----------------------------|
@@ -47,9 +49,9 @@ Each team meets together independently for [Seaside Chats](https://www.openscape
 
 Further, we facilitate optional Coworking sessions. Coworking comes in different flavors. For Champions Cohorts, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively. Some teams join Coworking together, meeting for their Seaside Chat in a breakout room with the option of talking to others in the Cohort.
 
-## Tech & Cultural Norms
+## How We Work
 
-Our technical and cultural norms during the Champions Cohort are aligned with our [Openscapes Flywheel](https://openscapes.org/approach#openscapes-flywheel).
+"How We Work" refers to the technical and cultural norms we will establish during the Champions Cohort, which we developed through our [Openscapes Flywheel](https://openscapes.org/approach#openscapes-flywheel).
 
 ### Welcome
 
