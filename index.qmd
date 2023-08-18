@@ -23,23 +23,26 @@ This is the Champions Program [POP](https://suzannehawkes.com/2010/04/09/pop-eve
 
 **Purpose:** to reimagine data analysis and stewardship through exploring open tools and practices; develop modern skills and habits that are of immediate value to you, including confidence and agency as leaders; cultivate collaborative and inclusive research communities with a Future Us mindset, starting with your team.
 
-**Outcomes:** different for everybody - this is about getting your own work done. Together we'll work on changing habits to improve your work and teamwork so you shape where you invest based on what you need. We'll also develop a practice of talking and collaborating about data workflows with your team and community, and have a tangible pathway that you identify with your team to help prioritize next steps that your team will share as work-in-progress on our last Cohort Call. This pathway is a planning document that folks have found valuable to share with supervisors as a concrete outcome.
+**Outcomes:** different for everybody - this is about getting your own work done. Together we'll work on changing habits to improve your work and teamwork so you shape where you invest based on what you need. We'll develop a practice of reflecting, talking, and collaborating about data workflows with your team and community. You'll leave with a tangible Pathway (a planning document) that your team will use to help identify current practices and prioritize next steps. Your team team will share your Pathway as work-in-progress during our last Cohort Call. Champions have found the Pathway valuable to communicate their need and plans and to share with supervisors as a concrete outcome.
 
-**Process:** through facilitated Cohort Calls, team-driven Seaside Chats & Coworking, and How We Work — which is how we describe the tech & cultural norms we practice, described in our Flywheel. Read on to learn more about these below.
+**Process:** through facilitated Cohort Calls, team-driven Seaside Chats & Coworking, and How We Work — which is how we describe the technical and cultural norms we practice, described in our Flywheel. Read on to learn more about these below.
 
 ## Cohort Calls
 
-Research teams participate as a Champions Cohort with ~7 total teams over 2 months, meeting twice-monthly for five 1.5-hour sessions we call Cohort Calls. Teams will focus on their own work, with Cohort Calls introducing concepts, tooling, and examples from their peers with time to reflect as individuals, small groups, and across teams. 
+Research teams participate as a Champions Cohort with ~7 total teams over 2 months, meeting twice-monthly for five 1.5-hour sessions we call Cohort Calls. Teams focus on their own work. Each Cohort Call has two topics that introduce concepts, tooling, and examples from their peers, with time to reflect and discuss how the topics apply directly to our work. 
 
-Cohort Calls are highly-structured and designed to be engaging, requiring discussion and active participation through shared live notetaking in Google Docs and group/breakout-group discussions.  At the end of the program, each team describes their work in progress and pathways forward.
+Cohort Calls are highly-structured and designed to be engaging, requiring discussion and active participation through scaffolded Agendas with shared live notetaking and breakout-group discussions. We begin each Cohort Call with a reminder of our [Code of Conduct](https://openscapes.org/code-of-conduct) end each lesson with bite-sized Efficiency Tips and Inclusion Tips. <!--- (Template agendas, as well as slides, tips, and other resources we use are openly available in this [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), ready for reuse and remix).
+
+TODO: https://github.com/Openscapes/series/issues/32
+--->
 
 | Cohort Call Topics                                       | Series Chapters                                                                                               | Seaside Chat Topics              |
 |--------------------|------------------------|----------------------------|
-| 1\. Openscapes mindset, better science in less time      | [mindset](core-lessons/mindset.qmd), [better science in less time](core-lessons/better-science.qmd)           | Pathway - where are you now      |
-| 2\. GitHub Clinic: publishing & project management       | [publishing](core-lessons/github/github-pub.qmd), [project management](core-lessons/github/github-issues.qmd) | Shared organizing with GitHub    |
-| 3\. Team culture and data strategies for future us       | [team culture](core-lessons/team-culture.qmd), [data strategies](core-lessons/data-strategies.qmd)            | Onboarding docs, code of conduct |
-| 4\. Open communities and coding strategies for future us | [open communities](core-lessons/communities.qmd), [coding strategies](core-lessons/coding-strategies.qmd)     | Pathways - next steps            |
-| 5\. Pathways share and next steps                        |                                                                                                               |                                  |
+| 1\. Mindset, Better Science for Future Us      | [mindset](core-lessons/mindset.qmd), [better science in less time](core-lessons/better-science.qmd)           | Pathways trailhead - where are you now      |
+| 2\. GitHub Clinic: Publishing, Project Management       | [publishing](core-lessons/github/github-pub.qmd), [project management](core-lessons/github/github-issues.qmd) | Shared organizing and onboarding    |
+| 3\. Team Culture, Data Strategies for Future Us       | [team culture](core-lessons/team-culture.qmd), [data strategies](core-lessons/data-strategies.qmd)            | Pathways next steps and documentation |
+| 4\. Open Communities, Coding Strategies for Future Us | [open communities](core-lessons/communities.qmd), [coding strategies](core-lessons/coding-strategies.qmd)     | Pathways share preparation            |
+| 5\. Pathways Share, Next Steps                        |                                                                                                               |                                  |
 
 ## Seaside Chats & Coworking
 
@@ -95,12 +98,7 @@ TODO
 
 - Share what works
 
-<!---
-TODO: revisit https://github.com/Openscapes/series/issues/32
 
-Cohort Call agendas and slides are all openly available in a [Google Folder](https://drive.google.com/open?id=1HQHXlMVgg9lp2IYkzj8LSAG5bjyKFS6g), ready for reuse and remix. We end each lesson by learning hands-on efficiency tips ([Doc](https://docs.google.com/document/d/e/2PACX-1vSABwrk4RgOa2XBv0ZVmQCEYtLmT-YOm7WHL0ba0eREcJ5G-uk4abqznKEX0YabHux48uVGxxAZXeJ4/pub) and [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWV6qFUv6WOztKqj52gUfvVlYc5Emw6Z-YzoM5fr9uOHRDLTDC625pdKVe5PwhlRmZlklNB7Lulq4/pubhtml)) and inclusion tips.
-
---->
 
 ## Preparing for your Cohort
 
