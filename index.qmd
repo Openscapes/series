@@ -9,13 +9,15 @@ slug: index
 
 ## Welcome {#welcome}
 
-Hello! This is the lesson series for the [**Openscapes Champions program**](https://www.openscapes.org/champions/), an open data science mentorship program for science teams. This is a professional development and leadership opportunity for teams to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. This is a remote-by-design program since its launch in 2019.
+Hello! This is the lesson series for the [**Openscapes Champions program**](https://www.openscapes.org/champions/), an open data science mentorship program for science teams. This is a professional development and leadership opportunity for teams to reimagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes Champions is not a typical workshop — its cohort-based remote sessions for teams introduces concepts and workflows, facilitate teams to talk about problems then go and solve them with accountability and support. It is a remote-by-design program since its launch in 2019.
 
 ![We think about open science like a landscape, with many paths forward. The Champions Program mentors researchers, meeting them at the trailhead to help them move from sad and lonely science to team science as they identify their common needs and start navigating the landscape together with a cohort of their peers. Artwork by Allison Horst.](images/horst_openscapes_champions.jpg){fig-alt="A landscape consisting of a grassy meadow next to a sandy beach and ocean, a winding river, and distant mountains. In the foreground, a sad bunny and skunk are working alone on their laptops, each with a rain cloud over their heads. Nearby is a trailhead with a fox holding a 'Welcome!' sign for a variety of different critters to see. Past the trailhead are branching pathways through the Openscapes landscape. No matter the path, however, there are small groups of animals working together to find their way. Nods to data science are scattered throughout the image, including mountains made of data points and a satellite in the sky" fig-align="center" width="70%"}
 
 <br> 
 
-All Champions Program resources are designed to also be a self-paced learning resource, and we know many people use the Champions Lesson Series for their own learning and for mentoring others, which is awesome. This Champions Lesson Series is improved openly and iteratively, and the most recent version always available online for reuse and remix. Each chapter in our **Core Lessons** focus on building a mindset and skillset for collaborative, reproducible workflows and culture within teams, while developing sustained learning practices connected with broader communities. See the [Champions Program webpage](https://www.openscapes.org/champions/) for programmatic details (including frequently asked questions about [what is a team](https://www.openscapes.org/faq/)) and explore [stories from 18+ previous cohorts](https://openscapes.org/events#category=champions).
+All Champions Program resources are designed to also be a self-paced learning resource, and we know many people use the Champions Lesson Series for their own learning and for mentoring others, which is awesome. This Champions Lesson Series is improved openly and iteratively, and the most recent version always available online for reuse and remix. Each chapter in our **Core Lessons** focus on building a mindset and skillset for collaborative, reproducible workflows and culture within teams, while developing sustained learning practices connected with broader communities. 
+
+See the [Champions Program webpage](https://www.openscapes.org/champions/) for programmatic details (including frequently asked questions about [what is a team](https://www.openscapes.org/faq/)) and explore [stories from 18+ previous cohorts](https://openscapes.org/events#category=champions).
 
 ## Purpose, Outcomes, Process (POP)
 
@@ -25,7 +27,7 @@ This is the Champions Program [POP](https://suzannehawkes.com/2010/04/09/pop-eve
 
 **Outcomes:** different for everybody - this is about getting your own work done. Together we'll work on changing habits to improve your work and teamwork so you shape where you invest based on what you need. We'll develop a practice of reflecting, talking, and collaborating about data workflows with your team and community. You'll leave with a tangible Pathway (a planning document) that your team will use to help identify current practices and prioritize next steps. Your team team will share your Pathway as work-in-progress during our last Cohort Call. Champions have found the Pathway valuable to communicate their need and plans and to share with supervisors as a concrete outcome.
 
-**Process:** through facilitated Cohort Calls, team-driven Seaside Chats & Coworking, and How We Work --- which is how we describe the technical and cultural norms we practice, described in our Flywheel. Read on to learn more about these below.
+**Process:** through facilitated Cohort Calls, team-driven Seaside Chats & Coworking, and How We Work — which is how we describe technical and cultural norms — we will help strengthen habits for immediate benefit that will help create long-lasting resilience in teams and workflows. Read on to learn more about these below.
 
 ## Cohort Calls
 
@@ -78,13 +80,17 @@ We start and end on time.
 
 ### Learning & Trust
 
-Learning new things is uncomfortable and it can feel vulnerable to ask questions. Through creating a welcoming space we can invest in learning and trust together. We know there is a range of technical experience -- by design! We are all here because we want to learn and improve our work around data-intensive science. We're all imperfect and learning together -- Openscapes team included. We're all accountable to each other. Examples of learning and trust are captured in our Pathways share in the final Cohort Call.
+Learning new things is uncomfortable and it can feel vulnerable to ask questions. Through creating a welcoming space we can invest in learning and trust together. We know there is a range of technical experience -- by design! We are all here because we want to learn and improve our work around data-intensive science. We're all imperfect and learning together -- Openscapes team included. We're all accountable to each other. 
+
+Examples of how teams strengthen learning and trust within their groups are captured in our Pathways share in the final Cohort Call. Meeting regularly, knowing who and where to ask for help, and building shared documentation and resources to reduce emails asking where things are common themes.
 
 ### Work Openly
 
-We role model working openly throughout the Cohort by sharing ideas, resources, and screensharing. During Cohort Calls, our Agenda and open facilitation style is part of working openly --- we iterate openly as facilitators and mentors, for example through adjusting the timing live in the Agenda document.
+We role model working openly throughout the Cohort by sharing ideas, resources, and screensharing. All our resources are created with the same tools we teach research teams (R, GitHub, Google Drive) and shared openly. During Cohort Calls, our Agenda and open facilitation style is part of working openly --- we iterate openly as facilitators and mentors, for example through adjusting the timing live in the Agenda document.
 
 We send **Digests** the week following each Cohort Call (early, on Monday or Tuesday). Digests include links to the Call's agenda, the Call's goals, slides, and some excerpts from the shared notes, and provides a touch point in the week between Calls. See examples: [2022-nasa-champions](https://github.com/NASA-Openscapes/2022-nasa-champions/labels/digest), [2022-noaa-afsc](https://github.com/Openscapes/2022-noaa-afsc/labels/digest), [2021-fdd](https://github.com/Openscapes/2021-fdd/labels/digest).
+
+Many teams being working more openly via shared documentation, project management, metadata, file organization and naming, and code organization and interoperability, using tools like Google Drive/Microsoft Teams, GitHub, R, and Python.
 
 ### Common Workflows
 
@@ -98,12 +104,11 @@ Storytelling and sharing what works is so valuable for others to learn from and 
 
 Inspiring others happens in small moments, that can look like someone leaning forward in their chair "I want to do that" when someone else is screensharing during Coworking. It can mean asking for 5 minutes at the start of a meeting to share something new you learned. These moments also build up to real culture change as folks give talks to their organizational leadership and broader open communities, and the Flywheel turns again.
 
-## Supercharge your research
+## Supercharge Your Research
 
 If you have read this page, you are prepared for your Cohort! We're often asked what people can do to further prepare in advance. Additional suggested reading include: 
 
 [**Our path to better science in less time using open data science tools**](https://www.nature.com/articles/s41559-017-0160) (Lowndes et al. 2017). This describes a marine science team's transition to open collaborative teamwork. It was the original inspiration for creating the Champions Program and heavily influences the Core Lessons.
-
 
 [**Supercharge your research: a ten-week plan for open data science**](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019). This was co-authored with the inaugural Champions Cohort, capturing the most valuable take-aways for marine and environmental science early career faculty.
 
