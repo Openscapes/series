@@ -4,7 +4,7 @@ aliases:
   - ../mindset.html
 ---
 
-**The Openscapes mindset is about better science for future us**. It is about moving away from lonely and demoralizing individual science, and towards science that is more empowering, efficient, open, collaborative, inclusive and kind. It is the idea that open data science tooling & communities exist that are powerful and empowering, and that we can harness this power broadly to create the culture we want to be a part of.
+**The Openscapes mindset is about better science for future us**. It is about moving away from lonely and demoralizing individual science, and towards science that is more empowering, efficient, open, collaborative, inclusive and kind. It is about many reinforcing ideas that open data science tooling & communities exist that are powerful and empowering, and that we can harness this power broadly to create the culture we want to be a part of.
 
 ::: {.callout-warning icon="false"}
 ## Slides
@@ -13,6 +13,8 @@ aliases:
 
 [Openscapes Mindset - NASA Champions](https://docs.google.com/presentation/d/1vUA1Af_gqgFdmyWoIuDAv2TfCT5mQmYVjXU0E7Sbxko/edit?usp=sharing)
 :::
+
+<!---
 
 ## Better science for future us
 
@@ -24,53 +26,48 @@ Together better science for future us is an important mindset for science and so
 
 Better science for future us is a real time investment, particularly for data-intensive research.
 
-### A Star Wars analogy
-
-Data-intensive research can feel lonely and demoralizing. Like Luke Skywalker, we have all had moments where we feel stuck staring at a challenge that we can't solve with the skillsets we have. 
-
-This might not be so obvious to describe as this situation, and could be many things at once that are hard to tease apart. Could be having a tedious process to organize and store data, not being able to run someone else's code, or not knowing how to get started with software like GitHub.It's often searching through emails, something like untitled14.xls or analysis_final_final.R
-
-But it doesn't have to be this way --
-
-Open data science approaches are open, collaborative, & empowering -- it's like the Force from Star Wars because it enables us to solve challenges in ways we never would have imagined was possible. 
-
-And it doesn't just help with the challenges in front of us, it also broaden our mindsets for the scope and scale of the research questions we can tackle. And again, it's not just one thing all at once, it's many smaller things that you can incrementally introduce that become more and more powerful.
-
-And like the Force, open data science is not something that you do alone, but that you do with community.
-
-Diverse, inclusive teams and communities are key to tackling our research so that it can have enduring impact. Just like in this illustration where not everyone is a Jedi, not everyone needs the same analytical skillsets but we can do more if we work together with a shared mindset and value each other.
-
 ## Openscapes Mindset
 
-In practice, the Openscapes Mindset is about many reinforcing ideas. It is the idea that **open data science tooling & communities exist that are powerful and empowering, and that we can harness this power broadly to create the culture we want to be a part of.**
+--->
 
-### Reframe data analysis & stewardship as a collaborative effort rather than an individual burden or personal craft
+### Reframe data analysis & stewardship
+
+Reframe data analysis & stewardship as a collaborative effort rather than an individual burden or personal craft
 
 This is the mindset where you're not alone, and it's not too late. It's not that everyone else learned this and you somehow missed out. You don't need to feel shame; you were likely not supported to learn. This is about releasing those feelings and becoming a confident learner and contributor, no matter where you are starting from.
 
-### Redefine collaborators & community -- beyond your own discipline/institution
+### Redefine collaborators & community
+
+Redefine collaborators & community -- beyond your own discipline/institution
 
 Redefine collaborators to include folks that don't work on the same projects or deliverables than you - this starts with other folks in your research group or lab. And it extends to strangers on the internet doing wildly different things than you are but united by the need to manage, analyze, and communicate around data.
 
 Redefining collaborators and community opens opportunities for new perspectives, tools, methods, ideas, colleagues, allies, friends, jobs.
 
-"Future Us" builds from the idea of "Future You/Future Self" being your most important collaborator (see [Wilson et al 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)) but with a team science mindset promoting diversity, equity, inclusion, and belonging. How can you work today so that someone other than yourself could reproduce/contribute tomorrow? We describe this more in [Lowndes et al. 2019](https://www.nature.com/articles/d41586-019-03335-4). Cannot emphasize how critical these concepts are.Work now so that you can succeed later (whether that's this afternoon or 4 years from now, whether it's for you or someone you don't know who will pick up where you left off).
+"Future Us" builds from the idea of "Future You/Future Self" being your most important collaborator (see [Wilson et al 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)) but with a team science mindset promoting diversity, equity, inclusion, and belonging. How can you work today so that someone other than yourself could reproduce/contribute tomorrow? We describe this more in [Lowndes et al. 2019](https://www.nature.com/articles/d41586-019-03335-4). Cannot emphasize how critical these concepts are. Work now so that you can succeed later (whether that's this afternoon or 4 years from now, whether it's for you or someone you don't know who will pick up where you left off).
 
-### Reimagine challenges -- expect there is a better way
+### Reimagine challenges
+
+Reimagine challenges -- expect there is a better way
 
 Reimagining challenges is based on the idea that there is a better way and that you can find and leverage it. It is the idea of reusing rather than reinventing. It is a release from lonely struggles that also reduces the cognitive load associated with starting from scratch. This means no more silently struggling, reducing the times you reinvent the wheel, and reducing the times you create weird, homegrown workarounds.
 
 Expecting there's a better way will help you focus on asking for help sooner, to find what you need faster, iterate with confidence & agency.
 
-### Strive to be more efficient, open, collaborative, inclusive, and kind
+### Open as a daily practice
 
-This means sharing imperfect work, create space, have empathy, learn together.
+Open as a daily practice - efficient, collaborative, inclusive, and kind.
+
+This means sharing imperfect work, having empathy, learning & teaching together. It requires trust and time: it means slowing down now to speed up together.
+
 
 ## Open data science
 
 We define open data science as **the tooling and people enabling reproducible, transparent, and inclusive practices for data-intensive science.**
 
-![](images/feedback-loop-tooling-people.png)
+<br>
+
+![](images/feedback-loop-tooling-people.png){fig-align="center" width="70%"}
 
 **This works as a beautiful feedback loop:** Using similar tooling promotes and streamlines teamwork. And teamwork better equips you to learn new tooling. With this shared mindset, the idea of team becomes ever-broadening, along with your abilities to adapt to an evolving softwarescape.
 
@@ -96,7 +93,9 @@ There are concepts, theory, and tools for thinking about and working with data. 
 
 An alternative title to this section would be "data science is a thing": no matter what your study system or your question, there are discernible steps involved that when you embrace will make you more efficient. These steps are illustrated in this figure from Wickham & Grolemund: you will need to import/get your data into analytical software, wrangle it (tidy and transform), and THEN you can start understanding your data and asking your science questions by making sense of it visually and with models.
 
-![Image from R for Data Science by Wickham & Grolemund](images/r4ds_data-science.png)
+<br>
+
+![Image from R for Data Science by Wickham & Grolemund](images/r4ds_data-science.png){fig-align="center" width="70%"}
 
 **Tidying your data before asking your science questions is a critical point here**. Don't build your whole analysis around whatever weird format your data may have come in. Data tidying ("data wrangling", "data prep") can take up to 50--80% of a data scientist's time ([Lohr 2014](https://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html), New York Times).
 
@@ -114,7 +113,9 @@ Expect there is a way to do what you want to do. This will help you find commona
 
 **Open data science tools exist** - tools to match data science theory.
 
-![From Wickham 2017, Welcome to the tidyverse](images/tidyverse_wickham_pres.png)
+<br>
+
+![From Wickham 2017, Welcome to the tidyverse](images/tidyverse_wickham_pres.png){fig-align="center" width="70%"}
 
 As Hadley Wickham described in his slides [Welcome to the tidyverse](https://speakerdeck.com/hadley/welcome-to-the-tidyverse?slide=28), tooling exists for every step of this conceptual diagram. They exist to streamline working with data.
 
