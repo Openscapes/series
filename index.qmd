@@ -76,6 +76,8 @@ During Cohort Calls, we **encourage videos on** ("faces on") -- but it is okay i
 
 We have a **flipped approach to screensharing**. This shows up in two ways. First, we do not screenshare slides while presenting. Instead we provide links to slides and presenters indicate when everyone should advance to the next slide. This minimizes bandwith issues and enables everyone to zoom in, click on links, linger, and go back, as they prefer. Second, we do screenshare to demonstrate keyboard shortcuts, live examples of how we work, and troubleshoot. Screensharing to show current practices and ask for help is a big part of Coworking sessions and Seaside Chats.
 
+At the start of each Cohort, we send **Google Calendar invites** to everyone for all Cohort Calls and optional Coworking sessions. These include the Zoom link (or Teams / Google Meet) to join, and a link to the Cohort's shared Google Folder so we don't all have to hunt for those each time.
+
 We start and end on time.
 
 ### Learning & Trust
