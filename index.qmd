@@ -23,11 +23,11 @@ See the [Champions Program webpage](https://www.openscapes.org/champions/) for p
 
 This is the Champions Program [POP](https://suzannehawkes.com/2010/04/09/pop-everything/), a planning tool that we learned from the open science team at Mozilla.
 
-**Purpose:** to reimagine data analysis and stewardship through exploring open tools and practices; develop modern skills and habits that are of immediate value to you, including confidence and agency as leaders; cultivate collaborative and inclusive research communities with a Future Us mindset, starting with your team.
+**Purpose:** to strengthen habits for immediate benefit that will help create long-lasting resilience in teams and workflows. We'll help you reimagine data analysis and stewardship through exploring open tools and practices; develop modern skills and habits that are of immediate value to you, including confidence and agency as leaders; cultivate collaborative and inclusive research communities with a Future Us mindset, starting with your team.
 
 **Outcomes:** different for everybody - this is about getting your own work done. Together we'll work on changing habits to improve your work and teamwork so you shape where you invest based on what you need. We'll develop a practice of reflecting, talking, and collaborating about data workflows with your team and community. You'll leave with a tangible Pathway (a planning document) that your team will use to help identify current practices and prioritize next steps. Your team will share your Pathway as work-in-progress during our last Cohort Call. Champions have found the Pathway valuable to communicate their needs and plans and to share with supervisors as a concrete outcome.
 
-**Process:** through facilitated Cohort Calls, team-driven Seaside Chats & Coworking, and How We Work --- which is how we describe technical and cultural norms --- we will help strengthen habits for immediate benefit that will help create long-lasting resilience in teams and workflows. Read on to learn more about these below.
+**Process:** through facilitated Cohort Calls, team-driven Seaside Chats & Coworking, and How We Work (how we describe technical and cultural norms); Read on to learn more about these below. Additionally, every Champions Cohort includes at least one Mentor from the partner organization or community. Often a Mentor has participated in a Champions Cohort and expressed their interest in helping empower their colleagues as they build their open science and leadership skills, collaborate on solutions to common problems, and modernize their workflows. 
 
 ## Cohort Calls
 
@@ -104,7 +104,7 @@ We discuss practices from different open communities, and teams contribute so th
 
 Storytelling and sharing what works is so valuable for others to learn from and be inspired by. Many concepts and possibilities are new, so there is value in the idea of "show me" in a way that resonates.
 
-Inspiring others happens in small moments, that can look like someone leaning forward in their chair "I want to do that" when someone else is screensharing during Coworking. It can mean asking for 5 minutes at the start of a meeting to share something new you learned. These moments also build up to real culture change as folks give talks to their organizational leadership and broader open communities, and the Flywheel turns again.
+Inspiring others happens in small moments, that can look like someone leaning forward in their chair saying "I want to do that" when someone else is screensharing during Coworking. It can mean asking for 5 minutes at the start of a meeting to share something new you learned. These moments also build up to real culture change as folks give talks to their organizational leadership and broader open communities, and the Flywheel turns again.
 
 ## Supercharge Your Research
 
