@@ -7,7 +7,7 @@ title: Pathways
 Perhaps the most important part of Openscapes is helping teams identify their trailhead together, as illustrated in the Champions [landscape illustration](/index.qmd#welcome).
 
 ::: column-margin
-![](/img/horst_openscapes_champions.jpg){fig-align="center"}
+![](../images/horst_openscapes_champions.jpg){fig-align="center"}
 :::
 
 We support individuals to "find their teams" by discussing approaches and software, so that they find they have common parts of how they work, whether they are working on the same or different projects. This builds from the ideas of creating space and place in order to find the common, as introduced in the [better science](/core-lessons/better-science.qmd#pathways-better-science) chapter.
