@@ -2,9 +2,11 @@
 title: Pathways
 ---
 
+This page has guidance and examples around the Pathways document; to learn more about what teams accomplish, explore [stories from previous cohorts](https://openscapes.org/blog#category=champions).
+
 ## The concept
 
-Perhaps the most important part of Openscapes is helping teams identify their trailhead together, as illustrated in the Champions [landscape illustration](/index.qmd#welcome).
+Perhaps the most important part of Openscapes is helping teams identify their trailhead together, as illustrated in the Champions [landscape illustration](/index.qmd#welcome). 
 
 ::: column-margin
 ![](../images/horst_openscapes_champions.jpg){fig-align="center"}

@@ -17,7 +17,7 @@ Hello! This is the lesson series for the [**Openscapes Champions program**](http
 
 All Champions Program resources are designed to also be a self-paced learning resource, and we know many people use the Champions Lesson Series for their own learning and for mentoring others, which is awesome. This Champions Lesson Series is improved openly and iteratively, and the most recent version always available online for reuse and remix. Each chapter in our **Core Lessons** focus on building a mindset and skillset for collaborative, reproducible workflows and culture within teams, while developing sustained learning practices connected with broader communities.
 
-See the [Champions Program webpage](https://www.openscapes.org/champions/) for programmatic details (including frequently asked questions like [what is a team](https://www.openscapes.org/faq/)) and explore [stories from 18+ previous cohorts](https://openscapes.org/blog#category=champions).
+See the [Champions Program webpage](https://www.openscapes.org/champions/) for programmatic details (including frequently asked questions like [what is a team](https://www.openscapes.org/faq/)). To learn what teams accomplish, explore [stories from 18+ previous cohorts](https://openscapes.org/blog#category=champions).
 
 ## Purpose, Outcomes, Process (POP)
 
