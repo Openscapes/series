@@ -41,6 +41,15 @@ Check out how they've organized this onboarding document that prospective studen
 
 [Slides from Gavin Fay's 2022 talk at NOAA Alaska Fisheries Science Center](https://docs.google.com/presentation/d/1c624mH3md8pQHiP6rJ7HPuhxDLgNB7xvONDZlUM3f64/edit#slide=id.gb6050dd30d_0_0)
 
+## Getting to Know Open Science
+
+
+[Getting to Know Open Science: How to Engage and Flourish in the Growing Open Science Community](https://docs.google.com/presentation/d/1uMfh0ssHGDuJ9q8pcRk8-qIerkywE4X-E_KP4CiptKc/edit#slide=id.g23d8f62188b_2_96)
+
+This is a slide deck presented on August 9, 2023 by Bri Lind at the NASA Hyperwall at the Ecological Society of America 2023 Annual Meeting, Portland, Oregon.
+
+It is a super introduction to why open science. 
+
 ## California Water Board Data Center
 
 <https://github.com/CAWaterBoardDataCenter>
