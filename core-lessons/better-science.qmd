@@ -14,6 +14,14 @@ Better science is less time is science that is more efficient, reproducible, ope
 :::
 
 ::: {.callout-warning icon="false" collapse="true"}
+## Video stories
+
+[Better science for future us](https://youtu.be/gIvvzp7d9CQ?feature=shared&t=1) (22 min). Julie Lowndes shares part of her path to open science with the Ocean Health Index and Openscapes Champions success stories from 3 NOAA Fisheries teams 1) at the end of their cohort; 2) 2 months after their cohort; 3) several years after their cohort.
+
+[My path to open science](https://youtu.be/AouW9A9QpVk) (7 min), by Stefanie Butland, Openscapes Team Member
+:::
+
+::: {.callout-warning icon="false" collapse="true"}
 ## Additional slides
 These slides were contributed by guest instructors.
 
