@@ -52,3 +52,7 @@ By Dr. Eli Holmes
 
 > So here are some bad situations I've gotten myself into, and how I eventually got myself out of them in plain english.
 
+## Not just for programmers
+
+[Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14108) Braga et al 2023 provides 12 ways researchers in ecology and evolution use GitHub, as well as resources and examples of researchers using and learning GitHub. 
+

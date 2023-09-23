@@ -1,0 +1,20 @@
+---
+title: "Discuss community building"
+---
+
+How do you talk to others (managers, supervisors) about the importance of community building and building social infrastructure? Here are some starting resources for reading about community building with Openscapes.
+
+They are in order of article length and increasing specificity:
+
+-   [Supercharge your research: a ten-week plan for open data science](https://openscapes.github.io/supercharge-research/) (Lowndes et al 2019) - community building within teams, based on our flagship program Openscapes Champions
+
+-   [Shifting institutional culture to develop climate solutions with Open Science](https://eartharxiv.org/repository/view/5948/)
+    (Lowndes et al 2023) - community building within & across
+    government orgs; authors are Openscapes Mentors who collaborate &
+    support their colleagues within orgs
+
+    -   These slides - [Documenting things: openly for future us](https://openscapes.github.io/documenting-things) share what's possible from focusing on documentation and community
+
+-   [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/) (Robinson & Lowndes 2022) - community building within NASA with a framework we developed and refine. 
+
+    -   These [slides from an internal NASA meeting in March 2023](https://docs.google.com/presentation/d/14iEGfbipt5HBlVyyf3kvjyxas4lBoRlbT8u8iFr2VNw/edit#slide=id.g1b5922f14f8_0_83) (linked from [openscapes.org/media](http://openscapes.org/media)) tell some of this story
