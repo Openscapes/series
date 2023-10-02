@@ -46,6 +46,8 @@ TODO: https://github.com/Openscapes/series/issues/32
 | 4\. Open Communities, Coding Strategies for Future Us | [open communities](core-lessons/communities.qmd), [coding strategies](core-lessons/coding-strategies.qmd)     | Pathways share preparation             |
 | 5\. Pathways Share, Next Steps                        |                                                                                                               |                                        |
 
+You can find templates in this [Champions Cohorts Resources public folder](https://drive.google.com/drive/folders/1Iq8tj81TSfr-RstphVTZWoz783xpJMOb).
+
 ## Seaside Chats & Coworking
 
 Between Cohort Calls, teams have synchronous spaces via Seaside Chats and Coworking to meet, ask questions, and exchange knowledge. Seaside Chats and Coworking have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and a culture of shared workflows and learning.

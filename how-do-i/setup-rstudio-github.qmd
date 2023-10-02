@@ -14,4 +14,14 @@ Follow the [UCSB MEDS Installation Guide](https://ucsb-meds.github.io/meds-insta
 
 ## Practice
 
+### Learn R interactively
+
+[swirl](https://swirlstats.com/) lets you learn R, in R.
+
+swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!
+
+It's developed by [Sean Kross](https://seankross.com/), who also co-created the [Tidy Data Tutor](https://tidydatatutor.com/)
+
+### R and GitHub together
+
 Now you'll want to practice how to use RStudio and GitHub. Follow [R for Excel Users' GitHub Chapter](https://rstudio-conf-2020.github.io/r-for-excel/github.html) to create a GitHub repository, clone it to RStudio, make edits, and practice syncing. 
