@@ -1,103 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://openscapes.github.io/series/additional-lessons/documentation.html</loc>
-    <lastmod>2023-09-05T19:25:55.028Z</lastmod>
+    <loc>https://openscapes.github.io/series/index.html</loc>
+    <lastmod>2023-10-02T04:30:08.013Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/additional-lessons/index.html</loc>
-    <lastmod>2023-09-05T19:25:54.060Z</lastmod>
+    <lastmod>2023-10-02T04:30:06.277Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/series/core-lessons/communities.html</loc>
-    <lastmod>2023-09-05T19:25:53.148Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/core-lessons/github/github-issues.html</loc>
-    <lastmod>2023-09-05T19:25:51.780Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/core-lessons/github/github-pub.html</loc>
-    <lastmod>2023-09-05T19:25:49.932Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/core-lessons/coding-strategies.html</loc>
-    <lastmod>2023-09-05T19:25:48.528Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/core-lessons/data-strategies.html</loc>
-    <lastmod>2023-09-05T19:25:46.916Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/core-lessons/index.html</loc>
-    <lastmod>2023-09-05T19:25:45.132Z</lastmod>
+    <loc>https://openscapes.github.io/series/additional-lessons/documentation.html</loc>
+    <lastmod>2023-10-02T04:30:05.257Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/how-do-i/refactor-modularize-code.html</loc>
-    <lastmod>2023-09-05T19:25:43.620Z</lastmod>
+    <lastmod>2023-10-02T04:30:04.253Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/how-do-i/do-fix-git-things.html</loc>
-    <lastmod>2023-09-05T19:25:42.640Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/how-do-i/setup-rstudio-github.html</loc>
-    <lastmod>2023-09-05T19:25:41.680Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/how-do-i/ask-questions.html</loc>
-    <lastmod>2023-09-05T19:25:40.784Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/inspiration/resources-that-influence.html</loc>
-    <lastmod>2023-09-05T19:25:38.404Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/index.html</loc>
-    <lastmod>2023-09-05T19:25:40.284Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/how-do-i/index.html</loc>
-    <lastmod>2023-09-05T19:25:41.232Z</lastmod>
+    <lastmod>2023-10-02T04:30:03.273Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/how-do-i/create-publish-quarto.html</loc>
-    <lastmod>2023-09-05T19:25:42.108Z</lastmod>
+    <lastmod>2023-10-02T04:30:02.205Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/series/how-do-i/reuse-openscapes-approach.html</loc>
-    <lastmod>2023-09-05T19:25:43.116Z</lastmod>
+    <loc>https://openscapes.github.io/series/how-do-i/discuss-community.html</loc>
+    <lastmod>2023-10-02T04:30:01.241Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/series/community-lessons/index.html</loc>
-    <lastmod>2023-09-05T19:25:44.236Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/core-lessons/mindset.html</loc>
-    <lastmod>2023-09-05T19:25:46.096Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/core-lessons/better-science.html</loc>
-    <lastmod>2023-09-05T19:25:47.688Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/core-lessons/pathways.html</loc>
-    <lastmod>2023-09-05T19:25:49.208Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/series/core-lessons/github/index.html</loc>
-    <lastmod>2023-09-05T19:25:50.728Z</lastmod>
+    <loc>https://openscapes.github.io/series/inspiration/resources-that-influence.html</loc>
+    <lastmod>2023-10-02T04:30:00.269Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/core-lessons/team-culture.html</loc>
-    <lastmod>2023-09-05T19:25:52.548Z</lastmod>
+    <lastmod>2023-10-02T04:29:58.765Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/series/additional-lessons/r-for-scicomm.html</loc>
-    <lastmod>2023-09-05T19:25:53.644Z</lastmod>
+    <loc>https://openscapes.github.io/series/core-lessons/coding-strategies.html</loc>
+    <lastmod>2023-10-02T04:29:57.021Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/core-lessons/better-science.html</loc>
+    <lastmod>2023-10-02T04:29:55.465Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/core-lessons/github/index.html</loc>
+    <lastmod>2023-10-02T04:29:53.669Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/core-lessons/github/github-pub.html</loc>
+    <lastmod>2023-10-02T04:29:51.789Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/core-lessons/communities.html</loc>
+    <lastmod>2023-10-02T04:29:49.245Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/core-lessons/github/github-issues.html</loc>
+    <lastmod>2023-10-02T04:29:52.909Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/core-lessons/mindset.html</loc>
+    <lastmod>2023-10-02T04:29:54.693Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/core-lessons/pathways.html</loc>
+    <lastmod>2023-10-02T04:29:56.177Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/core-lessons/index.html</loc>
+    <lastmod>2023-10-02T04:29:57.937Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/core-lessons/data-strategies.html</loc>
+    <lastmod>2023-10-02T04:29:59.609Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/how-do-i/setup-rstudio-github.html</loc>
+    <lastmod>2023-10-02T04:30:00.749Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/how-do-i/ask-questions.html</loc>
+    <lastmod>2023-10-02T04:30:01.749Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/how-do-i/reuse-openscapes-approach.html</loc>
+    <lastmod>2023-10-02T04:30:02.725Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/how-do-i/index.html</loc>
+    <lastmod>2023-10-02T04:30:03.721Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/series/additional-lessons/code-of-conduct.html</loc>
-    <lastmod>2023-09-05T19:25:54.556Z</lastmod>
+    <lastmod>2023-10-02T04:30:04.809Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/additional-lessons/r-for-scicomm.html</loc>
+    <lastmod>2023-10-02T04:30:05.797Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/series/community-lessons/index.html</loc>
+    <lastmod>2023-10-02T04:30:06.881Z</lastmod>
   </url>
 </urlset>

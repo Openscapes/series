@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Openscapes Champions Series - Setup RStudio and GitHub</title>
+<title>Openscapes Champions Series - Discuss open science and community building</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../how-do-i/do-fix-git-things.html" rel="next">
-<link href="../how-do-i/index.html" rel="prev">
+<link href="../how-do-i/reuse-openscapes-approach.html" rel="next">
+<link href="../how-do-i/ask-questions.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -75,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../how-do-i/index.html">How Do I…</a></li><li class="breadcrumb-item"><a href="../how-do-i/setup-rstudio-github.html">Setup RStudio &amp; GitHub</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../how-do-i/index.html">How Do I…</a></li><li class="breadcrumb-item"><a href="../how-do-i/discuss-community.html">Discuss community</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -234,7 +234,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../how-do-i/setup-rstudio-github.html" class="sidebar-item-text sidebar-link active">
+  <a href="../how-do-i/setup-rstudio-github.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Setup RStudio &amp; GitHub</span></a>
   </div>
 </li>
@@ -264,7 +264,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../how-do-i/discuss-community.html" class="sidebar-item-text sidebar-link">
+  <a href="../how-do-i/discuss-community.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Discuss community</span></a>
   </div>
 </li>
@@ -303,21 +303,16 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#installation" id="toc-installation" class="nav-link active" data-scroll-target="#installation">Installation</a></li>
-  <li><a href="#practice" id="toc-practice" class="nav-link" data-scroll-target="#practice">Practice</a>
-  <ul class="collapse">
-  <li><a href="#learn-r-interactively" id="toc-learn-r-interactively" class="nav-link" data-scroll-target="#learn-r-interactively">Learn R interactively</a></li>
-  <li><a href="#r-and-github-together" id="toc-r-and-github-together" class="nav-link" data-scroll-target="#r-and-github-together">R and GitHub together</a></li>
-  </ul></li>
+  <li><a href="#community-building" id="toc-community-building" class="nav-link active" data-scroll-target="#community-building">Community building</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/series/edit/main/how-do-i/setup-rstudio-github.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/series/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/openscapes/series/edit/main/how-do-i/discuss-community.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/openscapes/series/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Setup RStudio and GitHub</h1>
+<h1 class="title">Discuss open science and community building</h1>
 </div>
 
 
@@ -332,31 +327,40 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="installation" class="level2">
-<h2 class="anchored" data-anchor-id="installation">Installation</h2>
-<p>To setup RStudio and GitHub, you will need four things:</p>
-<ol type="1">
-<li>R</li>
-<li>RStudio</li>
-<li>Git</li>
-<li>GitHub</li>
-</ol>
-<p>Follow the <a href="https://ucsb-meds.github.io/meds-install-guide.html">UCSB MEDS Installation Guide</a> for detailed instructions on how to create accounts, download, install, and configure on Mac and Windows. (For an even more detailed walk-through, see <a href="https://docs.google.com/document/d/1zx2upJJqFZe94O3BQSMI56Z76s3haLXC0otKSpcZaJQ/edit">Allison Horst’s ESM 206 Google Doc</a>). Thanks for sharing Allison!</p>
-</section>
-<section id="practice" class="level2">
-<h2 class="anchored" data-anchor-id="practice">Practice</h2>
-<section id="learn-r-interactively" class="level3">
-<h3 class="anchored" data-anchor-id="learn-r-interactively">Learn R interactively</h3>
-<p><a href="https://swirlstats.com/">swirl</a> lets you learn R, in R.</p>
-<p>swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!</p>
-<p>It’s developed by <a href="https://seankross.com/">Sean Kross</a>, who also co-created the <a href="https://tidydatatutor.com/">Tidy Data Tutor</a></p>
-</section>
-<section id="r-and-github-together" class="level3">
-<h3 class="anchored" data-anchor-id="r-and-github-together">R and GitHub together</h3>
-<p>Now you’ll want to practice how to use RStudio and GitHub. Follow <a href="https://rstudio-conf-2020.github.io/r-for-excel/github.html">R for Excel Users’ GitHub Chapter</a> to create a GitHub repository, clone it to RStudio, make edits, and practice syncing.</p>
+<p>Conversations about community building and open science is really important for getting support and supporting others with this work.</p>
+<!---
+
+Open Science
+
+Curated resources from:
+
+https://nna-co.org/strategic-objectives/open-science
 
 
-</section>
+https://onlinelibrary.wiley.com/doi/10.1002/ajs4.141
+
+https://indigenous-data-envs-2022.netlify.app/index.html
+
+https://knowledgeequitylab.ca/podcast/ --- https://knowledgeequitylab.ca/podcast/s2ep4/
+
+--->
+<section id="community-building" class="level2">
+<h2 class="anchored" data-anchor-id="community-building">Community building</h2>
+<p>How do you talk to others (managers, supervisors) about the importance of community building and building social infrastructure? Here are some starting resources for reading about community building with Openscapes.</p>
+<p>They are in order of article length and increasing specificity:</p>
+<ul>
+<li><p><a href="https://openscapes.github.io/supercharge-research/">Supercharge your research: a ten-week plan for open data science</a> (Lowndes et al 2019) - community building within teams, based on our flagship program Openscapes Champions</p></li>
+<li><p><a href="https://eartharxiv.org/repository/view/5948/">Shifting institutional culture to develop climate solutions with Open Science</a> (Lowndes et al 2023) - community building within &amp; across government orgs; authors are Openscapes Mentors who collaborate &amp; support their colleagues within orgs</p>
+<ul>
+<li>These slides - <a href="https://openscapes.github.io/documenting-things">Documenting things: openly for future us</a> share what’s possible from focusing on documentation and community</li>
+</ul></li>
+<li><p><a href="https://eartharxiv.org/repository/view/4560/">The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices</a> (Robinson &amp; Lowndes 2022) - community building within NASA with a framework we developed and refine.&nbsp;</p>
+<ul>
+<li>These <a href="https://docs.google.com/presentation/d/14iEGfbipt5HBlVyyf3kvjyxas4lBoRlbT8u8iFr2VNw/edit#slide=id.g1b5922f14f8_0_83">slides from an internal NASA meeting in March 2023</a> (linked from <a href="http://openscapes.org/media">openscapes.org/media</a>) tell some of this story</li>
+</ul></li>
+</ul>
+
+
 </section>
 
 </main> <!-- /main -->
@@ -710,13 +714,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../how-do-i/index.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">How Do I…</span>
+      <a href="../how-do-i/ask-questions.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Ask questions</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../how-do-i/do-fix-git-things.html" class="pagination-link">
-        <span class="nav-page-text">Do &amp; fix git things</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../how-do-i/reuse-openscapes-approach.html" class="pagination-link">
+        <span class="nav-page-text">Reuse Openscapes Approach</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
