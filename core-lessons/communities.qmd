@@ -4,7 +4,7 @@ aliases:
   - ../communities.html
 ---
 
-Open communities play a big role in advancing research, helping research feel less lonely and reducing the amount of time we all spend being stuck spend reinventing the wheel. This is a brief (incomplete) introduction to the idea of open communities. We will explore: What are open communities? Why engage with them? How to engage with them? And also how Twitter as a legit tool for coding and science. Originally focusing on R communities, we are adding more examples beyond.
+Open communities play a big role in advancing research, helping research feel less lonely and reducing the amount of time we all spend being stuck reinventing the wheel. This is a brief (incomplete) introduction to the idea of open communities. We will explore: What are open communities? Why engage with them? How to engage with them? And also how social media is a legit tool for coding and science. Originally focusing on R communities, we are adding more examples beyond including python and Earth science data communities.
 
 ::: {.callout-warning icon="false"}
 ## Slides
@@ -20,21 +20,37 @@ Open communities play a big role in advancing research, helping research feel le
 
 ------------------------------------------------------------------------
 
+In your work, you're not limited to the people & resources in your physical environment! Open communities are waiting for people like you to come participate in whatever way feels comfortable right now. Awesome people are developing and sharing code and learning resources. They connect through open communities and software (GitHub, forums, Mastodon, Bluesky, TikTok, Slack)
+
+We can all learn, reuse, remix, share, and contribute and this means less reinventing, more doing, more fun!
+
 ## What are open communities?
 
-Open communities are groups of people openly creating, sharing, teaching, collaborating. They are united around a shared interest: coding language, topic, discipline, etc.
+Open communities are groups of **people** openly creating, sharing, teaching, collaborating.
 
-They have a culture of shared & continued learning, prioritize diversity, equity, inclusion.
+They are united around a **shared interest**: coding language, topic, discipline, etc.
 
-They have online and in-person activities.
+They have a **culture** of shared & continued learning, prioritize diversity, equity, inclusion.
 
-Here are some examples of communities. Read more & direct links: <https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#r-communities>
+They **connect** online and / or in-person.
 
-![Some open communities with in-person and online engagement opportunities. The slides linked above have links and full details](images/open-communities.png){fig-alt="screenshot showing logos from some open communities including a purple R for RLadies, a green and white logo for Pangeo and a blue and black logo for Black in Marine Science" fig-align="center"}
+Examples:
+
+![Some open communities with in-person and online engagement opportunities. The slides linked above have links and full details.](images/open-communities.png){fig-alt="screenshot showing logos from some open communities including a purple R for RLadies, a green and white logo for Pangeo and a blue and black logo for Black in Marine Science" fig-align="center"}
+
+Read more in [Collaborating & getting help](https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#r-communities), in [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) (Lowndes & Horst, 2021).
 
 <br>
 
-There are strategies for learning with both online and local communities.
+## Open communities have a vibe
+
+They signal whether a community is for you. Check out their Contributing guides, READMEs & CONTRIBUTING.md.
+
+-   [rOpenSci Community Contributing Guide](https://contributing.ropensci.org/) 
+-   [CONTRIBUTING.md template](https://gist.github.com/peterdesmet/e90a1b0dc17af6c12daf6e8b2f044e7c) for R packages (Desmet)
+-   [FIMS Developer Guide](https://noaa-fims.github.io/collaborative_workflow/contributor-guidelines.html), NOAA Fisheries Integrated Modeling System has a whole chapter on Contributor Guidelines.
+
+Are they inclusive? Some are more welcoming of newer users e.g. [community.rstudio.com](https://community.rstudio.com/) vs [Stackoverflow #rstats](https://stackoverflow.com/questions/tagged/r)
 
 ## Why engage with open communities?
 
@@ -49,17 +65,36 @@ There are strategies for learning with both online and local communities.
 
 ## How to get started?
 
-Google your interests/needs. When you Google, include what you want to do PLUS r, rstats; python.
+**Anywhere you're starting from is great**. Know what you need. You don't have to be an expert to learn together & teach what you know.
 
-Start by listening and learning. Be deliberate: curate who you follow.
+**Talk to your colleagues: where do they learn?** [Seaside Chats](https://github.com/Openscapes/seaside-chats#seaside-chats) are a great way to start - tell others you're meeting!
 
-Like and share when you're comfortable.
+**Google what you need, see who is working on those topics**
 
-Then, contribute -- your ideas, your blogs, your papers, your code... Contributors are welcome in open communities! And know too that the R packages ggplot & knitr were created by students (Wickham & Xie) (see [McBain 2019](https://resources.rstudio.com/rstudio-conf-2019/our-colour-of-magic-the-open-sourcery-of-fantastic-r-packages)).
+-   Look for tweets, toots, blogs posts, tutorials, slides, websites, forums
+-   When you Google, include what you want to do PLUS r, rstats; python.
+-   Ideas: [Big Book of R](https://www.bigbookofr.com/index.html) (compiles 250+ R tutorials), [Pangeo Showcase](https://pangeo.io/pangeo-showcase.html)
 
-Finally, Twitter is a legit tool for science. It's a good way to learn what you need to learn and broadening your horizons while building community. Some places to start: `#rstats, #rstatsES, #rspatial, #pydata, #BlackAndSTEM, #MeTooSTEM`
+**Engage within your limits**: 5 min reading Mastodon toots; 30 min sharing your use case in a public forum; 1 hr attending a webinar then 15 min to share with your team what you learned.
 
-[Seaside Chats](https://github.com/Openscapes/seaside-chats#seaside-chats) are a great way to start exploring together.
+In the past, Twitter has been a legit tool for science, a good way to learn what you need to learn and broadening your horizons while building community. We've learned from `#rstats, #rstatsES, #rspatial, #pydata, #BlackAndSTEM, #MeTooSTEM`. Many of us are still seeking a new thriving place for this kind of discourse. When you find that place, start by listening and learning. Be deliberate; curate who you follow. Like and share when you're comfortable. Then, contribute -- your ideas, your blogs, your papers, your code...
+
+## Impacts of open communities
+
+**ggplot & knitr were created by students** (Wickham & Xie) ([McBain 2019](https://resources.rstudio.com/rstudio-conf-2019/our-colour-of-magic-the-open-sourcery-of-fantastic-r-packages))
+
+-   Increase visibility & value of coding, data, collaboration skills
+-   Drive change: modern ways to contribute to science, and not based on hierarchy
+
+**R-Ladies changed the landscape of the R project** ([de Queiroz 2019](https://ww2.amstat.org/meetings/sdss/2019/onlineprogram/ViewPresentation.cfm?file=305051.pdf))
+
+-   Mission: to promote gender diversity in the R community. 
+-   Influenced who is a contributor
+-   Role-modeling collaboration, leadership, diversity, equity, inclusion, belonging, justice
+
+**Culture and belonging** 
+
+> "Open science saved me. I found community in RStudio and its users. Openscapes changed my workflow. I discovered my passion for data science education and engagement" ([Fenwick 2022](https://raw.githack.com/IleanaF/rstudio-conf22/master/A_Journey_Presentation.pdf))
 
 ## Open community examples
 
