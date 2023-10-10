@@ -40,7 +40,6 @@ Examples:
 
 Read more in [Collaborating & getting help](https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#r-communities), in [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) (Lowndes & Horst, 2021).
 
-<br>
 
 ## Open communities have a vibe
 
