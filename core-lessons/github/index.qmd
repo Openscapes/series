@@ -10,7 +10,7 @@ GitHub is a powerful tool for collaborative coding with version control, but her
 
 ## GitHub Clinic
 
-Openscapes GitHub Clinic introduces GitHub with the motivation of collaboration and open science. It is designed for both new and seasoned learners, focused on how develop workflows with diverse teams.
+Openscapes GitHub Clinic introduces GitHub with the motivation of collaboration and open science. It is designed for both new and seasoned learners, focused on how to develop workflows with diverse teams.
 
 ::: {.callout-warning icon="false"}
 ## Slides
