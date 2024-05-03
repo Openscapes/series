@@ -11,6 +11,13 @@ We discuss team culture because while we know that [diverse teams are more innov
 [Psychological safety](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing), contributed by [Tara Robertson](https://tararobertson.ca/)
 :::
 
+::: {.callout-warning icon="false"}
+## Video recordings
+
+[Psychological safety](https://youtu.be/rzi-qkl8u5M), contributed by Matt Fisher, National Snow and Ice Data Center (NSIDC) for the 2024 NASA Openscapes Champions Cohort.
+
+:::
+
 ::: {.callout-warning icon="false" collapse="true"}
 ## Additional slides
 These slides were developed in 2019, before we updated to the above Psychological safety slides in 2021.
