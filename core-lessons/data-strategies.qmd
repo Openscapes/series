@@ -19,7 +19,7 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 ::: {.callout-warning icon="false"}
 ## Video recordings
 
-[Data strategies for Future Us] (youtube link), contributed by Ileana Fenwick, Openscapes Pathways to Open Science.
+[Data strategies for Future Us](https://youtu.be/GxGb0ZzRtoQ), contributed by Ileana Fenwick, Openscapes Pathways to Open Science.
 
 :::
 
