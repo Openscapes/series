@@ -8,7 +8,7 @@ We discuss team culture because while we know that [diverse teams are more innov
 
 ::: {.callout-warning icon="false"}
 ## Slides
-[Psychological safety](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing), contributed by [Tara Robertson](https://tararobertson.ca/)
+[Psychological Safety](./slides/psychological-safety.md)
 :::
 
 ::: {.callout-warning icon="false" collapse="true"}
@@ -184,7 +184,6 @@ https://laderast.github.io/psych_safety/#18
 - [Inclusivity in STEM: Interview with Dr Mica Estrada](https://www.youtube.com/watch?v=AcGJ_Ldkjps) (video, 17 mins). "Dr. Mica Estrada is a social psychologist and faculty member at University of San Francisco. Her research explores the role of identity and values in influencing the persistence of historically underserved students in STEM."
   - PEERS
   - micro affirmations
-  
 - [Recreating Wakanda by promoting Black excellence in ecology and evolution](https://www.nature.com/articles/s41559-020-1266-7) — Schell et al (2020)
 - [Get it wrong for me: What I need from allies](https://www.linkedin.com/pulse/get-wrong-me-what-i-need-from-allies-megan-carpenter) — Carpenter (2020)
 - [A Practical Guide to Mentoring Across Intersections](https://conversations.vanguardstem.com/a-practical-guide-to-mentoring-across-intersections-c596496ee334) — Harriot (2020)
@@ -193,6 +192,15 @@ https://laderast.github.io/psych_safety/#18
 - [Sexual harassment is rife in the sciences, finds landmark US study](www.nature.com/articles/d41586-018-05404-6) — Witze (2018)
 - [All We Can Save](www.allwecansave.earth) — Johnson & Wilkerson (2020)
 - [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass) — Kimmerer (2013)
-
-
-
+* [How Diversity Makes Us Smarter](https://doi.org/10.1038/scientificamerican1014-42),
+  Katherine L. Phillips
+* [What Is Psychological Safety at Work? How Leaders Can Build Psychologically Safe Workplaces](https://www.ccl.org/articles/leading-effectively-articles/what-is-psychological-safety-at-work/),
+  Center for Creative Leadership
+* [Federal data science management](https://waterdata.usgs.gov/blog/fed-data-science-management/),
+  Jordan S. Read - the "Data Science Branch Shared Values" image is of extra interest!
+* [Dr. Cat Hicks](https://www.drcathicks.com/): Social scientist, developer experience
+  researcher.
+    * [Psychological Affordances Can [Explain] Why Interventions to Improve Developer Experience Take Hold or Fail](https://osf.io/preprints/psyarxiv/qz43x)
+* [Peggy Holman](https://peggyholman.com/): Organizational development consultant and
+  researcher.
+    * [Emergent Design for Generative Change](https://peggyholman.com/wp-content/uploads/2023/03/ODReview_vol55_no1-Holman.pdf)

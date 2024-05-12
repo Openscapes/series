@@ -1,5 +1,7 @@
 project: 
   type: website
+
+bibliography: "references.bib"
   
 website: 
   page-navigation: true
