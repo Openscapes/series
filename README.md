@@ -8,6 +8,17 @@ Lesson series for the Openscapes Champions program.
 See <https://openscapes.org/champions> for more information.
 
 
+## Contributor quickstart
+
+Either edit the project in RStudio, or:
+
+* [Install quarto](https://quarto.org/docs/get-started/)
+* `quarto preview`
+
+While this preview server is running, you can make changes to files and view them in the
+browser right away.
+
+
 ----
 
 
