@@ -10,6 +10,9 @@ Coding strategies can blend with workflow strategies, and the idea is working in
 ## Slides
 
 [Coding strategies for future us](https://docs.google.com/presentation/d/1krzD4lt0k7Zu-_lfIFSubABXMLBvTpmg3Ab2GrdbnpU/)
+
+[Data strategies for parallelizing code](https://docs.google.com/presentation/d/1HjOXgvlGcq01srJF5RD7y5sx5u8pXJzHb1E5W7s9aKc/). Diving into parallel processing from a scientist perspective, by Mahsa Jami, NASA LP DAAC
+
 :::
 
 ::: {.callout-warning icon="false" collapse="true"}
