@@ -1,5 +1,7 @@
 project: 
   type: website
+
+bibliography: "references.bib"
   
 website: 
   page-navigation: true
@@ -91,6 +93,7 @@ website:
            
 format:
   html:
+    from: "markdown+emoji"
     theme:
       light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
       dark: [cosmo, theme-dark.scss]
