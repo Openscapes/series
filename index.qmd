@@ -131,7 +131,7 @@ The Series is written (and always improving) to be used as a reference, to teach
 
 ### Citation
 
-All material in the Openscapes Lesson Series is available under a [CC-BY 4.0 licence](https://github.com/Openscapes/series/blob/main/LICENSE.md).
+All material in the Openscapes Lesson Series is available under a [CC-BY 4.0 licence](https://github.com/Openscapes/series/blob/main/LICENSE).
 
 Please cite the Openscapes Champions Lesson Series through the project's Zenodo archive using DOI: [10.5281/zenodo.7407246](https://doi.org/10.5281/zenodo.7407246). This DOI represents all versions, and will always resolve to the latest one.
 
