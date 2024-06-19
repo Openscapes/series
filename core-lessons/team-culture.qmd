@@ -81,7 +81,7 @@ Concerns and obstacles. What are you up against? What are you worried about?
 
 And we need to be deliberate about welcoming and including people from diverse backgrounds.
 
-A few recent articles from Nature with many more links within:
+A few articles from Nature with many more links within:
 
 -   [Science benefits from diversity](https://www.nature.com/articles/d41586-018-05326-3)
 -   [What does it take to make an institution more diverse?](https://www.nature.com/articles/d41586-018-05317-4)
@@ -105,7 +105,7 @@ Model the behavior you want to see in your research group & beyond (lab, dept, c
 
 Have to build trust and be intentional, don’t hope for organic.
 
--   [How to build (and rebuild trust](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust?language=en) - Frances Frei
+-   [How to build (and rebuild) trust](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust?language=en) - Frances Frei
 
 ### Sustain the culture
 
@@ -152,7 +152,7 @@ Here are some ideas that you can support and participate in to learn and create 
 
 From Michelle Stuart's [blog about the Pinsky Lab's first Fishbowl chat](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/):
 
-> This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking teammates for help, and it is exciting to see all of us getting on the same page with our data science."�
+> This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking teammates for help, and it is exciting to see all of us getting on the same page with our data science.
 
 ### Hackathons or documentation parties – co-create
 
@@ -166,7 +166,9 @@ Get to know each other outside of work. Do some during work hours can include mo
 
 Create a welcoming environment where they know where to ask for help – They won't know what questions to ask. Provide structure.
 
-### Code of Conduct (next chapter)!
+### Code of Conduct
+
+See [Additional Lessons \> Code of Conduct](../additional-lessons/code-of-conduct.qmd)
 
 ```{=html}
 <!--- 
