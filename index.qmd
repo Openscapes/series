@@ -17,7 +17,7 @@ Hello! This is the lesson series for the [**Openscapes Champions program**](http
 
 All Champions Program resources are designed to also be a self-paced learning resource, and we know many people use the Champions Lesson Series for their own learning and for mentoring others, which is awesome. This Champions Lesson Series is improved openly and iteratively, and the most recent version always available online for reuse and remix. Each chapter in our **Core Lessons** focus on building a mindset and skillset for collaborative, reproducible workflows and culture within teams, while developing sustained learning practices connected with broader communities.
 
-See the [Champions Program webpage](https://www.openscapes.org/champions/) for programmatic details (including frequently asked questions like [what is a team](https://www.openscapes.org/faq/)). To learn what teams accomplish, explore [stories from 18+ previous cohorts](https://openscapes.org/blog#category=champions).
+See the [Champions Program webpage](https://www.openscapes.org/champions/) for programmatic details (including frequently asked questions like [what is a team](https://www.openscapes.org/faq/)). To learn what teams accomplish, explore [stories from 20+ previous cohorts](https://openscapes.org/blog#category=champions).
 
 ## Purpose, Outcomes, Process (POP)
 
@@ -27,7 +27,7 @@ This is the Champions Program [POP](https://suzannehawkes.com/2010/04/09/pop-eve
 
 **Outcomes:** different for everybody - this is about getting your own work done. Together we'll work on changing habits to improve your work and teamwork so you shape where you invest based on what you need. We'll develop a practice of reflecting, talking, and collaborating about data workflows with your team and community. You'll leave with a tangible Pathway (a planning document) that your team will use to help identify current practices and prioritize next steps. Your team will share your Pathway as work-in-progress during our last Cohort Call. Champions have found the Pathway valuable to communicate their needs and plans and to share with supervisors as a concrete outcome.
 
-**Process:** through facilitated Cohort Calls, team-driven Seaside Chats & Coworking, and How We Work (how we describe technical and cultural norms); Read on to learn more about these below. Additionally, every Champions Cohort includes at least one Mentor from the partner organization or community. Often a Mentor has participated in a Champions Cohort and expressed their interest in helping empower their colleagues as they build their open science and leadership skills, collaborate on solutions to common problems, and modernize their workflows. 
+**Process:** through facilitated Cohort Calls, team-driven Seaside Chats & Coworking, and How We Work (how we describe technical and cultural norms); Read on to learn more about these below. Additionally, every Champions Cohort includes at least one Mentor from the partner organization or community. Often a Mentor has participated in a Champions Cohort and expressed their interest in helping empower their colleagues as they build their open science and leadership skills, collaborate on solutions to common problems, and modernize their workflows.
 
 ## Cohort Calls
 
@@ -35,15 +35,13 @@ Research teams participate as a Champions Cohort with \~7 total teams over 2 mon
 
 Cohort Calls are highly-structured and designed to be engaging, requiring discussion and active participation through scaffolded Agendas with shared live notetaking and breakout-group discussions. We begin each Cohort Call with a reminder of our [Code of Conduct](https://openscapes.org/code-of-conduct) and end each lesson with bite-sized Efficiency Tips and Inclusion Tips. Template agendas, as well as slides, tips, and other resources we use are openly available in this [Google Folder](https://drive.google.com/drive/folders/1Iq8tj81TSfr-RstphVTZWoz783xpJMOb), ready for reuse and remix.
 
-
-
 | Cohort Call Topics                                    | Series Chapters                                                                                               | Seaside Chat Topics                    |
 |--------------------|------------------------|----------------------------|
 | 1\. Mindset, Better Science for Future Us             | [mindset](core-lessons/mindset.qmd), [better science in less time](core-lessons/better-science.qmd)           | Pathways trailhead - where are you now |
 | 2\. GitHub Clinic: Publishing, Project Management     | [publishing](core-lessons/github/github-pub.qmd), [project management](core-lessons/github/github-issues.qmd) | Shared organizing and onboarding       |
 | 3\. Team Culture, Data Strategies for Future Us       | [team culture](core-lessons/team-culture.qmd), [data strategies](core-lessons/data-strategies.qmd)            | Pathways next steps and documentation  |
 | 4\. Open Communities, Coding Strategies for Future Us | [open communities](core-lessons/communities.qmd), [coding strategies](core-lessons/coding-strategies.qmd)     | Pathways share preparation             |
-| 5\. Pathways Share, Next Steps                        |                                                                                                               |                                        |
+| 5\. Pathways Share, Next Steps                        | [pathways](/core-lessons/pathways.qmd)                                                                        |                                        |
 
 You can find templates in this [Champions Cohorts Resources public folder](https://drive.google.com/drive/folders/1Iq8tj81TSfr-RstphVTZWoz783xpJMOb).
 
