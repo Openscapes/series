@@ -29,9 +29,9 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 
 These slides were contributed by researchers from previous Champions cohorts who shared examples and stories from their work.
 
-[**Data strategies; examples from NOAA Fisheries Alaska (Marine Mammal Lab Stock Assessment Report)**](https://docs.google.com/presentation/d/1ed3tNPTM3hOBFEMJZKk9O06QFDltZOZoAdDEih48ufk/edit#slide=id.p), contributed by Rod Towell, Nancy Young, Tony Orr, Brian Fadely, Erin Richmond
+[Data strategies; examples from NOAA Fisheries Alaska (Marine Mammal Lab Stock Assessment Report)](https://docs.google.com/presentation/d/1ed3tNPTM3hOBFEMJZKk9O06QFDltZOZoAdDEih48ufk/edit#slide=id.p), contributed by Rod Towell, Nancy Young, Tony Orr, Brian Fadely, Erin Richmond
 
-[**Data to Product Workflows**](https://docs.google.com/presentation/d/12Jru3DReVH3sO-nG0msAjCNS8PVNuaYSxHi-Bxlkr1E/edit?usp=sharing), contributed by Emily Markowitz ([video](https://youtu.be/S-w_74Pc908))
+[Data to Product Workflows](https://docs.google.com/presentation/d/12Jru3DReVH3sO-nG0msAjCNS8PVNuaYSxHi-Bxlkr1E/edit?usp=sharing), contributed by Emily Markowitz ([video](https://youtu.be/S-w_74Pc908))
 :::
 
 ------------------------------------------------------------------------
