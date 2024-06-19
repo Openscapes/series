@@ -4,6 +4,7 @@ title: "Discuss open science and community building"
 
 Conversations about community building and open science is really important for getting support and supporting others with this work.
 
+```{=html}
 <!---
 
 Open Science
@@ -20,12 +21,14 @@ https://indigenous-data-envs-2022.netlify.app/index.html
 https://knowledgeequitylab.ca/podcast/ --- https://knowledgeequitylab.ca/podcast/s2ep4/
 
 --->
-
+```
 ## Community building
 
 How do you talk to others (managers, supervisors) about the importance of community building and building social infrastructure? Here are some starting resources for reading about community building with Openscapes.
 
 They are in order of article length and increasing specificity:
+
+-   [Shifting institutional culture to develop climate solutions with Open Science](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341) (Lowndes et al 2024) - An Open Access Editorial written collaboratively by Mentors across the Openscapes community
 
 -   [Supercharge your research: a ten-week plan for open data science](https://openscapes.github.io/supercharge-research/) (Lowndes et al 2019) - community building within teams, based on our flagship program Openscapes Champions
 
