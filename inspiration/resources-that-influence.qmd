@@ -56,7 +56,9 @@ Self-Organising System - Extinction Rebellion
 
 [Dare To Lead Podcast](https://brenebrown.com/dtl-podcast/)
 
-### Hedgehog concept: Jim Collins
+## Flywheel & Hedgehog concepts: Jim Collins
+
+[Flywheel concept](https://www.jimcollins.com/concepts/the-flywheel.html)
 
 [Hedgehog concept](https://www.jimcollins.com/concepts/the-hedgehog-concept.html)
 
@@ -88,20 +90,20 @@ Self-Organising System - Extinction Rebellion
 
 ## Systems Change: Donella Meadows
 
-[Leverage points: places to intervene in a system](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/): (in increasing order of effectiveness)
+[Leverage points: places to intervene in a system](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/): (in increasing order of effectiveness, 12 -> 1)
 
 12. Constants, parameters, numbers (such as subsidies, taxes, standards).
-13. The sizes of buffers and other stabilizing stocks, relative to their flows.
-14. The structure of material stocks and flows (such as transport networks, population age structures).
-15. The lengths of delays, relative to the rate of system change.
-16. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
-17. The gain around driving positive feedback loops.
-18. The structure of information flows (who does and does not have access to information).
-19. The rules of the system (such as incentives, punishments, constraints).
-20. The power to add, change, evolve, or self-organize system structure.
-21. The goals of the system.
-22. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
-23. The power to transcend paradigms.
+11. The sizes of buffers and other stabilizing stocks, relative to their flows.
+10. The structure of material stocks and flows (such as transport networks, population age structures).
+9. The lengths of delays, relative to the rate of system change.
+8. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
+7. The gain around driving positive feedback loops.
+6. The structure of information flows (who does and does not have access to information).
+5. The rules of the system (such as incentives, punishments, constraints).
+4. The power to add, change, evolve, or self-organize system structure.
+3. The goals of the system.
+2. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
+1. The power to transcend paradigms.
 
 > So how do you change paradigms? Thomas Kuhn, who wrote the seminal book about the great paradigm shifts of science,7 has a lot to say about that. In a nutshell, you keep pointing at the anomalies and failures in the old paradigm, you keep coming yourself, and loudly and with assurance from the new one, you insert people with the new paradigm in places of public visibility and power. You don’t waste time with reactionaries; rather you work with active change agents and with the vast middle ground of people who are open-minded.
 
