@@ -148,3 +148,15 @@ https://www.cos.io/blog/open-science-is-a-behavior
 ## Mentorship vs Sponsorship
 
 <https://larahogan.me/sponsors/>
+
+## Practical Computing for Biologists
+
+[Practical Computing for Biologists](https://practicalcomputing.org/)
+
+Introduction to the Terminal/command line, introduction to regular expressions. Chapter 2 alone is incredibly powerful for building immediate cross-software skills and thinking differently (Disclosure: Lowndes was an alpha reviewer in grad school).
+
+## Virtual meetings
+
+  - <https://opensource.com/article/20/6/remote-meetings>
+  - <https://aspirationtech.org/blog/virtualmeetingpowerdynamics>
+
