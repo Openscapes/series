@@ -28,9 +28,6 @@ website:
       - icon: github
         href: https://github.com/openscapes/series
         text: "Openscapes Series GitHub"
-      - icon: twitter
-        href: https://twitter.com/openscapes
-        text: "Openscapes Twitter"        
 
     style: "docked"
     search: true

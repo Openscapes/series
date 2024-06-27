@@ -26,7 +26,7 @@ We can all learn, reuse, remix, share, and contribute and this means less reinve
 
 ## What are open communities?
 
-![Dr. Bri Lind, Land Processing Data Center (LP DAAC) Presenting at NASA\'s Hyperwall \@ Ecological Society of America Conference, August 2023.](images/bri-lind-nasa-hyperwall-esa-2023.png){fig-alt="Photo of a white woman presenting, standing in front of a big NASA logo and a screen that says Open Communities with an illustration of friendly animals." fig-align="center" width="100%"}
+![Dr. Bri Lind, Land Processing Data Center (LP DAAC) Presenting at NASA's Hyperwall \@ Ecological Society of America Conference, August 2023.](images/bri-lind-nasa-hyperwall-esa-2023.png){fig-alt="Photo of a white woman presenting, standing in front of a big NASA logo and a screen that says Open Communities with an illustration of friendly animals." fig-align="center" width="100%"}
 
 Open communities are groups of **people** openly creating, sharing, teaching, collaborating.
 
@@ -86,7 +86,7 @@ In the past, Twitter has been a legit tool for science, a good way to learn what
 -   Increase visibility & value of coding, data, collaboration skills
 -   Drive change: modern ways to contribute to science, and not based on hierarchy
 
-**R-Ladies changed the landscape of the R project** ([de Queiroz 2019](https://ww2.amstat.org/meetings/sdss/2019/onlineprogram/ViewPresentation.cfm?file=305051.pdf))
+**R-Ladies changed the landscape of the R project** ([de Queiroz 2019](https://ww2.amstat.org/meetings/sdss/2019/onlineprogram/ViewPresentation.cfm?file=305051.pdf), opens a pdf)
 
 -   Mission: to promote gender diversity in the R community. 
 -   Influenced who is a contributor
@@ -101,12 +101,16 @@ In the past, Twitter has been a legit tool for science, a good way to learn what
 ### Government peer-learning groups
 
 -   [NMFS Open Sci (NOAA Fisheries)](https://nmfs-opensci.github.io/)
+
     -   see also <https://openscapes.github.io/series/community-lessons/#nmfs-openscapes>
--   [Interagency Ecological Program](https://iep.ca.gov/Science-Synthesis-Service/Project-Work-Teams/Data-Science)
--   [USGS-R](https://owi.usgs.gov/R/index.html)
+
+-   Interagency Ecological Program [Data Science Project Work Team](https://iep.ca.gov/Science-Synthesis-Service/Project-Work-Teams/Data-Science)
+
+-   [R Govys](https://rgovys.github.io/)
+
+-   EPA CEMM Data Science Technical Exchange, R & Python user groups, Data Science Community of Practice
 
 ### Campus coding clubs
 
--   [EcoDataScience](http://eco-data-science.github.io/) at UC Santa Barbara
 -   [BioData Club](https://biodata-club.github.io) at OHSU
 -   [The Bio-Data Club](https://www.biodataclub.org/) at Moffitt

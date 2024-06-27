@@ -1,7 +1,8 @@
-# Resources that influence us {#resources-influence} 
+# Resources that influence us {#resources-influence}
 
 *Some resources that influence our thinking.*
 
+```{=html}
 <!---
 # Innovation through openness, architecture, leadership, teamwork, and disruption
 
@@ -30,10 +31,10 @@ Jai: Electricity the cultural adaptation took a long time
 Self-Organising System - Extinction Rebellion
 
 --->
-
+```
 ## Talking about data science: Hilary Parker & Roger Peng
 
-[RStudio::conf(2020) keynote](https://rstudio.com/resources/rstudioconf-2020/not-so-standard-deviations-episode-100/) & [NSSD podcast episode 100]( http://nssdeviations.com/100-live-from-rstudio-conf-2020)
+[RStudio::conf(2020) keynote](https://rstudio.com/resources/rstudioconf-2020/not-so-standard-deviations-episode-100/) & [NSSD podcast episode 100](http://nssdeviations.com/100-live-from-rstudio-conf-2020)
 
 > If you want to write, you read a lot, music, you listen a lot. I'ts hard to do this with data analysis.
 
@@ -42,13 +43,12 @@ Self-Organising System - Extinction Rebellion
 [Parker 2017, PeerJ](https://peerj.com/preprints/3210/)
 
 ## Principles for data analysis workflows
-Stoudt, Vásquez, Martinez, 
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770
 
-> workflow describes what a researcher does to make advances on scientific ques- tions: developing hypotheses, wrangling data, writing code, and interpreting results.
-> Workflow: The process that moves a scientific investigation from raw data to coherent research question to insightful contribution. This often involves a complex series of pro- cesses and includes a mixture of machine automation and human intervention. It is a nonlinear and iterative exercise.
+[Stoudt, Vásquez, & Martinez, 2021](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770)
 
-> Importantly, the difficulties we encounter in this [Explore] phase help us build empathy for an eventual audience beyond ourselves. It is here that we experience firsthand the challenges of processing our data set, framing domain research questions appro- priate to it, and structuring the beginnings of a workflow. Documenting our trial and error helps our own work stay on track in addition to assisting future researchers facing similar challenges.
+> workflow describes what a researcher does to make advances on scientific ques- tions: developing hypotheses, wrangling data, writing code, and interpreting results. Workflow: The process that moves a scientific investigation from raw data to coherent research question to insightful contribution. This often involves a complex series of pro- cesses and includes a mixture of machine automation and human intervention. It is a nonlinear and iterative exercise.
+
+> Importantly, the difficulties we encounter in this \[Explore\] phase help us build empathy for an eventual audience beyond ourselves. It is here that we experience firsthand the challenges of processing our data set, framing domain research questions appro- priate to it, and structuring the beginnings of a workflow. Documenting our trial and error helps our own work stay on track in addition to assisting future researchers facing similar challenges.
 
 ## Vulnerability: Brené Brown
 
@@ -60,7 +60,6 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770
 
 [Hedgehog concept](https://www.jimcollins.com/concepts/the-hedgehog-concept.html)
 
-
 ## All We Can Save: Ayana Johnson & Katharine Wilkinson
 
 [All We Can Save Project](https://www.allwecansave.earth/)
@@ -69,10 +68,9 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770
 
 > Johnson’s frustration with the climate movement isn’t about the current leaders doing a bad job—it’s just that we need more leaders. Her vision of the world includes people from every community in climate leadership roles. — [The Marine Biologist Building an Inclusive Climate Movement](https://www.vice.com/en/article/5dpyn3/the-marine-biologist-building-an-inclusive-climate-movement), Vice
 
->All We Can Save is basically a community bound between two covers, and a gift to any who wishes to join in. - [Eric Roston, Bloomberg](https://www.bloomberg.com/news/articles/2020-12-22/this-book-about-climate-change-will-give-you-hope)
+> All We Can Save is basically a community bound between two covers, and a gift to any who wishes to join in. - [Eric Roston, Bloomberg](https://www.bloomberg.com/news/articles/2020-12-22/this-book-about-climate-change-will-give-you-hope)
 
-
-## The Power of Welcome 
+## The Power of Welcome
 
 [The Value of Welcome](https://ropensci.org/blog/2017/07/18/value-of-welcome/) — Stef Butland, rOpenSci
 
@@ -88,37 +86,34 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008770
 
 > I've come to use the term "the architecture of participation" to describe the nature of systems that are designed for user contribution.
 
-## Systems Change: Donella Meadows 
+## Systems Change: Donella Meadows
 
 [Leverage points: places to intervene in a system](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/): (in increasing order of effectiveness)
 
 12. Constants, parameters, numbers (such as subsidies, taxes, standards).
-11. The sizes of buffers and other stabilizing stocks, relative to their flows.
-10. The structure of material stocks and flows (such as transport networks, population age structures).
-9. The lengths of delays, relative to the rate of system change.
-8. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
-7. The gain around driving positive feedback loops.
-6. The structure of information flows (who does and does not have access to information).
-5. The rules of the system (such as incentives, punishments, constraints).
-4. The power to add, change, evolve, or self-organize system structure.
-3. The goals of the system.
-2. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
-1. The power to transcend paradigms.
-
+13. The sizes of buffers and other stabilizing stocks, relative to their flows.
+14. The structure of material stocks and flows (such as transport networks, population age structures).
+15. The lengths of delays, relative to the rate of system change.
+16. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
+17. The gain around driving positive feedback loops.
+18. The structure of information flows (who does and does not have access to information).
+19. The rules of the system (such as incentives, punishments, constraints).
+20. The power to add, change, evolve, or self-organize system structure.
+21. The goals of the system.
+22. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
+23. The power to transcend paradigms.
 
 > So how do you change paradigms? Thomas Kuhn, who wrote the seminal book about the great paradigm shifts of science,7 has a lot to say about that. In a nutshell, you keep pointing at the anomalies and failures in the old paradigm, you keep coming yourself, and loudly and with assurance from the new one, you insert people with the new paradigm in places of public visibility and power. You don’t waste time with reactionaries; rather you work with active change agents and with the vast middle ground of people who are open-minded.
 
+## Organizational architecture
 
-## Organizational architecture 
-
-[Cautionary Tales Podcast Ep 6 -- How Britain Invented, Then Ignored, Blitzkrieg](http://timharford.com/2019/12/cautionary-tales-ep-6-how-britain-invented-then-ignored-blitzkrieg/). 
+[Cautionary Tales Podcast Ep 6 -- How Britain Invented, Then Ignored, Blitzkrieg](http://timharford.com/2019/12/cautionary-tales-ep-6-how-britain-invented-then-ignored-blitzkrieg/).
 
 This tale is about how the organizational architecture of existing entities - whether the British army, Sony, Kodak, or Xerox - cannot always support their own innovation because of the social structures they were built upon. Fascinating to think about in terms of how open science has not been embraced by scientific communities within the existing academic structure.
 
+## Disruption can feed creativity
 
-## Disruption can feed creativity 
-
-[Cautionary Tales Podcast Ep 7 -- Bowie, jazz, and the unplayable piano](http://timharford.com/2019/12/cautionary-tales-ep-7-bowie-jazz-and-the-unplayable-piano/). 
+[Cautionary Tales Podcast Ep 7 -- Bowie, jazz, and the unplayable piano](http://timharford.com/2019/12/cautionary-tales-ep-7-bowie-jazz-and-the-unplayable-piano/).
 
 This tale is about music: how Keith Jarrett reluctantly played on a broken piano and how David Bowie and Brian Eno's take on collaboration led to brand new sounds and ideas. I think about this for science and openness - working out of your comfort zones and mixing up how you do it and who you do it with.
 
@@ -126,10 +121,9 @@ This tale is about music: how Keith Jarrett reluctantly played on a broken piano
 
 [Funding research infrastructure](https://www.force11.org/blog/infrastructure-series-funding-research-infrastructure)
 
->there’s also the fact that the current funding model has led to a perceived sense of scarcity, pushing open projects to compete rather than collaborate, to build new features instead of maintaining their work and deepening their level of service for their communities. 
->An additional dimension to our work involves looking at the staffing and human infrastructure powering open technology development, maintenance, governance and stewardship. That volunteer labor and community engagement is often an invisible cost we gloss over in our estimations and recommendations, while also being a core pillar in this work.
+> there’s also the fact that the current funding model has led to a perceived sense of scarcity, pushing open projects to compete rather than collaborate, to build new features instead of maintaining their work and deepening their level of service for their communities. An additional dimension to our work involves looking at the staffing and human infrastructure powering open technology development, maintenance, governance and stewardship. That volunteer labor and community engagement is often an invisible cost we gloss over in our estimations and recommendations, while also being a core pillar in this work.
 
-
+```{=html}
 <!---
 **Science as behaviour: Using a behaviour change approach to increase uptake of open science**
 Emma Norris & Daryl B. O’Connor
@@ -148,8 +142,7 @@ Another possibility might be to develop a Volitional Help Sheet for Open Science
 
 https://www.cos.io/blog/open-science-is-a-behavior
 --->
-
+```
 ## Mentorship vs Sponsorship
 
-https://larahogan.me/sponsors/
-
+<https://larahogan.me/sponsors/>
