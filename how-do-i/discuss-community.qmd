@@ -32,7 +32,6 @@ They are in order of article length and increasing specificity:
 
 -   [Supercharge your research: a ten-week plan for open data science](https://openscapes.github.io/supercharge-research/) (Lowndes et al 2019) - community building within teams, based on our flagship program Openscapes Champions
 
--   [Shifting institutional culture to develop climate solutions with Open Science](https://eartharxiv.org/repository/view/5948/) (Lowndes et al 2023) - community building within & across government orgs; authors are Openscapes Mentors who collaborate & support their colleagues within orgs
 
     -   These slides - [Documenting things: openly for future us](https://openscapes.github.io/documenting-things) share what's possible from focusing on documentation and community
 
