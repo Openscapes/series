@@ -14,52 +14,37 @@ aliases:
 [Openscapes Mindset - NASA Champions](https://docs.google.com/presentation/d/1sEaWbBIzJqkbeRVJsOJvWK0LI4nrr0iniLRhHNaiqK0/edit?usp=sharing)
 :::
 
-<!---
-
-## Better science for future us
-
-Better science is science that is more open, reproducible, efficient, interoperable and also more diverse, equitable, inclusive, and kind.
-
-Future Us is the idea of considering ourselves, our teams, and communities - those who will be joining and continuing our work - whether that is in the next hourm week, or decades.
-
-Together better science for future us is an important mindset for science and society at large, and particularly important as we face global challenges in Earth and environmental science that are intensified with climate change.
-
-Better science for future us is a real time investment, particularly for data-intensive research.
-
-## Openscapes Mindset
-
---->
-
 ### Reframe data analysis & stewardship
 
-Reframe data analysis & stewardship as a collaborative effort rather than an individual burden or personal craft
+**Reframe data analysis & stewardship as a collaborative effort rather than an individual burden or personal craft**
 
 This is the mindset where you're not alone, and it's not too late. It's not that everyone else learned this and you somehow missed out. You don't need to feel shame; you were likely not supported to learn. This is about releasing those feelings and becoming a confident learner and contributor, no matter where you are starting from.
 
 ### Redefine collaborators & community
 
-Redefine collaborators & community -- beyond your own discipline/institution
+**Redefine collaborators & community -- beyond your own discipline/institution**
 
-Redefine collaborators to include folks that don't work on the same projects or deliverables than you - this starts with other folks in your research group or lab. And it extends to strangers on the internet doing wildly different things than you are but united by the need to manage, analyze, and communicate around data.
+Redefine collaborators to include folks that don't work on the same projects or deliverables than you - this starts with other folks in your research group. And it extends to strangers on the internet doing wildly different things than you are but united by the need to manage, analyze, and communicate around data.
 
 Redefining collaborators and community opens opportunities for new perspectives, tools, methods, ideas, colleagues, allies, friends, jobs.
 
-"Future Us" builds from the idea of "Future You/Future Self" being your most important collaborator (see [Wilson et al 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)) but with a team science mindset promoting diversity, equity, inclusion, and belonging. How can you work today so that someone other than yourself could reproduce/contribute tomorrow? We describe this more in [Lowndes et al. 2019](https://www.nature.com/articles/d41586-019-03335-4). Cannot emphasize how critical these concepts are. Work now so that you can succeed later (whether that's this afternoon or 4 years from now, whether it's for you or someone you don't know who will pick up where you left off).
+"Future Us" builds from the idea of "Future You/Future Self" being your most important collaborator (see [Wilson et al 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)) but with a team science mindset promoting diversity, equity, inclusion, and belonging. How can you work today so that someone other than yourself could reproduce/contribute tomorrow? We describe this more in [Lowndes et al. 2019](https://openscapes.github.io/supercharge-research/). This mindset is really critical for progress: how you can work now so that you can succeed later (whether that's this afternoon or 4 years from now, whether it's for you or someone you don't know who will pick up where you left off).
 
 ### Reimagine challenges
 
-Reimagine challenges -- expect there is a better way
+**Reimagine challenges -- expect there is a better way**
 
-Reimagining challenges is based on the idea that there is a better way and that you can find and leverage it. It is the idea of reusing rather than reinventing. It is a release from lonely struggles that also reduces the cognitive load associated with starting from scratch. This means no more silently struggling, reducing the times you reinvent the wheel, and reducing the times you create weird, homegrown workarounds.
+Reimagining challenges is based on the idea that there is a better way that already exists — and that you can find and make us of it. It is the idea of reusing rather than reinventing. It is a release from lonely struggles that also reduces the cognitive load associated with starting from scratch. This means no more silently struggling, reducing the times you reinvent the wheel, and reducing the times you create weird, homegrown workarounds.
 
 Expecting there's a better way will help you focus on asking for help sooner, to find what you need faster, iterate with confidence & agency.
 
 ### Open as a daily practice
 
-Open as a daily practice - efficient, collaborative, inclusive, and kind.
+**Open as a daily practice - efficient, collaborative, inclusive, and kind**
+
+Open science is not only about products (papers, data) - it is about how you show up and work every day.
 
 This means sharing imperfect work, having empathy, learning & teaching together. It requires trust and time: it means slowing down now to speed up together.
-
 
 ## Open data science
 
@@ -67,7 +52,7 @@ We define open data science as **the tooling and people enabling reproducible, t
 
 <br>
 
-![](images/feedback-loop-tooling-people.png){fig-align="center" width="70%"}
+![Open data science as a beautiful feedback loop.](images/feedback-loop-tooling-people.png){fig-alt="Two illustrations connected by arrows that form a feedback loop between the two. The first illustration is some oak trees and grass that says \"Tooling: tools & practices\" and the second is many hands coming together in the center that says \"People: teams & community\"" fig-align="center" width="70%"}
 
 **This works as a beautiful feedback loop:** Using similar tooling promotes and streamlines teamwork. And teamwork better equips you to learn new tooling. With this shared mindset, the idea of team becomes ever-broadening, along with your abilities to adapt to an evolving softwarescape.
 
@@ -77,27 +62,27 @@ There are innumerable examples of this feedback loop in action.
 
 One great example is GitHub.
 
-As a tool, GitHub can be used for collaborative version control that handles archiving, bookkeeping, and searching. It also has tools for project management, as well as publishing with Markdown.
+**Tooling**: As a tool, GitHub can be used for collaborative version control that handles archiving, bookkeeping, and searching. It also has tools for project management, as well as publishing with Markdown.
 
-Community norms with GitHub include the way files are organized, how documentation looks, and the idea that READMEs displayed on the homepage are used to help onboard new folks to using or contributing to the project. Additionally, folks use the GitHub Issues and Projects feature to discuss and coordinate. Used these ways, GitHub is enabling a new era of #SciComm (Science Communication).
+**People:** Community norms with GitHub include the way files are organized, how documentation looks, and the idea that READMEs displayed on the homepage are used to help onboard new folks to using or contributing to the project. Additionally, folks use the GitHub Issues and Projects feature to discuss and coordinate. Used these ways, GitHub is enabling a new era of #SciComm (Science Communication).
 
-> GitHub enables collaboration by reducing both `analysis_final_final_final.R` and `re: fwd: FWD: analysis_final_final_final.R`
+GitHub enables collaboration by reducing both `analysis_final_final_final.R` and `re: fwd: FWD: analysis_final_final_final.R`
 
 ## Open data science key concepts
 
 ### Data science as a discipline
 
-Data science is "the discipline of turning raw data into understanding" ([Wickham & Grolemund 2016, R for Data Science](http://r4ds.had.co.nz/index.html)).
+Data science is "the discipline of turning raw data into understanding" - [R for Data Science](https://r4ds.hadley.nz/) (Wickham, Çetinkaya-Rundel & Grolemund 2023).
 
-There are concepts, theory, and tools for thinking about and working with data. Just like a field chemistry has concepts for things like moleculte, theory for how they work, and tools for studying them, so does data science --- for data.
+There are concepts, theory, and tools for thinking about and working with data. Just like a field chemistry has concepts for things, theory for how they work, and tools for studying them, so does data science --- for data.
 
-An alternative title to this section would be "data science is a thing": no matter what your study system or your question, there are discernible steps involved that when you embrace will make you more efficient. These steps are illustrated in this figure from Wickham & Grolemund: you will need to import/get your data into analytical software, wrangle it (tidy and transform), and THEN you can start understanding your data and asking your science questions by making sense of it visually and with models.
+No matter what your study system or your question, there are discernible steps involved that when you embrace will make you more efficient. These steps are illustrated in this figure from Wickham & Grolemund: you will need to import/get your data into analytical software, wrangle it (tidy and transform), and THEN you can start understanding your data and asking your science questions by making sense of it visually and with models.
 
 <br>
 
 ![Image from R for Data Science by Wickham & Grolemund](images/r4ds_data-science.png){fig-align="center" width="70%"}
 
-**Tidying your data before asking your science questions is a critical point here**. Don't build your whole analysis around whatever weird format your data may have come in. Data tidying ("data wrangling", "data prep") can take up to 50--80% of a data scientist's time ([Lohr 2014](https://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html), New York Times).
+**Tidying your data before asking your science questions is a critical point here**. Don't build your whole analysis around whatever weird format your data may have come in. That will make it very difficult to later decide you want to examine only a small subset of years, locations, etc. Remember that Data tidying ("data wrangling", "data prep") can take up to 50--80% of a data scientist's time ([Lohr 2014](https://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html), New York Times).
 
 > **Mindset: Decouple your research questions from data questions, get help sooner**
 
@@ -109,7 +94,9 @@ Another important reason to think about data science as a discipline is that it 
 
 Expect there is a way to do what you want to do. This will help you find commonalities and unite you with other members of your research group, and beyond.
 
-> "When I was doing my PhD, I confounded my science questions with my data questions. I was studying squid, asking questions that no one had ever asked before. But I needed to reformat some dates in Matlab. I treated this date-formatting task also as something that no one had ever asked before. I was looking in the cephalopod literature for guidance; I couldn't step back and decouple this data question from my squid question, and I struggled for much, much longer because of it." - Julie Lowndes
+> "When I was doing my PhD, I confounded my science questions with my data questions. I was studying squid, asking questions that no one had ever asked before. But I needed to reformat some dates in MATLAB. I treated this date-formatting task also as something that no one had ever asked before. I was looking in the cephalopod peer-reviewed literature for guidance; I couldn't step back and decouple this data question from my squid question, and I struggled for much, much longer because of it." - Julie Lowndes
+
+### **Open data science tools exist**
 
 **Open data science tools exist** - tools to match data science theory.
 
@@ -119,13 +106,13 @@ Expect there is a way to do what you want to do. This will help you find commona
 
 As Hadley Wickham described in his slides [Welcome to the tidyverse](https://speakerdeck.com/hadley/welcome-to-the-tidyverse?slide=28), tooling exists for every step of this conceptual diagram. They exist to streamline working with data.
 
-These tools are developed by actual people -- nice people!
+These tools are developed by actual people -- nice people! We'll explore them more in the Open Communities lesson.
 
 ### Open as a way to work
 
-Open science is a daily benefit: it is a way to be efficient & streamlined. It is not just an added ask to share data at publication. It's not only about sharing data. It's about how you work, who you include, and the tools that you use. It starts with reuse: when you leverage existing resources, spend less time reinventing. It starts off with yourself: be open with yourself and your team first.
+**Open science is a daily benefit:** it is a way to be efficient & streamlined. It is not just an added ask to share data at publication. It's not only about sharing data. It's about how you work, who you include, and the tools that you use. It starts with reuse: when you leverage existing resources, you learn far more than you came for about good practices and approaches, and spend less time reinventing. It starts off with yourself: be open with yourself and your team first.
 
-Open means easier onboarding -- personal and collective. A focus on inclusive documentation and operations means that it is easier to return to a project, whether it's picking up where you left off last month or when you're handing it off to another person. It's like an external memory (personal and collective).
+**Open means easier onboarding** -- personal and collective. A focus on inclusive documentation and operations means that it is easier to return to a project, whether it's picking up where you left off last month or when you're handing it off to another person. It's like an external memory (personal and collective).
 
 Open requires trust and safety -- starting with your team. Psychological safety is a big part of open.
 
@@ -145,23 +132,25 @@ Open helps you build confidence -- skills are transferable beyond your science. 
 
 Focus on common parts that unite you, not what sets you apart.
 
-Build horizontal leadership & resilience so that there is less reinventing, less knowledge lost, less loneliness. Think of the lab horizontally as skillsets & needs instead of vertically as science bins
+Build horizontal leadership & resilience so that there is less reinventing, less knowledge lost, less loneliness. Think of the lab horizontally as skillsets & needs instead of vertically as science bins.
 
 It's about diversity, equity, inclusion, and belonging: Instead of the skills you have when you come to the group determining how you will be able to Do Science, co-create shared practices and deliberate paths to onboard new people, and skill-share to continue learning together.
 
 > **Mindset: What do our workflows have in common and how can we learn from each other**
 
-Science is collaborative. Let's make it less heads down elbows out.
+Science is collaborative. Let's make it more head up, heart open and less heads down, elbows out.
 
 ### Collaborators & community (redefined) as a way to learn
 
-Learn from, with, and for others. This helps overcome isolation, self-taught bad practices, apprehension ([Stevens et al. 2018](https://www.biorxiv.org/content/early/2018/02/15/265421)). It helps you transform from "self-taught" to "community-taught".
+Learn from, with, and for others ([Lowndes 2019](https://www.scientificamerican.com/blog/observations/open-software-means-kinder-science/)). This helps overcome isolation, self-taught bad practices, apprehension ([Stevens et al. 2018](https://www.biorxiv.org/content/early/2018/02/15/265421)). It helps you transform from "self-taught" to "community-taught".
 
-> "We learn from others by using their code and documentation, their blogs and tutorials, their talks and webinars. We learn with others online through Twitter, discussion forums and Slack channels, and in person through coding clubs, hacky hours, meetups, workshops and conferences. And we learn for others by writing tutorials and blogs about our own learning processes, or adding or fulfilling feature requests, which we can then contribute back to the community." - [Lowndes 2019, Open Software Means Kinder Science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/)
+> "Everyone in the community, no matter how accomplished they are in their
+> own specialty, comes with a **mind open to learning from, with, and for
+> each other.**
+>
+> We learn from others by using their code and documentation, their blogs and tutorials, their talks and webinars. We learn with others online through Twitter, discussion forums and Slack channels, and in person through coding clubs, hacky hours, meetups, workshops and conferences. And we learn for others by writing tutorials and blogs about our own learning processes, or adding or fulfilling feature requests, which we can then contribute back to the community." - [Lowndes 2019, Open Software Means Kinder Science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/)
 
-Use the Internet more for science (it is such an underleveraged tool!). Learn and connect through Twitter, blogs, forums, new comms outlets...(It is such a cool time to be a scientist).
-
-![Example open communities and Tweet](images/mindset-internet.png)
+Use the Internet more for science (it is such an underleveraged tool!). Learn and connect through social media, blogs, forums, new communications outlets...(It is such a cool time to be a scientist).
 
 > **Mindset: Engage as feels right but know you're not alone**
 
@@ -172,6 +161,8 @@ Use the Internet more for science (it is such an underleveraged tool!). Learn an
 > **'We' speaks to justice, to how we do the work that needs doing and whose contributions are valued. We cannot, we must not, go it alone"**
 >
 > \- Ayana Elizabeth Johnson & Katharine Wilkinson, [All We Can Save](https://allwecansave.earth)
+
+Working towards solutions to some of our world's greatest challenges means teamwork and progress at unprecedented levels in ways that have never been seen before. We are part of shaping this. We can use this motivation to ask difficult questions, have difficult conversations, and be leaders, no matter our job titles.
 
 ## Recap
 

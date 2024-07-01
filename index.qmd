@@ -124,6 +124,7 @@ Read more about How We Work:
 -   [Openscapes Approach Guide](https://openscapes.github.io/approach-guide)
 -   [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/) (Robinson & Lowndes 2022)
 -   [3 lessons from remote meetings we're taking back to the office](https://opensource.com/article/20/6/remote-meetings) (Lowndes, Cabunoc Mayes & Sansing 2020)
+- [How to run a remote workshop, Openscapes/Open Leaders-style](https://openscapes.org/blog/2020-03-11-tips-remote-workshops/) (complementing blog post)
 
 ### This Series Book
 
