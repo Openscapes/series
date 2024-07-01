@@ -140,17 +140,15 @@ Embrace emerging and established community best practices
 
 ### Identify what skills and tools you need, map next steps & learn
 
-
+We will introduce concepts, tools, and workflows and start creating a shared culture around them. That can mean knowing what skills or tools to learn or how to help someone else.
 
 ## Deliverables
 
 Also known as outcomes you can communicate with your supervisors.
 
-- A more open culture in your group
-  - dedicated group meetings to discuss workflows and psychological safety
-    - **“Seaside chats”** to regularly skill-share ([Lowndes et al. 2019](https://openscapes.github.io/supercharge-research/), [2024](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341)) 
-  - stated **code of conduct** or lab group philosophy
-  - beginnings of a group **pathway** (roadmap) of shared data workflows
+- A more open culture in your group, in part via:
+  - regular, dedicated group meetings to skill-share, discuss workflows, & build psychological safety (**“seaside chats”**, [Lowndes et al. 2019](https://openscapes.github.io/supercharge-research/), [2024](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341)) 
+  - beginnings of a group **pathway** (roadmap) of how you work and next steps for shared workflows
 - Be agents of change for open science in your groups, departments, communities, and part of a networked global movement for kinder, open practices and culture change  
 
 
@@ -166,7 +164,7 @@ Example topics:
 - Let's screenshare using Chat/Slack/etc and have a shared plan for how we communicate with each other and get help.
 - Let’s plan a group “hackathon” to move these .xls to .csv files we store on Github
 
-Example lessons from the Ocean Health Index team's Seaside Chats:
+Example lessons from the Ocean Health Index team's Seaside Chats ([Lowndes et al. 2017](https://www.nature.com/articles/s41559-017-0160)):
 
 - [Introduction to GitHub](https://github.com/eco-data-science/github-intro-2)
 - [Text analysis in R](https://github.com/oharac/text_workshop)
@@ -180,23 +178,5 @@ Example lessons from the Ocean Health Index team's Seaside Chats:
 Attending Cohort Calls is not enough, to apply what you learn to your work, build habits, and troubleshoot, you will need to dedicate additional time. At a minimum, we recommend 1.5 hours each week to review what you learned, develop your Pathway document, and try things on your own work. This time is designed to be done during team "Seaside chats", weekly meetings to discuss data workflows and establish shared practices, or Coworking, where Openscapes Mentors will be there to help answer questions and demo additional examples. 
 
 Reflection is important for skill-building; come prepared to reflect and share in the following Cohort Call!
-
-## Additional reading
-
-- [Practical Computing for Biologists](https://practicalcomputing.org/). Introduction to the Terminal/command line, introduction to regular expressions. Chapter 2 alone is incredibly powerful for building immediate cross-software skills and thinking differently (Disclosure: Lowndes was an alpha reviewer in grad school).
-- Virtual meetings
-  - <https://opensource.com/article/20/6/remote-meetings>
-  - <https://aspirationtech.org/blog/virtualmeetingpowerdynamics>
-
-
-
-<!---
-## What we'll do
-
-We are going to introduce you to concepts and tools and how to create a shared culture around them. That can mean knowing what skills or tools to learn or how to help someone else. This Series will help get you started. 
-
-Let's make science more of a collaborative effort with everyone valued and able to contribute in their own way.
-
---->
 
 
