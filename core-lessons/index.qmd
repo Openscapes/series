@@ -4,9 +4,13 @@ title: Core Lessons
 
 ## Better Science for Future Us 
 
-“Better science” means science that is more open, reproducible, efficient, and also more diverse, equitable, inclusive, kind. And “future us” is ourselves, teams, communities in the next hour, week, decades – with a focus on onboarding ourselves and others to ongoing work.
+**Better science** is science that is more open, reproducible, efficient, interoperable, and also more diverse, equitable, inclusive, and kind.
 
-Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster.
+**Future Us** is the idea of considering ourselves, our teams, and communities - those who will be joining and continuing our work - whether that is in the next hour, week, or decades – and with a focus on onboarding ourselves and others to ongoing work.
+
+Together better science for future us is an important mindset for science and society at large, and particularly important as we face global challenges in Earth & environmental science and society that are intensified with climate change.
+
+Better science for future us is a real time investment, particularly for data-intensive research. And it is something we can do together.
 
 This Series is going to be fun and empowering! We will talk about a lot of tools and practices to make your science more streamlined. This is really powerful, cool stuff, and not just for data: we made and published this book using the tools and workflows we'll talk about.
 
