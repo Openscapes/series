@@ -59,8 +59,8 @@ website:
         contents:
          - href: "additional-lessons/code-of-conduct.qmd"
            text: Code of Conduct
-         - href: "additional-lessons/r-for-scicomm.qmd"  
-           text: R for SciComm
+         - href: "additional-lessons/reporting-scicomm.qmd"  
+           text: Reporting and SciComm
          - href: "additional-lessons/documentation.qmd"  
            text: Documentation
       - community-lessons/index.qmd
