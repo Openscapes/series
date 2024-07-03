@@ -1,0 +1,109 @@
+---
+title: "Openscapes Champions Lesson Series"
+subtitle: "Open educational resources for Openscapes Champions" 
+date: "August 2023"
+author: "Openscapes team"
+citation_url: https://openscapes.github.io/series
+format:
+  pdf:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    number-depth: 1
+    output-file: "openscapes-series"
+    output-ext:  "pdf"
+editor: source
+---
+
+```{r}
+#| echo: false
+#| eval: true
+
+# This approach borrowed from https://github.com/royal-statistical-society/datavisguide/blob/main/_make_pdf.qmd
+
+process_qmd <- function(file, fpath_in = "images/", fpath_out = "images/", level = 1) {
+  doc <- readLines(file)
+  end_yaml <- which(doc == "---")[2]
+  out_doc <- doc[seq(end_yaml + 1, length(doc))]
+
+  # remove margin illustration in pathways
+  margin_start <- which(out_doc == "::: column-margin")
+  if (length(margin_start == 1)) {
+    out_doc <- c(
+      out_doc[seq(1, margin_start - 1)],
+      out_doc[seq(margin_start + 4, length(out_doc))]
+    )
+  }
+
+  if (fpath_in != fpath_out) {
+    out_doc <- stringr::str_replace_all(out_doc, fpath_in, fpath_out)
+  }
+
+  # increase the level by n = level - 1 by adding a # to each heading
+  out_doc <- gsub("^(#+)", paste0("\\1", paste0(rep("#", level), collapse = "")), out_doc)
+
+  res <- knitr::knit_child(text = out_doc, quiet = TRUE, options = list(eval = FALSE, echo = TRUE))
+  return(res)
+}
+```
+
+```{r}
+#| output: asis
+#| echo: false
+#| eval: true
+#| message: false
+parts <- list(
+  list(title = "Welcome", dir = ".", file = "index.qmd", img_path = "images/", level = 1),
+  list(title = "Core Lessons", dir = "core-lessons", file = "index.qmd", img_path = "images/", level = 1),
+  list(title = "Mindset", dir = "core-lessons", file = "mindset.qmd", img_path = "images/", level = 2),
+  list(title = "Better Science", dir = "core-lessons", file = "better-science.qmd", img_path = "images/", level = 2),
+  list(title = "GitHub Strategies", dir = "core-lessons/github", file = "index.qmd", img_path = "images/", level = 2),
+  list(title = "GitHub for publishing", dir = "core-lessons/github/", file = "github-pub.qmd", img_path = "images/", level = 3),
+  list(title = "GitHub for project management", dir = "core-lessons/github/", file = "github-issues.qmd", img_path = "images/", level = 3),
+  list(title = "Team Culture", dir = "core-lessons", file = "team-culture.qmd", img_path = "images/", level = 2),
+  list(title = "Data Strategies", dir = "core-lessons", file = "data-strategies.qmd", img_path = "images/", level = 2),
+  list(title = "Coding Strategies", dir = "core-lessons", file = "coding-strategies.qmd", img_path = "images/", level = 2),
+  list(title = "Open Communities", dir = "core-lessons", file = "communities.qmd", img_path = "images/", level = 2),
+  list(title = "Pathways", dir = "core-lessons", file = "pathways.qmd", img_path = "images/", level = 2),
+  "# Additional Lessons",
+  list(title = "Code of Conduct", dir = "additional-lessons", file = "code-of-conduct.qmd", img_path = "images/", level = 2),
+  list(title = "R for SciComm", dir = "additional-lessons", file = "r-for-scicomm.qmd", img_path = "images/", level = 2),
+  list(title = "Documentation", dir = "additional-lessons", file = "documentation.qmd", img_path = "images/", level = 2),
+  list(title = "Community Lessons", dir = "community-lessons", file = "index.qmd", img_path = "images/", level = 1),
+  list(title = "How Do I...", dir = "how-do-i", file = "index.qmd", img_path = "images/", level = 1),
+  list(title = "Setup RStudio & GitHub", dir = "how-do-i", file = "setup-rstudio-github.qmd", img_path = "images/", level = 2),
+  list(title = "Do & fix git things", dir = "how-do-i", file = "do-fix-git-things.qmd", img_path = "images/", level = 2),
+  list(title = "Refactor code", dir = "how-do-i", file = "refactor-modularize-code.qmd", img_path = "images/", level = 2),
+  list(title = "Start with Quarto", dir = "how-do-i", file = "create-publish-quarto.qmd", img_path = "images/", level = 2),
+  list(title = "Ask questions", dir = "how-do-i", file = "ask-questions.qmd", img_path = "images/", level = 2),
+  list(title = "Discuss community", dir = "how-do-i", file = "discuss-community.qmd", img_path = "images/", level = 2),
+  list(title = "Reuse Openscapes Approach", dir = "how-do-i", file = "reuse-openscapes-approach.qmd", img_path = "images/", level = 2),
+  "# Inspiration",
+  list(title = "Resources that influence us", dir = "inspiration", file = "resources-that-influence.qmd", img_path = "images/", level = 2)
+)
+
+purrr::walk(
+  parts,
+  function(x) {
+    if (is.character(x)) {
+      cat("\n\n")
+      cat(x)
+      cat("\n\n")
+      return(NULL)
+    }
+    doc_txt <- process_qmd(
+      file = file.path(x$dir, x$file),
+      fpath_in = x$img_path,
+      fpath_out = file.path(x$dir, x$img_path),
+      level = x$level
+    )
+    title <- paste(paste0(rep("#", x$level), collapse = ""), x$title)
+    cat(title)
+    cat("\n")
+    cat("\n")
+    cat(unlist(doc_txt), sep = "\n")
+    cat("\n")
+    cat("\n")
+  }
+)
+```
