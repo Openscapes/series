@@ -19,7 +19,25 @@ jobs:
           # uncomment below and fill to pin a version
           # version: 0.9.600
       
-      # add software dependencies here
+      - name: Install R packages
+        run: |
+          install.packages(c("knitr", "rmarkdown", "quarto", "stringr", "purrr"))
+        shell: Rscript {0}
+        
+      - name: Render PDF
+        run: |
+          quarto::quarto_render("_make_pdf.qmd")
+        shell: Rscript {0}
+        
+      - name: Commit files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add openscapes-series.pdf
+          git commit -m "Render PDF"
+          git push
+        env:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish to GitHub Pages (and render)
         uses: quarto-dev/quarto-actions/publish@v2
