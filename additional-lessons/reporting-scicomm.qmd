@@ -16,7 +16,7 @@ We've talked and taught about this in different places:
 Strategies with RMarkdown also apply to Quarto
 
 - [RMarkdown](https://rmarkdown.rstudio.com) - RStudio (2021)
-- [How I teach RMarkdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown) - Hill (2020)
+- [How I teach RMarkdown](https://www.apreshill.com/blog/2020-05-how-i-teach-r-markdown/) - Hill (2020)
 - [R Markdown for scientists](https://rmd4sci.njtierney.com) - Tierney (2020)
 - [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel) - Lowndes & Horst (2020)
 - [RMarkdown website tutorial](http://jules32.github.io/rmarkdown-website-tutorial) - Lowndes (2016) 
