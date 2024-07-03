@@ -71,11 +71,10 @@ Here are a few one-slide pictures of Pathways presented by Champions teams in th
 
 ### Read more
 
--   [Champions Program blog posts](https://www.openscapes.org/categories/champions/); you'll find more Pathways shared as slides and stories following the 2-month cohort
+-   [Champions Program blog posts](https://openscapes.org/blog#category=champions); you'll find more Pathways shared as slides and stories following the 2-month cohort
 
 -   [A TL;DR Collection of Stories from Openscapes Champions and Mentors](https://docs.google.com/presentation/d/1YAnaRFsKX3H6cSTXoOl-GksH-eebifQ6vzN7UwfoXUY/edit?usp=sharing); these stories are largely from 3 months+ following Pathways presentations
 
--   [Case Studies](https://www.openscapes.org/tags/case-study/) from the inaugural Champions Cohort (2019)
 
 ```{=html}
 <!---
