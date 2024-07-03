@@ -1,5 +1,6 @@
 project: 
   type: website
+  resources: openscapes-series.pdf
   
 website: 
   page-navigation: true
@@ -28,6 +29,9 @@ website:
       - icon: github
         href: https://github.com/openscapes/series
         text: "Openscapes Series GitHub"
+      - icon: file-pdf
+        href: openscapes-series.pdf
+        aria-label: PDF
 
     style: "docked"
     search: true
@@ -48,7 +52,7 @@ website:
          - href: "core-lessons/team-culture.qmd"
            text: Team culture
          - href: "core-lessons/data-strategies.qmd"
-           text: Data stategies
+           text: Data strategies
          - href: "core-lessons/coding-strategies.qmd"
            text: Coding strategies
          - href: "core-lessons/communities.qmd"
