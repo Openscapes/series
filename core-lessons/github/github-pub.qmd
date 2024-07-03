@@ -103,7 +103,7 @@ We're not going to talk about branches and forks. These are a core feature of wh
 
 ## GitHub Orientation
 
-*For a demo of the following, see the GitHub Clinic recordings listed on the [GitHub Strategies](/core-lessons/github/index.qmd#github-clinic) page.
+*For a demo of the following, see the GitHub Clinic recordings listed on the [GitHub Strategies](/core-lessons/github/index.qmd#github-clinic) page.*
 
 <br>
 
