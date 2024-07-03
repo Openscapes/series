@@ -52,6 +52,13 @@ process_qmd <- function(file, fpath_in = "images/", fpath_out = "images/", level
 #| echo: false
 #| eval: true
 #| message: false
+
+# To add a new page, add a new list item to the "parts" list, following the
+# attern here, listing the page title, the directory, the file name,
+# and the level at which it should appear in the nav/chapter hierarchy.
+# Standalone headings can be added as a single character preceded by the
+# '#' (e.g., '# Additional Lessons')
+
 parts <- list(
   list(title = "Welcome", dir = ".", file = "index.qmd", img_path = "images/", level = 1),
   list(title = "Core Lessons", dir = "core-lessons", file = "index.qmd", img_path = "images/", level = 1),
