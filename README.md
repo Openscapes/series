@@ -5,7 +5,7 @@
 # Openscapes Lesson Series
 Lesson series for the Openscapes Champions program. 
 
-See <https://openscapes.org/champions> for more information.
+See <https://openscapes.org/initiatives> for more information.
 
 
 ----
