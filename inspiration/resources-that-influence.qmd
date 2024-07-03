@@ -1,4 +1,6 @@
-# Resources that influence us {#resources-influence}
+---
+title: Resources that influence us
+---
 
 *Some resources that influence our thinking.*
 
