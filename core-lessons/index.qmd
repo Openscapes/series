@@ -4,9 +4,13 @@ title: Core Lessons
 
 ## Better Science for Future Us 
 
-“Better science” means science that is more open, reproducible, efficient, and also more diverse, equitable, inclusive, kind. And “future us” is ourselves, teams, communities in the next hour, week, decades – with a focus on onboarding ourselves and others to ongoing work.
+**Better science** is science that is more open, reproducible, efficient, interoperable, and also more diverse, equitable, inclusive, and kind.
 
-Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster.
+**Future Us** is the idea of considering ourselves, our teams, and communities - those who will be joining and continuing our work - whether that is in the next hour, week, or decades – and with a focus on onboarding ourselves and others to ongoing work.
+
+Together better science for future us is an important mindset for science and society at large, and particularly important as we face global challenges in Earth & environmental science and society that are intensified with climate change.
+
+Better science for future us is a real time investment, particularly for data-intensive research. And it is something we can do together.
 
 This Series is going to be fun and empowering! We will talk about a lot of tools and practices to make your science more streamlined. This is really powerful, cool stuff, and not just for data: we made and published this book using the tools and workflows we'll talk about.
 
@@ -140,77 +144,43 @@ Embrace emerging and established community best practices
 
 ### Identify what skills and tools you need, map next steps & learn
 
-
+We will introduce concepts, tools, and workflows and start creating a shared culture around them. That can mean knowing what skills or tools to learn or how to help someone else.
 
 ## Deliverables
 
-aka Outcomes.
+Also known as outcomes you can communicate with your supervisors.
 
-- Be champions for open data science (in your groups, departments, communities.)
-- A more open culture in your group
-  - dedicated lab meetings to discuss data workflows
-    - **“Seaside chats”** (<- this is what we call them at OHI)
-  - stated **code of conduct** or lab group philosophy
-  - beginnings of a lab **roadmap** of shared data workflows
-- A growing community of practice on campus 
-  - study groups / **coding clubs** (ex: [Eco-Data-Science](http://eco-data-science.github.io/))
-  - hacky hours
+- A more open culture in your group, in part via:
+  - regular, dedicated group meetings to skill-share, discuss workflows, & build psychological safety (**“seaside chats”**, [Lowndes et al. 2019](https://openscapes.github.io/supercharge-research/), [2024](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341)) 
+  - beginnings of a group **pathway** (roadmap) of how you work and next steps for shared workflows
+- Be agents of change for open science in your groups, departments, communities, and part of a networked global movement for kinder, open practices and culture change  
 
 
 ### What would you do in a Seaside Chat?
 
-Example topics from the Ocean Health Index:
+Example topics:
 
-- Let’s have READMEs so we know what the heck things are
-- Set up Zotero with RMarkdown
-- Filepath woes: use .Rprojects 
+- Let’s organize folders and have READMEs so we know what things
 - Where to put data – here’s how our server works
-- Filepath woes 2: use the new `here` package!
-- Let’s plan a lab “hackathon” to move these .xls to .csv files we store on Github
+- Let's ask how each other are doing and help identify and address common challenges
+- Set up Zotero with RMarkdown
+- Filepath woes: R users use .Rprojects and `here` package
+- Let's screenshare using Chat/Slack/etc and have a shared plan for how we communicate with each other and get help.
+- Let’s plan a group “hackathon” to move these .xls to .csv files we store on Github
 
-### What would you do in a Study Group?
-
-Example lessons from [Eco-Data-Science](http://eco-data-science.github.io/) (<- all lessons linked “previous sessions”)
+Example lessons from the Ocean Health Index team's Seaside Chats ([Lowndes et al. 2017](https://www.nature.com/articles/s41559-017-0160)):
 
 - [Introduction to GitHub](https://github.com/eco-data-science/github-intro-2)
 - [Text analysis in R](https://github.com/oharac/text_workshop)
 - [Spatial analysis in R](https://github.com/eco-data-science/spatial-analysis-R)
 - [Free websites with RMarkdown](https://jules32.github.io/rmarkdown-website-tutorial/)
 - [Animated plots in R with ggplot2 & gganimate](https://raw.githack.com/allisonhorst/eds-ggplot2-gganimate/master/gganimate_key.html)
-- [Intro to Python](http://eco-data-science.github.io/)
 
 
+### Coworking
 
-### Assignments
+Attending Cohort Calls is not enough, to apply what you learn to your work, build habits, and troubleshoot, you will need to dedicate additional time. At a minimum, we recommend 1.5 hours each week to review what you learned, develop your Pathway document, and try things on your own work. This time is designed to be done during team "Seaside chats", weekly meetings to discuss data workflows and establish shared practices, or Coworking, where Openscapes Mentors will be there to help answer questions and demo additional examples. 
 
-There will be assignments between each call that should take about two hours over two weeks. Assignments are designed to be done during lab "Seaside chats", weekly meetings to discuss data workflows and establish shared practices. 
-
-Assigned after each call. Do them collaboratively during lab "Seaside chats". They should take take 2 hours (over 2 weeks). Come prepared to debrief in the following Cohort Call!
-
-
-<!---
-## Slides
-
-Slides for this chapter are available [here]()
---->
-
-
-## Additional reading
-
-- Practical Computing for Biologists. Introduction to the Terminal/command line, introduction to regular expressions. Chapter 2 alone is incredibly powerful
-- Virtual meetings
-  - https://opensource.com/article/20/6/remote-meetings
-  - https://aspirationtech.org/blog/virtualmeetingpowerdynamics
-
-
-
-<!---
-## What we'll do
-
-We are going to introduce you to concepts and tools and how to create a shared culture around them. That can mean knowing what skills or tools to learn or how to help someone else. This Series will help get you started. 
-
-Let's make science more of a collaborative effort with everyone valued and able to contribute in their own way.
-
---->
+Reflection is important for skill-building; come prepared to reflect and share in the following Cohort Call!
 
 

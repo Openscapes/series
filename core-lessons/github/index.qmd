@@ -36,7 +36,7 @@ This introduction was developed with Allison Horst in the **GitHub Illustrated S
 
 So let's talk about why GitHub is so empowering for our project-oriented and collaborative lives.
 
-![](images/github_friends.png){fig-alt="A row of 6 cute smiling monsters celebrating using GitHub. The first, wearing a climbing harness labeled \"Me\" is high-fiving another whose harness says \"Future Me\". Others hold a box of snacks (tacos!), a map, a rope. Text above the monsters quotes Jenny Bryan: \\\"Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review" fig-align="center"}
+![](images/github_friends.png){fig-alt="A row of 6 cute smiling monsters celebrating using GitHub. The first, wearing a climbing harness labeled \"Me\" is high-fiving another whose harness says \"Future Me\". Others hold a box of snacks (tacos!), a map, a rope. Text above the monsters quotes Jenny Bryan: \\\"Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review" fig-align="center" width="85%"}
 
 See the **GitHub Illustrated Series** ([Horst & Lowndes 2022](https://openscapes.org/blog/2022/05/27/github-illustrated-series/)) for the full series!
 
@@ -46,7 +46,7 @@ When we teach GitHub, we find it's useful to say explicitly that we should go in
 
 As part of this, we like how Jenny Bryan ([Code Smells and Feels](https://github.com/jennybc/code-smells-and-feels#code-smells-and-feels)) thinks about this - that your tastes develops faster than your abilities.
 
-![Slide from Jenny Bryan (Code Smells and Feels)](images/hedgehog-jenny-bryan.png){fig-align="center"}
+![Slide from Jenny Bryan (Code Smells and Feels)](images/hedgehog-jenny-bryan.png){fig-align="center" width="80%"}
 
 ## GitHub for research groups
 
@@ -54,10 +54,11 @@ As you get a better hands-on sense of GitHub's capabilities, you'll be thinking 
 
 ### Organizations
 
-Here are two examples of GitHub Organizations created as part of Openscapes Champions Cohorts where the content is now developed and maintained to support a broader range of researchers.
+Here are examples of GitHub Organizations created as part of Openscapes Champions Cohorts where the content is now developed and maintained to support a broader range of researchers.
 
 -   NASA Openscapes <https://github.com/NASA-Openscapes>
 -   NMFS Openscapes for NOAA Fisheries <https://github.com/nmfs-openscapes>
+-   California Water Board <https://github.com/CAWaterBoardDataCenter>
 
 Many Champions teams create GitHub Organizations for their research group. This is a way for all the work that happens in the research group to be organized in one place, but also clearly attributed and credited by each user who contributes.
 
@@ -109,13 +110,13 @@ inactive or possibly created prior to Openscapes Cohort
 - <https://github.com/khyde>
 -->
 ```
-#### Should my students create repos in our lab organization?
+#### Should my students create repos in our group organization?
 
-While there are many different approaches that could make sense for your group, our starting recommendation would be that any project happening in the research group gets its own repository, and that repository is in the research group's Organization. This is then clearly part of the research group's work and more findable by past/current/future members. And it can be forked to other accounts at any time.
+While there are many different approaches that could make sense for your group, our starting recommendation would be that any project happening in the research group gets its own repository, and that repository is in the research group's Organization. This is then clearly part of the research group's work and more findable by past/current/future members. And it can be forked/moved to other accounts at any time.
 
 ### Issues
 
-Issues and Projects are a great way to keep organized. See a few examples in the [NOAA Fisheries wiki](https://github.com/nmfs-openscapes/.github/wiki/11-GitHub-Project-Boards#gallery) and Openscapes [How We Work](https://github.com/Openscapes/how_we_work) issues and [Planning](https://github.com/orgs/Openscapes/projects/5) project.
+Issues and Projects are a great way to keep organized. See a few examples in the [NOAA Fisheries Resource Book](https://nmfs-opensci.github.io/ResourceBook/content/project_management/github_project_boards.html) and Openscapes [How We Work](https://github.com/Openscapes/how_we_work/issues) issues and [Planning](https://github.com/orgs/Openscapes/projects/13) project.
 
 #### How much should I write in a single Issue?
 
@@ -137,6 +138,6 @@ Branches are powerful as your teams grow and/or as you become savvier with GitHu
 
 Full question: "Right now any collaborative code in my group has a main branch and a dev branch. All collaborators clone the dev branch and push back to the dev branch on GitHub before anything ever goes to main. Is this best practice?"
 
-Advice: This system with the dev branch works so long as the dev doesn't diverge too far from the main branch - the Ocean Health Index project (my old research team) does it that way but it's someone's job for a few weeks at the end of each year making sure the dev branch can merge into main.
+Advice: This system with the dev branch works so long as the dev doesn't diverge too far from the main branch - the Ocean Health Index project does it that way but it's someone's job for a few weeks at the end of each year making sure the dev branch can merge into main.
 
 Another approach is to treat each branch as very temporary: you make a branch from main, add your contribution, make a pull request, merge and delete the branch. This is what we've been doing with the NASA Mentors and it's more continuous little updates rather than larger big updates, and I think it works better when working with Jupyter Notebooks, which can cause a lot of merge conflicts.

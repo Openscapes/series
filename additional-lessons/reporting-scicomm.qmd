@@ -1,0 +1,23 @@
+---
+title: Quarto/RMarkdown for reporting & science communication
+---
+
+We can use Quarto and RMarkdown as powerful tools for reporting and science communication. So much potential for public communication, lab protocols and documents, etc. with R and Python workflows.
+
+We've talked and taught about this in different places: 
+
+- [Documenting things: openly for future us](https://openscapes.github.io/documenting-things/#/title-slide) - September 19, 2023, at posit::conf(2023) shared practical tips and repeatable strategies (from impact of NASA Openscapes & beyond)
+- [Data science as an entryway to open publishing](https://docs.google.com/presentation/d/1Jv0akRHEnjG_4t_9P7t93682BCBJskYnRu_7EnaeDQI/edit?usp=sharing) - May 27, 2020: Fireside Chat co-presented with Dr. Nick Tierney at Open Publishing Fest.
+- These 2019 Champions [slides](https://docs.google.com/presentation/d/1efJj7Dxg_g4ZRZT2b1agDQrT3DN5lVcNvv25IWcyGlw/edit?usp=sharing) show some early descriptions for teaching  
+
+
+## Further resources
+
+Strategies with RMarkdown also apply to Quarto
+
+- [RMarkdown](https://rmarkdown.rstudio.com) - RStudio (2021)
+- [How I teach RMarkdown](https://www.apreshill.com/blog/2020-05-how-i-teach-r-markdown/) - Hill (2020)
+- [R Markdown for scientists](https://rmd4sci.njtierney.com) - Tierney (2020)
+- [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel) - Lowndes & Horst (2020)
+- [RMarkdown website tutorial](http://jules32.github.io/rmarkdown-website-tutorial) - Lowndes (2016) 
+- [Academic Publications with R Markdown](https://danovando.github.io/publications-with-rmarkdown/presentations/pubs-with-rmarkdown#9)- Ovando 2020

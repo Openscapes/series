@@ -113,6 +113,8 @@ If you have read this page, you are prepared for your Cohort! We're often asked 
 
 [**Supercharge your research: a ten-week plan for open data science**](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019). This was co-authored with the inaugural Champions Cohort, capturing the most valuable take-aways for marine and environmental science early career faculty.
 
+[**Shifting institutional culture to develop climate solutions with Open Science**](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341) (Lowndes et al 2024, Ecology & Evolution). This was co-authored by Openscapes mentors across organizations – including NASA Earthdata, NOAA Fisheries, EPA, California Water Boards, Pathways to Open Science, Fred Hutch Cancer Center. 
+
 See also other publications and presentations at [openscapes.org/media](https://openscapes.org/media).
 
 ## About
@@ -123,7 +125,9 @@ Read more about How We Work:
 
 -   [Openscapes Approach Guide](https://openscapes.github.io/approach-guide)
 -   [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/) (Robinson & Lowndes 2022)
+- [Shifting institutional culture to develop climate solutions with Open Science](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341) (Lowndes et al 2024, Ecology & Evolution)
 -   [3 lessons from remote meetings we're taking back to the office](https://opensource.com/article/20/6/remote-meetings) (Lowndes, Cabunoc Mayes & Sansing 2020)
+- [How to run a remote workshop, Openscapes/Open Leaders-style](https://openscapes.org/blog/2020-03-11-tips-remote-workshops/) (complementing blog post)
 
 ### This Series Book
 
