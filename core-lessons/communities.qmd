@@ -102,7 +102,7 @@ In the past, Twitter has been a legit tool for science, a good way to learn what
 
 -   [NMFS Open Sci (NOAA Fisheries)](https://nmfs-opensci.github.io/)
 
-    -   see also <https://openscapes.github.io/series/community-lessons/#nmfs-openscapes>
+    -   see also <https://openscapes.github.io/series/forkeds-lessons/#nmfs-openscapes>
 
 -   Interagency Ecological Program [Data Science Project Work Team](https://iep.ca.gov/Science-Synthesis-Service/Project-Work-Teams/Data-Science)
 
