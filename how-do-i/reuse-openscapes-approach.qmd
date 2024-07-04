@@ -2,7 +2,7 @@
 title: "Reuse the Openscapes Approach"
 ---
 
-We designed, facilitate, and teach building from what has worked in many other programs and resources. In the open science world, this is often called "reuse and remix" - reusing parts and tailoring and building them out for your needs. We reuse/remix heavily from Mozilla Open Leaders, RStudio, RLadies, rOpenSci, and many others. 
+We designed, facilitate, and teach building from what has worked in many other programs and resources. In the open science world, this is often called "reuse and remix" - reusing parts and tailoring and building them out for your needs. We reuse/remix heavily from Mozilla Open Leaders, RStudio, RLadies, rOpenSci, and many others. It's exciting to see these ideas spread! See the [Forked Lessons](/forked-lessons/index.qmd) chapter for inspiring examples of the Openscapes community making real change in their teams and organizations.
 
 The [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) is where we're starting to document our approach so that others can lead their own Champions Cohorts. Even if you're not leading your own Cohort, there are many things we do that you can reuse. For example: 
 
@@ -10,4 +10,6 @@ The [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) is
 - Begin a meeting with a Roll Call/Check in and Code of Conduct
 - Share slides before giving your talk so that folks can see them in high resolution and click on links
 - Teach using other people's slides
+
+
 

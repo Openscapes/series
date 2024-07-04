@@ -1,22 +1,23 @@
 ---
-title: Community Lessons
+title: Forked Lessons
 ---
 
-There are growing resources developed by Openscapes teams! 
+**"Forking"** is a concept from GitHub where you make a copy of someone's files (traditionally code and documentation) into your own workspace so you can reuse, tailor, and extend to your needs. Importantly, your forked work is still networked back to the original with credit, and it is visible to others so they can learn from you, and find the original source. 
 
-This is the beginning of a growing list; please share others to add. You can suggest via GitHub on the right of this page - click "Edit this page" or "Report an Issue", or share your idea via Twitter (linked below the logo on the left) or email openscapes @ nceas.ucsb.edu. 
+**Open science ideas and Openscapes approaches can be forked - this is a contributing way we can see culture change in action.** There are growing resources developed by the Openscapes community as they make real change within their research groups, across their organizations, and beyond.
+
+This is the beginning of a growing list; please share others to add as you see them  You can suggest via GitHub on the right of this page - click "Edit this page" or "Report an Issue", or email hello @ openscapes.org. 
 
 ## NASA Openscapes Cloud Tutorials
 
 The NASA Earthdata-Openscapes Mentors team and other contributors are creating open educational resources to help researchers migrate workflows to the Cloud - all available for reuse and remix.
 
-[NASA Openscapes Cloud Tutorials](https://nasa-openscapes.github.io/cookbook-navbar-page.html)
+[NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook)
 
-Check out the 2021-Cloud-Hackathon materials!
 
-## NMFS Openscapes 
+## NOAA Fisheries Openscapes 
 
-The overarching vision of the NMFS Openscapes is to support scientific researchers within NOAA Fisheries by providing training in reproducible scientific workflows and platforms, facilitating collaboration across divisions in common scientific data science tasks, and providing shared "best practices" resources. Check out the NMFS R UG (R Users Group) for upcoming events and Wiki for links to resources and examples of open science at NOAA Fisheries.
+The overarching vision of the NOAA Fisheries Openscapes is to support scientific researchers within the National Marine Fisheries Service (NMFS) by providing training in reproducible scientific workflows and platforms, facilitating collaboration across divisions in common scientific data science tasks, and providing shared "best practices" resources. Check out the NMFS R UG (R Users Group) for upcoming events and Wiki for links to resources and examples of open science at NOAA Fisheries.
 
 [NMFS-OpenSci](https://nmfs-opensci.github.io/) ([github](https://github.com/nmfs-opensci))
 
@@ -69,13 +70,17 @@ Allison Horst shares many open educational resources, including workshops and sl
 
 >"I actively work to contribute to open educational resources, including software for data science education (e.g. the [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/) R dataset package), and artwork for data science & stats teachers and learners. From 2019 - 2020 I was RStudio’s first Artist-in-Residence. You can read more about my motivation in that role in [this blog post](https://www.rstudio.com/blog/artist-in-residence/), and you can find some of my R- and stats-related artwork [in this repo](https://github.com/allisonhorst/stats-illustrations)."
 
-Allison teaches environmental data science at UCSB (see her courses at <https://ucsb-meds.github.io/>).
+Allison developed the environmental data science program at UCSB <https://ucsb-meds.github.io/>.
 
 
-## Tidy Tuesday
+## Tidy Tuesday with lab groups
 
-https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/
+Reusing open approaches and ideas learned in Openscapes is awesome! Tidy Tuesday is a great example of this. 
 
-From Nyssa: 
+Allison Horst, 2019 Champion describes how she hosted in-person events with students and broader community:
 
-For our group we had 2 hour sessions (1 hour is a bit too short for more novices and 2 hours gives the more advanced students time to try really new cool things). And we have a facilitator (usually me) that just checks in with the crew every few minutes and helps when students get stuck. But, it is very informal in that everyone just shows up and codes and chats. I have done this both in a conference room and at a bar. I also usually have people put some of their works in progress or final plots on the screen to show everyone else and share their "coding wins" or ask for help from the audience. And, yes, we use the Tidy Tuesday data because then they can also share their plots and code on twitter with the community and see the awesome creativity of the broader R community as well.
+> <https://openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/>
+
+Nyssa Silbiger, 2021 Champion describes how she hosted sessions with her research group:
+
+> For our group we had 2 hour sessions (1 hour is a bit too short for more novices and 2 hours gives the more advanced students time to try really new cool things). And we have a facilitator (usually me) that just checks in with the crew every few minutes and helps when students get stuck. But, it is very informal in that everyone just shows up and codes and chats. I have done this both in a conference room and at a bar. I also usually have people put some of their works in progress or final plots on the screen to show everyone else and share their "coding wins" or ask for help from the audience. And, yes, we use the Tidy Tuesday data because then they can also share their plots and code on twitter with the community and see the awesome creativity of the broader R community as well.
