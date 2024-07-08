@@ -1,7 +1,7 @@
 ---
 title: "Openscapes Champions Lesson Series"
 subtitle: "Open educational resources for Openscapes Champions" 
-date: last-modified
+date: today
 author: "Openscapes team"
 citation_url: https://openscapes.github.io/series
 slug: index
