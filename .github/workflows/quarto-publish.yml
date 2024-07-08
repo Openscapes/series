@@ -20,14 +20,13 @@ jobs:
           # version: 0.9.600
     
       - uses: r-lib/actions/setup-r@v2
+
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          packages: knitr, rmarkdown, quarto, stringr, purrr
+          packages: knitr, stringr, purrr
       
       - name: Render PDF
-        run: |
-          quarto::quarto_render("_make_pdf.qmd")
-        shell: Rscript {0}
+        run: quarto render _make_pdf.qmd
         
       - name: Commit files
         run: |
