@@ -9,7 +9,7 @@ See <https://openscapes.org/initiatives> for more information.
 
 ## Rendering
 
-To create the PDF locally, type in the command line: `quarto render _make_pdf.qmd`; or in R: `quarto::quarto_render("_make_pdf.qmd")`.
+To create the PDF locally, type in the command line: `quarto render _make_pdf.qmd`; or in R: `quarto::quarto_render("_make_pdf.qmd")`. Probably best for just testing locally and not to push the PDF, since the GitHub Action will recreate it when you push to main. 
 
 ----
 
