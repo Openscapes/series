@@ -4,59 +4,55 @@ aliases:
   - ../additional-lessons/code-of-conduct.html
 ---
 
-*Please see accompanying [slides](https://docs.google.com/presentation/d/11816HbwRCvnr8dFXkk8UqfSy_0O4svEoFFFyHOZ0IBE/) until this chapter is built out more.*
+Please see [Openscapes' Code of Conduct](https://openscapes.org/code-of-conduct) and [slides](https://docs.google.com/presentation/d/11816HbwRCvnr8dFXkk8UqfSy_0O4svEoFFFyHOZ0IBE/) (June 2021) that accompany this lesson.
 
-Please also refer to Openscapes' Code of Conduct: <https://openscapes.org/code-of-conduct>
-
+```{=html}
 <!--- other resources
 https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/
 https://internethealthreport.org/2019/codes-of-conduct-in-open-source-communities/
 
 --->
+```
+Codes of Conduct are important for:
 
-Important for: 
+-   Online communities
+-   Conferences & workshops
+-   Labs & research departments
 
-- Conferences & workshops  
-- Online communities  
-- Labs & departments  
-
-## Code of Conduct also known as
-
-Community Participation Guidelines  
-Code of Practice
-
-Similar ideas:   
-Lab philosophy, mission statement, participation agreements
+A Code of Conduct can also be known as Community Participation Guidelines or a Code of Practice. Related valuable concepts include documenting a research group or team philosophy, mission statement, or participation agreements.
 
 ## Requirements
 
-- Clear explicit statements 
-- Seen and heard – that all participants know about 
-  - Accessible and discoverable online
-  - Mentioned aloud in meetings/interviews/onboarding
-- Avenues for action, identified committees, recusals
+-   Clear explicit statements
+-   Seen and heard – that all participants know about
+    -   Accessible and discoverable online
+    -   Mentioned aloud in meetings/interviews/onboarding
+-   Avenues for action, identified committees, recusals
 
 ## Case study: rOpenSci
 
-[CoC itself](https://ropensci.org/code-of-conduct/)  
-[Blog post about the CoC](https://ropensci.org/blog/2019/01/14/conduct/)  
-[Blog post about creating the CoC](https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/) — following a community call on the topic. Interesting points: 
+[CoC itself](https://ropensci.org/code-of-conduct/)\
+[Blog post about the CoC](https://ropensci.org/blog/2019/01/14/conduct/)\
+[Blog post about creating the CoC](https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/) — following a community call on the topic.
 
-- Drafting – make it good and revisit; but not a living doc
-- Adopting and sharing – so people know it exists & where to find it
-- Reporting and enforcing – standardized form can help
+Interesting points:
+
+-   Drafting – make it good and revisit; but not a living doc
+-   Adopting and sharing – so people know it exists & where to find it
+-   Reporting and enforcing – a standardized form can help
 
 ## Examples to build from
 
-- [rOpenSci CoC](https://ropensci.org/code-of-conduct/)  
-- [Buffer's CoC & Why It’s Important For Diversity And Inclusion](https://open.buffer.com/code-of-conduct/)
-- [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
-- [Template CoC for labs](https://github.com/dasaderi/Lab_CoC_templates/blob/master/CODE_OF_CONDUCT.md)
+-   [rOpenSci CoC](https://ropensci.org/code-of-conduct/)
+-   [Buffer's CoC & Why It’s Important For Diversity And Inclusion](https://open.buffer.com/code-of-conduct/)
+-   [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+-   [Template CoC for labs](https://github.com/dasaderi/Lab_CoC_templates/blob/master/CODE_OF_CONDUCT.md)
 
 ## Further Reading
 
-- [How Codes of Conduct Are Combatting Open Source’s Diversity Problem](https://eyeondesign.aiga.org/are-codes-of-conduct-changing-the-diversity-stats-in-open-source/) — Margaret Rhodes, AIGA Eye on Design
+-   [How Codes of Conduct Are Combatting Open Source’s Diversity Problem](https://eyeondesign.aiga.org/are-codes-of-conduct-changing-the-diversity-stats-in-open-source/) — Margaret Rhodes, AIGA Eye on Design
 
+```{=html}
 <!---
 
 Radical gradualism RBG
@@ -113,3 +109,4 @@ Examples:
 I hope this helps! Let me know if you want me to talk more about this. Our coding club called Eco-Data-Science actually is teaching text analysis in R on Feb 5 and you can Zoom in to see what it's like, or to code along if you'd like!
 
 --->
+```

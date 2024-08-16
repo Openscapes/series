@@ -34,7 +34,7 @@ Redefining collaborators and community opens opportunities for new perspectives,
 
 **Reimagine challenges -- expect there is a better way**
 
-Reimagining challenges is based on the idea that there is a better way that already exists — and that you can find and make us of it. It is the idea of reusing rather than reinventing. It is a release from lonely struggles that also reduces the cognitive load associated with starting from scratch. This means no more silently struggling, reducing the times you reinvent the wheel, and reducing the times you create weird, homegrown workarounds.
+Reimagining challenges is based on the idea that there is a better way that already exists — and that you can find and make use of it. It is the idea of reusing rather than reinventing. It is a release from lonely struggles that also reduces the cognitive load associated with starting from scratch. This means no more silently struggling, reducing the times you reinvent the wheel, and reducing the times you create weird, homegrown workarounds.
 
 Expecting there's a better way will help you focus on asking for help sooner, to find what you need faster, iterate with confidence & agency.
 
@@ -144,9 +144,7 @@ Science is collaborative. Let's make it more head up, heart open and less heads 
 
 Learn from, with, and for others ([Lowndes 2019](https://www.scientificamerican.com/blog/observations/open-software-means-kinder-science/)). This helps overcome isolation, self-taught bad practices, apprehension ([Stevens et al. 2018](https://www.biorxiv.org/content/early/2018/02/15/265421)). It helps you transform from "self-taught" to "community-taught".
 
-> "Everyone in the community, no matter how accomplished they are in their
-> own specialty, comes with a **mind open to learning from, with, and for
-> each other.**
+> "Everyone in the community, no matter how accomplished they are in their own specialty, comes with a **mind open to learning from, with, and for each other.**
 >
 > We learn from others by using their code and documentation, their blogs and tutorials, their talks and webinars. We learn with others online through Twitter, discussion forums and Slack channels, and in person through coding clubs, hacky hours, meetups, workshops and conferences. And we learn for others by writing tutorials and blogs about our own learning processes, or adding or fulfilling feature requests, which we can then contribute back to the community." - [Lowndes 2019, Open Software Means Kinder Science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/)
 
