@@ -110,9 +110,9 @@ inactive or possibly created prior to Openscapes Cohort
 - <https://github.com/khyde>
 -->
 ```
-#### Should my students create repos in our group organization?
+#### How do we decide when we need a new repository? 
 
-While there are many different approaches that could make sense for your group, our starting recommendation would be that any project happening in the research group gets its own repository, and that repository is in the research group's Organization. This is then clearly part of the research group's work and more findable by past/current/future members. And it can be forked/moved to other accounts at any time.
+And should this be one repo per project or an organization-level repo? While there are many different approaches that could make sense for your group, our starting recommendation would be that any project happening in the research group gets its own repository, and that repository is in the research group's Organization. This is then clearly part of the research group's work and more findable by past/current/future members. And it can be forked/moved to other accounts at any time.
 
 ### Issues
 
