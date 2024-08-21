@@ -157,7 +157,7 @@ Also known as outcomes you can communicate with your supervisors.
 
 Example topics:
 
--   Let’s organize folders and have READMEs so we know what things
+-   Let’s organize folders and have READMEs so we know what things belong where
 -   Where to put data – here’s how our server works
 -   Let's ask how each other are doing and help identify and address common challenges
 -   Set up Zotero with RMarkdown
