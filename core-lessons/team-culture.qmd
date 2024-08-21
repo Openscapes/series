@@ -146,29 +146,37 @@ A lot to say here, for now, see:
 
 ## Enabling & participating
 
-Here are some ideas that you can support and participate in to learn and create a kinder team culture:
+Here are some ideas that you can support and participate in to learn and create a kinder team culture.
 
-### Seaside chats – discuss share data workflows
+-   **Seaside chats** to share and discuss data workflows
 
-From Michelle Stuart's [blog about the Pinsky Lab's first Fishbowl chat](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/):
+    -   See [Seaside Chats & Coworking](https://openscapes.github.io/series/index.html#seaside-chats-coworking)
 
-> This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking teammates for help, and it is exciting to see all of us getting on the same page with our data science.
+    -   From Michelle Stuart's [blog about the Pinsky Lab's first Fishbowl chat](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/):
 
-### Hackathons or documentation parties – co-create
+        > This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking teammates for help, and it is exciting to see all of us getting on the same page with our data science.
 
-### Social events
+-   **Hackathons** or documentation parties
 
-Get to know each other outside of work. Do some during work hours can include more people who can't participate after work
+    -   Co-create documentation, workflows, or tools
 
-### Onboarding – how to welcome new people to your research group
+    -   Example: NASA's [earthaccess](https://earthaccess.readthedocs.io/en/latest/) Python package development community meets biweekly for 2-hour hackdays, and report each hackday's work in [GitHub Discussions](https://github.com/nsidc/earthaccess/discussions/categories/hack-days).
 
-### Asking for help
+-   **Social events**
 
-Create a welcoming environment where they know where to ask for help – They won't know what questions to ask. Provide structure.
+    -   Get to know each other outside of work. Doing some during work hours can include more people who can't participate after work.
 
-### Code of Conduct
+-   **Onboarding and offboarding**
 
-See [Additional Lessons \> Code of Conduct](../additional-lessons/code-of-conduct.qmd)
+    -   Welcome new people to your team and plan for succession of people in roles. Documenting "how we work" in an easily findable and accessible place goes a long way to supporting this.
+
+-   **Asking for help**
+
+    -   Create a welcoming environment where people know where and how to ask for help. They might not know what questions to ask. Provide structure.
+
+-   **Code of Conduct**
+
+    -   See [Additional Lessons \> Code of Conduct](../additional-lessons/code-of-conduct.qmd)
 
 ```{=html}
 <!--- 

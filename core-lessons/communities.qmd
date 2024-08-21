@@ -109,7 +109,7 @@ Each open community has a purpose. Many have missions focused on diversity, equi
 
 -   [rOpenSci](https://ropensci.org/)
 -   [R-Ladies](https://rladies.org/)
--   Posit
+-   [Posit](https://forum.posit.co/)
 -   [pyOpenSci](https://www.pyopensci.org/)
 -   [PyLadies](https://pyladies.com/)
 
