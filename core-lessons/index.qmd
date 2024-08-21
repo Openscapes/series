@@ -38,7 +38,7 @@ Re:FWD:Fwd:Data question
 Re:Sending again with the correct version
 ```
 
-We are going to talk about how to make the data experience better, for you, your lab, your department, and beyond.
+We are going to talk about how to make the data experience better, for you, your team, your center, and beyond.
 
 Data analysis can be inefficient and demoralizing when you’re without the right tools/skills and you feel alone.
 
@@ -54,21 +54,21 @@ They are like the Force from Star Wars:
 
 ### This is going to be fun and empowering!
 
-We are going to be discussing a wide range of topics and working to seed habits for you to engage and learn with them with our lab and others on campus.
+We are going to be discussing a wide range of topics and working to seed habits for you to engage and learn with them with our research team and others in your environment.
 
 ### Exposure to relevant tools & practices, confidence & agency to engage, community to learn with
 
 The plan is to expose you to a lot of great tools and practices that you can have confidence using in your research. We will also spend time helping you plan how to actually incrementally weave them into your existing workflows.
 
-The point is not to overwhelm you or make you feel like it's too late for you or that you would need to throw out and redo everything you've ever done in order to take the first step. No. By seeing what's possible and how shared practices can make your own life easier, and life easier and more streamlined and fun with your lab and beyond, you'll start experimenting with these practices and in a few years you will be working in a completely different way.
+The point is not to overwhelm you or make you feel like it's too late for you or that you would need to throw out and redo everything you've ever done in order to take the first step. No. By seeing what's possible and how shared practices can make your own life easier, and life easier and more streamlined and fun with your team and beyond, you'll start experimenting with these practices and in a few years you will be working in a completely different way.
 
-### Create a shared culture – in your lab, on campus, and beyond
+### Create a shared culture – in your team, your center, and beyond
 
 We're going to go through a lot and it's less important that you remember it all. More importantly, you'll know what is possible, have confidence that you can do it, and have allies so you're not alone. The main thing to take away is that there are good ways to approach your analyses; we will teach you to expect that so you can find what you need and use it! A theme throughout is that tools exist and are being developed by real, and extraordinarily nice, people to meet you where you are and help you do what you need to do. If you expect and appreciate that, you will be more efficient in doing your awesome science.
 
 ### No skills required. We will strategize about general approaches, specific examples using R/RStudio and GitHub
 
-There are no skills required to participate, and we will not be teaching hands-on how to code or set up databases. But we will be talking about how these are important and fit together in the big picture, and how to get started learning the skills you need. This is an opportunity to discuss existing tools and how to engage, meet other labs, discuss next steps, and stay accountable.
+There are no skills required to participate, and we will not be teaching hands-on how to code or set up databases. But we will be talking about how these are important and fit together in the big picture, and how to get started learning the skills you need. This is an opportunity to discuss existing tools and how to engage, meet other research teams, discuss next steps, and stay accountable.
 
 We'll talk about tools and practices broadly, but also with specific examples using R and GitHub. Won't that software eventually become outdated you say — is it worth learning them over something else? The answer is yes, software will change and become outdated; it always has. But seeing what is possible and becoming versed in embracing existing architecture and practices will set you up to make whatever transition comes, and you will make this transition with the community, not alone. Your skills will be transferrable skills as the actual software changes. Analogy: if you learn one musical instrument, you will be able to learn another one more fluidly than if you have never learned one to begin with because maybe you can read music, understand something about timing and rhythm, etc.
 
@@ -130,7 +130,7 @@ Seeing what's possible opens up what you expect. There is a bit of a chicken and
 
 Break down that “I teach you learn” model. We are all here to learn and improve. Learning horizontally. <!---Be able to talk to your PI and other scientists like a normal person. --->
 
-This series is not about micro-managing your science but about providing guidance & structure so that everyone in the lab is not silently struggling to reinvent the wheel and coming up with weird homegrown data approaches.
+This series is not about micro-managing your science but about providing guidance & structure so that everyone on your team is not silently struggling to reinvent the wheel and coming up with weird homegrown data approaches.
 
 What skills you should have and what you should be thinking of, along with some of the tools you can use. Will be building out the Resources page on the website for this purpose. And search the blogs.
 

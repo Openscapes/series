@@ -17,7 +17,8 @@ Codes of Conduct are important for:
 
 -   Online communities
 -   Conferences & workshops
--   Labs & research departments
+-   Laboratories & research departments
+-   Research teams & collaborators
 
 A Code of Conduct can also be known as Community Participation Guidelines or a Code of Practice. Related valuable concepts include documenting a research group or team philosophy, mission statement, or participation agreements.
 

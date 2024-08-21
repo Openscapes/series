@@ -99,7 +99,7 @@ Most common form is gender harassment: it's the “put-downs as opposed to come-
 
 ### Put your values forward
 
-Model the behavior you want to see in your research group & beyond (lab, dept, campus, organization, online)
+Model the behavior you want to see in your research group & beyond (lab, center, department, campus, organization, online).
 
 ### Building trust
 
@@ -111,7 +111,7 @@ Have to build trust and be intentional, don’t hope for organic.
 
 Overtly showing kindness & a Code of Conduct can filter out people who don’t want to be subject to its enforcement – [rOpenSci](https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/)
 
-Labs have people coming and going all the time; how do you set the tone and have it be sustainable?
+Research teams have people coming and going all the time; how do you set the tone and have it be sustainable?
 
 ## Deliberately setting the tone
 
