@@ -119,9 +119,9 @@ Opening remarks at RStudio::conf 2019, in front of an audience of 1700 at a glob
 
 ### Collegiality
 
-We must deliberately set the tone for collegiality to create a positive, inclusive research group environment.
+We must deliberately set the tone for collegiality to create a positive, inclusive research group environment. This builds on the [Openscapes Mindset](mindset.qmd).
 
-Safety and accessibility as parts of inclusion and empowerment. Does everyone feel safe to speak up? Does everyone have channels to contribute? This is especially true as the tech we use evolves. Who can participate?
+Safety and accessibility are parts of inclusion and empowerment. Does everyone feel safe to speak up? Does everyone have channels to contribute? This is especially true as the tech we use evolves. Who can participate?
 
 > "*This builds resilience to your research group. If someone needs to leave for a family emergency, maternity/paternity leave, vacation, set yourselves up so your team continue smoothly*" — Angela Bassa in her rstudio::conf 2019 talk "[Data Science as a Team Sport](https://forum.posit.co/t/data-science-as-a-team-sport-angela-bassa-rstudio-conf-2019l-video/24858/1)"
 
@@ -133,7 +133,7 @@ The opportunity cost of not doing this is burnout, and people leaving science.
 
 We must deliberately set the tone to create a positive, inclusive research group environment that fuels team efficiency.
 
-This means create a team mindset, and focusing on similarities rather differences. We all work on different projects and have different research questions, but we all have to wrangle data, organize version files, have things we don't know...let's create a space where we can talk about all this and find common ground to tackle together so we don't reinvent.
+This means create a team mindset, and focusing on similarities rather differences. We all work on different projects and have different research questions, but we all have to wrangle data, organize version files, have things we don't know or are stuck on...let's create a space where we can talk about all this and find common ground to tackle together so we don't reinvent.
 
 There can be an advantage to having team conventions. This can both reduce friction and reinventing the wheel. But there also needs to be room for different skills people come in with. For example, if they’re more efficient in Python, don’t want to force R. But want to create space where folks can interoperate and work together. The tech/software side helps with this, but it's our mindsets too. We need to be open to it.
 
@@ -152,9 +152,7 @@ Here are some ideas that you can support and participate in to learn and create 
 
     -   See [Seaside Chats & Coworking](https://openscapes.github.io/series/index.html#seaside-chats-coworking)
 
-    -   From Michelle Stuart's [blog about the Pinsky Lab's first Fishbowl chat](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/):
-
-        > This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking teammates for help, and it is exciting to see all of us getting on the same page with our data science.
+        > "*This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking teammates for help, and it is exciting to see all of us getting on the same page with our data science.*" - Michelle Stuart on the [Pinsky Lab's first Fishbowl chat](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/)
 
 -   **Hackathons** or documentation parties
 
