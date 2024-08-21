@@ -123,9 +123,9 @@ We must deliberately set the tone for collegiality to create a positive, inclusi
 
 Safety and accessibility as parts of inclusion and empowerment. Does everyone feel safe to speak up? Does everyone have channels to contribute? This is especially true as the tech we use evolves. Who can participate?
 
-This builds resilience to your research group. If someone needs to leave for a family emergency, maternity/paternity leave, vacation, set yourselves up so your team continue smoothly/ — Angela Bassa RStudio talk
+> "*This builds resilience to your research group. If someone needs to leave for a family emergency, maternity/paternity leave, vacation, set yourselves up so your team continue smoothly*" — Angela Bassa in her rstudio::conf 2019 talk "[Data Science as a Team Sport](https://forum.posit.co/t/data-science-as-a-team-sport-angela-bassa-rstudio-conf-2019l-video/24858/1)"
 
-Opportunity cost of not doing this. Burnout, people leaving science.
+The opportunity cost of not doing this is burnout, and people leaving science.
 
 <!--- Panel: hp: in academia there is only one thing, and it's being smart --->
 
