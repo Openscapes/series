@@ -22,7 +22,7 @@ GitHub is known as a place to store code, but it's also a powerful publishing sy
 
 ## Preamble
 
-We are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good for new lab members or students to contribute to your lab as soon as possible.
+We are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good way for new team members to contribute as soon as possible.
 
 GitHub can reduce friction for open science: it gives us avenues for communicating and publishing methods, blogs, interactive graphics and more, without a lot of heavy lifting!
 
@@ -44,8 +44,7 @@ It is used for code and files: organize, archive, bookkeeping, searchable, chang
 
 ![](images/github-differencing.png){width="80%"} <br>
 
-
-### Disclaimer 
+### Disclaimer
 
 We aren’t going to teach traditional git/GitHub today, but here are some recommendations if you'd like to learn. First, read Jenny Bryan's "Excuse Me, Do You Have a Moment to Talk About Version Control?" (open-access pre-print from [PeerJ](https://peerj.com/preprints/3159/), published in [The American Statistican](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1399928)). This provides an excellent overview. One quote I like in particular is
 
@@ -128,4 +127,3 @@ What to do: (you all have permissions)
 ## Further resources
 
 -   [Git for Humans](https://www.youtube.com/watch?v=eWxxfttcMts) - Alice Bartlett, 2016
-
