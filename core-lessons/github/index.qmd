@@ -8,9 +8,13 @@ What is GitHub[^1], and what are GitHub strategies for Future Us?
 
 GitHub is a powerful tool for collaborative coding with version control, but here and in our GitHub Clinic we are going to focus on some of its lesser-celebrated awesomeness. We'll talk about GitHub for supporting, reusing, contributing, and failing safely, as well as GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.
 
+We begin with a friendly general introduction to GitHub and share examples and strategies used by some research groups. Following this are the two parts of the GitHub Clinic as we teach them in Champions Cohorts: 1) GitHub for publishing and 2) GitHub for project management.
+
 ## GitHub Clinic
 
-Openscapes GitHub Clinic introduces GitHub with the motivation of collaboration and open science. It is designed for both new and seasoned learners, focused on how to develop workflows with diverse teams.
+The Openscapes GitHub Clinic introduces GitHub with the motivation of collaboration and open science. It is designed for both new and seasoned learners, focused on how to develop workflows with diverse teams.
+
+**Prerequisite:** To follow along with the Clinic, you will need to create GitHub account at <http://github.com>, if you don't already have one. Optional advice from Jenny Bryan about [choosing a username](https://happygitwithr.com/github-acct).
 
 ::: {.callout-warning icon="false"}
 ## Slides
@@ -38,13 +42,13 @@ So let's talk about why GitHub is so empowering for our project-oriented and col
 
 ![](images/github_friends.png){fig-alt="A row of 6 cute smiling monsters celebrating using GitHub. The first, wearing a climbing harness labeled \"Me\" is high-fiving another whose harness says \"Future Me\". Others hold a box of snacks (tacos!), a map, a rope. Text above the monsters quotes Jenny Bryan: \\\"Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review" fig-align="center" width="85%"}
 
-See the **GitHub Illustrated Series** ([Horst & Lowndes 2022](https://openscapes.org/blog/2022/05/27/github-illustrated-series/)) for the full series!
+See the **GitHub Illustrated Series** ([Horst & Lowndes 2022](https://openscapes.org/blog/2022/05/27/github-illustrated-series/)) for the full story!
 
 ## Growth Mindset
 
 When we teach GitHub, we find it's useful to say explicitly that we should go in with a Growth Mindset - the idea that we don't know something ***yet*** but we are able to learn. Growth Mindset is work by Dr. Carol Dweck - see her [book](http://www.amazon.com/gp/product/0345472322/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345472322&linkCode=as2&tag=farnamstreet-20&linkId=ZYKJHPHELN46AOWM), [TED Talk](https://www.youtube.com/watch?v=_X0mgOOSpLU&t=11s&ab_channel=TED) (10 min); [illustrated video](https://www.youtube.com/watch?v=M1CHPnZfFmU&ab_channel=JohnSpencer) (2 min).
 
-As part of this, we like how Jenny Bryan ([Code Smells and Feels](https://github.com/jennybc/code-smells-and-feels#code-smells-and-feels)) thinks about this - that your tastes develops faster than your abilities.
+As part of this, we like how Jenny Bryan ([Code Smells and Feels](https://github.com/jennybc/code-smells-and-feels#code-smells-and-feels)) thinks about this - that your taste develops faster than your abilities.
 
 ![Slide from Jenny Bryan (Code Smells and Feels)](images/hedgehog-jenny-bryan.png){fig-align="center" width="80%"}
 
@@ -110,9 +114,9 @@ inactive or possibly created prior to Openscapes Cohort
 - <https://github.com/khyde>
 -->
 ```
-#### How do we decide when we need a new repository? 
+### Repositories
 
-And should this be one repo per project or an organization-level repo? While there are many different approaches that could make sense for your group, our starting recommendation would be that any project happening in the research group gets its own repository, and that repository is in the research group's Organization. This is then clearly part of the research group's work and more findable by past/current/future members. And it can be forked/moved to other accounts at any time.
+Repositories live inside an Organization. "Repos" are essentially folders, and you’ll put files and folders in them. How do we decide when we need a new repository? Should this be one repo per project or an organization-level repo? While there are many different approaches that could make sense for your group, our starting recommendation would be that any project happening in the research group gets its own repository, and that repository is in the research group's Organization. This is then clearly part of the research group's work and more findable by past/current/future members. And it can be forked/moved to other accounts at any time.
 
 ### Issues
 
@@ -130,9 +134,9 @@ When you're logged into GitHub, go to <https://github.com/issues> to see all of 
 
 Branches are a really powerful feature for software development, but aren't necessarily the right place for new GitHub users to get started. If there are a small number of people in a single repository and you're all first learning, we'd suggest that you start using GitHub without branches, and focus on checking in with each other as you contribute (see [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#collaborating-with-github) example collaborating with GitHub from RStudio).
 
-> Aside: Julie Lowndes only worked in the main branch with her small group of Ocean Health Index colleagues for the first 8 years as a GitHub user; it was only when working with the NASA Openscapes Mentors community that she learned how to use branches as software developers do.
-
 Branches are powerful as your teams grow and/or as you become savvier with GitHub and code, so it is good to discuss strategies with them.
+
+One approach is to treat each branch as very temporary: you make a branch from main, add your contribution, make a pull request, merge and delete the branch. This is what we've been doing with the NASA Mentors and it's more continuous little updates rather than larger big updates, and I think it works better when working with Jupyter Notebooks, which can cause a lot of merge conflicts.
 
 #### Should we do everything in a `dev` branch?
 
@@ -140,4 +144,4 @@ Full question: "Right now any collaborative code in my group has a main branch a
 
 Advice: This system with the dev branch works so long as the dev doesn't diverge too far from the main branch - the Ocean Health Index project does it that way but it's someone's job for a few weeks at the end of each year making sure the dev branch can merge into main.
 
-Another approach is to treat each branch as very temporary: you make a branch from main, add your contribution, make a pull request, merge and delete the branch. This is what we've been doing with the NASA Mentors and it's more continuous little updates rather than larger big updates, and I think it works better when working with Jupyter Notebooks, which can cause a lot of merge conflicts.
+One of the lessons here is to make these tools work for you, and add new layers as you and your team build up your skills.

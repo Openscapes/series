@@ -22,7 +22,9 @@ GitHub is known as a place to store code, but it's also a powerful publishing sy
 
 ## Preamble
 
-We are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good way for new team members to contribute as soon as possible.
+This narrative follows Part 1 of the GitHub Clinic as we teach it in Champions Cohorts.
+
+For this GitHub Clinic, we are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good way for new team members to contribute as soon as possible.
 
 GitHub can reduce friction for open science: it gives us avenues for communicating and publishing methods, blogs, interactive graphics and more, without a lot of heavy lifting!
 
@@ -98,7 +100,9 @@ You are able to search within a GitHub repository, across repositories in an org
 
 ### Branches & Forks
 
-We're not going to talk about branches and forks. These are a core feature of what makes GitHub super powerful for software development, and one of the first things you'll see in GitHub tutorials geared towards software engineers. But I do not think that is the most relevant or smoothest entryway for those of us who are scientists fairly new to collaborative coding and version control.
+In our Champions GitHub Clinic, we do not talk about branches and forks of repositories. These are a core feature of what makes GitHub super powerful for software development, and one of the first things you'll see in GitHub tutorials geared towards software engineers. But I do not think that is the most relevant or smoothest entryway for those of us who are scientists fairly new to collaborative coding and version control.
+
+> For the first 8 years as a GitHub user, I only worked in the Main branch with my small group of Ocean Health Index colleagues. It was only when working with the NASA Openscapes Mentors community that I learned how to use branches as software developers do. - Julie Lowndes
 
 ## GitHub Orientation
 
@@ -110,7 +114,7 @@ We're not going to talk about branches and forks. These are a core feature of wh
 
 ## Editing files from GitHub
 
-First a Disclaimer: you don’t want to edit from the browser for most things – you would want to “clone” the repo to your local computer and leverage more goodies & power. However, you will sometimes edit in the browser, and it’s a good entry point for us today, and maybe for onboarding folks in your lab in the future.
+First a Disclaimer: you don’t want to edit from the browser for most things – you would want to “clone” the repo to your local computer and leverage more goodies & power. However, you will sometimes edit in the browser, and it’s a good entry point for us today, and maybe for onboarding folks in your research group in the future.
 
 Why not edit in the browser? You don’t want to overwrite each other or forget yourself. Good for quick md editing, not script editing.
 
