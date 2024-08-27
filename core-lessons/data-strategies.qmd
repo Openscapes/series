@@ -15,7 +15,7 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 
 [Data strategies for Future Us for Cloud](https://nsidc.github.io/data_strategies_for_future_us/data_strategies_slides#/title-slide), by Andy Barrett, NASA National Snow and Ice Data Center (NSIDC) (2023)
 
-[Data strategies for Future Us for Metadata](https://docs.google.com/presentation/d/10X5i9zZ0uVeEaTW6F2aSvkrcxLCgW0JU9rVZvPB1ZKc/edit#slide=id.g6532ff24f4_0_0), contributed by Jessica Couture (2021)
+[Data strategies for Future Us for Metadata](https://docs.google.com/presentation/d/10X5i9zZ0uVeEaTW6F2aSvkrcxLCgW0JU9rVZvPB1ZKc/edit#slide=id.g6532ff24f4_0_0), contributed by Jessica Couture (2021), includes example from Exxon Valdez Oil Spill data projects
 :::
 
 ::: {.callout-warning icon="false"}
@@ -113,7 +113,7 @@ Read their paper for strategies and examples behind changing the culture: There 
 ```
 ## Tidy data for efficiency, reproducibility, & collaboration
 
-We'll explore the concept of **tidy data** through the illustrated series [Tidy data for efficiency, reproducibility, & collaboration](https://www.openscapes.org/blog/2020/10/12/tidy-data/) by  Lowndes & Horst 2020, posted on the Openscapes blog.
+We'll explore the concept of **tidy data** through the illustrated series [Tidy data for efficiency, reproducibility, & collaboration](https://www.openscapes.org/blog/2020/10/12/tidy-data/) by Lowndes & Horst 2020, posted on the Openscapes blog.
 
 When we talk about organizing data to help us work in an efficient, reproducible, and collaborative way, we are talking about TIDY DATA. We mean deliberately thinking about the shape and structure of data -- something that might not seem super exciting but is truly game-changing.
 
@@ -125,13 +125,13 @@ So let's talk about what tidy data is and why it is so empowering for your analy
 
 Tidy data is a way to describe data that's organized with a particular structure -- a rectangular structure, where each variable has its own column, and each observation has its own row (Wickham 2014).
 
-![](images/tidydata/tidydata_1.jpg){fig-align="center" width="80%"} 
+![](images/tidydata/tidydata_1.jpg){fig-align="center" width="80%"}
 
 <br>
 
 This standard structure of tidy data led Hadley Wickham to describe it the way Leo Tolstoy describes families. Leo says "Happy families are all alike; every unhappy family is unhappy in its own way". Similarly, Hadley says "tidy datasets are all alike, but every messy dataset is messy in its own way".
 
-![](images/tidydata/tidydata_2.jpg){fig-align="center" width="80%"} 
+![](images/tidydata/tidydata_2.jpg){fig-align="center" width="80%"}
 
 <br>
 
@@ -139,7 +139,7 @@ This standard structure of tidy data led Hadley Wickham to describe it the way L
 
 Tidy data allows you to be more efficient by using existing tools deliberately built to do the things you need to do, from subsetting portions of your data to plotting maps of your study area. Using existing tools saves you from building from scratch each time you work with a new dataset (which can be time-consuming and demoralizing). And luckily, there are a lot of tools specifically built to wrangle untidy data into tidy data (for example, in the tidyr package). By being more equipped to wrangle your data into a tidy format, you can get to your analyses faster to start answering the questions you're asking.
 
-![](images/tidydata/tidydata_3.jpg){fig-align="center" width="80%"} 
+![](images/tidydata/tidydata_3.jpg){fig-align="center" width="80%"}
 
 <br>
 
@@ -147,7 +147,7 @@ Tidy data allows you to be more efficient by using existing tools deliberately b
 
 Tidy data makes it easier to collaborate because our friends can use the same tools in a familiar way. Whether thinking about collaborators as current teammates, your future self, or future teammates, organizing and sharing data in a consistent and predictable way means less adjustment, time, and effort for all.
 
-![](images/tidydata/tidydata_4.jpg){fig-align="center" width="80%"} 
+![](images/tidydata/tidydata_4.jpg){fig-align="center" width="80%"}
 
 <br>
 
@@ -155,7 +155,7 @@ Tidy data makes it easier to collaborate because our friends can use the same to
 
 Tidy data also makes it easier to reproduce analyses because they are easier to understand, update, and reuse. By using tools together that all expect tidy data as inputs, you can build and iterate really powerful workflows. And, when you have additional data entries, it's no problem to re-run your code!
 
-![](images/tidydata/tidydata_5.jpg){fig-align="center" width="80%"} 
+![](images/tidydata/tidydata_5.jpg){fig-align="center" width="80%"}
 
 <br>
 
@@ -169,7 +169,7 @@ Once you are empowered with tools to work with tidy data generally, it opens up 
 
 So for more efficient, reproducible, and collaborative analyses, make friends with tidy data!
 
-![](images/tidydata/tidydata_7.jpg){fig-align="center" width="80%"} 
+![](images/tidydata/tidydata_7.jpg){fig-align="center" width="80%"}
 
 <br>
 

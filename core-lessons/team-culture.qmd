@@ -99,7 +99,7 @@ Most common form is gender harassment: it's the “put-downs as opposed to come-
 
 ### Put your values forward
 
-Model the behavior you want to see in your research group & beyond (lab, dept, campus, organization, online)
+Model the behavior you want to see in your research group & beyond (lab, center, department, campus, organization, online).
 
 ### Building trust
 
@@ -111,7 +111,7 @@ Have to build trust and be intentional, don’t hope for organic.
 
 Overtly showing kindness & a Code of Conduct can filter out people who don’t want to be subject to its enforcement – [rOpenSci](https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/)
 
-Labs have people coming and going all the time; how do you set the tone and have it be sustainable?
+Research teams have people coming and going all the time; how do you set the tone and have it be sustainable?
 
 ## Deliberately setting the tone
 
@@ -119,13 +119,13 @@ Opening remarks at RStudio::conf 2019, in front of an audience of 1700 at a glob
 
 ### Collegiality
 
-We must deliberately set the tone for collegiality to create a positive, inclusive research group environment.
+We must deliberately set the tone for collegiality to create a positive, inclusive research group environment. This builds on the [Openscapes Mindset](mindset.qmd).
 
-Safety and accessibility as parts of inclusion and empowerment. Does everyone feel safe to speak up? Does everyone have channels to contribute? This is especially true as the tech we use evolves. Who can participate?
+Safety and accessibility are parts of inclusion and empowerment. Does everyone feel safe to speak up? Does everyone have channels to contribute? This is especially true as the tech we use evolves. Who can participate?
 
-This builds resilience to your research group. If someone needs to leave for a family emergency, maternity/paternity leave, vacation, set yourselves up so your team continue smoothly/ — Angela Bassa RStudio talk
+> "*This builds resilience to your research group. If someone needs to leave for a family emergency, maternity/paternity leave, vacation, set yourselves up so your team continue smoothly*" — Angela Bassa in her rstudio::conf 2019 talk "[Data Science as a Team Sport](https://forum.posit.co/t/data-science-as-a-team-sport-angela-bassa-rstudio-conf-2019l-video/24858/1)"
 
-Opportunity cost of not doing this. Burnout, people leaving science.
+The opportunity cost of not doing this is burnout, and people leaving science.
 
 <!--- Panel: hp: in academia there is only one thing, and it's being smart --->
 
@@ -133,7 +133,7 @@ Opportunity cost of not doing this. Burnout, people leaving science.
 
 We must deliberately set the tone to create a positive, inclusive research group environment that fuels team efficiency.
 
-This means create a team mindset, and focusing on similarities rather differences. We all work on different projects and have different research questions, but we all have to wrangle data, organize version files, have things we don't know...let's create a space where we can talk about all this and find common ground to tackle together so we don't reinvent.
+This means create a team mindset, and focusing on similarities rather differences. We all work on different projects and have different research questions, but we all have to wrangle data, organize version files, have things we don't know or are stuck on...let's create a space where we can talk about all this and find common ground to tackle together so we don't reinvent.
 
 There can be an advantage to having team conventions. This can both reduce friction and reinventing the wheel. But there also needs to be room for different skills people come in with. For example, if they’re more efficient in Python, don’t want to force R. But want to create space where folks can interoperate and work together. The tech/software side helps with this, but it's our mindsets too. We need to be open to it.
 
@@ -146,29 +146,35 @@ A lot to say here, for now, see:
 
 ## Enabling & participating
 
-Here are some ideas that you can support and participate in to learn and create a kinder team culture:
+Here are some ideas that you can support and participate in to learn and create a kinder team culture.
 
-### Seaside chats – discuss share data workflows
+-   **Seaside chats** to share and discuss data workflows
 
-From Michelle Stuart's [blog about the Pinsky Lab's first Fishbowl chat](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/):
+    -   See [Seaside Chats & Coworking](https://openscapes.github.io/series/index.html#seaside-chats-coworking)
 
-> This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking teammates for help, and it is exciting to see all of us getting on the same page with our data science.
+        > "*This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking teammates for help, and it is exciting to see all of us getting on the same page with our data science.*" - Michelle Stuart on the [Pinsky Lab's first Fishbowl chat](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/)
 
-### Hackathons or documentation parties – co-create
+-   **Hackathons** or documentation parties
 
-### Social events
+    -   Co-create documentation, workflows, or tools
 
-Get to know each other outside of work. Do some during work hours can include more people who can't participate after work
+    -   Example: NASA's [earthaccess](https://earthaccess.readthedocs.io/en/latest/) Python package development community meets biweekly for 2-hour hackdays, and report each hackday's work in [GitHub Discussions](https://github.com/nsidc/earthaccess/discussions/categories/hack-days).
 
-### Onboarding – how to welcome new people to your research group
+-   **Social events**
 
-### Asking for help
+    -   Get to know each other outside of work. Doing some during work hours can include more people who can't participate after work.
 
-Create a welcoming environment where they know where to ask for help – They won't know what questions to ask. Provide structure.
+-   **Onboarding and offboarding**
 
-### Code of Conduct
+    -   Welcome new people to your team and plan for succession of people in roles. Documenting "how we work" in an easily findable and accessible place goes a long way to supporting this.
 
-See [Additional Lessons \> Code of Conduct](../additional-lessons/code-of-conduct.qmd)
+-   **Asking for help**
+
+    -   Create a welcoming environment where people know where and how to ask for help. They might not know what questions to ask. Provide structure.
+
+-   **Code of Conduct**
+
+    -   See [Additional Lessons \> Code of Conduct](../additional-lessons/code-of-conduct.qmd)
 
 ```{=html}
 <!--- 

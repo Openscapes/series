@@ -300,10 +300,10 @@ Reticulate](https://github.com/ttimbers/intro-to-reticulate/blob/main/slides/ret
 If you're choosing between R, Python, and other modern languages, they
 will aready be reproducible, auditable, and accurate. That leaves
 collaboration -- what do your collaborators use? What do folks in your
-lab, or field use? What is mentioned in the papers you read? There is
-increasing interoperability between languages (e.g. see
-[reticulate](https://rstudio.github.io/reticulate/) to run python code
-from R) so when you have some idea it's best to get started!
+lab, research team, or field of study use? What is mentioned in the
+papers you read? There is increasing interoperability between languages
+(e.g. see [reticulate](https://rstudio.github.io/reticulate/) to run
+python code from R) so when you have some idea it's best to get started!
 
 See also: [Opinionated analysis development (Parker
 2017)](https://peerj.com/preprints/3210). Tools like RStudio are already

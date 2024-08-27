@@ -53,9 +53,9 @@ The OHI team started having "Seaside Chats": 1x/week where they discussed filena
 
 ### Create place
 
-Creating place is critical for asynchronous collaboration. This includes GitHub Organizations, Repositories, Issues; Google Drive Folders, Docs, Spreadsheets, and Slides; Slack Organizations and Channels; JupyterHubs, etc.
+Creating place is critical for asynchronous collaboration. It is a place for code, shared practices, resources, conversations. Critically, this involves making sure that everyone on the team is comfortable contributing through these channels. This means both with the technology, and the culture of the team.
 
-It is a place for code, shared practices, resources, conversations. Critically, this involves making sure that everyone on the team is comfortable contributing through these channels. This means both with the technology, and the culture of the team.
+Asynchronous collaboration often requires some form of version control so the team can understand what documentation, data, code, graph, etc., is current. Specific places depend on the tools and platforms used in a given organization or research group. These can include GitHub Organizations, Repositories, Issues, Projects; Google Drive Folders, Docs, Spreadsheets, Slides, Calendars; Slack Organizations and Channels; Teams, Sharepoint; JupyterHubs; etc.
 
 ### Find the common
 
@@ -119,8 +119,10 @@ Here are a few examples to showcase what is possible and being done by the commu
 
 -   [Regime Shifts in R & Data Science within the BC Public Service Observations from the field](https://stephhazlitt.github.io/regime-shifts/slides#1) - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote
 -   [NMFSReports: Easily write NOAA reports and tech memos in R Markdown](https://github.com/EmilyMarkowitz-NOAA/NMFSReports/blob/main/presentations/2021-06-05NMFSReports-RCascadiaConf.pdf)! - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk
--   [Automated reporting in Tampa Bay with open science](https://www.openscapes.org/blog/2020/11/16/tampa-bay-reporting/) - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog
+-   Tampa Bay Estuary Program
+    -   [Automated reporting in Tampa Bay with open science](https://www.openscapes.org/blog/2020/11/16/tampa-bay-reporting/) (blog) - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog
     -   [TBEP's Data Management Workflow](https://tbep-tech.github.io/data-management-sop/workflow.html) and open science cake
+    -   [Coordinated monitoring of the Piney Point wastewater discharge into Tampa Bay: Data synthesis and reporting](https://www.researchgate.net/publication/373388123_Coordinated_monitoring_of_the_Piney_Point_wastewater_discharge_into_Tampa_Bay_Data_synthesis_and_reporting), 2023. Florida Scientist, 86(2), pp.288-300 - Beck, M.W., Burke, M.C., Raulerson, G.E., Scolaro, S., Sherwood, E.T. and Whalen, J.
 
 ## Further resources
 

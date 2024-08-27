@@ -14,6 +14,9 @@ Issues.
 
 ## Preamble
 
+This narrative follows Part 2 of the GitHub Clinic as we teach it in
+Champions Cohorts.
+
 We are focusing on GitHub Issues here because they are a powerful way
 for team members to have active discussions about data and code, and
 therefore ways to participate in analyses even for those that are not
@@ -159,14 +162,13 @@ options to create new labels.
 
 <br>
 
-OHI-Science's Issues: are also an example of less "traditional" use of
-Issues but perhaps also somewhat common. This is a private repository,
-which is why there is no link to these Issues. Here, Issues are used for
-private conversations and archiving ideas and discussions: the
-OHI-Science team uses issues instead of email to have private, archived,
-searchable conversations about scientific methods as described in
-\[Lowndes et al.
-2017\](<https://www.nature.com/articles/s41559-017-0160>). The team is
+OHI-Science's Issues below, are also an example of less "traditional"
+use of Issues but perhaps also somewhat common. Here, the OHI team
+created a private repository where Issues are used for private
+conversations and archiving ideas and discussions: the OHI-Science team
+uses issues instead of email to have private, archived, searchable
+conversations about scientific methods as described in [Lowndes et al.
+2017](https://www.nature.com/articles/s41559-017-0160). The team is
 diligent about having important science conversations in these Issues,
 rather than those conversations being lost in emails or Slack. This is
 more organized and also makes onboarding team members much smoother
@@ -292,7 +294,7 @@ code](https://github.com/Openscapes/issues-demo/blob/master/code-example.R#L12-L
 
 <br>
 
-![](images/github-anchor-lines.png){fig-align="center" width="80%"} 
+![](images/github-anchor-lines.png){fig-align="center" width="80%"}
 
 <br>
 
@@ -311,7 +313,7 @@ filter or view based on these categories.
 
 <br>
 
-![](images/issues-labels.png){fig-align="center" width="80%"} 
+![](images/issues-labels.png){fig-align="center" width="80%"}
 
 <br>
 
@@ -340,11 +342,15 @@ with using them for Openscapes planning:
 
 <br>
 
-![](images/issues-projects.png){fig-align="center" width="80%"} 
+![](images/issues-projects.png){fig-align="center" width="80%"}
 
 <br>
 
-For examples of Projects, see  <https://nmfs-opensci.github.io/ResourceBook/content/project_management/github_project_boards.html> as well as a 2024 [Openscapes Community Call: GitHub for NASA Openscapes community calendaring & project management](https://openscapes.org/blog/2024-02-28-github-community-call/).
+For examples of Projects, see
+<https://nmfs-opensci.github.io/ResourceBook/content/project_management/github_project_boards.html>
+as well as a 2024 [Openscapes Community Call: GitHub for NASA Openscapes
+community calendaring & project
+management](https://openscapes.org/blog/2024-02-28-github-community-call/).
 
 Milestones are a way to attach deadlines to your Project (although you
 do not need to identify a date if you don't want to). Once you create a
@@ -363,36 +369,36 @@ Using Issues for “traditional” bug/features for code, it makes sense to
 keep the repository public and have all Issues pertaining to that repo
 there within that repo.
 
-If you're using Issues for “non-traditional” laboratory research group
-and science conversations, there are other considerations. Maybe you do
-want a private repository, but even so you'll want to think ahead. Will
-you eventually make that repo public when you publish your study?
-Changing a repo from private to public (or vice versa, both are possible
-in the repository's Settings) will make not only the code and files of
-that repo public, but also all the Issues. Which is fine, but it might
-add considerations in terms of what is discussed in those Issues.
+If you're using Issues for “non-traditional” research group and science
+conversations, there are other considerations. Maybe you do want a
+private repository, but even so you'll want to think ahead. Will you
+eventually make that repo public when you publish your study? Changing a
+repo from private to public (or vice versa, both are possible in the
+repository's Settings) will make not only the code and files of that
+repo public, but also all the Issues. Which is fine, but it might add
+considerations in terms of what is discussed in those Issues.
 
-### OHI example
+### Ocean Health Index example
 
-Here is an example of the Ocean Health Index team's thought process &
+Here is an example of the Ocean Health Index team’s thought process &
 strategy.
 
 Our team works within a GitHub Organization called "OHI-Science". Within
 that Organization, we work in many repositories, with different
 combinations of people working primarily within different repositories.
-Sanity-wise, we didn’t want to have conversations in Issues within each
-of those repositories because it would make finding those conversations
-more difficult (although now GitHub can search all Issues/code across an
-Organization!).
+For coherence, we didn’t want to have conversations in Issues within
+each of those repositories because it would make finding those
+conversations more difficult (although now GitHub can search all
+Issues/code across an Organization!).
 
 We also wanted our repos to be public, but to have private conversations
 using the Issues feature.
 
 These two needs led us to create a single private repository named
 “issues”, and we only use it for Issues. This works really well for us,
-especially since our team lead can engage in these discussions by
-receiving emails about the Issues in his inbox, and can respond without
-having to go to GitHub.com.
+especially since our team-lead can engage in these discussions by
+receiving emails about the Issues in their inbox, and can respond
+without having to go to GitHub.com.
 
 ## Your Turn: Create & comment on issues
 
@@ -417,7 +423,7 @@ Here's what your inbox will look like afterwards:
 
 <br>
 
-![](images/issues-inbox-crop.png){fig-align="center" width="80%"} 
+![](images/issues-inbox-crop.png){fig-align="center" width="80%"}
 
 <br>
 

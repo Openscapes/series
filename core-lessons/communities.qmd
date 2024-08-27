@@ -98,17 +98,40 @@ In the past, Twitter has been a legit tool for science, a good way to learn what
 
 ## Open community examples
 
-### Government peer-learning groups
+Each open community has a purpose. Many have missions focused on diversity, equity, inclusion, and justice, within a specific domain. These are just a few examples, roughly categorized.
 
--   [NMFS Open Sci (NOAA Fisheries)](https://nmfs-opensci.github.io/)
+-   Data Science Learning Community ([DSLC](https://dslc.io/))
+-   [The Carpentries](https://carpentries.org/)
+-   [The Turing Way](https://the-turing-way.netlify.app/index.html)
+-   NASA's Transform to Open Science ([TOPS](https://nasa.github.io/Transform-to-Open-Science/))
 
-    -   see also <https://openscapes.github.io/series/forkeds-lessons/#nmfs-openscapes>
+### Language & Tools
 
+-   [rOpenSci](https://ropensci.org/)
+-   [R-Ladies](https://rladies.org/)
+-   [Posit](https://forum.posit.co/)
+-   [pyOpenSci](https://www.pyopensci.org/)
+-   [PyLadies](https://pyladies.com/)
+
+### Domain
+
+-   [Pangeo](https://pangeo.io/)
+-   Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/))
+-   Black women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/))
+-   [Ladies of Landsat](https://ladiesoflandsat.github.io/)
+
+### Geographical / regional
+
+-   Local [R User Groups](https://www.r-consortium.org/all-projects/r-user-group-support-program)
 -   Interagency Ecological Program [Data Science Project Work Team](https://iep.ca.gov/Science-Synthesis-Service/Project-Work-Teams/Data-Science)
 
--   [R Govys](https://rgovys.github.io/)
+### Government
 
--   EPA CEMM Data Science Technical Exchange, R & Python user groups, Data Science Community of Practice
+-   [NMFS Open Science](https://nmfs-opensci.github.io/) (National Marine Fisheries Service / NOAA Fisheries)
+-   [NMFS Openscapes](https://nmfs-openscapes.github.io/)
+-   [R Govys](https://rgovys.github.io/)
+-   [USGS-R](https://usgs-r.github.io/)
+-   U.S. EPA CEMM Data Science Technical Exchange, R & Python user groups, Data Science Community of Practice
 
 ### Campus coding clubs
 
