@@ -18,7 +18,7 @@ The first half of the Series focuses on efficiency and open culture within your 
 
 ## Why we're here
 
-We are passionate environmental scientists studying important, time-sensitive topics using data of all kinds. And we were never taught to work efficiently with data.
+We are passionate environmental scientists and researchers studying important, time-sensitive topics using data of all kinds. And we were never taught to work efficiently with data.
 
 We are here because I know these files are on your computer — we all have them.
 
