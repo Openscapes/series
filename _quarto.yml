@@ -39,6 +39,10 @@ website:
     contents:
       - href: "index.qmd"
         text: Welcome
+      - href: "program-summary.qmd"
+        text: Program Summary
+      - href: "what-to-expect.qmd"
+        text: What to Expect        
       - section: core-lessons/index.qmd
         contents:        
          - href: "core-lessons/mindset.qmd"

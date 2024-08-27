@@ -119,6 +119,8 @@ See also other publications and presentations at [openscapes.org/media](https://
 
 ## About
 
+### Openscapes
+
 [Openscapes](https://openscapes.org) is an approach and a movement that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science. Through a creative approach drawing inspiration and skills from many places, we provide structures for technical skill-building, collaborative teamwork, and inclusive community development. Our work builds from many others in the open movement.
 
 Read more about How We Work:
