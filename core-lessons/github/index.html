@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.54">
+<meta name="generator" content="quarto-1.5.56">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -316,6 +316,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#github-for-research-groups" id="toc-github-for-research-groups" class="nav-link" data-scroll-target="#github-for-research-groups">GitHub for research groups</a>
   <ul class="collapse">
   <li><a href="#organizations" id="toc-organizations" class="nav-link" data-scroll-target="#organizations">Organizations</a></li>
+  <li><a href="#repositories" id="toc-repositories" class="nav-link" data-scroll-target="#repositories">Repositories</a></li>
   <li><a href="#issues" id="toc-issues" class="nav-link" data-scroll-target="#issues">Issues</a></li>
   <li><a href="#branches" id="toc-branches" class="nav-link" data-scroll-target="#branches">Branches</a></li>
   </ul></li>
@@ -346,9 +347,11 @@ ul.task-list li input[type="checkbox"] {
 
 <p>What is GitHub<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>, and what are GitHub strategies for Future Us?</p>
 <p>GitHub is a powerful tool for collaborative coding with version control, but here and in our GitHub Clinic we are going to focus on some of its lesser-celebrated awesomeness. We’ll talk about GitHub for supporting, reusing, contributing, and failing safely, as well as GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.</p>
+<p>We begin with a friendly general introduction to GitHub and share examples and strategies used by some research groups. Following this are the two parts of the GitHub Clinic as we teach them in Champions Cohorts: 1) GitHub for publishing and 2) GitHub for project management.</p>
 <section id="github-clinic" class="level2">
 <h2 class="anchored" data-anchor-id="github-clinic">GitHub Clinic</h2>
-<p>Openscapes GitHub Clinic introduces GitHub with the motivation of collaboration and open science. It is designed for both new and seasoned learners, focused on how to develop workflows with diverse teams.</p>
+<p>The Openscapes GitHub Clinic introduces GitHub with the motivation of collaboration and open science. It is designed for both new and seasoned learners, focused on how to develop workflows with diverse teams.</p>
+<p><strong>Prerequisite:</strong> To follow along with the Clinic, you will need to create GitHub account at <a href="http://github.com" class="uri">http://github.com</a>, if you don’t already have one. Optional advice from Jenny Bryan about <a href="https://happygitwithr.com/github-acct">choosing a username</a>.</p>
 <div class="callout callout-style-default callout-warning no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -388,12 +391,12 @@ Video recordings
 <p><img src="images/github_friends.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:85.0%" alt="A row of 6 cute smiling monsters celebrating using GitHub. The first, wearing a climbing harness labeled &quot;Me&quot; is high-fiving another whose harness says &quot;Future Me&quot;. Others hold a box of snacks (tacos!), a map, a rope. Text above the monsters quotes Jenny Bryan: \&quot;Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review"></p>
 </figure>
 </div>
-<p>See the <strong>GitHub Illustrated Series</strong> (<a href="https://openscapes.org/blog/2022/05/27/github-illustrated-series/">Horst &amp; Lowndes 2022</a>) for the full series!</p>
+<p>See the <strong>GitHub Illustrated Series</strong> (<a href="https://openscapes.org/blog/2022/05/27/github-illustrated-series/">Horst &amp; Lowndes 2022</a>) for the full story!</p>
 </section>
 <section id="growth-mindset" class="level2">
 <h2 class="anchored" data-anchor-id="growth-mindset">Growth Mindset</h2>
 <p>When we teach GitHub, we find it’s useful to say explicitly that we should go in with a Growth Mindset - the idea that we don’t know something <strong><em>yet</em></strong> but we are able to learn. Growth Mindset is work by Dr.&nbsp;Carol Dweck - see her <a href="http://www.amazon.com/gp/product/0345472322/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0345472322&amp;linkCode=as2&amp;tag=farnamstreet-20&amp;linkId=ZYKJHPHELN46AOWM">book</a>, <a href="https://www.youtube.com/watch?v=_X0mgOOSpLU&amp;t=11s&amp;ab_channel=TED">TED Talk</a> (10 min); <a href="https://www.youtube.com/watch?v=M1CHPnZfFmU&amp;ab_channel=JohnSpencer">illustrated video</a> (2 min).</p>
-<p>As part of this, we like how Jenny Bryan (<a href="https://github.com/jennybc/code-smells-and-feels#code-smells-and-feels">Code Smells and Feels</a>) thinks about this - that your tastes develops faster than your abilities.</p>
+<p>As part of this, we like how Jenny Bryan (<a href="https://github.com/jennybc/code-smells-and-feels#code-smells-and-feels">Code Smells and Feels</a>) thinks about this - that your taste develops faster than your abilities.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/hedgehog-jenny-bryan.png" class="img-fluid figure-img" style="width:80.0%"></p>
@@ -456,10 +459,10 @@ inactive or possibly created prior to Openscapes Cohort
 
 - <https://github.com/khyde>
 -->
-<section id="should-my-students-create-repos-in-our-group-organization" class="level4">
-<h4 class="anchored" data-anchor-id="should-my-students-create-repos-in-our-group-organization">Should my students create repos in our group organization?</h4>
-<p>While there are many different approaches that could make sense for your group, our starting recommendation would be that any project happening in the research group gets its own repository, and that repository is in the research group’s Organization. This is then clearly part of the research group’s work and more findable by past/current/future members. And it can be forked/moved to other accounts at any time.</p>
 </section>
+<section id="repositories" class="level3">
+<h3 class="anchored" data-anchor-id="repositories">Repositories</h3>
+<p>Repositories live inside an Organization. “Repos” are essentially folders, and you’ll put files and folders in them. How do we decide when we need a new repository? Should this be one repo per project or an organization-level repo? While there are many different approaches that could make sense for your group, our starting recommendation would be that any project happening in the research group gets its own repository, and that repository is in the research group’s Organization. This is then clearly part of the research group’s work and more findable by past/current/future members. And it can be forked/moved to other accounts at any time.</p>
 </section>
 <section id="issues" class="level3">
 <h3 class="anchored" data-anchor-id="issues">Issues</h3>
@@ -474,15 +477,13 @@ inactive or possibly created prior to Openscapes Cohort
 <section id="branches" class="level3">
 <h3 class="anchored" data-anchor-id="branches">Branches</h3>
 <p>Branches are a really powerful feature for software development, but aren’t necessarily the right place for new GitHub users to get started. If there are a small number of people in a single repository and you’re all first learning, we’d suggest that you start using GitHub without branches, and focus on checking in with each other as you contribute (see <a href="https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#collaborating-with-github">R for Excel Users</a> example collaborating with GitHub from RStudio).</p>
-<blockquote class="blockquote">
-<p>Aside: Julie Lowndes only worked in the main branch with her small group of Ocean Health Index colleagues for the first 8 years as a GitHub user; it was only when working with the NASA Openscapes Mentors community that she learned how to use branches as software developers do.</p>
-</blockquote>
 <p>Branches are powerful as your teams grow and/or as you become savvier with GitHub and code, so it is good to discuss strategies with them.</p>
+<p>One approach is to treat each branch as very temporary: you make a branch from main, add your contribution, make a pull request, merge and delete the branch. This is the approach with the NASA Mentors and it’s more continuous little updates rather than larger big updates, so we can make progress together more quickly. This also works better when working with Jupyter Notebooks, which can cause merge conflicts.</p>
 <section id="should-we-do-everything-in-a-dev-branch" class="level4">
 <h4 class="anchored" data-anchor-id="should-we-do-everything-in-a-dev-branch">Should we do everything in a <code>dev</code> branch?</h4>
 <p>Full question: “Right now any collaborative code in my group has a main branch and a dev branch. All collaborators clone the dev branch and push back to the dev branch on GitHub before anything ever goes to main. Is this best practice?”</p>
 <p>Advice: This system with the dev branch works so long as the dev doesn’t diverge too far from the main branch - the Ocean Health Index project does it that way but it’s someone’s job for a few weeks at the end of each year making sure the dev branch can merge into main.</p>
-<p>Another approach is to treat each branch as very temporary: you make a branch from main, add your contribution, make a pull request, merge and delete the branch. This is what we’ve been doing with the NASA Mentors and it’s more continuous little updates rather than larger big updates, and I think it works better when working with Jupyter Notebooks, which can cause a lot of merge conflicts.</p>
+<p>One of the lessons here is to make these tools work for you, and add new layers as you and your team build up your skills.</p>
 
 
 </section>
