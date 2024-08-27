@@ -136,7 +136,7 @@ Branches are a really powerful feature for software development, but aren't nece
 
 Branches are powerful as your teams grow and/or as you become savvier with GitHub and code, so it is good to discuss strategies with them.
 
-One approach is to treat each branch as very temporary: you make a branch from main, add your contribution, make a pull request, merge and delete the branch. This is what we've been doing with the NASA Mentors and it's more continuous little updates rather than larger big updates, and I think it works better when working with Jupyter Notebooks, which can cause a lot of merge conflicts.
+One approach is to treat each branch as very temporary: you make a branch from main, add your contribution, make a pull request, merge and delete the branch. This is the approach with the NASA Mentors and it's more continuous little updates rather than larger big updates, so we can make progress together more quickly. This also works better when working with Jupyter Notebooks, which can cause merge conflicts.
 
 #### Should we do everything in a `dev` branch?
 
