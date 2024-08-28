@@ -1,6 +1,47 @@
 ---
-title: Frequently Asked Questions
+title: Teams and cohorts
 ---
+
+One thing that makes Openscapes Champions Cohorts impactful is a focus on teamwork. People most often sign up as teams, with varying skillsets and responsibilities. People can also sign up as individuals. Some Champions have said that “finding their teams” throughout the cohort – finding what’s common and feeling less alone while they learn skills for their own work – has been the most valuable part of Openscapes.
+  — one of the biggest benefits we hear from past Champions is that Openscapes helps them "find their team" by identifying common needs and solutions, which makes daily work feel less lonely.
+
+
+Champions teams might have shared projects, but many do not.
+
+The intent is to strengthen relationships and shared systems with folks with different responsibilities and skills, so there is less reinventing and less knowledge lost. 
+
+
+TODO
+The Champions Program operates as cohorts of 7-10 research groups, with 2-5 individuals per group (24-35 people total per cohort). Importantly, research group leads (faculty, lecturers, program managers, etc.) and members (students, analysts, lab managers, etc.) participate together so that 
+1) everyone sees and values what is possible with open data science; 2) leads enable members to invest time to learn skills and develop shared workflows; 3) members have guidance, agency, and support to incorporate concepts into their work; and 4) everyone becomes Champions for open data science, strengthening the community of practice within the research group and beyond. 
+
+
+
+
+<!---
+As Openscapes introduces modern concepts, tooling, and examples from your peers for collaborative open data science, your team focuses on where you are and where you want to go together.
+--->
+
+
+
+
+### **What is a team?**
+
+
+Teams do not need to be a formal research group; they can be collaborating in other ways. Team members do not all need to have technical or data interests, but share a curiosity and interest in improving something about how they work.
+
+**Q: What if I don’t have a team?**
+
+**A:** That’s ok, please sign up! We’ll help you connect with participants who share some of your goals or needs.
+
+**Q: If a team is participating together, how important is it for them all to be in the same cohort?**
+
+**A:** Not too important. Sometimes people feel more 'connected' if they see people they know in the virtual room. The activities during the cohort calls are not by 'team'; they are in random breakout groups. Participants are expected to have ‘Seaside Chats’ together with their teams in the weeks between Cohort Calls. It’s more important that participants are committed to attending all sessions in the time slot they have chosen.
+
+**Q: Can I sign up if I have participated in a previous Openscapes Champions Cohort?**
+
+**A:** Yes. If Cohorts are oversubscribed, this would be discussed by a small selection committee.
+
 
 ## CHAMPIONS PROGRAM: TEAMS
 
