@@ -1,5 +1,7 @@
 ---
 title: Pathways
+aliases: 
+  - core-lessons/pathways.html
 ---
 
 This page has guidance and examples around the Pathways document; to learn more about what teams accomplish, explore [stories from previous cohorts](https://openscapes.org/blog#category=champions).
@@ -9,7 +11,7 @@ This page has guidance and examples around the Pathways document; to learn more 
 Perhaps the most important part of Openscapes is helping teams identify their trailhead together, as illustrated in the Champions [landscape illustration](/index.qmd#welcome).
 
 ::: column-margin
-![](../images/horst_openscapes_champions.jpg){fig-align="center"}
+![](images/horst_openscapes_champions.jpg){fig-align="center"}
 :::
 
 We support individuals to "find their teams" by discussing approaches and software, so that they find they have common parts of how they work, whether they are working on the same or different projects. This builds from the ideas of creating space and place in order to find the common, as introduced in the [better science](/core-lessons/better-science.qmd#pathways-better-science) chapter.
@@ -25,6 +27,7 @@ The Pathway Intro slides in the latter part of this deck were presented in a Cha
 The Pathways Spreadsheet provides a structured way for your team to think how you work and find common approaches and needs ([template](https://docs.google.com/spreadsheets/d/1rmhOly87OYrPOUqTzmccYbPrTlGmXGsN06GI1FKzxag/edit?usp=sharing)).
 
 ![Example Pathway Spreadsheet documenting how the team is working now and ideas for next steps](images/pathway-example.png)
+
 
 This format has helped many groups think through their trailhead and identifying where they are now. Some groups have found it more useful to draw things out as a workflow on a whiteboard or google slide. The spreadsheet format might not work for your group, and that is okay; use whatever format makes sense for you.
 
