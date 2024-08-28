@@ -92,7 +92,8 @@ website:
         contents:
          - href: "inspiration/resources-that-influence.qmd"
            text: Resources that influence us
-
+      - href: "faq.qmd"
+        text: Frequently Asked Questions
            
 format:
   html:
