@@ -43,6 +43,8 @@ website:
         text: Program Summary
       - href: "what-to-expect.qmd"
         text: What to Expect        
+      - href: "teams.qmd"
+        text: Teams
       - section: core-lessons/index.qmd
         contents:        
          - href: "core-lessons/mindset.qmd"
@@ -92,8 +94,6 @@ website:
         contents:
          - href: "inspiration/resources-that-influence.qmd"
            text: Resources that influence us
-      - href: "faq.qmd"
-        text: Frequently Asked Questions
            
 format:
   html:
