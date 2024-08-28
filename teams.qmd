@@ -4,7 +4,7 @@ title: Teams and Pathways
 
 One thing that makes Openscapes Champions Cohorts impactful is a focus on **teamwork**. People most often sign up as teams, with varying skillsets and responsibilities, perhaps with a shared project and perhaps not. People can also sign up as individuals. Some Champions have said that “finding their teams” during the cohort – finding what’s common and feeling less alone while learning skills with their peers – has been the most valuable part of Openscapes.
 
-Openscapes Champions was originally designed with academic research groups in mind, to provide resilience where there is high turnover and folks might be struggling with similar challenges around data analysis while working on different projects. But we're increasingly working with research groups of different kinds and needs, some producing big annual reports or indicators! We expect a range of technical ability and training experience; most importantly is selecting folks that have interest in making daily practices more efficient and developing collaboration and leadership skills.
+Openscapes Champions was originally designed with academic research groups in mind, to provide resilience where there is high turnover and folks might be struggling with similar challenges around data analysis — while working on different projects. But over half of cohorts have been groups with different structures and needs, some producing big annual government reports or indicators! We expect — and design for — a range of technical ability and comfort with technology and open science concepts. The most important thing is that people opt-in who have interest in improving their work somehow and want to strengthen their collaboration and leadership skills.
 
 ## Teams: frequently asked questions 
 
@@ -41,12 +41,14 @@ Choosing your team can be based on interests around data analysis and around lea
 
 >*How you define \"team\" is completely up to you and having one person be in the cohort and using in-between session \"seaside chats\" to bring back the information to another group is 100% fine. That is common in the cohorts. In my first Openscapes cohort, I was the only person from my project. My personal goal was to use the Openscapes structure to help a team that I am on figure out how to tackle some off-boarding tasks due to a retirement. During my second cohort, there were 2 team members in the cohort and 2 not in the cohort. We focused on standardizing our data to get ready for our GitHub served data package. For the 3rd cohort I am doing, ^2^⁄~3~ of our team is in the cohort as we start to get organized for a major revamp of our report into a reproducible workflow.* **- Eli Holmes (NOAA NWFSC, NMFS-Openscapes)**
 
+We e invite research group leads (faculty, lecturers, program managers, etc.) and members (students, analysts, lab managers, etc.) participate together as teams so that 1) everyone sees and values what is possible; 2) leads enable members to invest time to learn skills and develop shared workflows; 3) members have guidance, agency, and support to incorporate concepts into their work; and 4) everyone can make progress on what is important to them, while strengthening the community of practice within the research group, cohort and beyond. 
+
 ### What if I don’t have a team?
 
 That’s ok, please sign up! We’ll help you connect with participants who share some of your goals or needs.
 
 <!---
-The Champions Program is structured for teams with the intent that research group leads (faculty, lecturers, program managers, etc) and members (students, post-docs, analysts, lab managers, etc.) participate as a team together. This is a strategy so that the lead does not necessarily have to be an expert/comfortable with open data science to enable their team to design open data science workflows. Group leads and members participate together so that:
+The Champions Program is structured for teams with the intent that research group leads (faculty, lecturers, program managers, etc) and members (students, post-docs, analysts, lab managers, etc.) participate as a team together. This is a strategy so that the lead does not necessarily have to be an expert/comfortable with open data science to enable their team to design open data science workflows and advocate for support. Group leads and members participate together so that:
 
 1.  everyone sees and values what is possible for their work
 2.  leads enable members to invest time in learning skills and developing shared workflows as part of their jobs
