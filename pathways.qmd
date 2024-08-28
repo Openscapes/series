@@ -32,6 +32,9 @@ Below are a few one-slide pictures of Pathways presented by Champions teams in t
 ![Screenshot from the ADRIFT Field Methods website created through the Openscapes Program. This is a living document where we can outline our methodology and update/archive specific components of our methods and hardware as changes are made. Credit: NOAA Fisheries / Kourtney Burger. Source: [Sound Bytes: Championing Open Science](https://www.fisheries.noaa.gov/science-blog/sound-bytes-championing-open-science){.uri}](images/swfsc-sael-site-kourtney-burger.jpg){fig-alt="screenshot of web page. Left navigation bar with round NOAA logo above a table of contents. Right side has text titled Summary above a diagram of drifting acoustic buoy" fig-align="center" width="85%"}
 
 
+> “I didn’t think to find solutions, because I didn’t realize that there was a problem; I thought that this was just the nature of doing [ecological] research – an endless pile of confusingly named csv files and R scripts....Now that I can see all the ways that our lab has profited from this initial investment, I cannot imagine how I managed without Openscapes’ principles. Our lab is producing substantially more science of higher quality and we are making more of our underlying data and code publicly available as a direct result of Openscapes’ intervention.” -
+Dr. Chelsea Wood, University of Washington
+
 See also [A TL;DR Collection of Stories from Openscapes Champions and Mentors](https://docs.google.com/presentation/d/1YAnaRFsKX3H6cSTXoOl-GksH-eebifQ6vzN7UwfoXUY/edit?usp=sharing); these stories are largely from 3 months+ following Pathways presentations.
 
 ## The concept
