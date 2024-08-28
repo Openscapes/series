@@ -43,8 +43,8 @@ website:
         text: Program Summary
       - href: "what-to-expect.qmd"
         text: What to Expect        
-      - href: "teams.qmd"
-        text: Teams
+      - href: "core-lessons/pathways.qmd"
+        text: Pathways & Outcomes        
       - section: core-lessons/index.qmd
         contents:        
          - href: "core-lessons/mindset.qmd"
@@ -63,8 +63,6 @@ website:
            text: Coding strategies
          - href: "core-lessons/communities.qmd"
            text: Open communities
-         - href: "core-lessons/pathways.qmd"
-           text: Pathways
       - section: "Additional Lessons"
         contents:
          - href: "additional-lessons/code-of-conduct.qmd"
