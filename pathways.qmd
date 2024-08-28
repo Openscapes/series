@@ -1,20 +1,44 @@
 ---
-title: Pathways
+title: Pathways and Outcomes
+subtitle: The Pathways concept help people make and communicate progress about shifting their workflows with open science
 aliases: 
   - core-lessons/pathways.html
 ---
 
-This page has guidance and examples around the Pathways document; to learn more about what teams accomplish, explore [stories from previous cohorts](https://openscapes.org/blog#category=champions).
+2-month Champions Cohorts go by quickly. In our final session, each team shares what they’ve learned through their work-in-progress. Outcomes are different for each team or individual, depending on what they decided to focus on.
+
+Teams share their progress through our **Pathways concept** that frames how they work now and where they would like to go in terms of reproducibility, collaboration, communication, and culture. Practically speaking, this is the Pathways spreadsheet document, a template that builds off of [Table 1 from Lowndes et al. 2017](https://www.nature.com/articles/s41559-017-0160/tables/1), but we’ve added this fourth important “culture” category so teams can be explicit about their plans for diversity, equity, inclusion as well as reproducibility, collaboration, and communication. Read on for example stories and guidance.
+
+## Pathways stories
+
+"Show-not-tell" is an important concept in Openscapes, particularly since "what does open science look like"? is a question often asked. 
+
+Below are a few one-slide pictures of Pathways presented by Champions teams in their final sessions. For deeper details, [scroll the blogs](https://openscapes.org/blog#category=champions) on what Champions teams and individuals have accomplished in the 24+ Champions Cohorts over the past 5 years. People often describe what they will do next, and then we see how they've implemented those plans in the optional 3-month check-in we host after the cohort conclusion.
+
+<br>
+
+![An example of an Openscapes pathway written by the NOAA Alaska Fisheries Science Center EcoFOCI team. The diagram summarizes how they used to share code, data, and files, and what their ongoing plans are for streamlining these processes and creating a team culture of openness and psychological safety. Source: [A supportive forum for continued learning and collaboration at NOAA Fisheries Alaska](https://www.openscapes.org/blog/2022/04/07/afsc-supportive-forum/)](images/afsc-ecofoci.png){fig-align="center" width="85%"}
+
+<br>
+
+![NOAA Northwest Fisheries Science Center Ecosystem Status Report Automation team was united by working on reports with many contributors of maps, time series data that must be compiled into 20-page reports. Source: [Nationwide Openscapes Training at NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-sharing, and Open Science](https://openscapes.org/blog/2023-01-24-noaa-nmfs-fall/)](images/2022-noaa-nwfsc-fall-esr.png){fig-alt="flow diagram outlining data files, code, analysis output, end product, the types of data, their locations, and the people who must manually interact with specific components" fig-align="center" width="85%"}
+
+<br>
+
+![The NOAA Southeast Fisheries Science Center Trawl and Plankton Branch team focused on "Where are we going and how do we get there", and plans to do better documentation, use GitHub, which in the near-term involves setting up discussions to include more team members and set up collaborative processes. Source: [Nationwide Openscapes Training at NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-sharing, and Open Science](https://openscapes.org/blog/2023-01-24-noaa-nmfs-fall/)](images/2022-noaa-sefsc-fall-tpb.png){fig-alt="diagram with question mark in center surrounded by 3 boxes labelled Current Responsibilities, Challenges, End Goal" fig-align="center" width="85%"}
+
+<br>
+
+![Screenshot from the ADRIFT Field Methods website created through the Openscapes Program. This is a living document where we can outline our methodology and update/archive specific components of our methods and hardware as changes are made. Credit: NOAA Fisheries / Kourtney Burger. Source: [Sound Bytes: Championing Open Science](https://www.fisheries.noaa.gov/science-blog/sound-bytes-championing-open-science){.uri}](images/swfsc-sael-site-kourtney-burger.jpg){fig-alt="screenshot of web page. Left navigation bar with round NOAA logo above a table of contents. Right side has text titled Summary above a diagram of drifting acoustic buoy" fig-align="center" width="85%"}
+
+
+See also [A TL;DR Collection of Stories from Openscapes Champions and Mentors](https://docs.google.com/presentation/d/1YAnaRFsKX3H6cSTXoOl-GksH-eebifQ6vzN7UwfoXUY/edit?usp=sharing); these stories are largely from 3 months+ following Pathways presentations.
 
 ## The concept
 
-Perhaps the most important part of Openscapes is helping teams identify their trailhead together, as illustrated in the Champions [landscape illustration](/index.qmd#welcome).
+The Pathways concept is put to practice by an actual document that provides a structured way for your team to think how you work and find common approaches and needs ([template](https://docs.google.com/spreadsheets/d/1rmhOly87OYrPOUqTzmccYbPrTlGmXGsN06GI1FKzxag/edit?usp=sharing)).
 
-::: column-margin
-![](images/horst_openscapes_champions.jpg){fig-align="center"}
-:::
-
-We support individuals to "find their teams" by discussing approaches and software, so that they find they have common parts of how they work, whether they are working on the same or different projects. This builds from the ideas of creating space and place in order to find the common, as introduced in the [better science](/core-lessons/better-science.qmd#pathways-better-science) chapter.
+This spreadsheet format has helped many groups think through their trailhead and identifying where they are now. Some groups have found it more useful to draw things out as a workflow on a whiteboard or google slide. The spreadsheet format might not work for your group, and that is okay; teams can use whatever format makes sense for them.
 
 ::: {.callout-warning icon="false"}
 ## Slides
@@ -24,22 +48,21 @@ The Pathway Intro slides in the latter part of this deck were presented in a Cha
 [Documentation & the Pathway](https://docs.google.com/presentation/d/1vuZVu7YXyKAgCAM65hjdalvUyimIqnL94BDDsoM-uxI/)
 :::
 
-The Pathways Spreadsheet provides a structured way for your team to think how you work and find common approaches and needs ([template](https://docs.google.com/spreadsheets/d/1rmhOly87OYrPOUqTzmccYbPrTlGmXGsN06GI1FKzxag/edit?usp=sharing)).
-
-![Example Pathway Spreadsheet documenting how the team is working now and ideas for next steps](images/pathway-example.png)
+![Example Pathway Spreadsheet documenting how the team is working now and ideas for next steps](images/pathway-example.png){fig-align="center" width="85%"}
 
 
-This format has helped many groups think through their trailhead and identifying where they are now. Some groups have found it more useful to draw things out as a workflow on a whiteboard or google slide. The spreadsheet format might not work for your group, and that is okay; use whatever format makes sense for you.
 
 ## Planning guidance
+
+*The following is written as guidance for people using the Pathways concept.*
 
 You'll develop your Pathway by talking with others on your team, screensharing ("show me"), and asking questions.
 
 You'll use the document by creating a copy of the template and then discussing with your team. Start with the "Now" column. How do you work now? Add rows as best reflects your work, but take a moment before deleting them in case it's something you haven't thought about in this way before rather than if it's not relevant to you. Then, move on to the "Next Steps" column as you think through priorities and learn from/with/for your cohort. This will be a work in progress throughout the cohort that you'll present a snapshot of in the final Cohort Call (see next) and that you can revisit following the cohort as well.
 
-## Presenting guidance
+### Presenting guidance
 
-On the final Cohort Call, each team presents their Pathways. Each team has 3 minutes to share followed by 2 minutes for questions. We encourage leads not to present, and it's great when we hear multiple voices from the teams.
+On the final Cohort Call, each team presents their Pathways. Each team has 3 minutes to share followed by 2 minutes for questions. We encourage leads not to present, and it's great when we hear multiple voices from the teams. In the spirit of teamwork, many people co-present their Pathways, and provide plans for how they are moving from solo practices toward shared practices. 
 
 **This is informal sharing of unpolished work-in-progress.** Everyone makes progress throughout the Cohort: in mindsets, planning and actions. This is an opportunity to reflect and talk about it, building on the reflection breakout rooms that began most Cohort Calls. We've been reflective each week and we've all made progress.
 
@@ -54,30 +77,6 @@ A few reflection prompts that can help frame the presentations:
 -   What future revisions will you propose making for your pathway?
 -   Any final questions you want to workshop with the Cohort?
 
-## Pathways stories
-
-Here are a few one-slide pictures of Pathways presented by Champions teams in their final sessions:
-
-![An example of an Openscapes pathway written by the NOAA Alaska Fisheries Science Center EcoFOCI team. The diagram summarizes how they used to share code, data, and files, and what their ongoing plans are for streamlining these processes and creating a team culture of openness and psychological safety. Source: [A supportive forum for continued learning and collaboration at NOAA Fisheries Alaska](https://www.openscapes.org/blog/2022/04/07/afsc-supportive-forum/)](images/afsc-ecofoci.png)
-
-<br>
-
-![NOAA Northwest Fisheries Science Center Ecosystem Status Report Automation team was united by working on reports with many contributors of maps, time series data that must be compiled into 20-page reports. Source: [Nationwide Openscapes Training at NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-sharing, and Open Science](https://openscapes.org/blog/2023-01-24-noaa-nmfs-fall/)](images/2022-noaa-nwfsc-fall-esr.png){fig-alt="flow diagram outlining data files, code, analysis output, end product, the types of data, their locations, and the people who must manually interact with specific components" fig-align="center" width="589"}
-
-<br>
-
-![The NOAA Southeast Fisheries Science Center Trawl and Plankton Branch team focused on "Where are we going and how do we get there", and plans to do better documentation, use GitHub, which in the near-term involves setting up discussions to include more team members and set up collaborative processes. Source: [Nationwide Openscapes Training at NOAA Fisheries Science Centers: Facilitating Collaboration, Skill-sharing, and Open Science](https://openscapes.org/blog/2023-01-24-noaa-nmfs-fall/)](images/2022-noaa-sefsc-fall-tpb.png){fig-alt="diagram with question mark in center surrounded by 3 boxes labelled Current Responsibilities, Challenges, End Goal" fig-align="center" width="588"}
-
-<br>
-
-![Screenshot from the ADRIFT Field Methods website created through the Openscapes Program. This is a living document where we can outline our methodology and update/archive specific components of our methods and hardware as changes are made. Credit: NOAA Fisheries / Kourtney Burger. Source: [Sound Bytes: Championing Open Science](https://www.fisheries.noaa.gov/science-blog/sound-bytes-championing-open-science){.uri}](images/swfsc-sael-site-kourtney-burger.jpg){fig-alt="screenshot of web page. Left navigation bar with round NOAA logo above a table of contents. Right side has text titled Summary above a diagram of drifting acoustic buoy" fig-align="center" width="522"}
-
-### Read more
-
--   [Champions Program blog posts](https://openscapes.org/blog#category=champions); you'll find more Pathways shared as slides and stories following the 2-month cohort
-
--   [A TL;DR Collection of Stories from Openscapes Champions and Mentors](https://docs.google.com/presentation/d/1YAnaRFsKX3H6cSTXoOl-GksH-eebifQ6vzN7UwfoXUY/edit?usp=sharing); these stories are largely from 3 months+ following Pathways presentations
-
 ```{=html}
 <!---
 
@@ -88,3 +87,8 @@ Standard Operating Procedures
 
 --->
 ```
+## What is the impact of this?
+
+What do impacts look like after the Champions Program has completed? [NOAA Fisheries](https://nmfs-openscapes.github.io/) has participated in 10 Champions Cohorts (400 staff) since 2020, which helped scaffold plans for the [Biden-Harris Administration announces support for NOAA Fisheries’ data, infrastructure, and workforce modernization in part via Openscapes](https://www.fisheries.noaa.gov/media-release/biden-harris-administration-announces-34-million-modernize-noaa-fisheries-data). They may be the best example to answer the question What does shifting to open science look like across a federal agency like NOAA, and what are the impacts to the efficiency and quality of their scientific products:
+
+-   [**A Year of Open Science Community Building at NOAA Fisheries (video)**](https://www.youtube.com/watch?v=n1VaV8f6qQE&list=PLChfyH8TVDGnB_zDCm8d9oonMomfk8v9X&index=14). Eli Holmes (NOAA Fisheries Open Science), Evan Howell (Director of the Office of Science and Technology), Megsie Siple (Alaska Fisheries Science Center), Amanda Bradford (Pacific Islands Fisheries Science Center), Brian Fadely (Alaska Fisheries Science Center Marine Mammal Stock Assessments), Vivian Matter (Branch Chief of Southeast Fisheries Science Center), Kathryn Doering (Office of Science and Technology), Christine Stawitz (Office of Science and Technology), Carissa Geravsi (Gulf of Mexico Integrated Ecosystem Assessment), Lynn Dewitt (California Current Ecosystem Assessment Team). Year of Open Science Culminating Conference, March 21, 2024.
