@@ -1,5 +1,5 @@
 ---
-title: What to Expect
+title: What to Expect (Program Level)
 ---
 
 Openscapes Champions is not a typical workshop. Its cohort-based sessions introduce concepts and workflows and facilitates teams to talk about problems, so they can go and solve them with accountability and support.  TODO Note that whether people participate with their teams or as individuals, we focus on teams since participants practice concepts ....
@@ -39,6 +39,29 @@ Between Cohort Calls, teams have synchronous spaces via Seaside Chats and Cowork
 **Coworking** [(Lowndes et al. 2024)](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341) comes in different flavors. For Champions Cohorts, coworking involves people doing their own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively. Some teams join Coworking together, meeting for their Seaside Chat in a breakout room with the option of talking to others in the Cohort. We will share optional Coworking times where you are welcome to come do your own work in a social setting.
 
 **Seaside Chats and Coworking have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and a culture of shared workflows and learning.** See also: [\[Sea\]side Chats for data workflows](https://www.openscapes.org/blog/2019/03/10/seaside-chats/), a 2019 blog.
+
+<!---
+### What would you do in a Seaside Chat?
+
+Example topics:
+
+-   Let’s organize folders and have READMEs so we know what things belong where
+-   Where to put data – here’s how our server works
+-   Let's ask how each other are doing and help identify and address common challenges
+-   Set up Zotero with RMarkdown
+-   Filepath woes: R users use .Rprojects and `here` package
+-   Let's screenshare using Chat/Slack/etc and have a shared plan for how we communicate with each other and get help.
+-   Let’s plan a group “hackathon” to move these .xls to .csv files we store on Github
+
+Example lessons from the Ocean Health Index team's Seaside Chats ([Lowndes et al. 2017](https://www.nature.com/articles/s41559-017-0160)):
+
+-   [Introduction to GitHub](https://github.com/eco-data-science/github-intro-2)
+-   [Text analysis in R](https://github.com/oharac/text_workshop)
+-   [Spatial analysis in R](https://github.com/eco-data-science/spatial-analysis-R)
+-   [Free websites with RMarkdown](https://jules32.github.io/rmarkdown-website-tutorial/)
+-   [Animated plots in R with ggplot2 & gganimate](https://raw.githack.com/allisonhorst/eds-ggplot2-gganimate/master/gganimate_key.html)
+
+--->
 
 ## How We Work
 
