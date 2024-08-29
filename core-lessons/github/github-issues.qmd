@@ -407,7 +407,7 @@ Issues. Here is what to do:
 
 -   Go to
     [github.com/openscapes/demo/issues](https://github.com/openscapes/demo/issues)
--   Create an issue, tag people in your breakout group (ask for their
+-   Create an issue, tag colleagues (ask for their
     username)
 -   Browse issues, comment in other issues
 -   Try:
@@ -416,7 +416,7 @@ Issues. Here is what to do:
     -   Adding Issues to a Project (create one if need be)
     -   Closing an Issue
 
-Have fun! And throughout the process, talk to your breakout group, and
+Have fun! And throughout the process, talk to your colleagues, and
 share what you learn.
 
 Here's what your inbox will look like afterwards:
