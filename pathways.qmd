@@ -37,7 +37,7 @@ Dr. Chelsea Wood, University of Washington
 
 See also [A TL;DR Collection of Stories from Openscapes Champions and Mentors](https://docs.google.com/presentation/d/1YAnaRFsKX3H6cSTXoOl-GksH-eebifQ6vzN7UwfoXUY/edit?usp=sharing); these stories are largely from 3 months+ following Pathways presentations.
 
-## The concept
+## Pathways concept
 
 The Pathways concept is put to practice by an actual document that provides a structured way for your team to think how you work and find common approaches and needs ([template](https://docs.google.com/spreadsheets/d/1rmhOly87OYrPOUqTzmccYbPrTlGmXGsN06GI1FKzxag/edit?usp=sharing)).
 
@@ -55,7 +55,7 @@ The Pathway Intro slides in the latter part of this deck were presented in a Cha
 
 
 
-## Planning guidance
+### Planning guidance
 
 *The following is written as guidance for people using the Pathways concept.*
 
@@ -90,8 +90,22 @@ Standard Operating Procedures
 
 --->
 ```
+
+
+<!--- refine with NOAA
+## Outcomes and Deliverables
+
+Also known as outcomes you can communicate with your supervisors.
+
+-   A more open culture in your group, in part via:
+    -   regular, dedicated group meetings to skill-share, discuss workflows, & build psychological safety (**“seaside chats”**, [Lowndes et al. 2019](https://openscapes.github.io/supercharge-research/), [2024](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341))
+    -   beginnings of a group **pathway** (roadmap) of how you work and next steps for shared workflows
+-   Be agents of change for open science in your groups, departments, communities, and part of a networked global movement for kinder, open practices and culture change
+
+--->
+
 ## What is the impact of this?
 
-What do impacts look like after the Champions Program has completed? [NOAA Fisheries](https://nmfs-openscapes.github.io/) has participated in 10 Champions Cohorts (400 staff) since 2020, which helped scaffold plans for the [Biden-Harris Administration announces support for NOAA Fisheries’ data, infrastructure, and workforce modernization in part via Openscapes](https://www.fisheries.noaa.gov/media-release/biden-harris-administration-announces-34-million-modernize-noaa-fisheries-data). They may be the best example to answer the question What does shifting to open science look like across a federal agency like NOAA, and what are the impacts to the efficiency and quality of their scientific products:
+What do impacts look like after the Champions Program has completed? [NOAA Fisheries](https://nmfs-openscapes.github.io/) has participated in 10 Champions Cohorts (400 staff) since 2020, which helped scaffold plans for the [Biden-Harris Administration announces support for NOAA Fisheries’ data, infrastructure, and workforce modernization in part via Openscapes](https://www.fisheries.noaa.gov/media-release/biden-harris-administration-announces-34-million-modernize-noaa-fisheries-data). They may be the best example to answer the question "What does shifting to open science look like across a federal agency like NOAA, and what are the impacts to the efficiency and quality of their scientific products?":
 
 -   [**A Year of Open Science Community Building at NOAA Fisheries (video)**](https://www.youtube.com/watch?v=n1VaV8f6qQE&list=PLChfyH8TVDGnB_zDCm8d9oonMomfk8v9X&index=14). Eli Holmes (NOAA Fisheries Open Science), Evan Howell (Director of the Office of Science and Technology), Megsie Siple (Alaska Fisheries Science Center), Amanda Bradford (Pacific Islands Fisheries Science Center), Brian Fadely (Alaska Fisheries Science Center Marine Mammal Stock Assessments), Vivian Matter (Branch Chief of Southeast Fisheries Science Center), Kathryn Doering (Office of Science and Technology), Christine Stawitz (Office of Science and Technology), Carissa Geravsi (Gulf of Mexico Integrated Ecosystem Assessment), Lynn Dewitt (California Current Ecosystem Assessment Team). Year of Open Science Culminating Conference, March 21, 2024.
