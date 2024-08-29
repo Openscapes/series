@@ -6,7 +6,7 @@ What is GitHub[^1], and what are GitHub strategies for Future Us?
 
 [^1]: From [Bryan 2017](https://peerj.com/preprints/3159/): "we're targeting GitHub - not Bitbucket or GitLab - for the sake of specificity. However, all the big-picture principles and even some mechanics will carry over to these alternative hosting platforms. We are advocating for the use of hosted version control as a general concept, with GitHub being the best and most common provider today."
 
-GitHub is a powerful tool for collaborative coding with version control, but here and in our GitHub Clinic we are going to focus on some of its lesser-celebrated awesomeness. We'll talk about GitHub for supporting, reusing, contributing, and failing safely, as well as GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.
+GitHub is a powerful tool for collaborative coding with version control, but we are going to focus on some of its lesser-celebrated awesomeness. We'll talk about GitHub for publication and project management. We will focus on how to use GitHub for collaboration and communication for science, and spend time with hands-on practice.
 
 We begin with a friendly general introduction to GitHub and share examples and strategies used by some research groups. Following this are the two parts of the GitHub Clinic as we teach them in Champions Cohorts: 1) GitHub for publishing and 2) GitHub for project management.
 
@@ -34,11 +34,7 @@ The Openscapes GitHub Clinic introduces GitHub with the motivation of collaborat
 
 ## GitHub for supporting, reusing, contributing, and failing safely
 
-This introduction was developed with Allison Horst in the **GitHub Illustrated Series** ([Horst & Lowndes 2022](https://openscapes.org/blog/2022/05/27/github-illustrated-series/)):
-
 **When we talk about managing projects to help us contribute, reuse, collaborate, and fail safely, we are talking about GitHub**. We mean using modern collaborative software designed to organize otherwise unwieldy interrelated files and to track changes by potentially different people through time -- something that is for everyone, whether or not we identify as "coders". People do use GitHub for code- and data-intensive projects, but we are not limited to that use. GitHub is a powerful approach for any project that we want to organize and communicate about; it's a way we can be open with ourselves and our teams, and also work more publicly as we feel comfortable.
-
-So let's talk about why GitHub is so empowering for our project-oriented and collaborative lives.
 
 ![](images/github_friends.png){fig-alt="A row of 6 cute smiling monsters celebrating using GitHub. The first, wearing a climbing harness labeled \"Me\" is high-fiving another whose harness says \"Future Me\". Others hold a box of snacks (tacos!), a map, a rope. Text above the monsters quotes Jenny Bryan: \\\"Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review" fig-align="center" width="85%"}
 
@@ -50,11 +46,11 @@ When we teach GitHub, we find it's useful to say explicitly that we should go in
 
 As part of this, we like how Jenny Bryan ([Code Smells and Feels](https://github.com/jennybc/code-smells-and-feels#code-smells-and-feels)) thinks about this - that your taste develops faster than your abilities.
 
-![Slide from Jenny Bryan (Code Smells and Feels)](images/hedgehog-jenny-bryan.png){fig-align="center" width="80%"}
-
 ## GitHub for research groups
 
 As you get a better hands-on sense of GitHub's capabilities, you'll be thinking about how to get organized and use this for your own research group.
+
+This section was created based on Frequently Asked Questions (FAQs) that Champions teams had during the GitHub Clinic. Read on to the next section for an introduction to GitHub via the GitHub Clinic.
 
 ### Organizations
 
@@ -130,13 +126,15 @@ Some Issues are also used more as reference and shared resources, and might not 
 
 When you're logged into GitHub, go to <https://github.com/issues> to see all of the Issues assigned/created/etc for your account!
 
-### Branches
+### Branches & Forks
 
 Branches are a really powerful feature for software development, but aren't necessarily the right place for new GitHub users to get started. If there are a small number of people in a single repository and you're all first learning, we'd suggest that you start using GitHub without branches, and focus on checking in with each other as you contribute (see [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#collaborating-with-github) example collaborating with GitHub from RStudio).
 
+> For the first 8 years as a GitHub user, I only worked in the Main branch with my small group of Ocean Health Index colleagues. It was only when working with the NASA Openscapes Mentors community that I learned how to use branches as software developers do. - Julie Lowndes
+
 Branches are powerful as your teams grow and/or as you become savvier with GitHub and code, so it is good to discuss strategies with them.
 
-One approach is to treat each branch as very temporary: you make a branch from main, add your contribution, make a pull request, merge and delete the branch. This is the approach with the NASA Mentors and it's more continuous little updates rather than larger big updates, so we can make progress together more quickly. This also works better when working with Jupyter Notebooks, which can cause merge conflicts.
+One common approach is to treat each branch as very temporary: you make a branch from main, add your contribution, make a pull request, merge and delete the branch. This is the approach with the NASA Mentors and it's more continuous little updates rather than larger big updates, so we can make progress together more quickly. This also works better when working with Jupyter Notebooks, which can cause merge conflicts.
 
 #### Should we do everything in a `dev` branch?
 

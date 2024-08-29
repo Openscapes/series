@@ -43,7 +43,7 @@ While there are many options for project management software out there,
 we use and teach GitHub because it's already managing our code and our
 work, and linked to our collaborators so it offers a streamlined way to
 communicate. (It's also one less account to manage, which is a huge
-bonus in Julie Lowndes' mind).
+bonus!).
 
 One of the reason we talk about Issues in Openscapes is because they are
 an excellent way to develop habits for using GitHub for your analytical
@@ -121,7 +121,7 @@ sometimes Issues are public and sometimes they are private.
 -   In a private repo, only users with permission can create and comment
     on issues, or see them at all
 
-GitHub search is awesome – it will search all of your files and Issues!
+Remeber GitHub's search is awesome – it will search all of your files and also Issues!
 <!---I find this really helpful...--->
 
 ## Issues in the Wild
@@ -130,7 +130,7 @@ Here are some examples of "traditional" and "non-traditional" use of
 issues.
 
 [ggplot2's Issues](https://github.com/tidyverse/ggplot2/issues) is an
-example of what I think is the "traditional" use of Issues, which is in
+example of the "traditional" use of Issues, which is in
 a pretty pure software development context. This is a public repository,
 and all topics are directly related to ggplot2. Issues are largely used
 to report bugs, troubleshoot and sometimes to request features. Note the
@@ -336,9 +336,7 @@ fact, you can have multiple projects within the same repository, so
 different people can have different Projects organized within their
 shared repository, for example.
 
-You have a lot of control over how you will manage your Projects; at
-this point I do not use all the features but have been playing around
-with using them for Openscapes planning:
+You have a lot of control over how you will manage your Projects. Here is one view:
 
 <br>
 
@@ -378,7 +376,8 @@ repository's Settings) will make not only the code and files of that
 repo public, but also all the Issues. Which is fine, but it might add
 considerations in terms of what is discussed in those Issues.
 
-### Ocean Health Index example
+::: {.callout-note icon="false"}
+# How we did it: OHI Team
 
 Here is an example of the Ocean Health Index team’s thought process &
 strategy.
@@ -399,6 +398,7 @@ These two needs led us to create a single private repository named
 especially since our team-lead can engage in these discussions by
 receiving emails about the Issues in their inbox, and can respond
 without having to go to GitHub.com.
+:::
 
 ## Your Turn: Create & comment on issues
 
@@ -423,7 +423,7 @@ Here's what your inbox will look like afterwards:
 
 <br>
 
-![](images/issues-inbox-crop.png){fig-align="center" width="80%"}
+![](images/issues-inbox-crop.png){fig-align="center" width="70%"}
 
 <br>
 

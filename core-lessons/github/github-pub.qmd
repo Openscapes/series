@@ -4,20 +4,6 @@ aliases:
   - /github-pub.html
 ---
 
-```{=html}
-<!---
-
-- ...
-
-https://bootswatch.com/
-
-
-[Jenny Bryan](https://twitter.com/jennybryan/) has an excellent summary of Issues in her article "Excuse Me, Do You Have a Moment to Talk About Version Control?" (open-access pre-print from [PeerJ](https://peerj.com/preprints/3159/), published in [The American Statistican](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1399928)): 
-
-
-
---->
-```
 GitHub is known as a place to store code, but it's also a powerful publishing system. It is a way to help you share about your project on the open web, which lets you share about your science earlier.
 
 ## Preamble
@@ -27,10 +13,6 @@ This narrative follows Part 1 of the GitHub Clinic as we teach it in Champions C
 For this GitHub Clinic, we are going to work with GitHub from the browser only, because it makes the best use of our short time together. It is also a powerful way for folks to contribute and collaborate even if they are not involved in day-to-day hands-on analysis. So this might be good way for new team members to contribute as soon as possible.
 
 GitHub can reduce friction for open science: it gives us avenues for communicating and publishing methods, blogs, interactive graphics and more, without a lot of heavy lifting!
-
-### Prerequisite
-
-You will need to create **GitHub** account at <http://github.com>, if you don't already have one. Optional advice from Jenny Bryan about [choosing a username](https://happygitwithr.com/github-acct).
 
 ## What is GitHub? — Traditional answer
 
@@ -48,11 +30,11 @@ It is used for code and files: organize, archive, bookkeeping, searchable, chang
 
 ### Disclaimer
 
-We aren’t going to teach traditional git/GitHub today, but here are some recommendations if you'd like to learn. First, read Jenny Bryan's "Excuse Me, Do You Have a Moment to Talk About Version Control?" (open-access pre-print from [PeerJ](https://peerj.com/preprints/3159/), published in [The American Statistican](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1399928)). This provides an excellent overview. One quote I like in particular is
+We aren’t going to teach traditional git/GitHub today, but here are some recommendations if you'd like to learn. First, read Jenny Bryan's "Excuse Me, Do You Have a Moment to Talk About Version Control?" (open-access pre-print from [PeerJ](https://peerj.com/preprints/3159/), published in [The American Statistican](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1399928)). This provides an excellent overview. One quote in particular:
 
 > Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review. - *Jenny Bryan, "Excuse Me, Do You Have a Moment to Talk About Version Control?"*
 
-When you're ready to learn GitHub with R, the absolute best resource is Jenny Bryan's [Happy Git With R](https://happygitwithr.com/). This is a comprehensive, friendly step-by-step process of how to do so, and is an awesome reference for seasoned git/GitHub users as well. If you want a shorter-form resource, I'd recommend 2 tutorials from [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel). This also teaches you how to set up GitHub to sync directly through RStudio, without any other software (including the command line) required to do so: see chapters on [GitHub](https://rstudio-conf-2020.github.io/r-for-excel/github.html) and [Collaborating with GitHub](https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#collaborating-with-github)
+When you're ready to learn GitHub with R, the absolute best resource is Jenny Bryan's [Happy Git With R](https://happygitwithr.com/). This is a comprehensive, friendly step-by-step process of how to do so, and is an awesome reference for seasoned git/GitHub users as well. If you want a shorter-form resource, see the two GitHub tutorials in [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel): [GitHub](https://rstudio-conf-2020.github.io/r-for-excel/github.html) and [Collaborating with GitHub](https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#collaborating-with-github). This resource also teaches you how to set up GitHub to sync directly through RStudio, without any other software (without the command line) required to do so.
 
 > On my local computer, I interact with GitHub through RStudio 99.9% of the time (use command line .1% of time). - Julie Lowndes
 
@@ -76,7 +58,7 @@ We will talk about “Issues” & “Projects” in the next chapter.
 
 Example: [jules32](https://github.com/jules32) is a user account, [openscapes](https://github.com/openscapes) is an organization group.
 
-You can think of them like other social media accounts: I can be an individual or part of a group, and there are permissions associated with both.
+You can think of them like other social media accounts: you can be an individual or part of a group, and there are permissions associated with both.
 
 ### Repositories (“repos”)
 
@@ -88,21 +70,21 @@ It makes it easier to navigate through and find stuff — so you are "not siftin
 
 Unlike Dropbox or Google Drive that constantly and automatically sync to the cloud, you have to deliberately tell git/GitHub when you have an amount of work that you want to be versioned and synced. You have to commit to telling them. GitHub takes care of the backend bookkeeping involved, but you have to write a human-readable message to your future self and others. That is the commit message.
 
-There is no absolute guidance for how often to commit, but I think of it as leaving breadcrumbs for yourself. How much work and on what things/in what combination would you like to be able to reverse? What kind of information will make it easier for Future You to work with?
+How often to commit depends on what you are doing: How much work and on what things/in what combination would you like to be able to reverse? What kind of information will make it easier for Future You to work with?
+
+> I think of GitHub commits as leaving breadcrumbs for yourself. - Julie Lowndes
 
 ### Public vs private
 
-You can have both public (the free default) and private repositories, and change these permissions later on. I mostly work in public repos, but if I work in private ones, I often have the expectation that they will be made public some day. So I practice good habits with commits and documentation, and keep conversations on-topic.
+You can have both public (the free default) and private repositories, and change these permissions later on. 
+
+> I mostly work in public repos, but if I work in private ones, I often have the expectation that they will be made public some day. So I practice good habits with commits and documentation, and keep conversations on-topic. - Julie Lowndes
 
 ### The search feature is awesome
 
-You are able to search within a GitHub repository, across repositories in an organization, or across all GitHub public repositories. I find this helps me find things quickly if I'm looking for how I've used a function in the past, or if I remember a word that would stand out that I included in a commit message as a breadcrumb to myself. It will also search Issues within the repositories, so you can look for specific words in conversations as well.
+You are able to search within a GitHub repository, across repositories in an organization, or across all GitHub public repositories. It will also search Issues within the repositories, so you can look for specific words in conversations as well.
 
-### Branches & Forks
-
-In our Champions GitHub Clinic, we do not talk about branches and forks of repositories. These are a core feature of what makes GitHub super powerful for software development, and one of the first things you'll see in GitHub tutorials geared towards software engineers. But I do not think that is the most relevant or smoothest entryway for those of us who are scientists fairly new to collaborative coding and version control.
-
-> For the first 8 years as a GitHub user, I only worked in the Main branch with my small group of Ocean Health Index colleagues. It was only when working with the NASA Openscapes Mentors community that I learned how to use branches as software developers do. - Julie Lowndes
+> I find this helps me find things quickly if I'm looking for how I've used a function in the past, or if I remember a word that would stand out that I included in a commit message as a breadcrumb to myself. - Julie Lowndes
 
 ## GitHub Orientation
 
