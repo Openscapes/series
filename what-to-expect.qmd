@@ -2,7 +2,7 @@
 title: What to Expect (Program Level)
 ---
 
-Openscapes Champions is not a typical workshop. Its cohort-based sessions introduce concepts and workflows and facilitates teams to talk about problems, so they can go and solve them with accountability and support.  TODO Note that whether people participate with their teams or as individuals, we focus on teams since participants practice concepts ....
+Openscapes Champions is not a typical workshop. It is cohort-based facilitated sessions to help people collaboratively evolve their work (work they’re already doing) with input from peers. It helps people reflect on and modernize how they work! The sessions introduce concepts and workflows and facilitate teams to talk about problems, so they can go and solve them with accountability and support. Note that whether people participate as teams or as individuals, we focus on teamwork and provide opportunities for people to find common parts of their workflows and "find their teams" beyond any traditional definition, so that we can all help make science less lonely and more networked.
 
 ## Purpose, Outcomes, Process (POP)
 
