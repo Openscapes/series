@@ -46,13 +46,13 @@ When we teach GitHub, we find it's useful to say explicitly that we should go in
 
 As part of this, we like how Jenny Bryan ([Code Smells and Feels](https://github.com/jennybc/code-smells-and-feels#code-smells-and-feels)) thinks about this - that your taste develops faster than your abilities.
 
-## GitHub for research groups
+## FAQs: GitHub for research groups
 
 As you get a better hands-on sense of GitHub's capabilities, you'll be thinking about how to get organized and use this for your own research group.
 
 This section was created based on Frequently Asked Questions (FAQs) that Champions teams had during the GitHub Clinic. Read on to the next section for an introduction to GitHub via the GitHub Clinic.
 
-### Organizations
+### What are example Organizations?
 
 Here are examples of GitHub Organizations created as part of Openscapes Champions Cohorts where the content is now developed and maintained to support a broader range of researchers.
 
@@ -110,15 +110,15 @@ inactive or possibly created prior to Openscapes Cohort
 - <https://github.com/khyde>
 -->
 ```
-### Repositories
+### Size of repositories?
 
-Repositories live inside an Organization. "Repos" are essentially folders, and you’ll put files and folders in them. How do we decide when we need a new repository? Should this be one repo per project or an organization-level repo? While there are many different approaches that could make sense for your group, our starting recommendation would be that any project happening in the research group gets its own repository, and that repository is in the research group's Organization. This is then clearly part of the research group's work and more findable by past/current/future members. And it can be forked/moved to other accounts at any time.
+Restated: How do we decide when we need a new repository? Should this be one repo per project or an organization-level repo?
 
-### Issues
+Repositories live inside an Organization. "Repos" are essentially folders, and you’ll put files and folders in them. While there are many different approaches that could make sense for your group, our starting recommendation would be that any project happening in the research group gets its own repository, and that repository is in the research group's Organization. This is then clearly part of the research group's work and more findable by past/current/future members. And it can be forked/moved to other accounts at any time.
+
+### How much should I write in a single Issue?
 
 Issues and Projects are a great way to keep organized. See a few examples in the [NOAA Fisheries Resource Book](https://nmfs-opensci.github.io/ResourceBook/content/project_management/github_project_boards.html) and Openscapes [How We Work](https://github.com/Openscapes/how_we_work/issues) issues and [Planning](https://github.com/orgs/Openscapes/projects/13) project.
-
-#### How much should I write in a single Issue?
 
 The "size" of each Issue is something you'll get a feel for as you use them more, so don't worry too much about it as you get started. The most common "size" of Issue is something you can complete, and close. This might include smaller checklists and conversations, but it is more along the lines of "change axes labels in my plot" rather than "write thesis chapter".
 
@@ -126,7 +126,7 @@ Some Issues are also used more as reference and shared resources, and might not 
 
 When you're logged into GitHub, go to <https://github.com/issues> to see all of the Issues assigned/created/etc for your account!
 
-### Branches & Forks
+### How I use Branches & Forks?
 
 Branches are a really powerful feature for software development, but aren't necessarily the right place for new GitHub users to get started. If there are a small number of people in a single repository and you're all first learning, we'd suggest that you start using GitHub without branches, and focus on checking in with each other as you contribute (see [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/collaborating.html#collaborating-with-github) example collaborating with GitHub from RStudio).
 
@@ -136,7 +136,7 @@ Branches are powerful as your teams grow and/or as you become savvier with GitHu
 
 One common approach is to treat each branch as very temporary: you make a branch from main, add your contribution, make a pull request, merge and delete the branch. This is the approach with the NASA Mentors and it's more continuous little updates rather than larger big updates, so we can make progress together more quickly. This also works better when working with Jupyter Notebooks, which can cause merge conflicts.
 
-#### Should we do everything in a `dev` branch?
+### Should we do everything in a `dev` branch?
 
 Full question: "Right now any collaborative code in my group has a main branch and a dev branch. All collaborators clone the dev branch and push back to the dev branch on GitHub before anything ever goes to main. Is this best practice?"
 
