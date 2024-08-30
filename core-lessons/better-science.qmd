@@ -1,11 +1,11 @@
 ---
-title: "Better science in less time"
+title: "Better science for future us"
 aliases:
   - bsilt.html
   - ../better-science.html    
 ---
 
-Better science is less time is science that is more efficient, reproducible, open, inclusive, and kind. There are growing examples of better science in less time in environmental and Earth science, and beyond, including from the Ocean Health Index team: [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) (Lowndes et al. 2017).
+"Better science for future us" is science that is more efficient, reproducible, open, inclusive, and kind. There are growing examples of better science in environmental and Earth science, and beyond, including from the Ocean Health Index team: [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) (Lowndes et al. 2017).
 
 ::: {.callout-warning icon="false"}
 ## Slides
@@ -41,15 +41,18 @@ Here we also introduce the [**Pathways concept**](/core-lessons/pathways.qmd) th
 
 ### Create space
 
-The OHI team created space for synchronous collaboration: convenings to learn and teach each other together.
+Creating space means committing to synchronous collaboration convenings to learn and teach each other together.
 
-A critical first part of this was prioritizing time (which included getting buy-in, lobbying, showcasing). Then, this meant that the team could focus time on:
+A critical first part of this was prioritizing time (which included getting buy-in, showcasing). Then, this meant that the team could focus time on:
 
 -   Getting comfortable talking about data/workflows
 -   Building trust (to share imperfect work)
 -   Recognizing that what we invest incrementally will have large dividends in the future
 
-The OHI team started having "Seaside Chats": 1x/week where they discussed filenaming, code review, standard operating procedures and documentation, and much more.
+::: {.callout-note icon="false"}
+# How we did it: OHI Team
+The OHI team started having regular Seaside Chats 1x/week where they discussed filenaming, code review, standard operating procedures and documentation, and much more. We prioritized regular social hours, that we scheduled during work hours so that everyone could participate no matter their other outside-of-work responsibilities.
+:::
 
 ### Create place
 
@@ -61,43 +64,48 @@ Asynchronous collaboration often requires some form of version control so the te
 
 Through creating space and place, teams will find the common workflows, tools, skills that they already have and need to do their work.
 
-For the OHI team, we asked how to make sure everyone can participate as they need to? We introduced new software sparingly, and helped each other learn. This included initial setup as well as follow up and practice. We leveraged existing habits & resources - within and beyond our team. [Open communities](communities.qmd) were a big part of this learning. Through this we were able to distinguish data preparation (tidying) as distinct from our science, and make this actionable by shifting to smaller modular code to combine for different reports/audiences.
-
 **Documentation was a key part of this**. And, writing documentation "for nobody" is very hard, and it's a huge task. We prioritized documentation based on Onboarding and Offboarding: for our future selves first, and then future us.
 
-### What was it really like? Transition to GitHub
+::: {.callout-note icon="false"}
+# How we did it: OHI Team
+The OHI team asked, "how can we make sure everyone can participate as they need to?" Not everyone on the team needed to learn to code, or to use GitHub in the same way. We introduced new software sparingly, and helped each other learn. This included initial setup as well as follow up and practice. We leveraged existing habits & resources - within and beyond our team. [Open communities](communities.qmd) were a big part of this learning. Through this we were able to distinguish data preparation (tidying) as distinct from our science, and make this actionable by shifting to smaller modular code to combine for different reports/audiences.
+:::
 
-Changing behavior/habits takes time, and is messy. Here is part of the story:
+### Shifting incrementally
+
+Shifting workflows takes time, particularly because it is most often done while also meeting existing deliverables and deadlines. It requires changing behaviors and habits, which takes time, and is messy, and really depends on the trust built with the team.
+
+::: {.callout-note icon="false"}
+# How we did it: OHI Team
+
+The OHI shift to using shared Google Docs, R and GitHub was motivated by necessity, reimagined by possibility and community, and done incrementally. It was an investment over years, but the enduring payoff has been huge. 
+
+Some key points to discuss from [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) (Lowndes et al. 2017): reproducibility & communication enabled by open tooling; and shared practices are useful beyond shared projects.
 
 ![Ocean Health Index (OHI) team's transition of code and shifting communication to GitHub](images/ohi-transition-github.png){fig-align="center" width="80%"}
 
-## Ocean Health Index: behind the scenes
-
-Some key points to discuss from [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) (Lowndes et al. 2017):
-
--   Reproducibility & communication enabled by open tooling
--   Shared practices are useful beyond shared projects
-
 If you're interested in more overview of the OHI setup, see this 2017 talk (25 mins): [OHI Better science in less time](https://www.youtube.com/watch?v=x4uzVAZvFCA) or this 2021 Plenary at [Better Science for Future Us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit) at the inaugural Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology [SORTEE conference](https://www.sortee.org/events/) (30 minutes) ([video](https://osf.io/47req)).
-
-### OHI pathway
-
--   Motivated by necessity
--   Reimagined by possibility and community
--   Done incrementally!
--   Yes: it's an investment.
--   Also yes: huge, enduring payoff for (your) science
+:::
 
 ### Reproducibility & communication enabled by open tooling
 
 RMarkdown/Quarto to reimagine data analysis and communication. RMarkdown/Quarto combines analyses & figures together, rendered to your reporting output of choice.
 
-An example: <http://ohi-science.org/betterscienceinlesstime/>
+::: {.callout-note icon="false"}
+# How we did it: OHI Team
 
--   Website built with R/RMarkdown & Github\
+An example: <http://ohi-science.org/betterscienceinlesstime>
+
+-   Website built with R/RMarkdown & Github
 -   You can get started too: [1-hour RMarkdown tutorial](https://jules32.github.io/rmarkdown-website-tutorial/); [Quarto website tutorial](https://openscapes.github.io/quarto-website-tutorial/)
+:::
 
 ### Shared workflows not only useful for shared projects
+
+It's about increasing efficiency and reproducibility and open science. But it is also about increasing participation and inclusion. Consider how inclusion and equity show up in your daily practices. How you work and onboard others to your projects is a DEIA issue.
+
+::: {.callout-note icon="false"}
+# How we did it: OHI Team
 
 -   OHI team: we identified as a team & prioritized helping each other
     -   We work on many different projects
@@ -106,16 +114,11 @@ An example: <http://ohi-science.org/betterscienceinlesstime/>
     -   Common ground, easier to talk about, easier to ask for help
     -   You don't need to design everything from scratch
 
-And, critically:
+:::    
 
--   It's about increasing efficiency and reproducibility and open science.
--   But it is also about increasing participation and inclusion.
--   Consider diversity, equity, and inclusion in your daily practices.
--   How you work and onboard others to your projects is a DEI issue.
+## Impact of shifting to open science
 
-## Examples: environmental science
-
-Here are a few examples to showcase what is possible and being done by the community.
+Here are a few examples to showcase what is possible and being done in environmental science.
 
 -   [Regime Shifts in R & Data Science within the BC Public Service Observations from the field](https://stephhazlitt.github.io/regime-shifts/slides#1) - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote
 -   [NMFSReports: Easily write NOAA reports and tech memos in R Markdown](https://github.com/EmilyMarkowitz-NOAA/NMFSReports/blob/main/presentations/2021-06-05NMFSReports-RCascadiaConf.pdf)! - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk
@@ -123,6 +126,20 @@ Here are a few examples to showcase what is possible and being done by the commu
     -   [Automated reporting in Tampa Bay with open science](https://www.openscapes.org/blog/2020/11/16/tampa-bay-reporting/) (blog) - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog
     -   [TBEP's Data Management Workflow](https://tbep-tech.github.io/data-management-sop/workflow.html) and open science cake
     -   [Coordinated monitoring of the Piney Point wastewater discharge into Tampa Bay: Data synthesis and reporting](https://www.researchgate.net/publication/373388123_Coordinated_monitoring_of_the_Piney_Point_wastewater_discharge_into_Tampa_Bay_Data_synthesis_and_reporting), 2023. Florida Scientist, 86(2), pp.288-300 - Beck, M.W., Burke, M.C., Raulerson, G.E., Scolaro, S., Sherwood, E.T. and Whalen, J.
+
+::: {.callout-note icon="false"}
+# How we did it: OHI Team
+
+Ocean Health Index has produced annual reports for 12 years (2012-2024) and counting! There are many impacts of this, but at a glance: 
+
+- In 2012, it took 30 people 4 years and several $M to complete the 1st annual OHI report. 
+It would not continued if it costed so much time and $ each time. 
+- In 2024, it takes 3 masters students in 3 months and $200K. 
+
+This is possible because of the incremental investment to make it reproducible, efficient, documented - focus on onboarding. Impacts mean that students and team can focus on new questions, making sense of results, and applications from this, not the assessment itself.
+And, it accelerates the rate at which other teams can get to this cost savings, since OHI is an example that it’s possible, a working open example.  
+:::
+
 
 ## Further resources
 

@@ -1,7 +1,5 @@
 ---
 title: Code of Conduct
-aliases: 
-  - ../additional-lessons/code-of-conduct.html
 ---
 
 Please see [Openscapes' Code of Conduct](https://openscapes.org/code-of-conduct) and [slides](https://docs.google.com/presentation/d/11816HbwRCvnr8dFXkk8UqfSy_0O4svEoFFFyHOZ0IBE/) (June 2021) that accompany this lesson.

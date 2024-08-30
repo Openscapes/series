@@ -39,6 +39,12 @@ website:
     contents:
       - href: "index.qmd"
         text: Welcome
+      - href: "program-summary.qmd"
+        text: Program Summary
+      - href: "what-to-expect.qmd"
+        text: What to Expect        
+      - href: "core-lessons/pathways.qmd"
+        text: Pathways & Outcomes        
       - section: core-lessons/index.qmd
         contents:        
          - href: "core-lessons/mindset.qmd"
@@ -57,8 +63,6 @@ website:
            text: Coding strategies
          - href: "core-lessons/communities.qmd"
            text: Open communities
-         - href: "core-lessons/pathways.qmd"
-           text: Pathways
       - section: "Additional Lessons"
         contents:
          - href: "additional-lessons/code-of-conduct.qmd"
@@ -88,7 +92,6 @@ website:
         contents:
          - href: "inspiration/resources-that-influence.qmd"
            text: Resources that influence us
-
            
 format:
   html:

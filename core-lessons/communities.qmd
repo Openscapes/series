@@ -20,7 +20,7 @@ Open communities play a big role in advancing research, helping research feel le
 
 ------------------------------------------------------------------------
 
-In your work, you're not limited to the people & resources in your physical environment! Open communities are waiting for people like you to come participate in whatever way feels comfortable right now. Awesome people are developing and sharing code and learning resources. They connect through open communities and software (GitHub, forums, Mastodon, Bluesky, TikTok, Slack)
+In your work, you're not limited to the people & resources in your physical environment! Open communities are waiting for people like you to come participate in whatever way feels comfortable right now. Awesome people are developing and sharing code and learning resources. They connect through open communities and software (GitHub, forums, Mastodon, Bluesky, Slack)
 
 We can all learn, reuse, remix, share, and contribute and this means less reinventing, more doing, more fun!
 

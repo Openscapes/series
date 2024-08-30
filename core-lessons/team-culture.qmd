@@ -4,7 +4,7 @@ aliases:
   - ../team-culture.html
 ---
 
-We discuss team culture because while we know that [diverse teams are more innovative](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/), creating spaces where everyone can do their best work and feel safe to contribute takes intention; it does not happen by default. There is a lot of work to do to improve research culture, and we can lead by example in our own research groups and communities.
+We discuss team culture because while we know that [diverse teams are more innovative](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/), creating spaces where everyone can do their best work and feel safe to contribute takes intention. It does not happen by default. There is a lot of work to do to improve research culture, and we can lead by example in our own research groups and communities.
 
 ::: {.callout-warning icon="false"}
 ## Slides
@@ -57,29 +57,20 @@ Role modeling sets a lot of team culture, and there is a lot we can learn and do
 
 ## Psychological safety
 
-Amy C. Edmondson is the Novartis Professor of Leadership and Management at Harvard Business School.
+Psychological Safety is defined as "a shared belief that team members will not be rejected or embarrassed for speaking up with their ideas, questions, or concerns". This is work by Dr. Amy Edmondson, the Novartis Professor of Leadership and Management at Harvard Business School.
 
-a shared belief that team members will not be rejected or embarrassed for speaking up with their ideas, questions, or concerns
+In the article [Research: To Excel, Diverse Teams Need Psychological Safety](https://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety), Edmonson & Bresman recommend three ways to build psychologically safe environments: framing, inquiry, and bridging boundaries.
 
-https://hbr.org/2022/03/research-to-excel-diverse-teams-need-psychological-safety
-
-They recommend three ways to build psychologically safe environments: framing, inquiry, and bridging boundaries.
-
-Frame meetings as opportunities for information-sharing. Frame differences as a source of value.
-
-Open questions. Questions that build shared ownership and causality.
-
-Listening -
-
-```         
-Hopes and goals. What do you want to accomplish?
-Resources and skills. What do you bring to the table?
-Concerns and obstacles. What are you up against? What are you worried about?
-```
+- Frame meetings as opportunities for information-sharing. Frame differences as a source of value.
+- Open questions. Questions that build shared ownership and causality.
+- Listening - by asking questions around 
+  - Hopes and goals. What do you want to accomplish?
+  - Resources and skills. What do you bring to the table?
+  - Concerns and obstacles. What are you up against? What are you worried about?
 
 ### Science benefits from diversity
 
-And we need to be deliberate about welcoming and including people from diverse backgrounds.
+We need to be deliberate about welcoming and including people from diverse backgrounds.
 
 A few articles from Nature with many more links within:
 
@@ -109,23 +100,21 @@ Have to build trust and be intentional, don’t hope for organic.
 
 ### Sustain the culture
 
-Overtly showing kindness & a Code of Conduct can filter out people who don’t want to be subject to its enforcement – [rOpenSci](https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/)
+Overtly showing kindness & a Code of Conduct can filter out people who don’t want to be subject to its enforcement – [rOpenSci](https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/).
 
 Research teams have people coming and going all the time; how do you set the tone and have it be sustainable?
 
 ## Deliberately setting the tone
 
-Opening remarks at RStudio::conf 2019, in front of an audience of 1700 at a global software conference, Chief Scientist Hadley Wickham announces the Code of Conduct, how to identify RStudio staff if you need help, and how to mingle with welcoming body posture to invite others to join. This set the tone of the whole conference to be the most positive I have ever attended.
+Opening remarks at RStudio::conf 2019, in front of an audience of 1700 at a global software conference, Chief Scientist Hadley Wickham announces the Code of Conduct, how to identify RStudio staff if you need help, and how to mingle with welcoming body posture to invite others to join. This set the tone of the whole conference to be the most positive many people have ever attended.
 
 ### Collegiality
 
-We must deliberately set the tone for collegiality to create a positive, inclusive research group environment. This builds on the [Openscapes Mindset](mindset.qmd).
-
-Safety and accessibility are parts of inclusion and empowerment. Does everyone feel safe to speak up? Does everyone have channels to contribute? This is especially true as the tech we use evolves. Who can participate?
+We must deliberately set the tone for collegiality to create a positive, inclusive research group environment. Safety and accessibility are parts of inclusion and empowerment. Does everyone feel safe to speak up? Does everyone have channels to contribute? This is especially true as the tech we use evolves. Who can participate?
 
 > "*This builds resilience to your research group. If someone needs to leave for a family emergency, maternity/paternity leave, vacation, set yourselves up so your team continue smoothly*" — Angela Bassa in her rstudio::conf 2019 talk "[Data Science as a Team Sport](https://forum.posit.co/t/data-science-as-a-team-sport-angela-bassa-rstudio-conf-2019l-video/24858/1)"
 
-The opportunity cost of not doing this is burnout, and people leaving science.
+The opportunity cost of not doing this is low morale, burnout, staff turnover, and people leaving science.
 
 <!--- Panel: hp: in academia there is only one thing, and it's being smart --->
 
