@@ -63,9 +63,12 @@ project (“product”).
 -   Name of your home directory.
 -   R code you ran before lunch.
 
-**Clearly product:** - Raw data. - R code someone needs to run on your
+**Clearly product:** 
+
+- Raw data. 
+- R code someone needs to run on your
 raw data to get your results, including the explicit library() calls to
-load necessary packages. (script, notebook)
+load necessary packages. (script, notebook).
 
 **Ideally, you don’t hardwire anything about your workflow into your
 product.**
