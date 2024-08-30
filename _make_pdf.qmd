@@ -7,7 +7,7 @@ citation_url: https://openscapes.github.io/series
 format:
   pdf:
     toc: true
-    toc-depth: 2
+    toc-depth: 3
     number-sections: true
     number-depth: 1
     output-file: "openscapes-series"
