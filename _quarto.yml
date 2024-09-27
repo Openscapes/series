@@ -43,7 +43,7 @@ website:
         text: Program Summary
       - href: "what-to-expect.qmd"
         text: What to Expect        
-      - href: "core-lessons/pathways.qmd"
+      - href: "pathways.qmd"
         text: Pathways & Outcomes        
       - section: core-lessons/index.qmd
         contents:        
