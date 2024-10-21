@@ -37,6 +37,20 @@ Dr. Chelsea Wood, University of Washington
 
 See also [A TL;DR Collection of Stories from Openscapes Champions and Mentors](https://docs.google.com/presentation/d/1YAnaRFsKX3H6cSTXoOl-GksH-eebifQ6vzN7UwfoXUY/edit?usp=sharing); these stories are largely from 3 months+ following Pathways presentations.
 
+### First steps 
+
+The [MML SAR story](https://www.youtube.com/watch?v=wqbwcCXbFL8) didn’t just ‘happen’. We heard where they’re at now, 2.5 years later. It started with small steps:
+
+- Creating an R Script to make a figure. Each team member had been making that alone. Small task but freed up time for other ideas.
+- “Join our GoogleSpace”. Rod learned about Google Chat and that transformed the team.
+- Eli Holmes (NOAA Fisheries) in 2021: too many email addresses used for our data! We agreed as a group to make sure it went to a single email address.
+
+<!---
+When a team shares “How we did this” / SOP / "onboarding documentation" things are catalyzed for others. 
+
+--->
+
+
 ## Pathways concept
 
 The Pathways concept is put to practice by an actual document that provides a structured way for your team to think how you work and find common approaches and needs ([template](https://docs.google.com/spreadsheets/d/1rmhOly87OYrPOUqTzmccYbPrTlGmXGsN06GI1FKzxag/edit?usp=sharing)).
