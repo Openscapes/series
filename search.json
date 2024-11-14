@@ -517,6 +517,17 @@
     ]
   },
   {
+    "objectID": "how-do-i/do-fix-git-things.html#github-artwork-by-allison-horst",
+    "href": "how-do-i/do-fix-git-things.html#github-artwork-by-allison-horst",
+    "title": "Do and fix things in Git",
+    "section": "GitHub artwork by Allison Horst",
+    "text": "GitHub artwork by Allison Horst\nIncludes where things happen (remote vs local) and how to interact between them:\nhttps://allisonhorst.com/git-github",
+    "crumbs": [
+      "How Do I...",
+      "Do & fix git things"
+    ]
+  },
+  {
     "objectID": "how-do-i/do-fix-git-things.html#usethis",
     "href": "how-do-i/do-fix-git-things.html#usethis",
     "title": "Do and fix things in Git",
