@@ -18,6 +18,12 @@ These are our go-to resources about GitHub; they include philosophy, step-by-ste
 
 [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/). Lowndes J and Horst A, 2020. Chapter 4 and 8 focus on starting setup and collaboration with GitHub and RStudio
 
+## GitHub artwork by Allison Horst
+
+Includes where things happen (remote vs local) and how to interact between them:
+
+<https://allisonhorst.com/git-github>
+
 ## `usethis`
 
 [usethis](https://usethis.r-lib.org/). Wickham H and Bryan J.
