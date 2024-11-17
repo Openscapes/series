@@ -31,7 +31,7 @@ These slides were contributed by guest instructors.
 [Empowering transformational science](https://docs.google.com/presentation/d/1SUMiQg0HhD19H-D6DDzTrFQVzub0kOINwJBG59uQCTw/edit#slide=id.p1) - Dr. Chelle Gentemann
 :::
 
-Here we also introduce the [**Pathways concept**](/core-lessons/pathways.qmd) that teams will develop throughout the Champions program. The Pathway is based on Table 1 in Lowndes et al. 2017, and helps teams deliberately identify data workflow practices and next steps to facilitate efficiency and open practices in terms of reproduciblity, collaboration, communication, and culture.
+Here we also introduce the [**Pathways concept**](../pathways.qmd) that teams will develop throughout the Champions program. The Pathway is based on Table 1 in Lowndes et al. 2017, and helps teams deliberately identify data workflow practices and next steps to facilitate efficiency and open practices in terms of reproduciblity, collaboration, communication, and culture.
 
 ------------------------------------------------------------------------
 

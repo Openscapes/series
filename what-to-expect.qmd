@@ -18,21 +18,21 @@ This is the Champions Program [POP](https://suzannehawkes.com/2010/04/09/pop-eve
 
 The main synchronous time during Champions Cohorts are twice-monthly 1.5-hour sessions we call Cohort Calls. Each Cohort Call has two topics that introduce concepts, tooling, and examples from their peers, with time to reflect and discuss how the topics apply directly to their work.
 
-Cohort Calls are highly-structured and designed to be engaging, requiring discussion and active participation through scaffolded Agendas with shared live notetaking and breakout-group discussions. We begin each Cohort Call with a reminder of our [Code of Conduct](https://openscapes.org/code-of-conduct) and end each lesson with bite-sized Efficiency Tips and Inclusion Tips. 
+Cohort Calls are highly-structured and designed to be engaging, requiring discussion and active participation through scaffolded Agendas with shared live notetaking and breakout-group discussions. We begin each Cohort Call with a reminder of our [Code of Conduct](https://openscapes.org/code-of-conduct) and end each lesson with bite-sized Efficiency Tips and Inclusion Tips.
 
-| Cohort Call Topics                                    | Series Chapters                                                                                               | Seaside Chat Topics                    |
+| Cohort Call Topics | Series Chapters | Seaside Chat Topics |
 |--------------------|------------------------|----------------------------|
-| 1\. Mindset, Better Science for Future Us             | [mindset](core-lessons/mindset.qmd), [better science in less time](core-lessons/better-science.qmd)           | Pathways trailhead - where are you now |
-| 2\. GitHub Clinic: Publishing, Project Management     | [publishing](core-lessons/github/github-pub.qmd), [project management](core-lessons/github/github-issues.qmd) | Shared organizing and onboarding       |
-| 3\. Team Culture, Data Strategies for Future Us       | [team culture](core-lessons/team-culture.qmd), [data strategies](core-lessons/data-strategies.qmd)            | Pathways next steps and documentation  |
-| 4\. Open Communities, Coding Strategies for Future Us | [open communities](core-lessons/communities.qmd), [coding strategies](core-lessons/coding-strategies.qmd)     | Pathways share preparation             |
-| 5\. Pathways Share, Next Steps                        | [pathways](/core-lessons/pathways.qmd)                                                                        |                                        |
+| 1\. Mindset, Better Science for Future Us | [mindset](core-lessons/mindset.qmd), [better science in less time](core-lessons/better-science.qmd) | Pathways trailhead - where are you now |
+| 2\. GitHub Clinic: Publishing, Project Management | [publishing](core-lessons/github/github-pub.qmd), [project management](core-lessons/github/github-issues.qmd) | Shared organizing and onboarding |
+| 3\. Team Culture, Data Strategies for Future Us | [team culture](core-lessons/team-culture.qmd), [data strategies](core-lessons/data-strategies.qmd) | Pathways next steps and documentation |
+| 4\. Open Communities, Coding Strategies for Future Us | [open communities](core-lessons/communities.qmd), [coding strategies](core-lessons/coding-strategies.qmd) | Pathways share preparation |
+| 5\. Pathways Share, Next Steps | [pathways](pathways.qmd) |  |
 
 Template agendas, as well as slides, tips, and other resources we use are openly available in this [Champions Cohorts Resources public folder](https://drive.google.com/drive/folders/1Iq8tj81TSfr-RstphVTZWoz783xpJMOb), ready for reuse and remix.
 
 ## Seaside Chats & Coworking
 
-Between Cohort Calls, teams have synchronous spaces via Seaside Chats and Coworking to meet, ask questions, and exchange knowledge. 
+Between Cohort Calls, teams have synchronous spaces via Seaside Chats and Coworking to meet, ask questions, and exchange knowledge.
 
 **Seaside Chats** ([Lowndes et al. 2019](https://openscapes.github.io/supercharge-research/)) are when a team meets together independently for dedicated time for data/workflow discussions. Seaside Chats are where teams talk and screenshare to begin identifying and addressing shared needs. Everyone has something to learn, ask, teach; people do not need to be an expert to share what they know. Seaside Chats are encouraged to include others that are not participating in the Champions Cohort. The main purpose is to focus on the work at hand and build the habit of talking about and strengthening shared workflows with a broader group. We will provide suggestions about what you could focus on to get started.
 
@@ -125,14 +125,14 @@ We're often asked what people can do to further prepare in advance. Additional s
 
 [**Supercharge your research: a ten-week plan for open data science**](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019). This was co-authored with the inaugural Champions Cohort, capturing the most valuable take-aways for marine and environmental science early career faculty.
 
-[**Shifting institutional culture to develop climate solutions with Open Science**](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341) (Lowndes et al 2024, Ecology & Evolution). This was co-authored by Openscapes mentors across organizations – including NASA Earthdata, NOAA Fisheries, EPA, California Water Boards, Pathways to Open Science, Fred Hutch Cancer Center. 
+[**Shifting institutional culture to develop climate solutions with Open Science**](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341) (Lowndes et al 2024, Ecology & Evolution). This was co-authored by Openscapes mentors across organizations – including NASA Earthdata, NOAA Fisheries, EPA, California Water Boards, Pathways to Open Science, Fred Hutch Cancer Center.
 
 ### Learn more about How We Work
 
 -   [Openscapes Approach Guide](https://openscapes.github.io/approach-guide)
 -   [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/) (Robinson & Lowndes 2022)
 -   [3 lessons from remote meetings we're taking back to the office](https://opensource.com/article/20/6/remote-meetings) (Lowndes, Cabunoc Mayes & Sansing 2020)
-  - [How to run a remote workshop, Openscapes/Open Leaders-style](https://openscapes.org/blog/2020-03-11-tips-remote-workshops/) (complementing blog post)
+-   [How to run a remote workshop, Openscapes/Open Leaders-style](https://openscapes.org/blog/2020-03-11-tips-remote-workshops/) (complementing blog post)
 
 See also other publications and presentations at [openscapes.org/media](https://openscapes.org/media).
 
@@ -146,17 +146,17 @@ Here are answers to some Frequently Asked Questions (FAQs).
 
 ### How many people participate?
 
-The Champions Program operates as cohorts of 7-10 teams of up to 5 people; 40 people max in the cohort. 
+The Champions Program operates as cohorts of 7-10 teams of up to 5 people; 40 people max in the cohort.
 
-### Why do people join a Champions cohort? 
+### Why do people join a Champions cohort?
 
 People join because they (as an individual or team):
 
-- Want to learn about or work with open Science
-- Want to meet peers working on similar workflow or data issues
-- Have a ‘big goal’ that involves changing how you work; you want to make progress on making your data and science workflows more efficient and reproducible
+-   Want to learn about or work with open Science
+-   Want to meet peers working on similar workflow or data issues
+-   Have a ‘big goal’ that involves changing how you work; you want to make progress on making your data and science workflows more efficient and reproducible
 
-### What is a team? 
+### What is a team?
 
 There is a lot of flexibility in choosing your team.
 
@@ -164,7 +164,7 @@ Teams do not need to be a formal research group; they can be collaborating in ot
 
 ### What skills are required? Coding? GitHub?
 
-No. This is not a coding workshop. 
+No. This is not a coding workshop.
 
 The purpose is strengthen relationships and shared systems with folks with different responsibilities and skills, so there is less reinventing and less knowledge lost.
 
@@ -174,9 +174,9 @@ During the cohort, people focus on what is important to them, often something ha
 
 Choosing your team can be based on interests around data analysis and around leadership. There are no prerequisite skills to participate, just an interest to learn and contribute. The "homework" between Champions sessions and beyond is to meet with your full research group (beyond workshop participants, and optional for the lead) to establish shared workflows and habits within the research group.
 
->*How you define \"team\" is completely up to you and having one person be in the cohort and using in-between session \"seaside chats\" to bring back the information to another group is 100% fine. That is common in the cohorts. In my first Openscapes cohort, I was the only person from my project. My personal goal was to use the Openscapes structure to help a team that I am on figure out how to tackle some off-boarding tasks due to a retirement. During my second cohort, there were 2 team members in the cohort and 2 not in the cohort. We focused on standardizing our data to get ready for our GitHub served data package. For the 3rd cohort I am doing, ^2^⁄~3~ of our team is in the cohort as we start to get organized for a major revamp of our report into a reproducible workflow.* **- Eli Holmes (NOAA NWFSC, NMFS-Openscapes)**
+> *How you define "team" is completely up to you and having one person be in the cohort and using in-between session "seaside chats" to bring back the information to another group is 100% fine. That is common in the cohorts. In my first Openscapes cohort, I was the only person from my project. My personal goal was to use the Openscapes structure to help a team that I am on figure out how to tackle some off-boarding tasks due to a retirement. During my second cohort, there were 2 team members in the cohort and 2 not in the cohort. We focused on standardizing our data to get ready for our GitHub served data package. For the 3rd cohort I am doing, ^2^⁄~3~ of our team is in the cohort as we start to get organized for a major revamp of our report into a reproducible workflow.* **- Eli Holmes (NOAA NWFSC, NMFS-Openscapes)**
 
-We e invite research group leads (faculty, lecturers, program managers, etc.) and members (students, analysts, lab managers, etc.) participate together as teams so that 1) everyone sees and values what is possible; 2) leads enable members to invest time to learn skills and develop shared workflows; 3) members have guidance, agency, and support to incorporate concepts into their work; and 4) everyone can make progress on what is important to them, while strengthening the community of practice within the research group, cohort and beyond. 
+We e invite research group leads (faculty, lecturers, program managers, etc.) and members (students, analysts, lab managers, etc.) participate together as teams so that 1) everyone sees and values what is possible; 2) leads enable members to invest time to learn skills and develop shared workflows; 3) members have guidance, agency, and support to incorporate concepts into their work; and 4) everyone can make progress on what is important to them, while strengthening the community of practice within the research group, cohort and beyond.
 
 ### What if I don’t have a team?
 
@@ -184,11 +184,11 @@ That’s ok, please sign up! We’ll help you connect with participants who shar
 
 ### Does a team need a shared research project?
 
-No, teams do not need to have a specific shared research project to participate. 
+No, teams do not need to have a specific shared research project to participate.
 
 The idea is that by developing shared open data science habits within the research group, it will be easier to onboard new folks and offboard knowledge/data/code/etc when folks leave. And, as more and more research groups work this way, it can ease transitions between research groups (i.e. when people leave projects or students graduate).
 
-When there are formal research groups, we invite research group leads (faculty, lecturers, program managers, etc.) and members (students, analysts, lab managers, etc.) to participate together as teams so that 1) everyone sees and values what is possible; 2) leads enable members to invest time to learn skills and develop shared workflows; 3) members have guidance, agency, and support to incorporate concepts into their work; and 4) everyone can make progress on what is important to them, while strengthening the community of practice within the research group, cohort and beyond. 
+When there are formal research groups, we invite research group leads (faculty, lecturers, program managers, etc.) and members (students, analysts, lab managers, etc.) to participate together as teams so that 1) everyone sees and values what is possible; 2) leads enable members to invest time to learn skills and develop shared workflows; 3) members have guidance, agency, and support to incorporate concepts into their work; and 4) everyone can make progress on what is important to them, while strengthening the community of practice within the research group, cohort and beyond.
 
 ### Is attendance required for all Cohort Calls?
 
@@ -204,5 +204,4 @@ No, the cohort does not need a shared project; each team will work on what they 
 
 ### Can we have smaller teams so more teams can participate in a cohort?
 
-From our experiences so far think that ~8 teams with 4-5 participants per team (maximum of ~40 participants) is a good size so there is time for everyone to be engaged and contributing (and not feeling like a passive webinar). Also, having a good amount of members per team is really key to the whole model of Openscapes: we want to reduce the amount of burden for PIs to have to relay info to their research groups. Having more members participate as a team in the Openscapes program helps more team members feel agency to build resilient systems with less transmission time.
-
+From our experiences so far think that \~8 teams with 4-5 participants per team (maximum of \~40 participants) is a good size so there is time for everyone to be engaged and contributing (and not feeling like a passive webinar). Also, having a good amount of members per team is really key to the whole model of Openscapes: we want to reduce the amount of burden for PIs to have to relay info to their research groups. Having more members participate as a team in the Openscapes program helps more team members feel agency to build resilient systems with less transmission time.
