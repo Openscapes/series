@@ -13,15 +13,15 @@ aliases:
 [Better science for future us](https://docs.google.com/presentation/d/1tE3pQ2ObNU68iG4uTIlMuSN4dguvn-cOvwtoM-c9L-w/)
 :::
 
-::: {.callout-warning icon="false" collapse="true"}
 ## Video stories
+
+[Our Openscapes journey towards improving the Alaska Marine Mammal Stock Assessment Report process](https://youtu.be/wqbwcCXbFL8) (19 min; [slides](https://docs.google.com/presentation/d/1blfD0KpceoPNvDUt-5n79k49jiPSC2_l5SRyRkab6VE/)). A SAR story from the Alaska Fisheries Science Center (AFSC) Marine Mammal Laboratory (MML) Stock Assessment Report team - Brian Fadely, Josh London, Nancy Young, Tony Orr, Erin Richmond, Rod Towell, Millie Brower. Presentation to Fall 2024 NMFS Openscapes Champions Cohorts.
 
 [Better science for future us](https://youtu.be/gIvvzp7d9CQ?feature=shared&t=1) (22 min). Julie Lowndes shares part of her path to open science with the Ocean Health Index and Openscapes Champions success stories from 3 NOAA Fisheries teams 1) at the end of their cohort; 2) 2 months after their cohort; 3) several years after their cohort.
 
 [First Forays into the Cloud](https://youtu.be/2Yd0eR6M04Y) (19 min), by Aronne Merrelli to the 2024 Cohort of NASA Openscapes Champions. Aronne is Assistant Research Scientist at the University of Michigan College of Engineering (Climate and Space Sciences and Engineering) and a 2023 NASA Openscapes Champion.
 
 [My path to open science](https://youtu.be/AouW9A9QpVk) (7 min), by Stefanie Butland, Openscapes Team Member
-:::
 
 ::: {.callout-warning icon="false" collapse="true"}
 ## Additional slides
@@ -51,6 +51,7 @@ A critical first part of this was prioritizing time (which included getting buy-
 
 ::: {.callout-note icon="false"}
 # How we did it: OHI Team
+
 The OHI team started having regular Seaside Chats 1x/week where they discussed filenaming, code review, standard operating procedures and documentation, and much more. We prioritized regular social hours, that we scheduled during work hours so that everyone could participate no matter their other outside-of-work responsibilities.
 :::
 
@@ -68,6 +69,7 @@ Through creating space and place, teams will find the common workflows, tools, s
 
 ::: {.callout-note icon="false"}
 # How we did it: OHI Team
+
 The OHI team asked, "how can we make sure everyone can participate as they need to?" Not everyone on the team needed to learn to code, or to use GitHub in the same way. We introduced new software sparingly, and helped each other learn. This included initial setup as well as follow up and practice. We leveraged existing habits & resources - within and beyond our team. [Open communities](communities.qmd) were a big part of this learning. Through this we were able to distinguish data preparation (tidying) as distinct from our science, and make this actionable by shifting to smaller modular code to combine for different reports/audiences.
 :::
 
@@ -78,7 +80,7 @@ Shifting workflows takes time, particularly because it is most often done while 
 ::: {.callout-note icon="false"}
 # How we did it: OHI Team
 
-The OHI shift to using shared Google Docs, R and GitHub was motivated by necessity, reimagined by possibility and community, and done incrementally. It was an investment over years, but the enduring payoff has been huge. 
+The OHI shift to using shared Google Docs, R and GitHub was motivated by necessity, reimagined by possibility and community, and done incrementally. It was an investment over years, but the enduring payoff has been huge.
 
 Some key points to discuss from [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) (Lowndes et al. 2017): reproducibility & communication enabled by open tooling; and shared practices are useful beyond shared projects.
 
@@ -113,8 +115,7 @@ It's about increasing efficiency and reproducibility and open science. But it is
 -   Shared conventions reduce friction & cognitive load
     -   Common ground, easier to talk about, easier to ask for help
     -   You don't need to design everything from scratch
-
-:::    
+:::
 
 ## Impact of shifting to open science
 
@@ -130,16 +131,13 @@ Here are a few examples to showcase what is possible and being done in environme
 ::: {.callout-note icon="false"}
 # How we did it: OHI Team
 
-Ocean Health Index has produced annual reports for 12 years (2012-2024) and counting! There are many impacts of this, but at a glance: 
+Ocean Health Index has produced annual reports for 12 years (2012-2024) and counting! There are many impacts of this, but at a glance:
 
-- In 2012, it took 30 people 4 years and several $M to complete the 1st annual OHI report. 
-It would not continued if it costed so much time and $ each time. 
-- In 2024, it takes 3 masters students in 3 months and $200K. 
+-   In 2012, it took 30 people 4 years and several \$M to complete the 1st annual OHI report. It would not continued if it costed so much time and \$ each time.
+-   In 2024, it takes 3 masters students in 3 months and \$200K.
 
-This is possible because of the incremental investment to make it reproducible, efficient, documented - focus on onboarding. Impacts mean that students and team can focus on new questions, making sense of results, and applications from this, not the assessment itself.
-And, it accelerates the rate at which other teams can get to this cost savings, since OHI is an example that it’s possible, a working open example.  
+This is possible because of the incremental investment to make it reproducible, efficient, documented - focus on onboarding. Impacts mean that students and team can focus on new questions, making sense of results, and applications from this, not the assessment itself. And, it accelerates the rate at which other teams can get to this cost savings, since OHI is an example that it’s possible, a working open example.
 :::
-
 
 ## Further resources
 
@@ -151,7 +149,6 @@ Parker & Peng, <http://nssdeviations.com>. Great discussions about data concepts
 
 Haddock & Dunn, [http://practicalcomputing.org](http://practicalcomputing.org/){.uri}. Software & computing concepts already on your computer. Start with Chapter 2: Regular expressions
 
-```{=html}
 <!---
 
 Broman, K. Initial steps toward reproducible research. http://kbroman.org/steps2rr/ (2016).
@@ -161,4 +158,3 @@ Carly Strasser
 Fischetti, T. How dplyr replaced my most common r idioms. StatsBlogs http://www.onthelambda.com/2014/02/10/how-dplyr-replaced-my-most-common-r-idioms/ (10 February 2014).
 
 --->
-```
