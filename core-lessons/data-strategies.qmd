@@ -21,7 +21,7 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 ::: {.callout-warning icon="false"}
 ## Video recordings
 
-[Data Strategies for Future Us for California Current Ecosystem Status Report Automation](https://youtu.be/St_j0D-u7UU) (23 min) by Greg Williams: NWFSC - ESR Coordinator / Project Manager, Lynn deWitt: SWFSC - Data Manager, Nick Tolimieri: NWFSC - Ecosystem Scientist. Presentation to Fall 2024 NMFS Openscapes Champions Cohorts, Openscapes Perspective - Community of Practice, Open Data Science, Repeatable Reporting.
+[Data Strategies for Future Us for California Current Ecosystem Status Report Automation](https://docs.google.com/presentation/d/1Qb1BM35Y7QxwCTb1HDds4FtItbq1Hg9JmGdVU_NeDrc/edit#slide=id.p) by Greg Williams: NWFSC - ESR Coordinator / Project Manager, Lynn deWitt: SWFSC - Data Manager, Nick Tolimieri: NWFSC - Ecosystem Scientist. Presentation to Fall 2024 NMFS Openscapes Champions Cohorts, Openscapes Perspective - Community of Practice, Open Data Science, Repeatable Reporting. ([video](https://youtu.be/St_j0D-u7UU); 23 min)
 
 [Data strategies for Future Us](https://youtu.be/GxGb0ZzRtoQ), contributed by Ileana Fenwick, Openscapes Pathways to Open Science.
 :::
