@@ -2,14 +2,12 @@
 title: Documentation
 ---
 
-Work culture exists whether or not you talk about it or write it down.
-
-Corey Clatterbuck and Anna Holder, co-leads of Openscapes Champions Cohorts at the California Water Boards / CalEPA created this lesson on Documentation. Corey brought a new perspective to documentation starting with "why document and what to document" and Anna Holder introduced thinking about your Pathway.
+Work culture exists whether or not you talk about it or write it down. We're sharing stories to help people document things for future us.
 
 ::: {.callout-warning icon="false"}
-## Slides 
+## Slides
 
-[Documentation & the Pathway](https://docs.google.com/presentation/d/1vuZVu7YXyKAgCAM65hjdalvUyimIqnL94BDDsoM-uxI/)
+[Documenting things: openly for future us](https://openscapes.github.io/documenting-things/), by Julie Lowndes, in collaboration with Erin Robinson, NASA Openscapes Mentors, and the Openscapes Community, for posit::conf(2023) ([recording](https://youtu.be/OVM5Ok7W1NQ?feature=shared)). This talk shares practical tips and tangible stories for how intentional approaches to documenting things is helping big distributed teams tackle hard challenges and change organizational culture via NASA Openscapes, NOAA Fisheries Openscapes, and beyond.
+
+[Documentation & the Pathway](https://docs.google.com/presentation/d/1vuZVu7YXyKAgCAM65hjdalvUyimIqnL94BDDsoM-uxI/), by Corey Clatterbuck and Anna Holder for [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/), the home for the California Water Boards "fork" of the Openscapes Champions Program. Corey brought a new perspective to documentation starting with "why document and what to document" and Anna introduced thinking about your Pathway.
 :::
-
-[Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) is the home for the California Water Boards "fork" of the Openscapes Champions Program.
