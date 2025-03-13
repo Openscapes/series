@@ -22,7 +22,7 @@ aliases:
 
 [First Forays into the Cloud](https://youtu.be/2Yd0eR6M04Y) (19 min), by Aronne Merrelli to the 2024 Cohort of NASA Openscapes Champions. Aronne is Assistant Research Scientist at the University of Michigan College of Engineering (Climate and Space Sciences and Engineering) and a 2023 NASA Openscapes Champion.
 
-[My path to open science](https://youtu.be/AouW9A9QpVk) (7 min), by Stefanie Butland, Openscapes Team Member
+[My path to open science](https://youtu.be/AouW9A9QpVk) (7 min; [slides](https://docs.google.com/presentation/d/1tE3pQ2ObNU68iG4uTIlMuSN4dguvn-cOvwtoM-c9L-w/edit#slide=id.g277d5b19e94_0_29)), by Stefanie Butland, Openscapes Team Member
 :::
 
 ::: {.callout-warning icon="false" collapse="true"}
