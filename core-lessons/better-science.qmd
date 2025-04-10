@@ -16,6 +16,8 @@ aliases:
 ::: {.callout-warning icon="false"}
 ## Video stories
 
+[A Better Way To Science](https://youtu.be/20HB5aKZrOo) (16 min; [slides](https://docs.google.com/presentation/d/1sV8Q4oho8AozVCtUlXAM8JDFhmJPf_pW/)), by [Sitapriya Moorthi](https://ocdo.fredhutch.org/about.html) to the 2025 Cohort of Fred Hutch Openscapes Champions. Sitapriya is a Staff Scientist in the Office of the Chief Data Officer (OCDO) at the Fred Hutch Cancer Center, and a 2023 Fred Hutch Openscapes Champion.
+
 [Our Openscapes journey towards improving the Alaska Marine Mammal Stock Assessment Report process](https://youtu.be/wqbwcCXbFL8) (19 min; [slides](https://docs.google.com/presentation/d/1blfD0KpceoPNvDUt-5n79k49jiPSC2_l5SRyRkab6VE/)). A SAR story from the Alaska Fisheries Science Center (AFSC) Marine Mammal Laboratory (MML) Stock Assessment Report team - Brian Fadely, Josh London, Nancy Young, Tony Orr, Erin Richmond, Rod Towell, Millie Brower. Presentation to Fall 2024 NMFS Openscapes Champions Cohorts.
 
 [Better science for future us](https://youtu.be/gIvvzp7d9CQ?feature=shared&t=1) (22 min). Julie Lowndes shares part of her path to open science with the Ocean Health Index and Openscapes Champions success stories from 3 NOAA Fisheries teams 1) at the end of their cohort; 2) 2 months after their cohort; 3) several years after their cohort.
