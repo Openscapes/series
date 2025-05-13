@@ -22,6 +22,8 @@ us](https://docs.google.com/presentation/d/1krzD4lt0k7Zu-_lfIFSubABXMLBvTpmg3Ab2
 code](https://docs.google.com/presentation/d/1HjOXgvlGcq01srJF5RD7y5sx5u8pXJzHb1E5W7s9aKc/).
 Diving into parallel processing from a scientist perspective, by Mahsa
 Jami, NASA LP DAAC
+
+[Coding strategies for future us and a bit of cloud](https://docs.google.com/presentation/d/1eQWmrpXjC7vfHuyVCbXQcqxdxuKXEqt63ZrK7zqxTOs/edit#slide=id.g2221419f8ee_0_162), led by Andy Teucher
 :::
 
 ::: {.callout-warning icon="false" collapse="true"}
