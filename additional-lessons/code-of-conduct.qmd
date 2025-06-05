@@ -50,6 +50,7 @@ Interesting points:
 ## Further Reading
 
 -   [How Codes of Conduct Are Combatting Open Source’s Diversity Problem](https://eyeondesign.aiga.org/are-codes-of-conduct-changing-the-diversity-stats-in-open-source/) — Margaret Rhodes, AIGA Eye on Design
+- [Ben Marwick's Values and Ethics](https://faculty.washington.edu/bmarwick/values_and_ethics/)
 
 ```{=html}
 <!---
