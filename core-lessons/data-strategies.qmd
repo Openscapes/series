@@ -11,6 +11,8 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 
 [Data strategies for Future Us](https://docs.google.com/presentation/d/1WJzVMg1Ps2cHG0G6D5kpnL-OCJ-wVBILMqtmzDQxEgU/)
 
+[Data strategies; examples from NOAA Fisheries Alaska (Marine Mammal Lab Stock Assessment Report)](https://docs.google.com/presentation/d/1blfD0KpceoPNvDUt-5n79k49jiPSC2_l5SRyRkab6VE/edit?slide=id.g3056cc1be41_0_186#slide=id.g3056cc1be41_0_186), contributed by Rod Towell, Nancy Young, Tony Orr, Brian Fadely, Erin Richmond, Millie Brower, 2024
+
 [Data Strategies in the Cloud](https://docs.google.com/presentation/d/1ZbDimYsDfM_7iXc5O6a1tgKC1uFoa4Xue173wjUcCbs/). Tips for managing your data and adjusting for the cloud, by Alexis Hunzinger, NASA GES DISC (2024)
 
 [Data strategies for Future Us for Cloud](https://nsidc.github.io/data_strategies_for_future_us/data_strategies_slides#/title-slide), by Andy Barrett, NASA National Snow and Ice Data Center (NSIDC) (2023)
@@ -31,7 +33,7 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 
 These slides were contributed by researchers from previous Champions cohorts who shared examples and stories from their work.
 
-[Data strategies; examples from NOAA Fisheries Alaska (Marine Mammal Lab Stock Assessment Report)](https://docs.google.com/presentation/d/1ed3tNPTM3hOBFEMJZKk9O06QFDltZOZoAdDEih48ufk/edit#slide=id.p), contributed by Rod Towell, Nancy Young, Tony Orr, Brian Fadely, Erin Richmond
+[Data strategies; examples from NOAA Fisheries Alaska (Marine Mammal Lab Stock Assessment Report)](https://docs.google.com/presentation/d/1ed3tNPTM3hOBFEMJZKk9O06QFDltZOZoAdDEih48ufk/edit#slide=id.p), contributed by Rod Towell, Nancy Young, Tony Orr, Brian Fadely, Erin Richmond, 2022
 
 [Data to Product Workflows](https://docs.google.com/presentation/d/12Jru3DReVH3sO-nG0msAjCNS8PVNuaYSxHi-Bxlkr1E/edit?usp=sharing), contributed by Emily Markowitz ([video](https://youtu.be/S-w_74Pc908))
 :::
