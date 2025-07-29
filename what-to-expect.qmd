@@ -40,6 +40,7 @@ Between Cohort Calls, teams have synchronous spaces via Seaside Chats and Cowork
 
 **Seaside Chats and Coworking have been described by participants as one of the most valuable parts of the Champions Program because it helps strengthen habits and a culture of shared workflows and learning.** See also: [\[Sea\]side Chats for data workflows](https://www.openscapes.org/blog/2019/03/10/seaside-chats/), a 2019 blog.
 
+```{=html}
 <!---
 ### What would you do in a Seaside Chat?
 
@@ -62,6 +63,7 @@ Example lessons from the Ocean Health Index team's Seaside Chats ([Lowndes et al
 -   [Animated plots in R with ggplot2 & gganimate](https://raw.githack.com/allisonhorst/eds-ggplot2-gganimate/master/gganimate_key.html)
 
 --->
+```
 
 ## How We Work
 
@@ -136,9 +138,7 @@ We're often asked what people can do to further prepare in advance. Additional s
 
 See also other publications and presentations at [openscapes.org/media](https://openscapes.org/media).
 
-## Teams: FAQs
-
-One thing that makes Openscapes Champions Cohorts impactful is a focus on **teamwork**. People most often sign up as teams, with varying skillsets and responsibilities, perhaps with a shared project and perhaps not. People can also sign up as individuals. Some Champions have said that “finding their teams” during the cohort – finding what’s common and feeling less alone while learning skills with their peers – has been the most valuable part of Openscapes.
+## FAQs
 
 Openscapes Champions was originally designed with academic research groups in mind, to provide resilience where there is high turnover and folks might be struggling with similar challenges around data analysis — while working on different projects. But over half of cohorts have been groups with different structures and needs, some producing big annual government reports or indicators! We expect — and design for — a range of technical ability and comfort with technology and open science concepts. The most important thing is that people opt-in who have interest in improving their work somehow and want to strengthen their collaboration and leadership skills.
 
@@ -152,15 +152,9 @@ The Champions Program operates as cohorts of 7-10 teams of up to 5 people; 40 pe
 
 People join because they (as an individual or team):
 
--   Want to learn about or work with open Science
--   Want to meet peers working on similar workflow or data issues
--   Have a ‘big goal’ that involves changing how you work; you want to make progress on making your data and science workflows more efficient and reproducible
-
-### What is a team?
-
-There is a lot of flexibility in choosing your team.
-
-Teams do not need to be a formal research group; they can be collaborating in other ways. Team members do not all need to have technical or data interests, but share a curiosity and interest in improving something about how they work. Participants are expected to have ‘Seaside Chats’ together with their broader research groups in the weeks between Cohort Calls, so it is OK, and expected, that only a subset of a team participate.
+-   Want to learn about or work with open Science;
+-   Want to meet peers working on similar workflow or data issues;
+-   Have a ‘big goal’ that involves changing how you work; you want to make progress on making your data and science workflows more efficient and reproducible.
 
 ### What skills are required? Coding? GitHub?
 
@@ -170,13 +164,33 @@ The purpose is strengthen relationships and shared systems with folks with diffe
 
 During the cohort, people focus on what is important to them, often something hard to do, something they want to change. Throughout the cohort, as Openscapes introduces modern concepts, tooling, and peer examples, people learn together and get unstuck through identifying and making progress on barriers. Each cohort call (90 minutes) has 30-40 minute of lessons and the rest of the time is you reflecting and discussing how this could help you with your own work.
 
+### Is attendance required for all Cohort Calls?
+
+Yes; we do try to have everyone attend all Cohort Calls – but know that sometimes that’s not possible. All the lessons, slides, and also recordings are available if people have to miss, but everyone should sign up expecting to be at all Cohort Calls.
+
+### Do I as the PI or supervisor need to attend the Cohort Calls, or just my team?
+
+It’s important that project or division leads participate fully if they attend with their team. The Champions program is designed to reduce the burden for PIs and project leads in the long term and develop leadership within and across their teams. With this investment now, team leads and members will build resilient and enduring practices for their research group, even as that research group changes into the future. The idea is that together, the whole team sees what’s possible with open data science and builds confidence, ownership, and a shared pathway forward. Then it’s the entire team, not just the PI, who puts it to practice in between sessions.
+
+### Does a cohort need a shared research project or to be closely related?
+
+No, the cohort does not need a shared project; each individual or team will work on what they need to for their own work. Teams within a cohort do not need to be closely related, but having teams somewhat related can be good for community building (i.e. environmental science as a domain or a specific agency within government).
+
+### What is a team?
+
+One thing that makes Openscapes Champions Cohorts impactful is a focus on **teamwork**. People most often sign up as teams, with varying skillsets and responsibilities, perhaps with a shared project and perhaps not. People can also sign up as individuals. Some Champions have said that “finding their teams” during the cohort – finding what’s common and feeling less alone while learning skills with their peers – has been the most valuable part of Openscapes.
+
+There is a lot of flexibility in choosing your team.
+
+Teams do not need to be a formal research group; they can be collaborating in other ways. Team members do not all need to have technical or data interests, but share a curiosity and interest in improving something about how they work. Participants are expected to have ‘Seaside Chats’ together with their broader research groups in the weeks between Cohort Calls, so it is OK, and expected, that only a subset of a team participate.
+
 ### How do I choose my team?
 
 Choosing your team can be based on interests around data analysis and around leadership. There are no prerequisite skills to participate, just an interest to learn and contribute. The "homework" between Champions sessions and beyond is to meet with your full research group (beyond workshop participants, and optional for the lead) to establish shared workflows and habits within the research group.
 
 > *How you define "team" is completely up to you and having one person be in the cohort and using in-between session "seaside chats" to bring back the information to another group is 100% fine. That is common in the cohorts. In my first Openscapes cohort, I was the only person from my project. My personal goal was to use the Openscapes structure to help a team that I am on figure out how to tackle some off-boarding tasks due to a retirement. During my second cohort, there were 2 team members in the cohort and 2 not in the cohort. We focused on standardizing our data to get ready for our GitHub served data package. For the 3rd cohort I am doing, ^2^⁄~3~ of our team is in the cohort as we start to get organized for a major revamp of our report into a reproducible workflow.* **- Eli Holmes (NOAA NWFSC, NMFS-Openscapes)**
 
-We e invite research group leads (faculty, lecturers, program managers, etc.) and members (students, analysts, lab managers, etc.) participate together as teams so that 1) everyone sees and values what is possible; 2) leads enable members to invest time to learn skills and develop shared workflows; 3) members have guidance, agency, and support to incorporate concepts into their work; and 4) everyone can make progress on what is important to them, while strengthening the community of practice within the research group, cohort and beyond.
+We invite research group leads (faculty, lecturers, program managers, etc.) and members (students, analysts, lab managers, etc.) participate together as teams so that 1) everyone sees and values what is possible; 2) leads enable members to invest time to learn skills and develop shared workflows; 3) members have guidance, agency, and support to incorporate concepts into their work; and 4) everyone can make progress on what is important to them, while strengthening the community of practice within the research group, cohort and beyond.
 
 ### What if I don’t have a team?
 
@@ -190,18 +204,6 @@ The idea is that by developing shared open data science habits within the resear
 
 When there are formal research groups, we invite research group leads (faculty, lecturers, program managers, etc.) and members (students, analysts, lab managers, etc.) to participate together as teams so that 1) everyone sees and values what is possible; 2) leads enable members to invest time to learn skills and develop shared workflows; 3) members have guidance, agency, and support to incorporate concepts into their work; and 4) everyone can make progress on what is important to them, while strengthening the community of practice within the research group, cohort and beyond.
 
-### Is attendance required for all Cohort Calls?
-
-Yes; we do try to have everyone on the team attend all Cohort Calls – but know that sometimes that’s not possible. All the lessons, slides, and also recordings are available if people have to miss, but everyone should sign up expecting to be at the Cohort Calls.
-
-### Do I as the PI need to attend the Cohort Calls, or just my team?
-
-It’s important that team leads attend with their team. The Champions program is designed to reduce the burden for PIs in the long term and develop leadership within and across their teams. With this investment now, team leads and members will build resilient and enduring practices for their research group, even as that research group changes into the future. The idea is that together, the whole team sees what’s possible with open data science and builds confidence, ownership, and a shared pathway forward. Then it’s the entire team, not just the PI, who puts it to practice in between sessions.
-
-### Does a cohort need a shared research project or to be closely related?
-
-No, the cohort does not need a shared project; each team will work on what they need to for their own work. Teams within a cohort do not need to be closely related, but having teams somewhat related can be good for community building (i.e. environmental science as a domain or a specific agency within government).
-
 ### Can we have smaller teams so more teams can participate in a cohort?
 
-From our experiences so far think that \~8 teams with 4-5 participants per team (maximum of \~40 participants) is a good size so there is time for everyone to be engaged and contributing (and not feeling like a passive webinar). Also, having a good amount of members per team is really key to the whole model of Openscapes: we want to reduce the amount of burden for PIs to have to relay info to their research groups. Having more members participate as a team in the Openscapes program helps more team members feel agency to build resilient systems with less transmission time.
+From our experiences so far think that \~8 teams with 4-5 participants per team (maximum of \~40 participants) is a good size so there is time for everyone to be engaged and contributing (and not feeling like a passive webinar). Also, having a good number of members per team is really key to the whole model of Openscapes: we want to reduce the amount of burden for PIs, project leads, or division directors to have to relay info to their research groups. Having more members participate as a team in the Openscapes program helps more team members feel agency to build resilient systems with less transmission time.
