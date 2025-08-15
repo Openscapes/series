@@ -4,7 +4,7 @@ title: Core Lessons
 
 ## Better science for future us
 
-A guiding principle for Openscapes is "setter science for future us".
+A guiding principle for Openscapes is "better science for future us".
 
 **Better science** is science that is more open, reproducible, efficient, interoperable, and also more diverse, equitable, inclusive, and kind.
 
