@@ -41,7 +41,7 @@ Please cite the Openscapes Champions Lesson Series through the project's Zenodo 
 
 The citation will look something like:
 
-> The Openscapes Core Team, Julia Stewart Lowndes & Erin Robinson. (2022). Openscapes Champions Lesson Series (2022.12). Zenodo. https://doi.org/10.5281/zenodo.7407247
+> Openscapes Core Team, Julia Lowndes, Stefanie Butland, and Erin Robinson. “Openscapes Champions Lesson Series V2024.11.0”. Zenodo, December 12, 2024. https://doi.org/10.5281/zenodo.14428503.
 
 Please visit the Lesson Series [DOI link](https://doi.org/10.5281/zenodo.7407246) to get the most recent version - the one above is not automatically generated and may be out of date if we release an updated version.
 
