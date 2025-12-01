@@ -9,9 +9,11 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 ::: {.callout-warning icon="false"}
 ## Slides
 
+[Metadata - Documenting your Data](https://docs.google.com/presentation/d/1fvAGMc1FsoEoog3OVU2xBjfP6_pNmhaQlNs7OjSidNc/), contributed by Rachael Blake, Intertidal Agency (2025)
+
 [Data strategies for Future Us](https://docs.google.com/presentation/d/1WJzVMg1Ps2cHG0G6D5kpnL-OCJ-wVBILMqtmzDQxEgU/)
 
-[Data strategies; examples from NOAA Fisheries Alaska (Marine Mammal Lab Stock Assessment Report)](https://docs.google.com/presentation/d/1blfD0KpceoPNvDUt-5n79k49jiPSC2_l5SRyRkab6VE/edit?slide=id.g3056cc1be41_0_186#slide=id.g3056cc1be41_0_186), contributed by Rod Towell, Nancy Young, Tony Orr, Brian Fadely, Erin Richmond, Millie Brower, 2024
+[Data strategies; examples from NOAA Fisheries Alaska (Marine Mammal Lab Stock Assessment Report)](https://docs.google.com/presentation/d/1blfD0KpceoPNvDUt-5n79k49jiPSC2_l5SRyRkab6VE/edit?slide=id.g3056cc1be41_0_186#slide=id.g3056cc1be41_0_186), contributed by Rod Towell, Nancy Young, Tony Orr, Brian Fadely, Erin Richmond, Millie Brower (2024)
 
 [Data Strategies in the Cloud](https://docs.google.com/presentation/d/1ZbDimYsDfM_7iXc5O6a1tgKC1uFoa4Xue173wjUcCbs/). Tips for managing your data and adjusting for the cloud, by Alexis Hunzinger, NASA GES DISC (2024)
 
@@ -92,6 +94,7 @@ The publication also covers:
 -   Tracking changes: record how various components of your project change over time.
 -   Manuscripts: write manuscripts in a way that leaves an audit trail & minimizes manual merging of conflicts.
 
+```{=html}
 <!---
 Make scientific data FAIR
 
@@ -113,6 +116,7 @@ Read their paper for strategies and examples behind changing the culture: There 
 1. Fund global infrastructure to support FAIR data and tools.
 
 --->
+```
 
 ## Tidy data for efficiency, reproducibility, & collaboration
 
@@ -190,6 +194,7 @@ So for more efficient, reproducible, and collaborative analyses, make friends wi
 
 -   Leek, J (2016). [How to share data with a statistician](https://github.com/jtleek/datasharing)
 
+```{=html}
 <!---
 
 
@@ -218,3 +223,4 @@ How to connect with databases from R: https://sciencificity-blog.netlify.app/pos
 
 
 --->
+```
