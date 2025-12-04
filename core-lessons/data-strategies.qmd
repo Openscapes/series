@@ -9,9 +9,9 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 ::: {.callout-warning icon="false"}
 ## Slides
 
-[Metadata - Documenting your Data](https://docs.google.com/presentation/d/1fvAGMc1FsoEoog3OVU2xBjfP6_pNmhaQlNs7OjSidNc/), contributed by Rachael Blake, Intertidal Agency (2025)
-
 [Data strategies for Future Us](https://docs.google.com/presentation/d/1WJzVMg1Ps2cHG0G6D5kpnL-OCJ-wVBILMqtmzDQxEgU/)
+
+[Metadata - Documenting your Data](https://docs.google.com/presentation/d/1fvAGMc1FsoEoog3OVU2xBjfP6_pNmhaQlNs7OjSidNc/), contributed by Dr Rachael Blake, [Intertidal Agency](https://www.intertidalagency.org/) (2025)
 
 [Data strategies; examples from NOAA Fisheries Alaska (Marine Mammal Lab Stock Assessment Report)](https://docs.google.com/presentation/d/1blfD0KpceoPNvDUt-5n79k49jiPSC2_l5SRyRkab6VE/edit?slide=id.g3056cc1be41_0_186#slide=id.g3056cc1be41_0_186), contributed by Rod Towell, Nancy Young, Tony Orr, Brian Fadely, Erin Richmond, Millie Brower (2024)
 
@@ -24,6 +24,8 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 
 ::: {.callout-warning icon="false"}
 ## Video recordings
+
+[Metadata - Documenting your Data](https://youtu.be/NbwVUdHMCVk) (17 min), by Dr Rachael Blake, [Intertidal Agency](https://www.intertidalagency.org/) (2025)
 
 [Data Strategies for Future Us for California Current Ecosystem Status Report Automation](https://docs.google.com/presentation/d/1Qb1BM35Y7QxwCTb1HDds4FtItbq1Hg9JmGdVU_NeDrc/edit#slide=id.p) by Greg Williams: NWFSC - ESR Coordinator / Project Manager, Lynn deWitt: SWFSC - Data Manager, Nick Tolimieri: NWFSC - Ecosystem Scientist. Presentation to Fall 2024 NMFS Openscapes Champions Cohorts, Openscapes Perspective - Community of Practice, Open Data Science, Repeatable Reporting. ([video](https://youtu.be/St_j0D-u7UU); 23 min)
 
