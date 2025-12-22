@@ -1,0 +1,50 @@
+---
+title: "Zenodo Clinic"
+editor: visual
+---
+
+In the Zenodo Clinic we explored the [Zenodo repository](https://zenodo.org/) and practiced archiving and preserving data using the [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/) (Horst et al., [2020](https://doi.org/10.5281/zenodo.3960218)) and the [Zenodo Sandbox](https://sandbox.zenodo.org/) practice space. Anyone can follow this clinic by creating a Zenodo Sandbox account, open the slides, follow the recording and use the data and metadata provided below.
+
+This lesson was developed by Rachael Blake and Kate Wing of [Intertidal Agency](https://www.intertidalagency.org/) and taught by Rachael Blake. This Clinic followed the [Metadata - Documenting Your Data](../core-lessons/data-strategies.qmd) lesson ([slides](https://docs.google.com/presentation/d/1fvAGMc1FsoEoog3OVU2xBjfP6_pNmhaQlNs7OjSidNc/); [recording](https://youtu.be/NbwVUdHMCVk)), also developed and taught by Intertidal Agency.
+
+::: {.callout-warning icon="false"}
+## Slides and recording
+
+[Zenodo Clinic](https://docs.google.com/presentation/d/1oPqhpq8_v1CUIyOnh6iJA8VcJ9qZXFhmlmmym4jF1cA/), developed by Rachael Blake and Kate Wing of [Intertidal Agency](https://www.intertidalagency.org/) and taught by Rachael Blake. ([recording](https://youtu.be/iO5MFytA2B0), 25-min), shares background, practical tips and a demonstration.
+:::
+
+## Make a Zenodo sandbox account
+
+A Zenodo sandbox account is *different from a standard account*. It provides a space for experimentation; records and DOI's created in the Sandbox are not real and will not resolve in "real" Zenodo. You can create an account at [sandbox.zenodo.org](http://sandbox.zenodo.org/), by either (1) making one with your email address or (2) using your GitHub credentials if you have a GitHub account. (You **cannot** log in to [sandbox.zenodo.org](http://sandbox.zenodo.org/) with your ORCID credentials; you’ll get a confusing message that the credentials are invalid). Looking for a confirmation email? Check your spam folder.
+
+## Data 
+
+[penguins-sandbox.csv](https://github.com/allisonhorst/palmerpenguins/blob/main/inst/extdata/penguins.csv) (download this)
+
+## Project-level Metadata
+
+Copy and paste these elements into your Zenodo record:
+
+-   Title: palmerpenguins: Palmer Archipelago (Antarctica) penguin data
+
+-   Authors: Horst AM, Hill AP, Gorman KB
+
+-   License: CC0
+
+-   Date: 2020
+
+-   Geographic location: Antarctica
+
+-   Funder: Long Term Ecological Research Network
+
+-   Funder ROR (Research Organization Registry):  <https://ror.org/039kwqk96>
+
+-   Abstract / Description: Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.  The dataset contains data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica.
+
+-   Resource Type: dataset
+
+-   Repository URL: <https://github.com/allisonhorst/palmerpenguins/>
+
+## Resources:
+
+[Zenodo help docs](https://help.zenodo.org/docs/)

@@ -71,6 +71,8 @@ website:
            text: Reporting and SciComm
          - href: "additional-lessons/documentation.qmd"  
            text: Documentation
+         - href: "additional-lessons/zenodo-clinic.qmd"  
+           text: Zenodo Clinic
       - forked-lessons/index.qmd
       - section: how-do-i/index.qmd
         contents:        

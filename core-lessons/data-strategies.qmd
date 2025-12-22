@@ -13,8 +13,6 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 
 [Metadata - Documenting your Data](https://docs.google.com/presentation/d/1fvAGMc1FsoEoog3OVU2xBjfP6_pNmhaQlNs7OjSidNc/), contributed by Dr Rachael Blake, [Intertidal Agency](https://www.intertidalagency.org/) (2025)
 
-[Zenodo Clinic](https://docs.google.com/presentation/d/1oPqhpq8_v1CUIyOnh6iJA8VcJ9qZXFhmlmmym4jF1cA/), contributed by Dr Rachael Blake, [Intertidal Agency](https://www.intertidalagency.org/) (Dec 16, 2025)
-
 [Data strategies; examples from NOAA Fisheries Alaska (Marine Mammal Lab Stock Assessment Report)](https://docs.google.com/presentation/d/1blfD0KpceoPNvDUt-5n79k49jiPSC2_l5SRyRkab6VE/edit?slide=id.g3056cc1be41_0_186#slide=id.g3056cc1be41_0_186), contributed by Rod Towell, Nancy Young, Tony Orr, Brian Fadely, Erin Richmond, Millie Brower (2024)
 
 [Data Strategies in the Cloud](https://docs.google.com/presentation/d/1ZbDimYsDfM_7iXc5O6a1tgKC1uFoa4Xue173wjUcCbs/). Tips for managing your data and adjusting for the cloud, by Alexis Hunzinger, NASA GES DISC (2024)
