@@ -16,7 +16,9 @@ aliases:
 ::: {.callout-warning icon="false"}
 ## Video stories
 
-[A Better Way To Science](https://youtu.be/20HB5aKZrOo) (16 min; [slides](https://docs.google.com/presentation/d/1sV8Q4oho8AozVCtUlXAM8JDFhmJPf_pW/)), by [Sitapriya Moorthi](https://ocdo.fredhutch.org/about.html) to the 2025 Cohort of Fred Hutch Openscapes Champions. Sitapriya is a Staff Scientist in the Office of the Chief Data Officer (OCDO) at the Fred Hutch Cancer Center, and a 2023 Fred Hutch Openscapes Champion.
+[Better Science for Future Us](https://youtu.be/FfpA_Ja8xPw) (19 min; [slides](https://docs.google.com/presentation/d/1a8gnGeKbqO6SyrwpW7qKr23KpiT3YXfTaYtokmb4qeA/)), by [Andrew Barrett](https://nsidc.org/about/about-nsidc/what-we-do/our-people/andrew_barrett) to the 2026 Eurpoean Space Agency Openscapes Champions. Andy is a Senior Associate Scientist, US National Snow & Ice Data Center (NSIDC) and a [NASA Openscapes](https://nasa-openscapes.github.io/) Mentor.
+
+[A Better Way To Science](https://youtu.be/20HB5aKZrOo) (16 min; [slides](https://docs.google.com/presentation/d/1sV8Q4oho8AozVCtUlXAM8JDFhmJPf_pW/)), by [Sitapriya Moorthi](https://ocdo.fredhutch.org/about.html) to the 2025 Cohort of Fred Hutch Openscapes Champions. Sitapriya is a Staff Scientist in the Office of the Chief Data Officer (OCDO) at the Fred Hutch Cancer Center, and a 2023 Fred Hutch Openscapes Champion and Openscapes Mentor.
 
 [Our Openscapes journey towards improving the Alaska Marine Mammal Stock Assessment Report process](https://youtu.be/wqbwcCXbFL8) (19 min; [slides](https://docs.google.com/presentation/d/1blfD0KpceoPNvDUt-5n79k49jiPSC2_l5SRyRkab6VE/)). A SAR story from the Alaska Fisheries Science Center (AFSC) Marine Mammal Laboratory (MML) Stock Assessment Report team - Brian Fadely, Josh London, Nancy Young, Tony Orr, Erin Richmond, Rod Towell, Millie Brower. Presentation to Fall 2024 NMFS Openscapes Champions Cohorts.
 
@@ -153,6 +155,7 @@ Parker & Peng, <http://nssdeviations.com>. Great discussions about data concepts
 
 Haddock & Dunn, [http://practicalcomputing.org](http://practicalcomputing.org/){.uri}. Software & computing concepts already on your computer. Start with Chapter 2: Regular expressions
 
+```{=html}
 <!---
 
 Broman, K. Initial steps toward reproducible research. http://kbroman.org/steps2rr/ (2016).
@@ -162,3 +165,4 @@ Carly Strasser
 Fischetti, T. How dplyr replaced my most common r idioms. StatsBlogs http://www.onthelambda.com/2014/02/10/how-dplyr-replaced-my-most-common-r-idioms/ (10 February 2014).
 
 --->
+```
