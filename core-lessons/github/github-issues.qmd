@@ -72,6 +72,7 @@ Issues. Issues is GitHub's project management and task-tracking feature.
 # https://www.w3schools.com/howto/howto_css_image_center.asp
 --->
 ```
+
 <br>
 
 [Jenny Bryan](https://jennybryan.org/about/) has an excellent summary of
@@ -121,8 +122,8 @@ sometimes Issues are public and sometimes they are private.
 -   In a private repo, only users with permission can create and comment
     on issues, or see them at all
 
-Remeber GitHub's search is awesome – it will search all of your files and also Issues!
-<!---I find this really helpful...--->
+Remeber GitHub's search is awesome – it will search all of your files
+and also Issues! <!---I find this really helpful...--->
 
 ## Issues in the Wild
 
@@ -130,10 +131,10 @@ Here are some examples of "traditional" and "non-traditional" use of
 issues.
 
 [ggplot2's Issues](https://github.com/tidyverse/ggplot2/issues) is an
-example of the "traditional" use of Issues, which is in
-a pretty pure software development context. This is a public repository,
-and all topics are directly related to ggplot2. Issues are largely used
-to report bugs, troubleshoot and sometimes to request features. Note the
+example of the "traditional" use of Issues, which is in a pretty pure
+software development context. This is a public repository, and all
+topics are directly related to ggplot2. Issues are largely used to
+report bugs, troubleshoot and sometimes to request features. Note the
 "Filters" feature on the top-left: this by default will search through
 the Issues that are still open, but you can also change this if you
 wanted to search also for closed Issues (just below "Filters" you can
@@ -336,7 +337,8 @@ fact, you can have multiple projects within the same repository, so
 different people can have different Projects organized within their
 shared repository, for example.
 
-You have a lot of control over how you will manage your Projects. Here is one view:
+You have a lot of control over how you will manage your Projects. Here
+is one view:
 
 <br>
 
@@ -377,7 +379,7 @@ repo public, but also all the Issues. Which is fine, but it might add
 considerations in terms of what is discussed in those Issues.
 
 ::: {.callout-note icon="false"}
-# How we did it: OHI Team
+## How we did it: OHI Team
 
 Here is an example of the Ocean Health Index team’s thought process &
 strategy.
@@ -400,15 +402,51 @@ receiving emails about the Issues in their inbox, and can respond
 without having to go to GitHub.com.
 :::
 
+::: callout-tip
+## Issues Demo 
+
+Here's an example of how we might demonstrate using Issues.
+
+Let’s see what Issues look like & then we’ll practice these together.\
+Example cohort repo: <https://github.com/Openscapes/2026-esa>.
+
+We’ve been in the code tab so far; there are others you can explore,
+starting with Issues
+
+-   Issue: Call 1 Digest. Add an emoji.
+    -   Emojis to some feel frivolous or unprofessional but they are a
+        low-effort way to communicate you’ve read or appreciated a
+        thing.
+-   New issue “A question about the data”
+    -   add a heading using
+        [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+    -   add a checklist
+    -   tag someone
+    -   preview
+    -   assign to someone
+    -   add a label
+    -   submit
+-   See URL
+-   Add a comment
+-   Back to main Issues view
+
+Examples in case they come up:
+
+Link to a specific line of code ex:
+<https://github.com/amfriesz/lpdaac_hls_tutorial/blob/main/environment.yml#L30> 
+
+See other repo with issues:
+<https://github.com/NASA-Openscapes/earthdata-cloud-cookbook>
+:::
+
 ## Your Turn: Create & comment on issues
 
 We will break into groups and you can explore some of these features in
 Issues. Here is what to do:
 
--   Go to
-    [github.com/openscapes/demo/issues](https://github.com/openscapes/demo/issues)
--   Create an issue, tag colleagues (ask for their
-    username)
+-   Go to our Cohort repo (Example repo:
+    [github.com/openscapes/demo/issues](https://github.com/openscapes/demo/issues))
+-   Create an issue, tag colleagues (ask for their username)
 -   Browse issues, comment in other issues
 -   Try:
     -   Linking to the .md document you created in the previous chapter
@@ -416,8 +454,8 @@ Issues. Here is what to do:
     -   Adding Issues to a Project (create one if need be)
     -   Closing an Issue
 
-Have fun! And throughout the process, talk to your colleagues, and
-share what you learn.
+Have fun! And throughout the process, talk to your colleagues, and share
+what you learn.
 
 Here's what your inbox will look like afterwards:
 
@@ -428,5 +466,25 @@ Here's what your inbox will look like afterwards:
 <br>
 
 This is pretty rare to receive so many emails all at once. But you can
-always switch your setting to "Not Watch" this repository so that you
-only receive emails about Issues that you are tagged in.
+always switch your Watch setting for this repository to "Participating
+and \@mentions" so that you only receive email notifications about
+Issues that you created, are tagged in, or commented on.
+
+::: callout-tip
+## Issues Demo - Review
+
+After a round of breakouts where participants practice using Issues,
+screenshare for a brief regroup.
+
+Show
+
+-   number of issues
+-   open and closed issues
+-   comments - can view number of comments on a list of issues
+-   close the issue “A question about the data”
+    -   note the URL remains the same.
+    -   Persistent URL -\> project memory
+-   Watch Settings
+    -    different settings for different responsibilities
+    -    switch to e.g. "Participating and \@mentions" so that you only receive email notifications about Issues that you created, are tagged in, or commented on.
+:::
