@@ -112,7 +112,7 @@ is the flywheel gonna feature somewhere else? if not, i can integrate.
 
 -->
 
-
+<!--
 stephanie
 - can i give an example of my work, something with sub-orbital science
   - yes: bring in some stuff about the IFCB data matchups
@@ -130,3 +130,4 @@ stephanie
 - please make links clickable
 
 15 minutes presenting, 10 minutes discussion
+-->
