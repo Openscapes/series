@@ -16,7 +16,7 @@ aliases:
 ::: {.callout-warning icon="false"}
 ## Video stories
 
-[Better Science for Future Us]() (; [slides](guest-instructors/better-science-2026-06-03.md)), by [Ian Carroll](https://science.gsfc.nasa.gov/sci/bio/ian.t.carroll) to the 2026 NASA Openscapes Champions. Ian is an Associate Research Scientist at Goddard Space Flight Center and the University of Maryland Baltimore County, and is a [NASA Openscapes Mentor](https://nasa-openscapes.github.io/mentors.html) for the Ocean Biology Ditributed Active Archive Center ([OB.DAAC](https://www.earthdata.nasa.gov/centers/ob-daac)).
+[Better Science for Future Us](guest-instructors/better-science-2026-06-03.md), by [Ian Carroll](https://science.gsfc.nasa.gov/sci/bio/ian.t.carroll) to the 2026 NASA Openscapes Champions. Ian is an Associate Research Scientist at Goddard Space Flight Center and the University of Maryland Baltimore County, and is a [NASA Openscapes Mentor](https://nasa-openscapes.github.io/mentors.html) for the Ocean Biology Ditributed Active Archive Center ([OB.DAAC](https://www.earthdata.nasa.gov/centers/ob-daac)).
 
 [Better Science for Future Us](https://youtu.be/FfpA_Ja8xPw) (19 min; [slides](https://docs.google.com/presentation/d/1a8gnGeKbqO6SyrwpW7qKr23KpiT3YXfTaYtokmb4qeA/)), by [Andrew Barrett](https://nsidc.org/about/about-nsidc/what-we-do/our-people/andrew_barrett) to the 2026 Eurpoean Space Agency Openscapes Champions. Andy is a Senior Associate Scientist, US National Snow & Ice Data Center (NSIDC) and a [NASA Openscapes](https://nasa-openscapes.github.io/) Mentor.
 
