@@ -1,0 +1,22 @@
+/*-- scss:defaults --*/
+
+$lime: #A2FB01;
+$lavender: #D282F8;
+
+/*-- scss:rules --*/
+
+div.bg-lime div.callout.callout-caution {
+  border-left-color: gray;
+}
+
+div.bg-lime div.callout-body {
+  background-color: $lime;
+}
+
+div.bg-lavender div.callout.callout-caution {
+  border-left-color: gray;
+}
+
+div.bg-lavender div.callout-body {
+  background-color: $lavender;
+}

@@ -12,105 +12,189 @@ author:
       - name: University of Maryland Baltimore County
         city: Baltimore
         state: MD
-# abstract: >
-#   Lorum ipsum ...
 keywords:
   - Openscpapes Champions
 license: "CC BY"
-format: revealjs
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+default-image-extension: ""  # https://github.com/quarto-dev/quarto-cli/issues/6092
 ---
 
-## Intro {.scrollable}
+## {.center}
 
-- "better science" in what way?
-  - actually better because we ultimately spend less time and funding on drudgery
-  - facilitate reproduction, its kind of the key to the whole scientific method after all
-- who is the "future us"?
-  - we're somewhere on the trail (maybe the trailhead) and there is no deadline, the "future" is whenever we get there (so bring a headlamp)
-  - the "us" is inclusive of yourself (do it for yourself) alongsize a more inclusive, more engaged, and just more collaborators
+::::: {.columns}
 
-<!--
-- level-up our day-to-day habits and approaches for doing and supporting Earth science
-- make you real tired of this "trail" analogy
--->
+:::: {.column width=36%}
+::: {.callout-note title="Better Science"}
+Spend less time and funding on reusable elements.
+
+Move from reproducibility to facilitating reproduction.
+:::
+::::
+
+:::: {.column width=64%}
+::: {.callout-tip title="Future Us"}
+Don't delay because the future is tomorrow, next month, and years to come.
+
+"Us" includes your future self alongside more inclusive, more engaged, and just more collaborators.
+:::
+::::
+
+::::
+
+::: {.notes}
+1. The notion of "reusable elements" is related to the principle of modularity in software design.
+1. Facilitating reproduction can take many forms; permissive licensing is just one of them!
+1. "Don't delay" is related to "good enough" and "share early".
+1. We plan to be on this trail for a while, so pack a headlamp. (Sorry!)
+:::
+
+## {background-image="/images/horst_openscapes_champions.jpg" background-size="contain"}
+
+:::::{.columns}
+
+::::{.column width=36}
+
+:::{.bg-lime .callout-caution icon=false title="Trail Users" .fragment fragment-index=1}
+Openscapes Champions get to practice the open mindset equivalents of the "leave no trace" principles of trail use.
+:::
+
+:::{.bg-lavender .callout-caution icon=false title="Trail Maintenance" .fragment fragment-index=2}
+Alternative ways to participate in open science involve increasing levels of effort; like visitor use surveys,
+trail crew, or adopt-a-trail.
+:::
+
+::::
+
+:::::
+
+:::{.absolute bottom=-120 right=50 .fragment fragment-index=1}
+<svg width="500" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="250" cy="200" rx="198" ry="128" stroke="#A2FB01" fill="transparent" stroke-width="6"/>
+</svg>
+:::
+
+:::{.absolute bottom=180 right=-10 .fragment fragment-index=2}
+<svg width="500" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="250" cy="200" rx="198" ry="128" stroke="#D282F8" fill="transparent" stroke-width="6"/>
+</svg>
+:::
+
+![](/images/horst_openscapes_champions.jpg){
+  .absolute top=0 right=0 style="clip-path:circle(4% at 84.5% 41.5%);transform:scale(3.5);transform-origin:83% 42%;"
+  .fragment
+}
+
+:::{.notes}
+1. I don't mean that trail maintenance is harder than trail use; you can do one, the other, or both to any degree.
+1. But my goal today is to tell you how I've slowly come to be involved in supporting Earth science as a maintainer.
+1. Second goal is to make you absolutely sick and tired of this hiking trail metaphor.
+:::
 
 ## About {.scrollable}
 
-- Ecologist and data scientist supporting the PACE Mission and OB.DAAC data users
-- Research on estimating plankton diversity and cloud obscuration from OCI with supervised machine learning
-
----
-
-- Formerly at
-  - took a science break for most of one year during COVID
+- Ecologist and Data Scientist supporting the\
+  PACE Mission and OB.DAAC data users
+- Researching estimates of phytoplankton\
+  diversity and cloud obscuration with the PACE Ocean Color Instument with supervised machine learning
+- Formerly at ...
+  - 🏠 (a science break during COVID)
   - Kimetrica LLC
   - National Socio-Environmental Synthesis Center
   - Georgetown University
   - Woods Hole Oceanographic Institution
-  - University of California Santa Barbara
+  - 🎓 University of California Santa Barbara
   - Heinz Center for Science, Economics & Environment
   - US Forest Service
-  - Brown University
+  - 🎓 Brown University
 
-<!--
-img: zoom in on the groundhog adjacent to my headshot
--->
+![](https://avatars.githubusercontent.com/u/3383837){
+  .absolute width=250 top=0 right=0 style="clip-path:circle(50%);"
+}
 
-## Trail Use {.scrollable}
+## {.center}
 
-> Openscapes Champions will start you out (or help you to re-visit) the open mindset equivalents of the "leave no trace" principles for being a good trail citizen
+![](../images/feedback-loop-tooling-people.png){
+  fig-alt="a directed graph from 'tooling' to 'people'"
+  style="clip-path:inset(0 0 26% 0);"
+}
 
----
+:::::{.columns}
 
-- examples:
-  - share early
-  - coworking and "seaside chats" (or "surf sessions", as one champions team called them)
-  - good enough and iteration
-  - onboarding and documentation
+::::{.column}
 
-## Trail Maintenance {.scrollable}
+- sharing early
+- coworking & seaside chats
 
-![](feedback-loop-tooling-people.png){fig-alt="a feedback loop between 'tooling' and 'people'."}
+::::
+::::{.column}
 
-## Contributor: issues {.scrollable}
+- good-enough & iteration
+- onboarding & documentation
 
-- respond to "user survey"
+::::
+
+:::::
+
+## IFCB Datasets for Remote Sensing Algorithm Development
+
+
+
+## {.center}
+
+![](../images/feedback-loop-tooling-people.png){
+  fig-alt="a feedback loop between 'tooling' and 'people'"
+}
+
+## Contributor: Issues
+
+- "visitor use surveys"
 - https://github.com/PyMySQL/PyMySQL/issues/248  # "awakening" theme
 
-## Contributor: pull requests {.scrollable}
+## Contributor: Pull Requests
 
-- volunteer on trail crew
+- "trail crew"
 - https://github.com/pydata/xarray/issues/8026
   - https://github.com/pydata/xarray/pull/8034
 
-## Contributor: maintainer {.scrollable}
+## Contributor: Maintainer
 
 - "adopt a trail"
 - https://github.com/orgs/earthaccess-dev/teams/maintainers
 
-## Future Us {.scrollable}
+## {.center}
 
-- desire to apply this framework beyond "tooling"
-  - imagine if models and training dataset were maintained this way
-- what makes contributor work feel like "service" rather than "what we do" or at least "part of the job"?
+![](./images/tools-people-artifacts.png){
+  fig-alt="feedback loops between 'tooling', 'people', and artifacts"
+}
 
-<!--
-the tooling-people image with "artifacts" (papers, models, and datasets)
--->
+:::::{.columns}
+
+::::{.column width=55%}
+
+:::{.callout-tip icon=false title="One Goal"}
+Apply open science practices beyond tooling, so that future us can use and maintain artifacts more effectively.
+:::
+
+::::
+::::{.column width=45%}
+
+:::{.callout-note icon=false title="One Question"}
+What makes contributor work feel like service rather than "what we do" or at least "part of the job"?
+:::
+
+::::
+
+:::::
+
+::: footer
+Artifacts inset image by <a href=" https://www.vectorportal.com" >Vectorportal.com</a>,  <a class="external text" href="https://creativecommons.org/licenses/by/4.0/" >CC BY</a>
+:::
 
 
-<!--
-
-is the flywheel gonna feature somewhere else? if not, i can integrate.
-
--->
-
-<!-- stuff i'd like to borrow
-
-- the horst trail image collection, to use in pieces
-- the tooling and people image source, to expand
-
--->
 
 <!--
 stephanie
