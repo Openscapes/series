@@ -5,6 +5,10 @@ $lavender: #D282F8;
 
 /*-- scss:rules --*/
 
+.caption {
+  text-align: center;
+}
+
 div.bg-lime div.callout.callout-caution {
   border-left-color: gray;
 }

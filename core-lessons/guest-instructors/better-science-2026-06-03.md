@@ -45,7 +45,7 @@ Don't delay because the future is tomorrow, next month, and years to come.
 
 ::::
 
-::: {.notes}
+::: notes
 1. The notion of "reusable elements" is related to the principle of modularity in software design.
 1. Facilitating reproduction can take many forms; permissive licensing is just one of them!
 1. "Don't delay" is related to "good enough" and "share early".
@@ -88,7 +88,7 @@ trail crew, or adopt-a-trail.
   .fragment
 }
 
-:::{.notes}
+::: notes
 1. I don't mean that trail maintenance is harder than trail use; you can do one, the other, or both to any degree.
 1. But my goal today is to tell you how I've slowly come to be involved in supporting Earth science as a maintainer.
 1. Second goal is to make you absolutely sick and tired of this hiking trail metaphor.
@@ -101,14 +101,14 @@ trail crew, or adopt-a-trail.
 - Researching estimates of phytoplankton\
   diversity and cloud obscuration with the PACE Ocean Color Instument with supervised machine learning
 - Formerly at ...
-  - 🏠 (a science break during COVID)
-  - Kimetrica LLC
-  - National Socio-Environmental Synthesis Center
-  - Georgetown University
-  - Woods Hole Oceanographic Institution
+  - 🏠 (science break during COVID)
+  - 🏢 Kimetrica LLC
+  - 🏢 National Socio-Environmental Synthesis Center
+  - 🏫 Georgetown University
+  - 🏫 Woods Hole Oceanographic Institution
   - 🎓 University of California Santa Barbara
-  - Heinz Center for Science, Economics & Environment
-  - US Forest Service
+  - 🏢 Heinz Center for Science, Economics & Environment
+  - ⛰️ US Forest Service
   - 🎓 Brown University
 
 ![](https://avatars.githubusercontent.com/u/3383837){
@@ -149,21 +149,40 @@ trail crew, or adopt-a-trail.
   fig-alt="a feedback loop between 'tooling' and 'people'"
 }
 
-## Contributor: Issues
+## Contributor: Level One
 
-- "visitor use surveys"
-- https://github.com/PyMySQL/PyMySQL/issues/248  # "awakening" theme
+!["visitor use survey"](images/contributor-issue.png){
+  fig-align="center"
+  fig-alt="a screenshot of the speaker's first issue raised on GitHub"
+}
 
-## Contributor: Pull Requests
+::: notes
+Creating an issue when you encounter some rough-edge with an open source software package is like responding to a "visitor use survey". It demonstrates interst, shows community uptake, and can lead to improvements that benefit everyone.
+:::
 
-- "trail crew"
-- https://github.com/pydata/xarray/issues/8026
-  - https://github.com/pydata/xarray/pull/8034
+## Contributor: Level Two
 
-## Contributor: Maintainer
+!["trail crew"](images/contributor-pull-request.png){
+  fig-align="center"
+  fig-alt="a screenshot of the speaker's first pull request to XArray"
+}
 
-- "adopt a trail"
-- https://github.com/orgs/earthaccess-dev/teams/maintainers
+::: notes
+Going out for an hour, or a week, to participate on "trail crew" is the only way some tooling improves,
+and can be an exceptional learning experience.
+:::
+
+## Contributor: Level Three
+
+!["adopt a trail"](images/contributor-maintainer.png){
+  fig-align="center"
+  fig-alt="a screenshot of the speaker's maintainer status on earthaccess"
+}
+
+::: notes
+The designation "maintainer" carries a special significance in open source software, and adding maintainers
+from beyond a project's originators is a hallmark of success within an open science community.
+:::
 
 ## {.center}
 
