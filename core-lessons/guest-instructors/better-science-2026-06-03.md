@@ -25,27 +25,28 @@ default-image-extension: ""  # https://github.com/quarto-dev/quarto-cli/issues/6
 
 ## {.center}
 
-::::: {.columns}
+:::::{.columns}
+::::{.column width=36%}
 
-:::: {.column width=36%}
 ::: {.callout-note title="Better Science"}
 Spend less time and funding on reusable elements.
 
 Move from reproducibility to facilitating reproduction.
 :::
-::::
 
-:::: {.column width=64%}
-::: {.callout-tip title="Future Us"}
+::::
+::::{.column width=64%}
+
+:::{.callout-tip title="Future Us"}
 Don't delay because the future is tomorrow, next month, and years to come.
 
 "Us" includes your future self alongside more inclusive, more engaged, and just more collaborators.
 :::
-::::
 
 ::::
+:::::
 
-::: notes
+:::{.notes}
 1. The notion of "reusable elements" is related to the principle of modularity in software design.
 1. Facilitating reproduction can take many forms; permissive licensing is just one of them!
 1. "Don't delay" is related to "good enough" and "share early".
@@ -55,7 +56,6 @@ Don't delay because the future is tomorrow, next month, and years to come.
 ## {background-image="/images/horst_openscapes_champions.jpg" background-size="contain"}
 
 :::::{.columns}
-
 ::::{.column width=36}
 
 :::{.bg-lime .callout-caution icon=false title="Trail Users" .fragment fragment-index=1}
@@ -68,7 +68,6 @@ trail crew, or adopt-a-trail.
 :::
 
 ::::
-
 :::::
 
 :::{.absolute bottom=-120 right=50 .fragment fragment-index=1}
@@ -88,13 +87,13 @@ trail crew, or adopt-a-trail.
   .fragment
 }
 
-::: notes
+:::{.notes}
 1. I don't mean that trail maintenance is harder than trail use; you can do one, the other, or both to any degree.
 1. But my goal today is to tell you how I've slowly come to be involved in supporting Earth science as a maintainer.
 1. Second goal is to make you absolutely sick and tired of this hiking trail metaphor.
 :::
 
-## About {.scrollable}
+## About{.scrollable}
 
 - Ecologist and Data Scientist supporting the\
   PACE Mission and OB.DAAC data users
@@ -123,7 +122,6 @@ trail crew, or adopt-a-trail.
 }
 
 :::::{.columns}
-
 ::::{.column}
 
 - sharing early
@@ -136,12 +134,22 @@ trail crew, or adopt-a-trail.
 - onboarding & documentation
 
 ::::
-
 :::::
 
-## IFCB Datasets for Remote Sensing Algorithm Development
+## Munging IFCB<sup>1</sup> Buoy Data
 
+- *using*: `earthaccess`, Spatio-Temporal Asset Catalogs (STAC)
+- *contributing*: `xarray-seabass`
 
+![](images/ifcb-datasets.jpg){
+  fig-alt="visualization of data munging needs"
+  fig-align="center"
+  height=400px;
+}
+
+:::{.footer}
+<sup>1</sup> Imaging FlowCytoBot (IFCB)
+:::
 
 ## {.center}
 
@@ -156,7 +164,7 @@ trail crew, or adopt-a-trail.
   fig-alt="a screenshot of the speaker's first issue raised on GitHub"
 }
 
-::: notes
+:::{.notes}
 Creating an issue when you encounter some rough-edge with an open source software package is like responding to a "visitor use survey". It demonstrates interst, shows community uptake, and can lead to improvements that benefit everyone.
 :::
 
@@ -167,7 +175,7 @@ Creating an issue when you encounter some rough-edge with an open source softwar
   fig-alt="a screenshot of the speaker's first pull request to XArray"
 }
 
-::: notes
+:::{.notes}
 Going out for an hour, or a week, to participate on "trail crew" is the only way some tooling improves,
 and can be an exceptional learning experience.
 :::
@@ -179,7 +187,7 @@ and can be an exceptional learning experience.
   fig-alt="a screenshot of the speaker's maintainer status on earthaccess"
 }
 
-::: notes
+:::{.notes}
 The designation "maintainer" carries a special significance in open source software, and adding maintainers
 from beyond a project's originators is a hallmark of success within an open science community.
 :::
@@ -191,7 +199,6 @@ from beyond a project's originators is a hallmark of success within an open scie
 }
 
 :::::{.columns}
-
 ::::{.column width=55%}
 
 :::{.callout-tip icon=false title="One Goal"}
@@ -206,13 +213,11 @@ What makes contributor work feel like service rather than "what we do" or at lea
 :::
 
 ::::
-
 :::::
 
-::: footer
+:::{.footer}
 Artifacts inset image by <a href=" https://www.vectorportal.com" >Vectorportal.com</a>,  <a class="external text" href="https://creativecommons.org/licenses/by/4.0/" >CC BY</a>
 :::
-
 
 
 <!--
@@ -220,17 +225,5 @@ stephanie
 - can i give an example of my work, something with sub-orbital science
   - yes: bring in some stuff about the IFCB data matchups
   - purpose: a little meat, help people find their reason for being here
-- won't experience coworking or seaside chats during the event
-  - end of each call will be a prompt for reflections
 
-ronny
-- next session has github clinic (great connection)
-- then documentation (great connection)
-- final session is rupesh on metadata
-
-stephanie
-- Andy does start pathways
-- please make links clickable
-
-15 minutes presenting, 10 minutes discussion
 -->
