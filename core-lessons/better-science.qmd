@@ -16,7 +16,7 @@ aliases:
 ::: {.callout-warning icon="false"}
 ## Video stories
 
-[Better Science for Future Us](guest-instructors/better-science-2026-06-03.md), by [Ian Carroll](https://science.gsfc.nasa.gov/sci/bio/ian.t.carroll) to the 2026 NASA Openscapes Champions. Ian is an Associate Research Scientist at Goddard Space Flight Center and the University of Maryland Baltimore County, and is a [NASA Openscapes Mentor](https://nasa-openscapes.github.io/mentors.html) for the Ocean Biology Ditributed Active Archive Center ([OB.DAAC](https://www.earthdata.nasa.gov/centers/ob-daac)).
+[Better Science for Future Us](https://youtu.be/aDeXqxkgYYM), (18 min; [slides](https://docs.google.com/presentation/d/1a8gnGeKbqO6SyrwpW7qKr23KpiT3YXfTaYtokmb4qeA/)) by [Ian Carroll](https://science.gsfc.nasa.gov/sci/bio/ian.t.carroll) to the 2026 NASA Openscapes Champions. Ian is an Associate Research Scientist at Goddard Space Flight Center and the University of Maryland Baltimore County, and is a [NASA Openscapes Mentor](https://nasa-openscapes.github.io/mentors.html) for the Ocean Biology Ditributed Active Archive Center ([OB.DAAC](https://www.earthdata.nasa.gov/centers/ob-daac)).
 
 [Better Science for Future Us](https://youtu.be/FfpA_Ja8xPw) (19 min; [slides](https://docs.google.com/presentation/d/1a8gnGeKbqO6SyrwpW7qKr23KpiT3YXfTaYtokmb4qeA/)), by [Andrew Barrett](https://nsidc.org/about/about-nsidc/what-we-do/our-people/andrew_barrett) to the 2026 Eurpoean Space Agency Openscapes Champions. Andy is a Senior Associate Scientist, US National Snow & Ice Data Center (NSIDC) and a [NASA Openscapes](https://nasa-openscapes.github.io/) Mentor.
 
@@ -53,9 +53,9 @@ Creating space means committing to synchronous collaboration convenings to learn
 
 A critical first part of this was prioritizing time (which included getting buy-in, showcasing). Then, this meant that the team could focus time on:
 
--   Getting comfortable talking about data/workflows
--   Building trust (to share imperfect work)
--   Recognizing that what we invest incrementally will have large dividends in the future
+- Getting comfortable talking about data/workflows
+- Building trust (to share imperfect work)
+- Recognizing that what we invest incrementally will have large dividends in the future
 
 ::: {.callout-note icon="false"}
 # How we did it: OHI Team
@@ -106,8 +106,8 @@ RMarkdown/Quarto to reimagine data analysis and communication. RMarkdown/Quarto 
 
 An example: <http://ohi-science.org/betterscienceinlesstime>
 
--   Website built with R/RMarkdown & Github
--   You can get started too: [1-hour RMarkdown tutorial](https://jules32.github.io/rmarkdown-website-tutorial/); [Quarto website tutorial](https://openscapes.github.io/quarto-website-tutorial/)
+- Website built with R/RMarkdown & Github
+- You can get started too: [1-hour RMarkdown tutorial](https://jules32.github.io/rmarkdown-website-tutorial/); [Quarto website tutorial](https://openscapes.github.io/quarto-website-tutorial/)
 :::
 
 ### Shared workflows not only useful for shared projects
@@ -117,32 +117,32 @@ It's about increasing efficiency and reproducibility and open science. But it is
 ::: {.callout-note icon="false"}
 # How we did it: OHI Team
 
--   OHI team: we identified as a team & prioritized helping each other
-    -   We work on many different projects
-    -   Use same workflows, share feedback, can think together across projects
--   Shared conventions reduce friction & cognitive load
-    -   Common ground, easier to talk about, easier to ask for help
-    -   You don't need to design everything from scratch
+- OHI team: we identified as a team & prioritized helping each other
+  - We work on many different projects
+  - Use same workflows, share feedback, can think together across projects
+- Shared conventions reduce friction & cognitive load
+  - Common ground, easier to talk about, easier to ask for help
+  - You don't need to design everything from scratch
 :::
 
 ## Impact of shifting to open science
 
 Here are a few examples to showcase what is possible and being done in environmental science.
 
--   [Regime Shifts in R & Data Science within the BC Public Service Observations from the field](https://stephhazlitt.github.io/regime-shifts/slides#1) - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote
--   [NMFSReports: Easily write NOAA reports and tech memos in R Markdown](https://github.com/EmilyMarkowitz-NOAA/NMFSReports/blob/main/presentations/2021-06-05NMFSReports-RCascadiaConf.pdf)! - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk
--   Tampa Bay Estuary Program
-    -   [Automated reporting in Tampa Bay with open science](https://www.openscapes.org/blog/2020/11/16/tampa-bay-reporting/) (blog) - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog
-    -   [TBEP's Data Management Workflow](https://tbep-tech.github.io/data-management-sop/workflow.html) and open science cake
-    -   [Coordinated monitoring of the Piney Point wastewater discharge into Tampa Bay: Data synthesis and reporting](https://www.researchgate.net/publication/373388123_Coordinated_monitoring_of_the_Piney_Point_wastewater_discharge_into_Tampa_Bay_Data_synthesis_and_reporting), 2023. Florida Scientist, 86(2), pp.288-300 - Beck, M.W., Burke, M.C., Raulerson, G.E., Scolaro, S., Sherwood, E.T. and Whalen, J.
+- [Regime Shifts in R & Data Science within the BC Public Service Observations from the field](https://stephhazlitt.github.io/regime-shifts/slides#1) - Stephanie Hazlitt, Government of British Columbia, slides from CascadiaRconf keynote
+- [NMFSReports: Easily write NOAA reports and tech memos in R Markdown](https://github.com/EmilyMarkowitz-NOAA/NMFSReports/blob/main/presentations/2021-06-05NMFSReports-RCascadiaConf.pdf)! - Emily Markowitz, NOAA Alaska Fisheries Science Center, slides from CascadiaRconf talk
+- Tampa Bay Estuary Program
+  - [Automated reporting in Tampa Bay with open science](https://www.openscapes.org/blog/2020/11/16/tampa-bay-reporting/) (blog) - Marcus Beck, Tampa Bay Estuary Program, Openscapes blog
+  - [TBEP's Data Management Workflow](https://tbep-tech.github.io/data-management-sop/workflow.html) and open science cake
+  - [Coordinated monitoring of the Piney Point wastewater discharge into Tampa Bay: Data synthesis and reporting](https://www.researchgate.net/publication/373388123_Coordinated_monitoring_of_the_Piney_Point_wastewater_discharge_into_Tampa_Bay_Data_synthesis_and_reporting), 2023. Florida Scientist, 86(2), pp.288-300 - Beck, M.W., Burke, M.C., Raulerson, G.E., Scolaro, S., Sherwood, E.T. and Whalen, J.
 
 ::: {.callout-note icon="false"}
 # How we did it: OHI Team
 
 Ocean Health Index has produced annual reports for 12 years (2012-2024) and counting! There are many impacts of this, but at a glance:
 
--   In 2012, it took 30 people 4 years and several \$M to complete the 1st annual OHI report. It would not continued if it costed so much time and \$ each time.
--   In 2024, it takes 3 masters students in 3 months and \$200K.
+- In 2012, it took 30 people 4 years and several \$M to complete the 1st annual OHI report. It would not continued if it costed so much time and \$ each time.
+- In 2024, it takes 3 masters students in 3 months and \$200K.
 
 This is possible because of the incremental investment to make it reproducible, efficient, documented - focus on onboarding. Impacts mean that students and team can focus on new questions, making sense of results, and applications from this, not the assessment itself. And, it accelerates the rate at which other teams can get to this cost savings, since OHI is an example that it’s possible, a working open example.
 :::
