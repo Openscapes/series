@@ -9,6 +9,8 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 ::: {.callout-warning icon="false"}
 ## Slides
 
+[Metadata Strategies for Suborbital Data](https://docs.google.com/presentation/d/1-flozA_ph9tBzqatoOs69lD8NpcfiIZ6VFeP2MDINmk/edit?usp=sharing), contributed by Rupesh Shrestha, NASA ORNL DAAC (2026)
+
 [Data strategies for Future Us](https://docs.google.com/presentation/d/1WJzVMg1Ps2cHG0G6D5kpnL-OCJ-wVBILMqtmzDQxEgU/)
 
 [Metadata - Documenting your Data](https://docs.google.com/presentation/d/1fvAGMc1FsoEoog3OVU2xBjfP6_pNmhaQlNs7OjSidNc/), contributed by Dr Rachael Blake, [Intertidal Agency](https://www.intertidalagency.org/) (2025)
@@ -26,6 +28,8 @@ Data strategies are part of a shared workflow strategy: How do we structure data
 
 ::: {.callout-warning icon="false"}
 ## Video recordings
+
+[Metadata Strategies for Suborbital Data](https://youtu.be/G2KyyfrP5ZQ?si=HeDDmwIN93__k0nk) (24 min) by Rupesh Shrestha, NASA ORNL DAAC (2026)
 
 [Metadata - Documenting your Data](https://youtu.be/NbwVUdHMCVk) (17 min), by Dr Rachael Blake, [Intertidal Agency](https://www.intertidalagency.org/) (2025)
 
