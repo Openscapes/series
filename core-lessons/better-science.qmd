@@ -5,7 +5,7 @@ aliases:
   - ../better-science.html
 ---
 
-"Better science for future us" is science that is more efficient, reproducible, open, inclusive, and kind. There are growing examples of better science in environmental and Earth science, and beyond, including from the Ocean Health Index team: [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) (Lowndes et al. 2017).
+"Better science for future us" is science that is more efficient, reproducible, open, inclusive, and kind. There are growing examples of better science in environmental and Earth science, and beyond, including from the Ocean Health Index team: [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) (Lowndes et al. 2017) ([full text](https://ohi-science.org/betterscienceinlesstime/article.html) of the article).
 
 ::: {.callout-warning icon="false"}
 ## Slides
