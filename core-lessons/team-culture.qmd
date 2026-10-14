@@ -12,12 +12,12 @@ We discuss team culture because while we know that [diverse teams are more innov
 [Psychological safety](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/edit?usp=sharing), contributed by [Tara Robertson](https://tararobertson.ca/)
 :::
 
-::: {.callout-warning icon="false" collapse="true"}
+::: {.callout-warning collapse="false" icon="false"}
 ## Additional slides and recordings
 
-[Team culture](https://docs.google.com/presentation/d/1uuGt-suXbuBFf5gNSnB4muQCakjx7tKqPh9BnyITSTQ/). These slides were developed in 2019, before we updated to the above Psychological safety slides in 2021.
+Psychological safety ([slides](https://mfisher87.github.io/presentation-nasa-openscapes-team-culture/slides.html) | [recording](https://youtu.be/rzi-qkl8u5M)). This presentation was contributed by Matt Fisher, National Snow and Ice Data Center (NSIDC) for the 2024 NASA Openscapes Champions Cohort.
 
-Psychological safety ([slides](https://mfisher87.github.io/presentation-nasa-openscapes-team-culture/slides.html) \| [recording](https://youtu.be/rzi-qkl8u5M)). This presentation was contributed by Matt Fisher, National Snow and Ice Data Center (NSIDC) for the 2024 NASA Openscapes Champions Cohort.
+[Team culture](https://docs.google.com/presentation/d/1uuGt-suXbuBFf5gNSnB4muQCakjx7tKqPh9BnyITSTQ/). These slides were developed in 2019, before we updated to the above Psychological safety slides in 2021.
 :::
 
 See also the chapter on [Codes of Conduct](../additional-lessons/code-of-conduct.qmd).
@@ -51,6 +51,7 @@ https://twitter.com/tararobertson/status/1363926183922966528: wheel of power/pri
 
 --->
 ```
+
 ## Why talk about team culture?
 
 Role modeling sets a lot of team culture, and there is a lot we can learn and do to deliberately create a scientific culture that we want to be a part of.
@@ -63,7 +64,7 @@ In the article [Research: To Excel, Diverse Teams Need Psychological Safety](htt
 
 - Frame meetings as opportunities for information-sharing. Frame differences as a source of value.
 - Open questions. Questions that build shared ownership and causality.
-- Listening - by asking questions around 
+- Listening - by asking questions around
   - Hopes and goals. What do you want to accomplish?
   - Resources and skills. What do you bring to the table?
   - Concerns and obstacles. What are you up against? What are you worried about?
@@ -74,8 +75,8 @@ We need to be deliberate about welcoming and including people from diverse backg
 
 A few articles from Nature with many more links within:
 
--   [Science benefits from diversity](https://www.nature.com/articles/d41586-018-05326-3)
--   [What does it take to make an institution more diverse?](https://www.nature.com/articles/d41586-018-05317-4)
+- [Science benefits from diversity](https://www.nature.com/articles/d41586-018-05326-3)
+- [What does it take to make an institution more diverse?](https://www.nature.com/articles/d41586-018-05317-4)
 
 ### Sexual harassment is rife in the sciences
 
@@ -85,8 +86,8 @@ Most common form is gender harassment: it's the “put-downs as opposed to come-
 
 ### We need to unlearn racism and build antiracist culture in science
 
--   [Ten simple rules for building an antiracist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210) - Chaudhary & Berhe, 2020. PLOS
--   [Unlearning Racism in Geoscience — URGE](https://urgeoscience.org/)
+- [Ten simple rules for building an antiracist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210) - Chaudhary & Berhe, 2020. PLOS
+- [Unlearning Racism in Geoscience — URGE](https://urgeoscience.org/)
 
 ### Put your values forward
 
@@ -96,7 +97,7 @@ Model the behavior you want to see in your research group & beyond (lab, center,
 
 Have to build trust and be intentional, don’t hope for organic.
 
--   [How to build (and rebuild) trust](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust?language=en) - Frances Frei
+- [How to build (and rebuild) trust](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust?language=en) - Frances Frei
 
 ### Sustain the culture
 
@@ -130,40 +131,40 @@ There can be an advantage to having team conventions. This can both reduce frict
 
 A lot to say here, for now, see:
 
--   <https://openscapes.github.io/slides/betterscience/environment-canada>
--   <https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/>
+- <https://openscapes.github.io/slides/betterscience/environment-canada>
+- <https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/>
 
 ## Enabling & participating
 
 Here are some ideas that you can support and participate in to learn and create a kinder team culture.
 
--   **Seaside chats** to share and discuss data workflows
+- **Seaside chats** to share and discuss data workflows
 
-    -   See [Seaside Chats & Coworking](https://openscapes.github.io/series/index.html#seaside-chats-coworking)
+  - See [Seaside Chats & Coworking](https://openscapes.github.io/series/index.html#seaside-chats-coworking)
 
-        > "*This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking teammates for help, and it is exciting to see all of us getting on the same page with our data science.*" - Michelle Stuart on the [Pinsky Lab's first Fishbowl chat](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/)
+    > "*This open communication has leaked into the general discussion going on in our open work space. Lab members seem more comfortable with asking teammates for help, and it is exciting to see all of us getting on the same page with our data science.*" - Michelle Stuart on the [Pinsky Lab's first Fishbowl chat](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/)
 
--   **Hackathons** or documentation parties
+- **Hackathons** or documentation parties
 
-    -   Co-create documentation, workflows, or tools
+  - Co-create documentation, workflows, or tools
 
-    -   Example: NASA's [earthaccess](https://earthaccess.readthedocs.io/en/latest/) Python package development community meets biweekly for 2-hour hackdays, and report each hackday's work in [GitHub Discussions](https://github.com/nsidc/earthaccess/discussions/categories/hack-days).
+  - Example: NASA's [earthaccess](https://earthaccess.readthedocs.io/en/latest/) Python package development community meets biweekly for 2-hour hackdays, and report each hackday's work in [GitHub Discussions](https://github.com/nsidc/earthaccess/discussions/categories/hack-days).
 
--   **Social events**
+- **Social events**
 
-    -   Get to know each other outside of work. Doing some during work hours can include more people who can't participate after work.
+  - Get to know each other outside of work. Doing some during work hours can include more people who can't participate after work.
 
--   **Onboarding and offboarding**
+- **Onboarding and offboarding**
 
-    -   Welcome new people to your team and plan for succession of people in roles. Documenting "how we work" in an easily findable and accessible place goes a long way to supporting this.
+  - Welcome new people to your team and plan for succession of people in roles. Documenting "how we work" in an easily findable and accessible place goes a long way to supporting this.
 
--   **Asking for help**
+- **Asking for help**
 
-    -   Create a welcoming environment where people know where and how to ask for help. They might not know what questions to ask. Provide structure.
+  - Create a welcoming environment where people know where and how to ask for help. They might not know what questions to ask. Provide structure.
 
--   **Code of Conduct**
+- **Code of Conduct**
 
-    -   See [Additional Lessons \> Code of Conduct](../additional-lessons/code-of-conduct.qmd)
+  - See [Additional Lessons \> Code of Conduct](../additional-lessons/code-of-conduct.qmd)
 
 ```{=html}
 <!--- 
@@ -171,17 +172,18 @@ Further reading
 https://laderast.github.io/psych_safety/#18
 --->
 ```
+
 ## Further Resources
 
--   [A Practical Guide to Mentoring Across Intersections](https://conversations.vanguardstem.com/a-practical-guide-to-mentoring-across-intersections-c596496ee334) - Harriot 2020 *VanguardSTEM Blog*
--   [Get it wrong for me: What I need from allies](https://www.linkedin.com/pulse/get-wrong-me-what-i-need-from-allies-megan-carpenter/) - Carpenter 2020.
-    -   "Now, when someone asks, ‘what do you need from me’, I say, ‘I need you to learn, I need you to care’. Somehow, we’ve all evolved to underestimate the power of learning and the power of seeking to understand. Knowing what things harm me is a sign that you value me. ...Then I want an ally who works to change their individual behavior and change the system around us for the better. Not just one or the other. I want a bunch of people who are interested in becoming allies to me to get it wrong. Because I promise, you will get it wrong, likely more than once. But please get it wrong, for me. Be wrong on my behalf. Try stuff, learn stuff, make attempts, and fail. Embrace the discomfort of not knowing, of not being certain, of not understanding and then be motivated enough to learn and get better. I will give you grace if you give me effort. We are risking our lives; you can risk getting things wrong."
--   [Inclusivity in STEM: Interview with Dr Mica Estrada](https://www.youtube.com/watch?v=AcGJ_Ldkjps) (video, 17 mins). "Dr. Mica Estrada is a social psychologist and faculty member at University of San Francisco. Her research explores the role of identity and values in influencing the persistence of historically underserved students in STEM."
-    -   PEERS
-    -   micro affirmations
--   [Recreating Wakanda by promoting Black excellence in ecology and evolution](https://www.nature.com/articles/s41559-020-1266-7) — Schell et al (2020)
--   [For Our White Friends Desiring to Be Allies](https://sojo.net/articles/our-white-friends-desiring-be-allies) — Ariel (2017)
--   [Dr. Dori Tunstall on Respectful Design: Models for Diversity, Inclusion, & Decolonization](https://www.youtube.com/watch?v=oaesVb7O38s) — Tunstall (2020)
--   [Sexual harassment is rife in the sciences, finds landmark US study](https://www.nature.com/articles/d41586-018-05404-6) — Witze (2018)
--   [All We Can Save](https://www.allwecansave.earth/) — Johnson & Wilkerson (2020)
--   [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass) — Kimmerer (2013)
+- [A Practical Guide to Mentoring Across Intersections](https://conversations.vanguardstem.com/a-practical-guide-to-mentoring-across-intersections-c596496ee334) - Harriot 2020 *VanguardSTEM Blog*
+- [Get it wrong for me: What I need from allies](https://www.linkedin.com/pulse/get-wrong-me-what-i-need-from-allies-megan-carpenter/) - Carpenter 2020.
+  - "Now, when someone asks, ‘what do you need from me’, I say, ‘I need you to learn, I need you to care’. Somehow, we’ve all evolved to underestimate the power of learning and the power of seeking to understand. Knowing what things harm me is a sign that you value me. ...Then I want an ally who works to change their individual behavior and change the system around us for the better. Not just one or the other. I want a bunch of people who are interested in becoming allies to me to get it wrong. Because I promise, you will get it wrong, likely more than once. But please get it wrong, for me. Be wrong on my behalf. Try stuff, learn stuff, make attempts, and fail. Embrace the discomfort of not knowing, of not being certain, of not understanding and then be motivated enough to learn and get better. I will give you grace if you give me effort. We are risking our lives; you can risk getting things wrong."
+- [Inclusivity in STEM: Interview with Dr Mica Estrada](https://www.youtube.com/watch?v=AcGJ_Ldkjps) (video, 17 mins). "Dr. Mica Estrada is a social psychologist and faculty member at University of San Francisco. Her research explores the role of identity and values in influencing the persistence of historically underserved students in STEM."
+  - PEERS
+  - micro affirmations
+- [Recreating Wakanda by promoting Black excellence in ecology and evolution](https://www.nature.com/articles/s41559-020-1266-7) — Schell et al (2020)
+- [For Our White Friends Desiring to Be Allies](https://sojo.net/articles/our-white-friends-desiring-be-allies) — Ariel (2017)
+- [Dr. Dori Tunstall on Respectful Design: Models for Diversity, Inclusion, & Decolonization](https://www.youtube.com/watch?v=oaesVb7O38s) — Tunstall (2020)
+- [Sexual harassment is rife in the sciences, finds landmark US study](https://www.nature.com/articles/d41586-018-05404-6) — Witze (2018)
+- [All We Can Save](https://www.allwecansave.earth/) — Johnson & Wilkerson (2020)
+- [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass) — Kimmerer (2013)
